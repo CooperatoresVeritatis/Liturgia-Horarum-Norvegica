@@ -1,0 +1,21 @@
+CONTENT LICENSE & ATTRIBUTIONS
+
+All original translations, layout texts, and liturgical arrangements 
+are © 2025 Luis Francisco Hernández Sánchez and are licensed under:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This means:
+- You may copy, adapt, and redistribute this content for non-commercial purposes.
+- You must credit the author and keep the same license if modified.
+- You may not sell or use the content commercially.
+
+⚠️ External Sources & Exceptions:
+- Biblical excerpts (in Norwegian) are from bibel.no — used with attribution and personal devotional intent. All rights belong to Bibelselskapet.
+- Public domain Latin texts are marked accordingly.
+- Other sources or translations remain under their respective licenses.
+
+This project is non-commercial and offered as a devotional aid.
+
+For permissions or clarifications, please contact: [your email or GitHub]
