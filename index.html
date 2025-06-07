@@ -36,21 +36,89 @@
 </head>
 
 <body>
-    <h1>Dagens tidebønn</h1>
-    <h2>Laudes</h2>
+    <h1>Dagens tidebønn - Laudes</h1>
+    <h2 id="liturgical-title">Laster liturgisk dag…</h2>
 
-    <p><strong>Åpningsvers:</strong> Herre, løs min tunge, så min munn kan forkynne din pris.</p>
+    <p><strong>Åpningsvers:</strong><br>
+        Herre, løs min tunge, så min munn kan forkynne din pris.</p>
 
-    <p><strong>Invitatorium – Salme 95:</strong><br>
-        Kom, la oss juble for Herren, hylle vår frelses klippe...</p>
+    <p><strong>Invitatorium-antifon:</strong><br>
+        Kom, la oss tilbe Herren, for han er vår Gud.</p>
+
+    <p><strong>Salme 95:</strong><br>
+        <a href="https://bibel.no/nettbibelen/les/nb-2024/PSA/PSA.95" target="_blank">Les Salme 95 hos Bibel.no</a>
+    </p>
+
+    <p><strong>Hymne:</strong><br>
+        Du lys som led oss gjennom natt, vi priser deg ved morgenblått...</p>
+
+    <p><strong>1. Salme:</strong><br>
+        <span id="psalm1"></span>
+    </p>
+
+    <p><strong>2. Salme:</strong><br>
+        <span id="psalm2"></span>
+    </p>
+
+    <p><strong>Bibellesning:</strong><br>
+        <span id="reading"></span>
+    </p>
 
     <p><strong>Benedictus:</strong><br>
         Velsignet være Herren, Israels Gud, for han har sett til sitt folk og løst det ut...</p>
 
+    <p><strong>Sluttbønn:</strong><br>
+        Herre, la vår bønn stige opp til deg som morgenen stiger frem...</p>
+
+    <p><strong>Avslutning:</strong><br>
+        Må Herren velsigne oss, bevare oss fra alt ondt og føre oss til det evige liv. Amen.</p>
+
+
     <footer>
         <p>Denne siden er gratis og åpen for alle. Vil du støtte prosjektet?</p>
-        <a class="button" href="https://coff.ee/luisfranciscohs" target="_blank">☕ Kjøp en kaffe</a>
+        <a class="button" href="https://coff.ee/luisfranciscohs" target="_blank">☕ Kjøp meg en kaffe</a>
     </footer>
 </body>
+
+<script>
+    async function getLiturgicalDay() {
+        const res = await fetch("https://calapi.inadiutorium.cz/api/v0/en/calendars/general-en/today");
+        const data = await res.json();
+
+        const day = data.weekday; // 1 = Monday, 7 = Sunday
+        const week = data.season_week;
+        const season = data.season; // e.g. "easter", "advent"
+        const title = data.celebrations[0].title;
+
+        // Norwegian translation
+        const dayNames = ["", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag", "Søndag"];
+        const seasonNames = {
+            advent: "Advent",
+            christmas: "Jul",
+            ordinary: "Ordinær tid",
+            lent: "Faste",
+            easter: "Påske"
+        };
+
+        const dayName = dayNames[day];
+        const seasonName = seasonNames[season] || season;
+        const translatedTitle = `${dayName} i uke ${week} av ${seasonName}`;
+
+        // Update header
+        document.getElementById("liturgical-title").textContent = translatedTitle;
+
+        // Load file dynamically
+        const fileName = `laudes-${season}-${week}-${dayName.toLowerCase()}.html`;
+
+        fetch(fileName)
+            .then(r => r.ok ? r.text() : "<p>🕊️ Innhold ikke tilgjengelig.</p>")
+            .then(html => {
+                document.getElementById("laudes-content").innerHTML = html;
+            });
+    }
+
+    getLiturgicalDay();
+</script>
+
 
 </html>
