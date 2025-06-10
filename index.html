@@ -78,47 +78,48 @@
         <p>Denne siden er gratis og åpen for alle. Vil du støtte prosjektet?</p>
         <a class="button" href="https://coff.ee/luisfranciscohs" target="_blank">☕ Kjøp meg en kaffe</a>
     </footer>
+    <script>
+        async function getLiturgicalDay() {
+            const res = await fetch("https://calapi.inadiutorium.cz/api/v0/en/calendars/general-en/today");
+            const data = await res.json();
+
+            const day = data.weekday; // 1 = Monday, 7 = Sunday
+            const week = data.season_week;
+            const season = data.season; // e.g. "easter", "advent"
+            const title = data.celebrations[0].title;
+
+            // Norwegian translation
+            const dayNames = ["", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag", "Søndag"];
+            const seasonNames = {
+                advent: "Advent",
+                christmas: "Jul",
+                ordinary: "Ordinær tid",
+                lent: "Faste",
+                easter: "Påske"
+            };
+
+            const dayName = dayNames[day];
+            const seasonName = seasonNames[season] || season;
+            const translatedTitle = `${dayName} i uke ${week} av ${seasonName}`;
+
+            // Update header
+            document.getElementById("liturgical-title").textContent = translatedTitle;
+
+            // Load file dynamically
+            const fileName = `laudes-${season}-${week}-${dayName.toLowerCase()}.html`;
+
+            fetch(fileName)
+                .then(r => r.ok ? r.text() : "<p>🕊️ Innhold ikke tilgjengelig.</p>")
+                .then(html => {
+                    document.getElementById("laudes-content").innerHTML = html;
+                });
+        }
+
+        getLiturgicalDay();
+    </script>
 </body>
 
-<script>
-    async function getLiturgicalDay() {
-        const res = await fetch("https://calapi.inadiutorium.cz/api/v0/en/calendars/general-en/today");
-        const data = await res.json();
 
-        const day = data.weekday; // 1 = Monday, 7 = Sunday
-        const week = data.season_week;
-        const season = data.season; // e.g. "easter", "advent"
-        const title = data.celebrations[0].title;
-
-        // Norwegian translation
-        const dayNames = ["", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag", "Søndag"];
-        const seasonNames = {
-            advent: "Advent",
-            christmas: "Jul",
-            ordinary: "Ordinær tid",
-            lent: "Faste",
-            easter: "Påske"
-        };
-
-        const dayName = dayNames[day];
-        const seasonName = seasonNames[season] || season;
-        const translatedTitle = `${dayName} i uke ${week} av ${seasonName}`;
-
-        // Update header
-        document.getElementById("liturgical-title").textContent = translatedTitle;
-
-        // Load file dynamically
-        const fileName = `laudes-${season}-${week}-${dayName.toLowerCase()}.html`;
-
-        fetch(fileName)
-            .then(r => r.ok ? r.text() : "<p>🕊️ Innhold ikke tilgjengelig.</p>")
-            .then(html => {
-                document.getElementById("laudes-content").innerHTML = html;
-            });
-    }
-
-    getLiturgicalDay();
-</script>
 
 
 </html>
