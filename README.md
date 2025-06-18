@@ -1,2 +1,3 @@
-# Liturgia-Norvegiae
-Daglig tidebønn på norsk
+# Liturgia-Horarum-Norvegica
+
+Daglig katolsk tidebønn på norsk
