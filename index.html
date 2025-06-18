@@ -1,27 +1,89 @@
-<!DOCTYPE html>
-<html lang="no">
-
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Breviarium Norvegicum</title>
+    <meta charset="UTF-8">
+    <title>Dagens Tidebønn</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cardo&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: sans-serif;
-            max-width: 600px;
+            font-family: 'Cardo', serif;
+            background-color: #f9f5ef;
+            /* fijo y clásico */
+            color: #2d2b26;
+            max-width: 700px;
             margin: 2rem auto;
-            padding: 1rem;
-            line-height: 1.6;
+            padding: 2rem;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
         }
 
-        h1,
+
+        h1 {
+            text-align: center;
+            color: #292929;
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+
         h2 {
-            text-align: center;
+            color: #7b0000;
+            border-bottom: 1px solid #d4af37;
+            padding-bottom: 0.2rem;
+            margin-top: 2rem;
         }
 
-        footer {
-            margin-top: 2rem;
+        button {
+            font-family: 'Cardo', serif;
+            background-color: #fff0e6;
+            border: 1px solid #7b0000;
+            color: #7b0000;
+            padding: 0.5em 1em;
+            margin: 0.5em;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+
+        button:hover {
+            background-color: #fce3d9;
+        }
+
+        .hour-section {
+            display: none;
+            margin-top: 1rem;
+            font-size: 1.1rem;
+            background-color: #fffdf8;
+            padding: 1em;
+            border: 1px solid #e0d8cc;
+            border-radius: 8px;
+        }
+
+        .hour-section.active {
+            display: block;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px dashed #ccc;
+            margin: 2rem 0;
+        }
+
+        button.selected {
+            background-color: #606060;
+            color: #fff;
+            border-color: #040404;
+        }
+
+        #feast {
+            font-style: italic;
             text-align: center;
+            margin-top: -1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .versicle,
+        .response {
+            color: #b30000;
+            font-weight: normal;
         }
 
         a.button {
@@ -36,90 +98,35 @@
 </head>
 
 <body>
-    <h1>Dagens tidebønn - Laudes</h1>
-    <h2 id="liturgical-title">Laster liturgisk dag…</h2>
+    <h1>Dagens tidebønn</h1>
+    <p id="liturgicDay" style="text-align:center; font-size: 1.1rem; margin-top: -0.5rem;"></p>
+    <div style="text-align:center; margin-top: 0.3em;">
+        <span id="colorBox" title="Liturgisk farge"
+            style="display:inline-block; width: 1.5em; height: 1.5em; border: 1px solid #444; border-radius: 3px; vertical-align: middle;">
+        </span>
+    </div>
+    <p id="psalmWeek" style="text-align:center; font-style: italic; font-size: 1rem; margin-top: 0.3em;">Laster dagens
+        minnedag…</p>
 
-    <p><strong>Åpningsvers:</strong><br>
-        Herre, løs min tunge, så min munn kan forkynne din pris.</p>
+    <div style="text-align: center; margin: 1em 0;">
+        <button onclick="showHour('laudes')" title="Ad Laudes">Laudes</button>
+        <button onclick="showHour('lectionis')" title="Officium lectionis">Lesning</button>
+        <button onclick="showHour('vesperas')" title="Ad Vesperas">Vesper</button>
+        <button onclick="showHour('completorium')" title="Ad Completorium">Kompletorium</button>
+    </div>
 
-    <p><strong>Invitatorium-antifon:</strong><br>
-        Kom, la oss tilbe Herren, for han er vår Gud.</p>
-
-    <p><strong>Salme 95:</strong><br>
-        <a href="https://bibel.no/nettbibelen/les/nb-2024/PSA/PSA.95" target="_blank">Les Salme 95 hos Bibel.no</a>
-    </p>
-
-    <p><strong>Hymne:</strong><br>
-        Du lys som led oss gjennom natt, vi priser deg ved morgenblått...</p>
-
-    <p><strong>1. Salme:</strong><br>
-        <span id="psalm1"></span>
-    </p>
-
-    <p><strong>2. Salme:</strong><br>
-        <span id="psalm2"></span>
-    </p>
-
-    <p><strong>Bibellesning:</strong><br>
-        <span id="reading"></span>
-    </p>
-
-    <p><strong>Benedictus:</strong><br>
-        Velsignet være Herren, Israels Gud, for han har sett til sitt folk og løst det ut...</p>
-
-    <p><strong>Sluttbønn:</strong><br>
-        Herre, la vår bønn stige opp til deg som morgenen stiger frem...</p>
-
-    <p><strong>Avslutning:</strong><br>
-        Må Herren velsigne oss, bevare oss fra alt ondt og føre oss til det evige liv. Amen.</p>
-
+    <div id="laudes" class="hour-section">📖 Laster Laudes…</div>
+    <div id="lectionis" class="hour-section">📖 Laster Lesning…</div>
+    <div id="vesperas" class="hour-section">📖 Laster Vesper…</div>
+    <div id="completorium" class="hour-section">📖 Laster Kompletorium…</div>
 
     <footer>
-        <p>Denne siden er gratis og åpen for alle. Vil du støtte prosjektet?</p>
-        <a class="button" href="https://coff.ee/luisfranciscohs" target="_blank">☕ Kjøp meg en kaffe</a>
+        <div style="text-align:center; margin-top: 0.3em;">
+            <p>Denne siden er gratis og åpen for alle. Vil du støtte prosjektet?</p>
+            <a class="button" href="https://coff.ee/luisfranciscohs" target="_blank">☕ Kjøp meg
+                en kaffe</a>
+        </div>
+
     </footer>
-    <script>
-        async function getLiturgicalDay() {
-            const res = await fetch("https://calapi.inadiutorium.cz/api/v0/en/calendars/general-en/today");
-            const data = await res.json();
-
-            const day = data.weekday; // 1 = Monday, 7 = Sunday
-            const week = data.season_week;
-            const season = data.season; // e.g. "easter", "advent"
-            const title = data.celebrations[0].title;
-
-            // Norwegian translation
-            const dayNames = ["", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag", "Søndag"];
-            const seasonNames = {
-                advent: "Advent",
-                christmas: "Jul",
-                ordinary: "Ordinær tid",
-                lent: "Faste",
-                easter: "Påske"
-            };
-
-            const dayName = dayNames[day];
-            const seasonName = seasonNames[season] || season;
-            const translatedTitle = `${dayName} i uke ${week} av ${seasonName}`;
-
-            // Update header
-            document.getElementById("liturgical-title").textContent = translatedTitle;
-
-            // Load file dynamically
-            const fileName = `laudes-${season}-${week}-${dayName.toLowerCase()}.html`;
-
-            fetch(fileName)
-                .then(r => r.ok ? r.text() : "<p>🕊️ Innhold ikke tilgjengelig.</p>")
-                .then(html => {
-                    document.getElementById("laudes-content").innerHTML = html;
-                });
-        }
-
-        getLiturgicalDay();
-    </script>
+    <script src="script.js"></script>
 </body>
-
-
-
-
-</html>

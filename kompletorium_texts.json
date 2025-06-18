@@ -1,0 +1,97 @@
+{
+    "hymns": [
+        {
+            "title": "Te lucis ante terminum",
+            "text": [
+                "Te lucis ante terminum,",
+                "rerum Creator, poscimus,",
+                "ut solita clementia",
+                "sis praesul ad custodiam.",
+                "",
+                "Procul recedant somnia",
+                "et noctium phantasmata;",
+                "hostemque nostrum comprime,",
+                "ne polluantur corpora.",
+                "",
+                "Praesta, Pater piissime,",
+                "Patrique compar Unice,",
+                "cum Spiritu Paraclito",
+                "regnans per omne saeculum. Amen."
+            ]
+        },
+        {
+            "title": "Christe qui lux es et dies",
+            "text": [
+                "Christe, qui lux es et dies,",
+                "noctis tenebras detegis,",
+                "lucisque lumen crederis,",
+                "lumen beatum praedicans.",
+                "",
+                "Precamur, Sancte Domine,",
+                "defende nos in hac nocte,",
+                "sit nobis in te requies,",
+                "quietam noctem tribue.",
+                "",
+                "Ne gravis somnus irruat,",
+                "nec hostis nos surripiat,",
+                "nec caro illi consentiens",
+                "nos tibi reos statuat.",
+                "",
+                "Oculi somnum capiant,",
+                "cor ad te semper vigilet,",
+                "dextera tua protegat",
+                "famulos, qui te diligunt.",
+                "",
+                "Defensor noster aspice,",
+                "insidiantes reprime,",
+                "guberna tuos famulos,",
+                "quos sanguine mercatus es.",
+                "",
+                "Memento nostri, Domine",
+                "in gravi isto corpore:",
+                "qui es defensor animae,",
+                "adesto nobis, Domine.",
+                "",
+                "Deo Patri sit gloria,",
+                "eiusque soli Filio,",
+                "cum Spiritu Paraclito,",
+                "et nunc et in perpetuum. Amen."
+            ]
+        }
+    ],
+    "antifon_til_jomfru_maria": [
+        {
+            "season": [
+                "advent",
+                "christmas"
+            ],
+            "title": "Alma Redemptoris Mater",
+            "latin": "Alma Redemptoris Mater, quae pervia caeli\nporta manes, et stella maris, succurre cadenti,\nsurgere qui curat, populo: tu quae genuisti,\nnatura mirante, tuum sanctum Genitorem,\nVirgo prius ac posterius, Gabrielis ab ore\nsumens illud Ave, peccatorum miserere.",
+            "norwegian": "Milde Gjenløserens Mor, du som er den åpne port til himmelen\nog havets stjerne: hjelp ditt folk som faller og ønsker å reise seg.\nDu som fødte din Skaper, under naturens undring,\njomfru før og etter, fra Gabriels munn mottok du det glade budskap:\nHa miskunn med oss syndere."
+        },
+        {
+            "season": [
+                "lent"
+            ],
+            "title": "Ave Regina Caelorum",
+            "latin": "Ave, Regina caelorum,\nave, Domina Angelorum:\nsalve radix, salve porta,\nex qua mundo lux est orta.\nGaude, Virgo gloriosa,\nsuper omnes speciosa,\nvale, o valde decora,\net pro nobis Christum exora.",
+            "norwegian": "Vær hilset, himlenes Dronning,\nvær hilset, englenes Frue!\nVær hilset, du rot og port,\nhvorfra verdens lys er gått ut.\nGled deg, herlige Jomfru,\nskjønnere enn alle kvinner,\nfarvel, o du skjønneste,\nbe Kristus for oss."
+        },
+        {
+            "season": [
+                "easter"
+            ],
+            "title": "Regina Caeli",
+            "latin": "Regina caeli, laetare, alleluia.\nQuia quem meruisti portare, alleluia.\nResurrexit, sicut dixit, alleluia.\nOra pro nobis Deum, alleluia.",
+            "norwegian": "Dronning i himmelen, gled deg, halleluja!\nHan som du verdiget å bære, halleluja,\ner oppstanden som han sa, halleluja!\nBe for oss til Gud, halleluja!"
+        },
+        {
+            "season": [
+                "ordinary_time"
+            ],
+            "title": "Salve Regina",
+            "latin": "Salve, Regina, mater misericordiæ,\nvita, dulcedo, et spes nostra, salve.\nAd te clamamus, exsules, filii Hevæ.\nAd te suspiramus, gementes et flentes\nin hac lacrimarum valle.\nEia ergo, Advocata nostra, illos tuos\nmisericordes oculos ad nos converte.\nEt Jesum, benedictum fructum ventris tui,\nnobis post hoc exsilium ostende.\nO clemens, O pia, O dulcis Virgo Maria.",
+            "norwegian": "Vær hilset, du barmhjertighetens Mor,\nvårt liv, vår trøst og vårt håp, vær hilset!\nTil deg roper vi, forviste Evas barn.\nTil deg sukker vi, sørgende og gråtende\ni denne tåredal.\nVend derfor dine barmhjertige øyne til oss,\ndu vår talskvinne,\nog vis oss etter dette landflyktige liv\nJesus, ditt livs velsignede frukt.\nO milde, o fromme, o søte Jomfru Maria."
+        }
+    ]
+}

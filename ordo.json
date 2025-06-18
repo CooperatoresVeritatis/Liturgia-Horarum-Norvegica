@@ -1,0 +1,6561 @@
+{
+  "2023-01-07": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Raimund av Peñafort",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-08": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Ⓕ Herrens dåp",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-01-09": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-10": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-11": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-12": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-13": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Hilarius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-14": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-15": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "2. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-16": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-17": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Antonius",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-01-18": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-19": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Henrik av Finland",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-01-20": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Sebastian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-21": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Agnes",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-01-22": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "3. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-23": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-24": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Frans av Sales",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-01-25": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Paulus' omvendelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-01-26": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Eystein",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-27": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ De hellige Timoteus og Titus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-28": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Thomas Aquinas",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-01-29": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "4. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-30": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-01-31": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Johannes Bosco",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-02-01": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-02": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Herrens fremstilling i tempelet",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-02-03": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ansgar",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-02-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-05": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "5. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-06": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Paul Miki",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-02-07": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-08": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Josefina Bakhita",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-09": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-10": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Scholastica",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-02-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Vår Frue av Lourdes",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "6. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-13": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-14": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ De hellige Kyrillos og Methodios",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-02-15": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-16": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-17": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ De syv stiftere av servitterordenen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-19": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "7. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-21": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Ⓥ Den hellige Peter Damian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-02-22": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Askeonsdag",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-02-23": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Den hellige Polykarp",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-02-24": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-02-25": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-02-26": {
+    "week": 1,
+    "volume": "II",
+    "feast": "1. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-02-27": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Gregor av Narek",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-02-28": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-01": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-02": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-03": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-04": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Kasimir",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-05": {
+    "week": 2,
+    "volume": "II",
+    "feast": "2. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-06": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-07": {
+    "week": 2,
+    "volume": "II",
+    "feast": "De hellige Perpetua og Felicitas",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-08": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Johannes av Gud",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-09": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Fransiska av Roma",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-10": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-11": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-12": {
+    "week": 3,
+    "volume": "II",
+    "feast": "3. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-13": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-14": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-15": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-16": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-17": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Den hellige Patrick",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-18": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Den hellige Kyrillos av Jerusalem",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-19": {
+    "week": 4,
+    "volume": "II",
+    "feast": "4. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-20": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Ⓗ Den hellige Josef\\, jomfru Marias brudgom",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2023-03-21": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-22": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-23": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Den hellige Turibius",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-24": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-25": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Ⓗ Herrens bebudelse",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2023-03-26": {
+    "week": 1,
+    "volume": "II",
+    "feast": "5. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-27": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-28": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-29": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-30": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-03-31": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-04-01": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-04-02": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Palmesøndag",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2023-04-03": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-04-04": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Isidor av Sevilla",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-04-05": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Vincent Ferrer",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-04-06": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Skjærtorsdag",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2023-04-07": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Langfredag",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2023-04-08": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Påskevigilien",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2023-04-09": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓗ Påskedag",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2023-04-10": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Mandag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-11": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tirsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-12": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Onsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-13": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Torsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-14": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Fredag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-15": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Lørdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-16": {
+    "week": 2,
+    "volume": "III",
+    "feast": "2. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-17": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-18": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-19": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-20": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-21": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Anselm",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-22": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-23": {
+    "week": 3,
+    "volume": "III",
+    "feast": "3. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-24": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Fidelis av Sigmaringen",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-25": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓕ Evangelisten Markus",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2023-04-26": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-27": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-28": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Louis M. Grigion de Montfort",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-04-29": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓕ Den hellige Katarina av Siena",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2023-04-30": {
+    "week": 4,
+    "volume": "III",
+    "feast": "4. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-01": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Josef",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-02": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Athanasius",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2023-05-03": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓕ De hellige apostler Filip og Jakob",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2023-05-04": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Tidebønn for uke 4\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-05": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Tidebønn for uke 4\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-06": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-07": {
+    "week": 1,
+    "volume": "III",
+    "feast": "5. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-08": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-09": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-10": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Johannes av Ávila",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-11": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-12": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Pancratius",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-13": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Vår Frue av Fátima",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-14": {
+    "week": 2,
+    "volume": "III",
+    "feast": "6. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-15": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Hallvard",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-16": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-17": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-18": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓗ Kristi himmelfart",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2023-05-19": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-20": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Bernardin av Siena",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-21": {
+    "week": 3,
+    "volume": "III",
+    "feast": "7. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-22": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Rita av Cascia",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-23": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-24": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-25": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Maria Magdalena de'Pazzi",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-26": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Filip Neri",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2023-05-27": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Pinsevigilien",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2023-05-28": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓗ Pinsedag",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2023-05-29": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den salige Jomfru Maria\\, Kirkens mor",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-05-30": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-05-31": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Jomfru Marias gjesting hos Elisabeth",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-06-01": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Justin",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-02": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ De hellige Marcellinus og Peter",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Karl Lwanga",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ Den hellige treenighet",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-06-05": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Bonifatius",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-06": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Norbert",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-07": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-08": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-09": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Efrem",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓗ Festen for Kristi legeme og blod",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-06-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-13": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Antonius av Padova",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-14": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-15": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-16": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓗ Jesu hjertefest",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-06-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias rene hjerte",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "11. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-19": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Romualdus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-21": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Aloysius Gonzaga",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-22": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ De hellige John Fisher og Thomas More",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-23": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Vigilien til Johannes Døperens fødsel",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ Johannes Døperens fødsel",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-06-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "12. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-26": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-27": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kyrillos av Alexandria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-06-28": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Vigilien til de hellige apostler Peter og Paulus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-06-29": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ De hellige apostler Peter og Paulus",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-06-30": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Kirkens første martyrer i Roma",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-02": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "13. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Thomas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-07-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Elisabeth av Portugal",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-05": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Antonius M. Zaccaria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-06": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Maria Goretti",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-07": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Sunniva",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "14. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Knut",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-07-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Benedikt",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-07-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-13": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Henrik",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-14": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Camillus av Lellis",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Bonaventura",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "15. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-19": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Thorlákr",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-07-21": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Laurentius av Brindisi",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Maria Magdalena",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-07-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "16. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Charbel Makhlūf",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Jakob",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-07-26": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Joakim og Anna",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-07-27": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-28": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Marta\\, Maria og Lasarus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-07-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ Olav den hellige",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-07-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "17. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-07-31": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ignatius av Loyola",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Alfonso Maria de' Liguori",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-02": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Julian Eymard",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Johannes Maria Vianney",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-05": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Vigselsfest for Maria Maggiore-basilikaen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Herrens forklarelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-08-07": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Cajetan",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Dominikus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Teresa Benedicta av Korset",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-08-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Laurentius",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-08-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Klara av Assisi",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-12": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Vigilien til Jomfru Marias opptagelse i himmelen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Jomfru Marias opptagelse i himmelen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-14": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Vigilien til Jomfru Marias opptagelse i himmelen",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓗ Jomfru Marias opptagelse i himmelen",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-08-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Stefan av Ungarn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-19": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johannes Eudes",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "20. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-21": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Pius X",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias dronningverdighet",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Rosa av Lima",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Bartolomeus",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-08-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Josef av Calasanz",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-26": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "21. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-28": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Augustin",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Johannes Døperens martyrdød",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-08-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-08-31": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-02": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-03": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "22. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-04": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-05": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-07": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Jomfru Marias fødsel",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-09-09": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Claverius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-10": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "23. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-11": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-12": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Jomfru Marias hellige Navn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Johannes Krysostomos",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-09-14": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Korsets opphøyelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-09-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias smerter",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-09-16": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Kornelius og Kyprian",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-09-17": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "24. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-18": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-19": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Januarius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Kim Taegon",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-09-21": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Evangelisten Matteus",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-09-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-23": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Pius av Pietrelcina",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-09-24": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "25. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-25": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-26": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kosmas og den hellige Damian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Vincent av Paul",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-09-28": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Lorenzo Ruiz",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-09-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ De hellige erkeengler Mikael\\, Gabriel og Rafael",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-09-30": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Hieronymus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-10-01": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "26. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-02": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige verneengler",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-10-03": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-04": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-05": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Faustina Kowalska",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Bruno",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-07": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Vår Frue av Rosenkransen",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-10-08": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "27. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-09": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johannes Leonardi",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-10": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-11": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige pave Johannes XXIII",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-12": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-14": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Callistus I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-15": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "28. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-16": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Den hellige Margrete Maria Alacoque",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-17": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ignatius av Antiokia",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-10-18": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Evangelisten Lukas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-10-19": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Paul av korset",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-21": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-22": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "29. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-23": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johannes av Capestrano",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-24": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Antonius Maria Claret",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-25": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-26": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-28": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ De hellige apostler Simon og Judas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-10-29": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "30. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-30": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-10-31": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-01": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓗ Allehelgensdag",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-11-02": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Allesjelersdag",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-03": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Martin av Porres",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-04": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Karl Borromeus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-05": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "31. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-06": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-07": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-08": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-09": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Laterankirkens vigselsfest",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-11-10": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Leo den Store",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-11": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Martin av Tours",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-12": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "32. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-13": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-14": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-15": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Albert den Store",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-16": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Gjertrud",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-17": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Elisabeth av Ungarn",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-18": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Vigselsfesten for Peters og Paulus' basilikaer",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-19": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "33. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-20": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-21": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias fremstilling i templet",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-22": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Cecilia",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-23": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kolumban",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-24": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Andreas Dung-Lac",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-25": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den salige Niels Steensen",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2023-11-26": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓗ Kristi kongefest",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2023-11-27": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-28": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-29": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-11-30": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Andreas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2023-12-01": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-12-02": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2023-12-03": {
+    "week": 1,
+    "volume": "I",
+    "feast": "1. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-04": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Barbara",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-05": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-06": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Nikolas av Myra",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-07": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Ambrosius",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2023-12-08": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓗ Jomfru Marias uplettede unnfangelse",
+    "feast_type": "solemnity",
+    "season": "advent"
+  },
+  "2023-12-09": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Juan Diego Cuauhtlatoatzin",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-10": {
+    "week": 2,
+    "volume": "I",
+    "feast": "2. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-11": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Damasus I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-12": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Vår Frue av Guadalupe",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-13": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Lucia",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2023-12-14": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Johannes av korset",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2023-12-15": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Tidebønn for uke 2\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-16": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-17": {
+    "week": 3,
+    "volume": "I",
+    "feast": "3. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-18": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-19": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-20": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-21": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Den hellige Peter Canisius",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-22": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-23": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Den hellige Johannes av Kęty",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-24": {
+    "week": 4,
+    "volume": "I",
+    "feast": "4. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2023-12-25": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Tidebønn for uke 4\\, vol. I",
+    "feast_type": "weekday",
+    "season": "christmas"
+  },
+  "2023-12-26": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige Stefan",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2023-12-27": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige evangelisten Johannes",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2023-12-28": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Ⓕ De uskyldige barn i Betlehem",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2023-12-29": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Den hellige Thomas Becket",
+    "feast_type": "weekday",
+    "season": "christmas"
+  },
+  "2023-12-30": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "christmas"
+  },
+  "2023-12-31": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige familie",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2024-01-01": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓗ Guds hellige mor Maria",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-01-02": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓜ De hellige Basilios og Gregorios",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-01-03": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Jesu hellige navn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-04": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-05": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-06": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓗ Herrens åpenbaring",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-01-07": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓕ Herrens dåp",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-01-08": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Torfinn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-09": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-10": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-11": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-12": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-13": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Hilarius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-14": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "2. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-15": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-16": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-17": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Antonius",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-01-18": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-19": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Henrik av Finland",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-01-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Sebastian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-21": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "3. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-22": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Vincent",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-23": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-24": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Frans av Sales",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-01-25": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Paulus' omvendelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-01-26": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Eystein",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-27": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ De hellige Timoteus og Titus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-28": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "4. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-29": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-30": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-01-31": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Johannes Bosco",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-02-01": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-02": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Herrens fremstilling i tempelet",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-02-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ansgar",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-02-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "5. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-05": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Agathe",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-02-06": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Paul Miki",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-02-07": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-08": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Josefina Bakhita",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-09": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Scholastica",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-02-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "6. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-13": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-02-14": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Askeonsdag",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-15": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-16": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-17": {
+    "week": 1,
+    "volume": "II",
+    "feast": "De syv stiftere av servitterordenen",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-18": {
+    "week": 1,
+    "volume": "II",
+    "feast": "1. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-19": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-20": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-21": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Peter Damian",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-22": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Ⓕ Apostelen Peters stol",
+    "feast_type": "feast",
+    "season": "lent"
+  },
+  "2024-02-23": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Polykarp",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-24": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-25": {
+    "week": 2,
+    "volume": "II",
+    "feast": "2. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-26": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-27": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Gregor av Narek",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-28": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-02-29": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-01": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-02": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-03": {
+    "week": 2,
+    "volume": "II",
+    "feast": "3. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-04": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Kasimir",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-05": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-06": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-07": {
+    "week": 2,
+    "volume": "II",
+    "feast": "De hellige Perpetua og Felicitas",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-08": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Johannes av Gud",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-09": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Den hellige Fransiska av Roma",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-10": {
+    "week": 4,
+    "volume": "II",
+    "feast": "4. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-11": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-12": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-13": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-14": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-15": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-16": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-17": {
+    "week": 1,
+    "volume": "II",
+    "feast": "5. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-18": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Kyrillos av Jerusalem",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-19": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Ⓗ Den hellige Josef\\, jomfru Marias brudgom",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2024-03-20": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-21": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-22": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-23": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Turibius",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-24": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Palmesøndag",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2024-03-25": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-26": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-27": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-28": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Skjærtorsdag",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2024-03-29": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Langfredag",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2024-03-30": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Påskevigilien",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2024-03-31": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓗ Påskedag",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2024-04-01": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Mandag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-02": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tirsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-03": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Onsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-04": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Torsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-05": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Fredag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-06": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Lørdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-07": {
+    "week": 2,
+    "volume": "III",
+    "feast": "2. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-08": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓗ Herrens bebudelse",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2024-04-09": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-10": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-11": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Stanislaus",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2024-04-12": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-13": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Martin I",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-14": {
+    "week": 3,
+    "volume": "III",
+    "feast": "3. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-15": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-16": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Magnus",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2024-04-17": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-18": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-19": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-20": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Tidebønn for uke 4\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-21": {
+    "week": 4,
+    "volume": "III",
+    "feast": "4. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-22": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Tidebønn for uke 4\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-23": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Georg",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-24": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Fidelis av Sigmaringen",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-25": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓕ Evangelisten Markus",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2024-04-26": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Tidebønn for uke 4\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-27": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-28": {
+    "week": 1,
+    "volume": "III",
+    "feast": "5. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-04-29": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓕ Den hellige Katarina av Siena",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2024-04-30": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Pius V",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-01": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Josef",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-02": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Athanasius",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2024-05-03": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓕ De hellige apostler Filip og Jakob",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2024-05-04": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-05": {
+    "week": 2,
+    "volume": "III",
+    "feast": "6. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-06": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-07": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-08": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-09": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓗ Kristi himmelfart",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2024-05-10": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Johannes av Ávila",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-11": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-12": {
+    "week": 3,
+    "volume": "III",
+    "feast": "7. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-13": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Vår Frue av Fátima",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-14": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓕ Apostelen Mattias",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2024-05-15": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Hallvard",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-16": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-17": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2024-05-18": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓜ Pinsevigilien",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2024-05-19": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓗ Pinsedag",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2024-05-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den salige Jomfru Maria\\, Kirkens mor",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-05-21": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kristoffer Magallanes og ledsagere",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-22": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Rita av Cascia",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-23": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-24": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Maria Magdalena de'Pazzi",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-26": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ Den hellige treenighet",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-05-27": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Augustin av Canterbury",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-28": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-29": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige pave Paul VI",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-30": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-05-31": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Jomfru Marias gjesting hos Elisabeth",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-06-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Justin",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-02": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ Festen for Kristi legeme og blod",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-06-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Karl Lwanga",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-05": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Bonifatius",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-06": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Norbert",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-07": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ Jesu hjertefest",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-06-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias rene hjerte",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "10. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Apostelen Barnabas",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-13": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Antonius av Padova",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-14": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "11. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-19": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Romualdus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-21": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Aloysius Gonzaga",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ De hellige John Fisher og Thomas More",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "12. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ Johannes Døperens fødsel",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-06-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-26": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-27": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kyrillos av Alexandria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-06-28": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Vigilien til de hellige apostler Peter og Paulus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-06-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ De hellige apostler Peter og Paulus",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-06-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "13. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-02": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Thomas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-07-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Elisabeth av Portugal",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-05": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Antonius M. Zaccaria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Maria Goretti",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-07": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "14. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Sunniva",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Augustin Zhao Rong og hans ledsagere",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Knut",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-07-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Benedikt",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-07-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Henrik",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-14": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "15. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Bonaventura",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Jomfru Maria av Karmelberget",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-19": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Thorlákr",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-07-21": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "16. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Maria Magdalena",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-07-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Birgitta",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-07-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Charbel Makhlūf",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Jakob",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-07-26": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Joakim og Anna",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-07-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-28": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "17. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ Olav den hellige",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-07-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Krysologus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-07-31": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ignatius av Loyola",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Alfonso Maria de' Liguori",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-02": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Julian Eymard",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-03": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-04": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "18. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-05": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Vigselsfest for Maria Maggiore-basilikaen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Herrens forklarelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-08-07": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Cajetan",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Dominikus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Teresa Benedicta av Korset",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-08-10": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Laurentius",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-08-11": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "19. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-12": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johanna Fransiska av Chantal",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Pontian og den hellige Hippolyt",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-14": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Vigilien til Jomfru Marias opptagelse i himmelen",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓗ Jomfru Marias opptagelse i himmelen",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-08-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Stefan av Ungarn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-17": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Vigilien til Jomfru Marias opptagelse i himmelen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-18": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Jomfru Marias opptagelse i himmelen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-19": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johannes Eudes",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Bernhard av Clairvaux",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-21": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Pius X",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias dronningverdighet",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Rosa av Lima",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-24": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Bartolomeus",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-08-25": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "21. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-26": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Monika",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-28": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Augustin",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Johannes Døperens martyrdød",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-08-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-08-31": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-01": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "22. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-02": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-03": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Gregor den Store",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-09-04": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-05": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-07": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-08": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "23. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-09": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Claverius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-10": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-11": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-12": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Jomfru Marias hellige Navn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Johannes Krysostomos",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-09-14": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Korsets opphøyelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-09-15": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "24. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-16": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Kornelius og Kyprian",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-09-17": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Hildegard av Bingen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-18": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-19": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Januarius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Kim Taegon",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-09-21": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ Evangelisten Matteus",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-09-22": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "25. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-23": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Pius av Pietrelcina",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-09-24": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-25": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-26": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kosmas og den hellige Damian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Vincent av Paul",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-09-28": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Lorenzo Ruiz",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-29": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "26. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-09-30": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Hieronymus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-10-01": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Terese av Jesusbarnet",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-10-02": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige verneengler",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-10-03": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-04": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-05": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Faustina Kowalska",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-06": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "27. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-07": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Vår Frue av Rosenkransen",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-10-08": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-09": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johannes Leonardi",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-10": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-11": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige pave Johannes XXIII",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-12": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-13": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "28. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-14": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Callistus I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-15": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Teresa av Avila",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-10-16": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Den hellige Margrete Maria Alacoque",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-17": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ignatius av Antiokia",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-10-18": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Evangelisten Lukas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-10-19": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Paul av korset",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-20": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "29. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-21": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-22": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige pave Johannes Paul II",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-23": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Johannes av Capestrano",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-24": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Antonius Maria Claret",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-25": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-26": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-27": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "30. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-28": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ De hellige apostler Simon og Judas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-10-29": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-30": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-10-31": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-01": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓗ Allehelgensdag",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-11-02": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Allesjelersdag",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-03": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "31. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-04": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Karl Borromeus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-05": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-06": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-07": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-08": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-09": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Laterankirkens vigselsfest",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-11-10": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "32. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-11": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Martin av Tours",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-12": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Josafat",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-13": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-14": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-15": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Albert den Store",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-16": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Gjertrud",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-17": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "33. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-18": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Vigselsfesten for Peters og Paulus' basilikaer",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-19": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-20": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-21": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias fremstilling i templet",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-22": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Cecilia",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-23": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Kolumban",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-24": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓗ Kristi kongefest",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2024-11-25": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den salige Niels Steensen",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2024-11-26": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-27": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-28": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-29": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2024-11-30": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige Andreas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2024-12-01": {
+    "week": 1,
+    "volume": "I",
+    "feast": "1. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-02": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-03": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Frans Xavier",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2024-12-04": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Barbara",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-05": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-06": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Nikolas av Myra",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-07": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Ambrosius",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2024-12-08": {
+    "week": 2,
+    "volume": "I",
+    "feast": "2. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-09": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓗ Jomfru Marias uplettede unnfangelse",
+    "feast_type": "solemnity",
+    "season": "advent"
+  },
+  "2024-12-10": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Vår Frue av Loreto",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-11": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Damasus I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-12": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Vår Frue av Guadalupe",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-13": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Lucia",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2024-12-14": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Ⓜ Den hellige Johannes av korset",
+    "feast_type": "memorial",
+    "season": "advent"
+  },
+  "2024-12-15": {
+    "week": 3,
+    "volume": "I",
+    "feast": "3. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-16": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-17": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-18": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-19": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-20": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-21": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Den hellige Peter Canisius",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-22": {
+    "week": 4,
+    "volume": "I",
+    "feast": "4. søndag i advent",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-23": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Den hellige Johannes av Kęty",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-24": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Tidebønn for uke 4\\, vol. I",
+    "feast_type": "weekday",
+    "season": "advent"
+  },
+  "2024-12-25": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Tidebønn for uke 4\\, vol. I",
+    "feast_type": "weekday",
+    "season": "christmas"
+  },
+  "2024-12-26": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige Stefan",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2024-12-27": {
+    "week": 4,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige evangelisten Johannes",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2024-12-28": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓕ De uskyldige barn i Betlehem",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2024-12-29": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓕ Den hellige familie",
+    "feast_type": "feast",
+    "season": "christmas"
+  },
+  "2024-12-30": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Tidebønn for uke 1\\, vol. I",
+    "feast_type": "weekday",
+    "season": "christmas"
+  },
+  "2024-12-31": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Den hellige Sylvester I",
+    "feast_type": "weekday",
+    "season": "christmas"
+  },
+  "2025-01-01": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓗ Guds hellige mor Maria",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-01-02": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓜ De hellige Basilios og Gregorios",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-01-03": {
+    "week": 1,
+    "volume": "I",
+    "feast": "Ⓥ Jesu hellige navn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-04": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Tidebønn for uke 2\\, vol. I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-05": {
+    "week": 2,
+    "volume": "I",
+    "feast": "2. søndag etter jul",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-06": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓗ Herrens åpenbaring",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-01-07": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Den hellige Raimund av Peñafort",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-08": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Ⓥ Den salige Torfinn",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-09": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Tidebønn for uke 2\\, vol. I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-10": {
+    "week": 2,
+    "volume": "I",
+    "feast": "Tidebønn for uke 2\\, vol. I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-11": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Tidebønn for uke 3\\, vol. I",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-12": {
+    "week": 3,
+    "volume": "I",
+    "feast": "Ⓕ Herrens dåp",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-01-13": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Hilarius",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-14": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-15": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-16": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-17": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Antonius",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-01-18": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-19": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "2. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-20": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Sebastian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-21": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Agnes",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-01-22": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Vincent",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-23": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-24": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Frans av Sales",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-01-25": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Paulus' omvendelse",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-01-26": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "3. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-27": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ De hellige Timoteus og Titus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-28": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Thomas Aquinas",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-01-29": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-30": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-01-31": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Johannes Bosco",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-02-01": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-02": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Herrens fremstilling i tempelet",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-02-03": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ansgar",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-02-04": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-05": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Agathe",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-02-06": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Paul Miki",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-02-07": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-08": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Josefina Bakhita",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-09": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "5. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-10": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Scholastica",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-02-11": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Vår Frue av Lourdes",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-12": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-13": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-14": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ De hellige Kyrillos og Methodios",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-02-15": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-16": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "6. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-17": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ De syv stiftere av servitterordenen",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-18": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-19": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-20": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-21": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Damian",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-22": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Peters stol",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-02-23": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "7. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-24": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-25": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-26": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-27": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Gregor av Narek",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-02-28": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-03-01": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-03-02": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "8. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-03-03": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-03-04": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Ⓥ Den hellige Kasimir",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-03-05": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Askeonsdag",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-06": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-07": {
+    "week": 4,
+    "volume": "II",
+    "feast": "De hellige Perpetua og Felicitas",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-08": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Johannes av Gud",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-09": {
+    "week": 1,
+    "volume": "II",
+    "feast": "1. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-10": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-11": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-12": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-13": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-14": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-15": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-16": {
+    "week": 2,
+    "volume": "II",
+    "feast": "2. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-17": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Patrick",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-18": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Kyrillos av Jerusalem",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-19": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Den hellige Josef\\, jomfru Marias brudgom",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2025-03-20": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-21": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-22": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-23": {
+    "week": 3,
+    "volume": "II",
+    "feast": "3. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-24": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-25": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Ⓗ Herrens bebudelse",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2025-03-26": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-27": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-28": {
+    "week": 3,
+    "volume": "II",
+    "feast": "Tidebønn for uke 3\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-29": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-30": {
+    "week": 4,
+    "volume": "II",
+    "feast": "4. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-03-31": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-01": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-02": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Den hellige Frans fra Paola",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-03": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Tidebønn for uke 4\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-04": {
+    "week": 4,
+    "volume": "II",
+    "feast": "Den hellige Isidor av Sevilla",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-05": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Vincent Ferrer",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-06": {
+    "week": 1,
+    "volume": "II",
+    "feast": "5. søndag i fasten",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-07": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Johannes Baptist de la Salle",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-08": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-09": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-10": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Tidebønn for uke 1\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-11": {
+    "week": 1,
+    "volume": "II",
+    "feast": "Den hellige Stanislaus",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-12": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-13": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Palmesøndag",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2025-04-14": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-15": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tidebønn for uke 2\\, vol. II",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-16": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Den hellige Magnus",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-17": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Skjærtorsdag",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2025-04-18": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Langfredag",
+    "feast_type": "weekday",
+    "season": "lent"
+  },
+  "2025-04-19": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Påskevigilien",
+    "feast_type": "solemnity",
+    "season": "lent"
+  },
+  "2025-04-20": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Ⓗ Påskedag",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2025-04-21": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Mandag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-22": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Tirsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-23": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Onsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-24": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Torsdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-25": {
+    "week": 2,
+    "volume": "II",
+    "feast": "Fredag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-26": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Lørdag i påskeoktaven",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-27": {
+    "week": 2,
+    "volume": "III",
+    "feast": "2. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-28": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Louis M. Grigion de Montfort",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-04-29": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓕ Den hellige Katarina av Siena",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2025-04-30": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Pius V",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-01": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Josef",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-02": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Athanasius",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2025-05-03": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓕ De hellige apostler Filip og Jakob",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2025-05-04": {
+    "week": 3,
+    "volume": "III",
+    "feast": "3. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-05": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-06": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-07": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-08": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-09": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-10": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Johannes av Ávila",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-11": {
+    "week": 4,
+    "volume": "III",
+    "feast": "4. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-12": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Pancratius",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-13": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Vår Frue av Fátima",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-14": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓕ Apostelen Mattias",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2025-05-15": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Hallvard",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-16": {
+    "week": 4,
+    "volume": "III",
+    "feast": "Tidebønn for uke 4\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-17": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-18": {
+    "week": 1,
+    "volume": "III",
+    "feast": "5. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-19": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-20": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Bernardin av Siena",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-21": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Kristoffer Magallanes og ledsagere",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-22": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Rita av Cascia",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-23": {
+    "week": 1,
+    "volume": "III",
+    "feast": "Tidebønn for uke 1\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-24": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-25": {
+    "week": 2,
+    "volume": "III",
+    "feast": "6. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-26": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Filip Neri",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2025-05-27": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Augustin av Canterbury",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-28": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-29": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Ⓗ Kristi himmelfart",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2025-05-30": {
+    "week": 2,
+    "volume": "III",
+    "feast": "Tidebønn for uke 2\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-05-31": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓕ Jomfru Marias gjesting hos Elisabeth",
+    "feast_type": "feast",
+    "season": "easter"
+  },
+  "2025-06-01": {
+    "week": 3,
+    "volume": "III",
+    "feast": "7. søndag i påsketiden",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-06-02": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ De hellige Marcellinus og Peter",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-06-03": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Karl Lwanga",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2025-06-04": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Tidebønn for uke 3\\, vol. III",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-06-05": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓜ Den hellige Bonifatius",
+    "feast_type": "memorial",
+    "season": "easter"
+  },
+  "2025-06-06": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓥ Den hellige Norbert",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-06-07": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Pinsevigilien",
+    "feast_type": "weekday",
+    "season": "easter"
+  },
+  "2025-06-08": {
+    "week": 3,
+    "volume": "III",
+    "feast": "Ⓗ Pinsedag",
+    "feast_type": "solemnity",
+    "season": "easter"
+  },
+  "2025-06-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den salige Jomfru Maria\\, Kirkens mor",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-06-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Apostelen Barnabas",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-06-12": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-13": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Antonius av Padova",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-06-14": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓗ Den hellige treenighet",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-06-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-19": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Romualdus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-20": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-21": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Aloysius Gonzaga",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-06-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ Festen for Kristi legeme og blod",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-06-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Vigilien til Johannes Døperens fødsel",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ Johannes Døperens fødsel",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-06-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-26": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 4\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-06-27": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓗ Jesu hjertefest",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-06-28": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Jomfru Marias rene hjerte",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-06-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ De hellige apostler Peter og Paulus",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-06-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Kirkens første martyrer i Roma",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-01": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-02": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 1\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-03": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Thomas",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-07-04": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Elisabeth av Portugal",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-05": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Antonius M. Zaccaria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-06": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "14. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-07": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 2\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-08": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Sunniva",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-09": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Augustin Zhao Rong og hans ledsagere",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-10": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Knut",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-07-11": {
+    "week": 2,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Benedikt",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-07-12": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-13": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "15. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-14": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Camillus av Lellis",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-15": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Bonaventura",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-16": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Ⓥ Jomfru Maria av Karmelberget",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-17": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-18": {
+    "week": 3,
+    "volume": "IV",
+    "feast": "Tidebønn for uke 3\\, vol. IV",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-19": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den salige jomfru Maria",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-20": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "16. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-21": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Laurentius av Brindisi",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-22": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Maria Magdalena",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-07-23": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Den hellige Birgitta",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-07-24": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Charbel Makhlūf",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-25": {
+    "week": 4,
+    "volume": "IV",
+    "feast": "Ⓕ Apostelen Jakob",
+    "feast_type": "feast",
+    "season": "ordinary"
+  },
+  "2025-07-26": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Joakim og Anna",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-07-27": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "17. søndag i det alminnelige kirkeår",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-28": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ De hellige Marta\\, Maria og Lasarus",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  },
+  "2025-07-29": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓗ Olav den hellige",
+    "feast_type": "solemnity",
+    "season": "ordinary"
+  },
+  "2025-07-30": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓥ Den hellige Peter Krysologus",
+    "feast_type": "weekday",
+    "season": "ordinary"
+  },
+  "2025-07-31": {
+    "week": 1,
+    "volume": "IV",
+    "feast": "Ⓜ Den hellige Ignatius av Loyola",
+    "feast_type": "memorial",
+    "season": "ordinary"
+  }
+}
