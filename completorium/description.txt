@@ -1,0 +1,29 @@
+📘 Estructura de datos para textos diarios de Completorium
+
+Cada día de la semana (domingo a sábado) tiene su propio archivo `.json` con esta estructura:
+
+{
+  "salmer": [
+    {
+      "referanse": "Sal 91, 1-16",
+      "antifon": "Texto que se recita antes y después del salmo",
+      "tekst": [
+        "verso 1",
+        "verso 2",
+        "..."
+      ]
+    }
+    // puede haber un segundo salmo
+  ],
+  "lesning": {
+    "referanse": "Ap 22, 4-5",
+    "tekst": "Texto completo de la lectura bíblica breve"
+  },
+  "bønn": "Texto completo de la oración final"
+}
+
+🔹 Detalles importantes:
+- Cada archivo contiene solo un día.
+- Las citas usan formato bíblico estándar: "Sal 91, 1-16".
+- Cada salmo tiene su antífona específica (antes y después del salmo), incluida dentro del mismo bloque.
+- El campo "bønn" es una oración que cierra la liturgia del día.
