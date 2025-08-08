@@ -1,0 +1,90 @@
+
+body {
+    font-family: 'Cardo', serif;
+    background-color: #f9f5ef;
+    color: #2d2b26;
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+}
+
+h1 {
+    text-align: center;
+    color: #292929;
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    color: #7b0000;
+    border-bottom: 1px solid #d4af37;
+    padding-bottom: 0.2rem;
+    margin-top: 2rem;
+}
+
+button {
+    font-family: 'Cardo', serif;
+    background-color: #fff0e6;
+    border: 1px solid #7b0000;
+    color: #7b0000;
+    padding: 0.5em 1em;
+    margin: 0.5em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #fce3d9;
+}
+
+.hour-section {
+    display: none;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    background-color: #fffdf8;
+    padding: 1em;
+    border: 1px solid #e0d8cc;
+    border-radius: 8px;
+}
+
+.hour-section.active {
+    display: block;
+}
+
+hr {
+    border: none;
+    border-top: 1px dashed #ccc;
+    margin: 2rem 0;
+}
+
+button.selected {
+    background-color: #606060;
+    color: #fff;
+    border-color: #040404;
+}
+
+#feast {
+    font-style: italic;
+    text-align: center;
+    margin-top: -1rem;
+    margin-bottom: 1.5rem;
+}
+
+.versicle,
+.response {
+    color: #b30000;
+    font-weight: normal;
+}
+
+a.button {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background: #ffd700;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
