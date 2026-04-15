@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-15",
+  "feast": "2 onsdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260415/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 39",
+      "antifon": "Vi sukker i vårt indre og venter på kjødets oppstandelse.",
+      "tekst": [
+        "Jeg tenkte: „Jeg vil akte på min ferd,",
+        "så jeg ikke synder med tungen.",
+        "Jeg vil holde min munn i tømme, så lenge jeg har den gudløse for meg.“",
+        "Stille ble jeg og målløs,",
+        "mer enn jeg skulle, holdt jeg min munn;",
+        "smerten sved.",
+        "Mitt hjerte brant i meg mens jeg grublet, ilden flammet opp og jeg talte:",
+        "„Herre, la meg få kjenne min utgang,",
+        "mine tilmålte dager, hvor få de er.",
+        "La meg få vite hva tid jeg skal bort.“",
+        "Mine dager måler du ut med en håndsbredd, min levetid er som intet for deg.",
+        "Bare et pust er mannen i sin styrke,",
+        "som en skygge går han sin vei.",
+        "Hans strev er tomhet, han samler rikdom, men aner ikke for hvem.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 39",
+      "antifon": "Herre, hør min bønn og vær ikke døv for min gråt.",
+      "tekst": [
+        "Hva skal jeg vente på, Herre,",
+        "mitt håp står bare til deg.",
+        "Fri meg fra all min synd, gjør meg ikke til dårers spott.",
+        "Jeg tier, jeg åpner ikke munnen,",
+        "for det var du som gjorde det slik.",
+        "Fri meg fra dine slag, jeg går til grunne når du slår med din hånd.",
+        "Når du tukter og straffer en mann for hans synd,",
+        "fortærer du hans prakt som møllen,",
+        "ja, alle mennesker er som et pust.",
+        "Herre, hør min bønn, vend øret til min klage.",
+        "Vær ikke døv for min gråt,",
+        "for jeg er som en fremmed hos deg,",
+        "en utlending som alle mine fedre.",
+        "Vend fra meg ditt straffende blikk, så lyser jeg opp, før jeg går bort og er ikke mer.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 52",
+      "antifon": "I all evighet håper jeg på Guds miskunn. Halleluja!",
+      "tekst": [
+        "Hvorfor brisker du deg av din ondskap,",
+        "du mektige mann?",
+        "Guds miskunn varer tjl evig tid.",
+        "Hele dagen pønsker du på ondt, din tunge er skarp som en kniv, du farer med svik.",
+        "Du velger ondt for godt og løgn for sannferdighet,",
+        "du elsker bitende tale, du svikefulle tunge.",
+        "Derfor skal Herren knuse deg, ødelegge deg til siste rest.",
+        "Han skal rive deg ut av ditt telt",
+        "og utslette deg av de levendes land.",
+        "De rettferdige skal se det og frykte, og de skal håne ham og si:",
+        "„Der er mannen som ikke satte sin lit tjl Gud,",
+        "men stolte på sin rikdom",
+        "og trodde seg sterk i sin synd.“",
+        "Men jeg er som et frodig oliventre i Herrens hus. Jeg stoler på Herrens miskunn for alltid.",
+        "Til evig tid vil jeg takke deg,",
+        "for du grep inn.",
+        "Jeg setter mitt håp til ditt navn, for det er godt, sammen med dem som har deg kjær.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Gud oppreiste Kristus fra de døde. Halleluja!",
+    "r": "Så vår tro og vårt håp skal stå til Gud. Halleluja! ."
+  },
+  "lesning1": {
+    "referanse": "Åp 2,12-29",
+    "kilde": "Fra Johannes’ Åpenbaring — Til kirkene i Pergamon og Thyatira",
+    "tekst": "Jeg, Johannes, hørte Herren si til meg: Skriv til engelen for kirken i Pergamon: „Så sier han som eier sverdet, det tveeggede og skarpslepne: Jeg \nkjenner den by du bor i: Det er der Satans trone står! Men du holder fast ved mitt navn og har ikke fornektet min tro, heller ikke den gang \nAntipas, mitt trofaste vitne, ble myrdet i deres by, der hvor Satan bor. Men enkelte ting har jeg imot deg: At der finnes noen blant dere som \nholder fast ved Balaams lære, han som foreslo for Balak å legge en snare for Israels barn, å få dem til å spise avgudsoffer og hengi seg til \nutukt. Så finnes der også hos deg noen som holder ved nikolaittenes lære. Men vend om! Ellers vil jeg være over deg på et øyeblikk, og kjempe \nmot dem med sverdet fra min munn.\nDen som har ører, han høre hva Anden sier til kirkene: Den som seirer, han skal av meg få den skjulte manna, og en liten hvit sten vil jeg gi ham, \nmed et nytt navn risset inn, et navn som ingen kjenner uten han som får den.“ Og skriv til engelen for kirken i Thyatira:\nSå sier Guds Sønn, han som har øyne som flammende ild, og føtter som skinnende bronse: Jeg kjenner dine gjerninger: din kjærlighet, din tro, din \nvillige tjeneste og din standhaftighet, og jeg vet at du nå er enda mer virksom enn du før var. Men ett har jeg imot deg: At du bærer over med \nkvinnen Jezabel, hun som kaller seg profetinne, men som forfører mine tjenere ved å lære dem å hengi seg til utukt og spise avgudsoffer. Jeg har \ngitt henne frist til å omsinne seg, men hun vil ikke vende om fra sin utukt. Så se, jeg kaster henne på sotteseng, og alle hennes elskere med \nhenne, og i en skrekkelig nød skal de komme, dersom de ikke angrer sine gjerninger og vender om. Ja, hennes barn, dem vil jeg sende i døden, så \nalle kirkene kan forstå at jeg er den som gransker hjerter og nyrer; hver enkelt av dere vil jeg gi lønn som fortjent!\nMen hva angår dere andre i Thyatira, som ikke følger denne lære, som ikke har hatt noe å gjøre med „Satans avgrunner\", som de kaller det, til \ndere vil jeg si: „Noen ny byrde legger jeg ikke på dere; hold bare fast ved hva dere har, inntil jeg kommer!\nDen som seirer, den som til det siste er tro i min tjeneste, ham vil jeg gi myndighet over folkeslagene, så han hersker over dem med et septer \nav jern, og knuser dem som man knuser leirkar! Den samme makt har jeg fått av min Far. Og jeg vil gi ham morgenstjernen. Den som har ører, han \nhøre hva Anden sier til kirkene!\""
+  },
+  "responsorium1": {
+    "ref": "Åp 2,18.23; 22,12",
+    "v": "Så sier Guds Sønn, han som har øyne som flammende ild: Jeg er den som gransker hjerter og nyrer: Se, jeg kommer snart og bringer min lønn med meg.",
+    "r": "hver enkelt vil jeg gi lønn som fortjent. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra en preken av pave Leo den Store over Kristi lidelse.",
+    "kilde": "Den levende Kristus er til stede i sin Kirke",
+    "tekst": "Det er hevet over enhver tvil, mine kjære, at den menneskelige natur er blitt så sterkt forbundet med Guds Sønn at den ene og samme Kristus er \ntil stede, ikke bare i det menneske som er den førstefødte av all skapning, men også i alle hans hellige, for som hodet ikke kan skilles fra \nlemmene, kan heller ikke lemmene skilles fra hodet. Sant nok, det er ikke i dette liv, men først i det evige, at Gud er alt i alle. Men også nå \nbor han i sitt tempel, som er Kirken, og han forlater den ikke, slik han selv lovet da han sa: „Se, jeg er med dere alle dager inntil verdens \nende“l.\nAlt det som ble gjort under Loven, enten omskjærelsen av kjødet eller forskriftene om ofringer eller overholdelsen av sabbaten, bar bud om \nKristus og var forutsigelser om Kristi nåde. Kristus er Lovens ende, ikke i den forstand at han opphever den, men fordi han oppfyller den. Vel \ner han opphavsmann til det gamle så vel som det nye, men han endret de mysterier som var lovet i bilder, for han bragte det som var lovet til \nfullkommenhet. Forvarslene gjorde han slutt på, for han som var varslet, kom.\nDe moralske forskrifter i den første pakt er imidlertid ikke blitt opphevet, men mange av dem er tvert imot blitt skjerpet av Evangeliets lære, \nslik at det som fører til frelse, skulle være klarere og mer fullkomment enn det som bar i seg løfter om Frelseren.\nAlt det som Guds Sønn gjorde og lærte til verdens forsoning, kjenner vi ikke bare ut fra fortellinger om det forgangne, men vi erfarer kraften \nav hans virke her og nå. Det er han, den samme som ble født av Jomfruen, sin Mor, ved den Hellige And, som ved den samme And gjør sin jomfruelige \nKirke fruktbar, slik at en talløs mengde gudsbarn fødes ved dåpens forløsning. Det er om dem det blir sagt: „De som ikke er født av blod, heller \nikke av kjøds vilje, heller ikke av manns vilje, men av Gud“2. Det er i ham Abrahams etterslekt blir velsignet ved at hele verden blir Abrahams \nbarn. Patriarken blir far til folkeslagene, nå da sønner i kraft av løftet blir født, ikke etter kjødet, men ved tro.\nHan som ikke gjør forskjell på noe folk, han samler ut av alle folkeslag under himmelen hellige får inn i en eneste hjord. Hver eneste dag holder \nhan det han lovet da han sa: „Jeg har også andre får som ikke tilhører denne kve. Også dem skal jeg lede, og de skal høre min røst, og det skal \nbli én hjord og én hyrde“3.\nSelv om det i første rekke er til Peter han sier: „Røkt mine får“4, er det den ene Herre som leder hyrdenes omsorg, og alle som kommer til \nklippen 5, lar han beite på så frodige og saftige gressganger at utallige får, styrket av hans kjærlighets fete retter, ikke viker tilbake for \nå gå i døden for hyrdens skyld, på samme måte som den gode hyrde var villig til å gi sitt liv for sine får.\nI hans lidelse er det ikke bare de ærerike og modige martyrer som får del, men ved troen alle de som gjenfødes, i selve gjenfødelsens bad.\nSlik er det Herrens påske feires på verdig vis, med renhets og sannhets usyrede brød 6, nemlig når den nye skapning har kastet ut den gamle \nondskaps surdeig og beruses og spiser av Herren selv. Å få del i Kristi legeme og blod forvandler oss nemlig til det vi inntar, - ham som vi er \ndøde sammen med, ham vi er begravet sammen med, ham vi er oppstandne sammen med, ham skal vi alltid bære i oss, i kropp og sjel, slik apostelen \nsier: „For dere er døde og deres liv er skjult med Kristus i Gud. Men når Kristus, han som er deres liv, skal åpenbare seg, da skal også dere \nåpenbares med ham i herlighet\" 7, han som lever og råder fra evighet til evighet. Amen."
+  },
+  "responsorium2": {
+    "ref": "Joh 10,14; Esek 34,11.13",
+    "v": "Jeg er den gode hyrde; Jeg vil selv lete etter mine får og ha tilsyn med dem; jeg vil hente dem fra folkene og jeg vil vokte dem.",
+    "r": "jeg kjenner mine og mine kjenner meg. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Herre, hvert år minnes vi det mysterium som gav mennesket dets første verdighet tilbake og fylte oss med håpet om oppstandelsen. La det som vi nå bekjenner i troen, engang fullbyrdes i evig kjærlighet. Ved vår Herre"
+}
