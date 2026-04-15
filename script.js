@@ -2,6 +2,27 @@ function getLiturgicalDay() {
   return new Date().toLocaleDateString('no-NO', { weekday: 'long' }).toLowerCase(); // e.g., 'mandag'
 }
 
+async function loadLiturgiskDag() {
+  const dagEl = document.getElementById("liturgiskDag");
+  const datoEl = document.getElementById("liturgiskDato");
+  const today = new Date().toISOString().slice(0, 10);
+
+  // Date line: always shown
+  datoEl.textContent = new Date().toLocaleDateString('no-NO', {
+    weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+  });
+
+  // Liturgical day: from ordo if available
+  try {
+    const resp = await fetch(`ordo/${today}.json`);
+    if (!resp.ok) throw new Error();
+    const data = await resp.json();
+    if (data.feast) dagEl.textContent = data.feast;
+  } catch {
+    dagEl.textContent = "";
+  }
+}
+
 async function loadCompletorium(day) {
   const section = document.getElementById("completorium");
 
@@ -101,7 +122,7 @@ async function loadLesning(dateStr) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
-    let html = `<h2>${data.feast}</h2>`;
+    let html = '';
 
     if (data.mismatch_flag) {
       html += `<p style="color:#7b0000; font-style:italic; font-size:0.9rem;">⚠ Teksten er ikke manuelt bekreftet for denne dagen.</p>`;
@@ -109,8 +130,8 @@ async function loadLesning(dateStr) {
 
     html += `
       <h3>Innledning</h3>
-      <p><span class="response">℣</span> Gud, kom meg til hjelp.<br>
-         <span class="response">℟</span> Herre, vær snar til frelse.</p>
+      <p><span class="response">℣</span> Herre, åpne mine lepper.<br>
+         <span class="response">℟</span> Så skal min munn forkynne din pris.</p>
       <p><span class="response">℣</span> Ære være Faderen og Sønnen og den Hellige Ånd,<br>
          <span class="response">℟</span> som det var i opphavet, så nå og alltid og i all evighet. Amen. (Halleluja)</p>`;
 
@@ -208,4 +229,7 @@ function showHour(hour) {
   }
 }
 
-window.onload = () => showHour('completorium');
+window.onload = () => {
+  loadLiturgiskDag();
+  showHour('completorium');
+};

@@ -74,6 +74,23 @@ button.selected {
     margin-bottom: 1.5rem;
 }
 
+#liturgiskDag {
+    text-align: center;
+    font-style: italic;
+    color: #7b0000;
+    margin-top: -1rem;
+    margin-bottom: 0.2rem;
+    font-size: 1.4rem;
+}
+
+#liturgiskDato {
+    text-align: center;
+    color: #555;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+    font-size: 1rem;
+}
+
 .versicle,
 .response {
     color: #b30000;
