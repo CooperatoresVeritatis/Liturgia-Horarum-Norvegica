@@ -2,6 +2,27 @@ function getLiturgicalDay() {
   return new Date().toLocaleDateString('no-NO', { weekday: 'long' }).toLowerCase(); // e.g., 'mandag'
 }
 
+async function loadLiturgiskDag() {
+  const dagEl = document.getElementById("liturgiskDag");
+  const datoEl = document.getElementById("liturgiskDato");
+  const today = new Date().toISOString().slice(0, 10);
+
+  // Date line: always shown
+  datoEl.textContent = new Date().toLocaleDateString('no-NO', {
+    weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+  });
+
+  // Liturgical day: from ordo if available
+  try {
+    const resp = await fetch(`ordo/${today}.json`);
+    if (!resp.ok) throw new Error();
+    const data = await resp.json();
+    if (data.feast) dagEl.textContent = data.feast;
+  } catch {
+    dagEl.textContent = "";
+  }
+}
+
 async function loadCompletorium(day) {
   const section = document.getElementById("completorium");
 
@@ -93,29 +114,122 @@ en herlighet for ditt folk, Israel.<br>
   }
 }
 
+async function loadLesning(dateStr) {
+  const section = document.getElementById("lectionis");
+
+  try {
+    const response = await fetch(`ordo/${dateStr}.json`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+
+    let html = '';
+
+    if (data.mismatch_flag) {
+      html += `<p style="color:#7b0000; font-style:italic; font-size:0.9rem;">⚠ Teksten er ikke manuelt bekreftet for denne dagen.</p>`;
+    }
+
+    html += `
+      <h3>Innledning</h3>
+      <p><span class="response">℣</span> Herre, åpne mine lepper.<br>
+         <span class="response">℟</span> Så skal min munn forkynne din pris.</p>
+      <p><span class="response">℣</span> Ære være Faderen og Sønnen og den Hellige Ånd,<br>
+         <span class="response">℟</span> som det var i opphavet, så nå og alltid og i all evighet. Amen. (Halleluja)</p>`;
+
+    if (data.hymne) {
+      html += `<h3>Hymne</h3><p>${data.hymne.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    if (data.salmer && data.salmer.length) {
+      html += `<h3>Salmer</h3>`;
+      data.salmer.forEach(salme => {
+        html += `<p class="response">${salme.referanse}</p>`;
+        html += `<p><em class="response">Ant.</em> ${salme.antifon}</p>`;
+        html += `<p>${salme.tekst.join('<br>')}</p>`;
+        html += `<p><em class="response">Ant.</em> ${salme.antifon}</p><hr>`;
+      });
+    }
+
+    if (data.vers) {
+      html += `<p><span class="response">℣</span> ${data.vers.v}<br>
+               <span class="response">℟</span> ${data.vers.r}</p>`;
+    }
+
+    if (data.lesning1) {
+      html += `<h3>Første lesning</h3>`;
+      html += `<p class="response">${data.lesning1.referanse}</p>`;
+      html += `<p class="drop-cap">${data.lesning1.tekst.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    if (data.responsorium1) {
+      html += `<h3>Responsorium</h3>`;
+      html += `<p><span class="response">℟</span> ${data.responsorium1.r}<br>
+               <span class="response">℣</span> ${data.responsorium1.v}<br>
+               <span class="response">℟</span> ${data.responsorium1.r2 || data.responsorium1.r}</p>`;
+    }
+
+    if (data.lesning2) {
+      html += `<h3>Andre lesning</h3>`;
+      html += `<p class="response" style="font-style:italic;">${data.lesning2.kilde}${data.lesning2.tittel ? ' — ' + data.lesning2.tittel : ''}</p>`;
+      html += `<p class="drop-cap">${data.lesning2.tekst.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    if (data.responsorium2) {
+      html += `<h3>Responsorium</h3>`;
+      html += `<p><span class="response">℟</span> ${data.responsorium2.r}<br>
+               <span class="response">℣</span> ${data.responsorium2.v}<br>
+               <span class="response">℟</span> ${data.responsorium2.r2 || data.responsorium2.r}</p>`;
+    }
+
+    if (data.teDeum) {
+      html += `<h3>Te Deum</h3><p>${data.teDeum.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    if (data.bønn) {
+      html += `<h3>Avslutningsbønn</h3>`;
+      html += `<p><span class="response">℣</span> La oss be.</p>`;
+      html += `<p>${data.bønn}</p>`;
+    }
+
+    html += `<p><span class="response">℣</span> La oss prise Herren.<br>
+             <span class="response">℟</span> Gud være takk.</p>`;
+
+    section.innerHTML = html;
+  } catch (error) {
+    const today = new Date().toLocaleDateString('no-NO', { day: 'numeric', month: 'long' });
+    section.innerHTML = `
+      <p style="text-align:center; margin-top:2rem; color:#555;">
+        Teksten for lesningsgudstjenesten ${today} er ikke tilgjengelig ennå.<br>
+        <span style="font-size:0.9rem;">Den hentes automatisk og vil snart være her.</span>
+      </p>`;
+  }
+}
+
 function showHour(hour) {
   const allSections = document.querySelectorAll('.hour-section');
   const allButtons = document.querySelectorAll('button[data-id]');
 
   allSections.forEach(el => el.classList.remove('active'));
-  allButtons.forEach(btn => btn.disabled = true);
+  allButtons.forEach(btn => { btn.disabled = false; btn.classList.remove('selected'); });
 
   const activeSection = document.getElementById(hour);
   const activeButton = document.querySelector(`button[data-id="${hour}"]`);
 
   if (activeSection && activeButton) {
     activeSection.classList.add('active');
-    activeButton.disabled = false;
     activeButton.classList.add('selected');
   }
 
   const day = getLiturgicalDay();
+  const today = new Date().toISOString().slice(0, 10);
 
   if (hour === "completorium") {
     loadCompletorium(day);
+  } else if (hour === "lectionis") {
+    loadLesning(today);
   }
-  // Aquí podrías añadir otros como:
-  // else if (hour === "laudes") { loadLaudes(day); }
 }
 
-window.onload = () => showHour('completorium');
+window.onload = () => {
+  loadLiturgiskDag();
+  showHour('completorium');
+};

@@ -35,3 +35,12 @@ Thumbs.db
 
 # Pytest cache
 .pytest_cache/
+
+# WSL Windows zone identifier files
+*:Zone.Identifier
+
+# Python venv created in project root (use .venv/ instead)
+bin/
+lib64
+include/
+pyvenv.cfg

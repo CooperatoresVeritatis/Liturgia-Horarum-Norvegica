@@ -74,6 +74,23 @@ button.selected {
     margin-bottom: 1.5rem;
 }
 
+#liturgiskDag {
+    text-align: center;
+    font-style: italic;
+    color: #7b0000;
+    margin-top: -1rem;
+    margin-bottom: 0.2rem;
+    font-size: 1.4rem;
+}
+
+#liturgiskDato {
+    text-align: center;
+    color: #555;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+    font-size: 1rem;
+}
+
 .versicle,
 .response {
     color: #b30000;
@@ -87,4 +104,14 @@ a.button {
     color: black;
     text-decoration: none;
     border-radius: 5px;
+}
+
+/* Office of Readings: decorated initial letter */
+p.drop-cap::first-letter {
+    float: left;
+    font-size: 3.2em;
+    line-height: 0.85;
+    margin-right: 0.08em;
+    color: #7b0000;
+    font-family: 'Cardo', serif;
 }
