@@ -88,3 +88,13 @@ a.button {
     text-decoration: none;
     border-radius: 5px;
 }
+
+/* Office of Readings: decorated initial letter */
+p.drop-cap::first-letter {
+    float: left;
+    font-size: 3.2em;
+    line-height: 0.85;
+    margin-right: 0.08em;
+    color: #7b0000;
+    font-family: 'Cardo', serif;
+}

@@ -1,0 +1,45 @@
+name: Daily Ordo
+
+on:
+  schedule:
+    # 22:00 UTC = midnight Oslo time (CEST, summer). Adjust to 23:00 in winter.
+    - cron: '0 22 * * *'
+  workflow_dispatch:   # Allow manual runs from the GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # Needed to commit the ordo JSON file
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python scripts/scrape_lesning.py
+
+      - name: Commit ordo file (if new)
+        run: |
+          DATE=$(date -u '+%Y-%m-%d')
+          FILE="ordo/${DATE}.json"
+          if [ -f "$FILE" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add "$FILE"
+            # Only commit if there is something staged
+            git diff --cached --quiet || git commit -m "ordo: add ${DATE} (unverified, needs review)"
+            git push
+          else
+            echo "No new ordo file to commit."
+          fi
