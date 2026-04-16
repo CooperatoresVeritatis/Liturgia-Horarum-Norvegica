@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-16",
+  "feast": "2 torsdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260416/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 44",
+      "antifon": "Det var du som seiret, Herre, til evig tid vil vi feire ditt navn. Halleluja.",
+      "tekst": [
+        "Gud, med egne ører har vi hørt det,",
+        "våre forfedre fortalte oss sagn:",
+        "Om de storverk du gjorde i deres dager, det du gjorde i gammel tid ved din hånd.",
+        "For å plante dem drev du folkeslag bort,",
+        "for å utbre dem knuste du folkene.",
+        "Ikke var det ved sverd de vant landet, ikke seiret de ved sin arm;",
+        "men det var ved din høyre, dm arm,",
+        "ved ditt åsyns lys, for du hadde dem kjær.",
+        "Det var du, min konge og min Gud, som rådet forJakobs seire.",
+        "Ved din hjelp slo vi våre fiender til jorden,",
+        "ved ditt navn trådte vi motstanderne i støvet.",
+        "Min lit stod ikke til buen, sverdet gav ingen seier;",
+        "det var du som seiret over folkene",
+        "og dekket våre fiender med skam.",
+        "Dagen lang jublet vi i deg, vår Gud, uten opphør feiret vi ditt navn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 44",
+      "antifon": "Skån oss, Herre, gjør oss ikke til spott. Halleluja.",
+      "tekst": [
+        "Likevel støtte du oss bort med skam,",
+        "du rykker ikke lenger ut med våre hærer.",
+        "Du lar oss rømme for fienden, motstanderne røver av hjertens lyst.",
+        "Du overgir oss som dyr til slakt,",
+        "og sprer oss blant folkeslag.",
+        "Til spottpris har du solgt ditt folk, på det salget tjente du ikke.",
+        "Du gjør oss til spott for våre granner,",
+        "til spe for dem omkring oss.",
+        "Du gjør oss til et ordtak blant folkene, de trekker på skuldrene og rister på hodet.",
+        "Hele dagen står min vanære for meg,",
+        "mitt ansikt rødmer av skam,",
+        "under hån og spottende tilrop, ved synet av hat og hevn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 44",
+      "antifon": "Reis deg, Herre, kom oss til hjelp for din kjærlighets skyld. Halleluja.",
+      "tekst": [
+        "Alt dette har skjedd oss, enda vi ikke har glemt deg",
+        "og ikke har sveket din pakt.",
+        "Vi har ikke vendt våre hjerter fra deg, våre føtter forlot ikke din vei,",
+        "da du knuste oss i sjakal enes land",
+        "og dekket oss med dødens skygge.",
+        "Hadde vi glemt å tilbe vår Gud, rakt hendene ut mot en fremmed gud,",
+        "da ville vel Gud ha sett det,",
+        "han som kjenner hva hjertet holder skjult?",
+        "For din skyld drepes vi hele dagen, vi føres som sauer til slakt.",
+        "Våkn opp! Hvorfor sover du, Herre?",
+        "Sov ikke lenger, forkast oss da ikke for alltid!",
+        "Hvorfor skjuler du ditt åsyn, glemmer vår trengsel og nød?",
+        "Strupen fylles av støv,",
+        "og maven er klistret til jorden.",
+        "Reis deg, og kom oss tjl hjelp; kjøp oss fri for din kjærlighets skyld!",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Gud reiste Herren opp fra de døde. Halleluja!",
+    "r": "Og ved sin kraft skal han også reise oss opp. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 3,1-22",
+    "kilde": "Fra Johannes’ Åpenbaring — Til kirkene i Sardis, Filadelfia og Laodikea",
+    "tekst": "Jeg, Johannes, hørte Herren si til meg: Skriv til engelen for kirken i Sardes: „Så sier han som har de syv ånder fra Gud og de syv stjerner: Jeg \nkjenner ditt verk. Det sies at du lever, og dog er du død. Våkn opp, og få liv i disse døende rester! For hva min Gud kunne vente av deg, det har \njeg ikke sett deg oppfylle. Glem da ikke hvordan du tok imot ordet og lyttet til det; hold fast ved det og vend om! For våkner du ikke, da vil \njeg komme som en tyv, uten at du vet i hvilken time jeg kommer over deg. Men det finnes i Sardes noen få som ikke har sølt sine klær til, og de \nskal kles i hvitt og vandre i mitt følge, for de er verdige til det. Ja, den som seirer, i hvitt skal han kles, og hans navn vil jeg aldri slette \nav Livets Bok, men erklære for min Far og for hans engler, at ham kjennes jeg ved! Den som har ører, han høre hva Ånden sier til kirkene!\"\nSkriv til engelen i kirken i Filadelfia:\n„Så sier den hellige og sanndru, han som har Davids nøkkel, som ,åpner, slik at ingen kan stenge, og \nstenger, slik at ingen kan åpne‘: Jeg kjenner ditt verk, og jeg har satt døren åpen for deg, en dør som ingen kan stenge. For du har liten styrke, \nog allikevel har du holdt fast ved mitt ord og ikke fornektet mitt navn. Se, dem av Satans synagoge vil jeg tvinge, de bedragere som kaller seg \njøder uten å være det, dem vil jeg tvinge til å komme og falle ned for dine føtter, til å forstå hvor jeg har deg kjær.\nFordi du har holdt mitt bud om å vente tålmodig, vil også jeg holde deg fast, gjennom den tid av prøvelser som skal komme over hele verden, for \nå prøve alle dem som bor på jorden. Jeg kommer snart! Hold fast ved hva du har, så ingen får tatt din seierskrans fra deg!\nDen som seirer, ham vil jeg gjøre til en søyle i min Guds tempel, og han skal aldri flyttes ut av det igjen. Og jeg vil sette en innskrift på \nham, med min Guds navn, og navnet på min Guds by, det nye Jerusalem, som kommer ned fra himmelen, fra min Gud, og også mitt eget nye navn. Den \nsom har ører, han høre hva Anden sier til kirkene!\"\nSkriv til engelen for kirken i Laodikea:\n„Så sier Amen, det pålitelige og sanndru vitne, Guds skaperverks opphav: Jeg kjenner ditt verk, og vet at du hverken er kold eller varm. Hadde \ndu bare vært kold eller varm! Men du er lunken, og derfor, fordi du hverken er kold eller varm, vil jeg spytte deg ut av min munn. ,Jeg er rik,' \nsier du, ,jeg har skaffet meg en formue, og ingenting annet behøver jeg og vet ikke at nettopp du er en fattig og ulykkelig stakkar, en blind uten \nen tråd på kroppen! Men da vil jeg råde deg til å kjøpe av meg hva du trenger: Gull lutret i ild, så du kan bli rik, og hvite klær til å ta på \nfor å skjule din nakenhets skam, og salve til dine øyne, så du kan få synet igjen! Dem jeg har kjær, dem tukter og oppdrar jeg! Så vis da din \niver og ditt alvor, og vend om! Se, jeg står for døren og banker, og til den som hører min røst og åpner døren, vil jeg tre inn, og vi to skal \nspise nattverd sammen, jeg med ham og han med meg. Den som seirer, ham vil jeg la sette seg hos meg på min trone, slik som jeg selv har seiret \nog tatt plass hos min Far på hans trone. Den som har ører, han høre hva Anden sier til kirkene!\""
+  },
+  "responsorium1": {
+    "ref": "Åp 3,20; 2,7",
+    "v": "Se, jeg står for døren og banker; om noen hører min røst og åpner døren, Den som seirer, ham vil jeg la spise av livets tre, som er i Guds paradis.",
+    "r": "vil jeg gå inn til ham og spise nattverd med ham, og han med meg. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra en påskehomilie av den hellige Gaudentius av Brescia.",
+    "kilde": "Kristus har gitt oss det himmelske offer i arv",
+    "tekst": "Det himmelske offer, innstiftet av Kristus, er i sannhet arvegods fra det nye testamente han etterlot oss som pant på sitt nærvær, i den natt da \nhan skulle overgis for å bli korsfestet. Det er vårt vandringsbrød på reisen, det brød vi næres ved og lever av på livets vei, inntil vi forlater \nverden og går til ham. Derfor var det Herren sa: »Dersom dere ikke spiser mitt kjød og drikker mitt blod, har dere ikke livet i dere“l.\nHan ville nemlig at hans velgjerninger skulle forbli værende hos oss. Han ville at de sjeler som var blitt løskjøpt ved hans dyrebare blod, skulle \nhelliggjøres mer og mer etter forbilde av hans egen lidelse. Derfor befalte han sine trofaste disipler, som han innsatte til å være de første \nprester i hans kirke, at de uten opphør skulle feire disse mysterier som gir evig liv. Alle prester i alle kirker over hele verden må feire \ndisse mysterier inntil Kristus kommer tilbake fra himmelen. Slik kan vi alle, vi prester og hele det troende folk, hver eneste dag se Kristi \nlidelse fremstilt for våre øyne, og ved å berøre den med hendene, fortære den med munnen og ta imot den i vårt hjerte vil vi kunne eie et \nuutslettelig minne om vår forløsning.\nDessuten, siden brødet må fremstilles av fint hvetemel, malt av mange korn, iblandes vann og ferdigstekes på ild, har vi her et forståelig bilde \npå Kristi legeme som vi jo vet er ett, bestående av mange mennesker fra mange folkeslag, sammensmeltet ved den Hellige Ånds ild.\nFor Kristus er født av den Hellige Ånd, og fordi han måtte oppfylle all rettferdighet 2, steg han ned i vannet for å vigsle det, og fylt av den \nHellige And som steg ned over ham i en dues skikkelse, steg han opp av det og trakk seg tilbake fra Jordan, slik evangelisten bevitner: »Men \nfylt av den Hellige And trakk Jesus seg tilbake fra Jordan“3. På samme måte blir hans blods vin samlet fra mange klaser, druer fra den vinstokk \nhan selv har plantet, og knuses i korsets vinperse. Den fylles på rommelige kar og gjærer av egen kraft i hjertet på de troende som drikker av \nden.\nAlle dere som er på vei ut av Egypt og bort fra faraos, fra djevelens makt, mottar sammen med oss dette frelsesbringende påskeoffer med et fromt \nhjertes hunger og tørst, slik at vårt indre kan helliggjøres av vår Herre Jesus Kristus selv, han som vi tror er til stede i sine sakramenter. \nHans kraft som ikke kan måles, forblir til evig tid."
+  },
+  "responsorium2": {
+    "ref": "Luk22,19; Joh 6,50-51",
+    "v": "Jesus tok et brød, takket, brøt det, gav dem og sa: Dette er det brød som kommer ned fra himmelen; den som spiser av dette brød, skal leve til evig tid.",
+    "r": "Dette er mitt legeme som blir gitt for dere. Gjør dette til minne om meg. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Miskunnsrike Gud, la oss alltid få erfare kraften i det verk som fullbyrdes gjennom påskens hellige liturgi. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
