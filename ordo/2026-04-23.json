@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-23",
+  "feast": "3 torsdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260423/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 89",
+      "antifon": "Herre, kom oss ihu, tenk på din tjeners vanære.",
+      "tekst": [
+        "Men nå har du støtt din salvede bort,",
+        "forkastet ham i din vrede.",
+        "Du har opphevet pakten med din tjener, vanæret hans krone og trådt den i støvet.",
+        "Du har revet ned alle hans murer",
+        "og lagt hans borger i grus.",
+        "De plyndrer ham, alle som går forbi, han er blitt til spott for sine granner.",
+        "Du har løftet hans fienders høyre hånd",
+        "og gledet alle hans motstandere.",
+        "Ja, hans hvasse sverd har du trukket tilbake og ikke holdt ham oppe i striden.",
+        "Du har gjort ende på hans glans",
+        "og veltet hans trone til jorden.",
+        "Hans ungdoms dager har du forkortet, du har dekket ham med skam.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 89",
+      "antifon": "Jeg er Davids rotskudd og ættling, morgenens klare stjerne. Halleluja.",
+      "tekst": [
+        "Hvor lenge, Herre? Vil du skjule deg for alltid?",
+        "Hvor lenge skal din vrede flamme som ild?",
+        "Herre, kom ihu at mitt liv er kort, alle menneskebarn som du har skapt, forgår.",
+        "Hvor finnes den mann som ikke ser døden,",
+        "som frir sin sjel fra dødsrikets vold?",
+        "Herre, hvor er dine fordums velgjerninger som du i troskap lovet David med ed?",
+        "Herre, kom ihu din tjeners skam,",
+        "at jeg bærer alle folkenes spott i min favn.",
+        "For dine fiender spotter, Herre, håner din salvede hvor han enn går.",
+        "Lovet være Herren til evig tid.",
+        "Amen, amen.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 90",
+      "antifon": "Alle våre dager svinner som gresset. Fra evighet er du, Gud. Halleluja.",
+      "tekst": [
+        "Herre, du har vært oss en bolig",
+        "fra slekt til slekt.",
+        "Før fjellene ble til, før jorden og jorderiket ble født, fra evighet til evighet er du.",
+        "Du byr mennesket vende tilbake til støv og sier:",
+        "„Vend tilbake, menneskebarn.\"",
+        "For tusen år er i dine øyne som én dag, som dagen i går og som en nattevakt.",
+        "Du skyller dem bort som en drøm om morgenen,",
+        "de er som det groende gress.",
+        "Det gror og blomstrer en morgen, innen aftenen er det vissent og tørt.",
+        "Vi blir oppslukt av din vrede,",
+        "din harme slår oss med skrekk.",
+        "Våre misgjerninger holder du deg for øye, vår skjulte synd for ditt åsyns lys.",
+        "Alle våre dager svinner under din vrede,",
+        "årene går som et pust.",
+        "Sytti år er vår levetid, åtti for den sterke.",
+        "Men de er fulle av møye og tomhet,",
+        "forsvinner hastig og vi med dem.",
+        "Hvem har kjent styrken av din vrede, hvem frykter din harmes glød?",
+        "Lær oss å telle våre dager",
+        "for å vinne hjertets visdom.",
+        "Herre, kom! Hvor lenge vil du drøye? Ha medynk med dine tjenere.",
+        "Mett oss med din miskunn ved daggry,",
+        "og vi skal juble alle våre dager.",
+        "Vend straffens dager til glede og alle ulykkens år.",
+        "La dine tjenere se din gjerning,",
+        "din herlighet stråle over våre barn.",
+        "Herre, la din miskunn hvile over oss, styrk våre henders gjerning.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Gud reiste Herren opp fra de døde. Halleluja!",
+    "r": "Og ved sin kraft skal han også reise oss opp. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 9,13-21",
+    "kilde": "Fra Johannes’ Åpenbaring — Krig herjer på jorden",
+    "tekst": "Jeg, Johannes, så den sjette engel støte i sin basur Fra de fire hjørner på det gylne alter som står for Guc? åsyn, hørte jeg da en røst si til ham: \n„Løs de fire engler som står bundet ved den store elv Eufrat!“ Og de fire engler ble løst; de stod klar og bare ventet på det år og den måned, den \ndag og den time da de skulle drepe tredjedelen av menneskeheten. De hadde en hær på tyve tusen ganger ti tusen ryttere: Rytterne bar brynjer i \nflammerødt, røkblått og svovelgult; hestenes hoder var som løvehoder, og ut av gapet på dem stod svovel, ild og røk. Da ble tredjedelen av menneskene \ndrept av disse tre plager, av ilden, røken og svovelen som gikk ut av hestenes gap. For her ligger hestenes makt, i deres gap, men også i deres \nhaler; de er nemlig som slanger, som volder skade med sine hoder. Men resten av menneskeheten, de som ikke ble drept av disse plagene, de gjorde \nikke bot, de vendte seg ikke bort fra sine henders verk og sluttet ikke å tilbe demonene og avgudsbildene av gull, sølv og bronse, sten og tre, de \nsom hverken kan se eller høre eller gå; heller ikke angret de sine mord, sine trolldomskunster, sin utukt og sine rov."
+  },
+  "responsorium1": {
+    "ref": "Apg 17,30.31; Joel 1,14",
+    "v": "Gud befaler alle mennesker, hvor de enn er, at de må vende om. Dere som tjener Gud, kall sammen alle som bor i landet, og rop så til Herren.",
+    "r": "For han har fastsatt en dag da han skal dømme verden med rettferdighet. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Av den hellige Ireneus’ skrift „Mot alle vranglærer\".",
+    "kilde": "Eukaristien er pant på oppstandelsen",
+    "tekst": "På alle måter ugudelige er de som forkaster hele Guds råd til frelse, som benekter at legemet kan bli frelst og håner troen på dets gjenfødelse og \nsier at det ikke kan bli uforgjengelig. Men dersom kjødet ikke kan bli frelst, da har heller ikke Herren løskjøpt oss ved sitt blod, da er heller \nikke den eukaristiske kalk samfunn med hans blod, da er heller ikke det brød vi bryter, samfunn med hans legeme 1. Det finnes ikke noe blod som ikke \nkommer fra blodårene, kjøttet og resten av det som mennesket består av, og som Guds Ord virkelig ble og slik løskjøpte oss ved sitt blod. Derfor er \ndet apostelen sier: „I ham har vi forløsningen ved hans blod, syndenes forlatelse“2.\nOg fordi vi er lemmer på hans legeme og næres ved hjelp av det \nskapte, den skapning han selv stiller til rådighet for oss ved å la solen gå opp og la det regne slik han vil, sa han at den kalk som stammer fra \nskaperverket, var hans eget blod, blod som styrker vårt eget blod, og han stadfestet at det brød som kommer fra skaperverket, var hans eget legeme \nsom nærer vårt eget legeme.\nNår da kalken med vin blandet med vann og det nybakte brød tar imot Guds ord og blir Kristi blods og legemes eukaristi som vårt legeme styrkes og \nnæres ved, hvordan kan de da hevde at legemet er uskikket til å ta imot Guds gave, nemlig evig liv, siden det næres av Kristi blod og legeme og er \nlem på hans legeme? For slik sier den salige apostel i brevet til efeserne: „For vi er lemmer på hans legeme, av hans kjøtt og hans ben“3. Ikke vet \njeg hvilket åndelig og usynlig menneske han skulle si dette om, „for en ånd har ikke kjøtt og knokler“4. Nei, han taler om mennesket slik det \nvirkelig er, nemlig bestående av kjøtt og nerver og knokler, og som styrkes av kalken som er hans blod og av brødet som er hans legeme.\nDet har seg som med vintreet som etter å ha blitt satt i jorden, bærer frukt i sin tid, eller som med «hvetekornet som faller i jorden“5. Etter å ha \ngått i oppløsning bærer det mange foll ved Guds And som «fyller jorden“6.\nDeretter blir vinen og kornet til næring for menneskene ved kyndig stell. Etter å ha tatt imot Guds ord, blir de så eukaristi, det vil si Kristi \nlegeme og blod. På samme måte skal våre legemer, næret av eukaristien, lagt i jord og oppløst i jorden, oppstå i sin tid, idet Guds ord gir dem del \ni oppstandelsen «til Gud Faders ære“7, han som kler dette dødelige i udødelighet og dette forgjengelige i uforgjengelighet 8, for Guds kraft \nfullendes i avmakt 9."
+  },
+  "responsorium2": {
+    "ref": "Joh 6,48-51",
+    "v": "Jeg er livets brød; deres fedre spiste manna i ørkenen og døde siden. Jeg er det levende brød, kommet ned fra himmelen. Den som spiser av dette brød, skal leve til evig tid.",
+    "r": "Det brød som kommer ned fra himmelen, er slik at den som spiser av det, ikke dør. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Allmektige, evige Gud, du som i denne påsketid kommer oss særlig nær med din kjærlighet, hjelp oss å motta den i alltid rikere mål. Gi oss som du har utfridd av villfarelsens mørke, styrke til å holde fast ved din sannhets lys. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
