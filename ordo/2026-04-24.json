@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-24",
+  "feast": "3 fredag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260424/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 69",
+      "antifon": "Jeg har skreket meg trett av å bier på min Gud. Halleluja.",
+      "tekst": [
+        "Frels meg, min Gud,",
+        "for vannene når meg til sjelen.",
+        "Jeg er sunket i bunnløst dyp, hvor det ikke finnes feste for foten.",
+        "Jeg er kommet ut på dypet,",
+        "og strømmene river meg med seg.",
+        "Trett har jeg skreket meg, strupen brenner, mitt øye er matt av å bie på min Gud.",
+        "Langt flere enn hårene på mitt hode",
+        "er de som hater meg uten grunn.",
+        "Mange er de som vil meg til livs, som med urette står meg imot.",
+        "Hva jeg ikke har tatt,",
+        "det må jeg erstatte.",
+        "Gud, du kjenner min dårskap, min synd er ikke skjult for deg.",
+        "La ikke meg føre skam over dem som bier på deg,",
+        "Herre, hærskarenes Gud,",
+        "og ikke utsette for hån dem som søker deg, Israels Gud.",
+        "For din skyld tåler jeg spott,",
+        "mitt åsyn dekkes av skjensel.",
+        "Fremmed er jeg for mine brødre, for min mors sønner en ukjent.",
+        "Nidkjærhet for ditt hus har fortært meg,",
+        "forakten for deg faller på meg.",
+        "Jeg plaget min sjel med faste, men av det får jeg bare hån.",
+        "En sekk har jeg tatt som kledning",
+        "og jeg er bhtt dem en fabel.",
+        "Ved byporten taler de bak mm rygg, i drikkelag synger de om meg.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 69",
+      "antifon": "De gav meg galle å spise og slukket min tørst med eddik.\n Halleluja.",
+      "tekst": [
+        "Jeg retter min bønn til deg,",
+        "se, nå er nådens tid.",
+        "Gud, i din store miskunn, hør meg ved din frelsende troskap.",
+        "Frels meg fra gjørmen så jeg ikke synker,",
+        "fri meg fra hatet og vannenes dyp.",
+        "La ikke strømmen rive meg bort, la ikke dypet sluke meg, eller brønnen lukke seg over meg.",
+        "Herre, svar meg i din nådes godhet,",
+        "vend deg til meg i din store miskunn.",
+        "Skjul ikke ditt åsyn for din tjener, jeg er i nød, gi meg hurtig svar.",
+        "Kom til min sjel og forløs den,",
+        "for mine fienders skyld må du fri meg.",
+        "Du vet hvordan jeg spottes og bærer skam og skjensel.",
+        "Du kjenner alle mine fiender,",
+        "skammen har knust mitt hjerte.",
+        "Jeg ventet forgjeves medlidende ord, på trøstere, men fant ikke noen.",
+        "De gav meg galle å spise",
+        "og slukket min tørst med eddik.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 69",
+      "antifon": "Søk Herren, og deres sjel skal leve. Halleluja.",
+      "tekst": [
+        "Og meg som er arm og elendig",
+        "skal din frelse opphøye, min Gud.",
+        "Jeg vil prise Guds navn med lovsang og opphøye ham med takk.",
+        "Det er mer for Herren enn offerdyr,",
+        "enn okser med horn og klover.",
+        "De fattige skal se det og glede seg, søk Gud, og dm sjel skal leve.",
+        "For Herren har hørt de fattiges bønn",
+        "og ikke forsmådd sine fangne venner.",
+        "Lovpris ham, himmel og jord, havet og alt det som rører seg der.",
+        "For Gud vil frelse Sions stad",
+        "og oppbygge Judas byer.",
+        "Hans tjeneres ætt skal ta dem i arv, de som elsker hans navn, skal få bo der.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Kristus, da du stod opp fra de døde, Halleluja!",
+    "r": "Jublet himmel og jord. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 10,1-11",
+    "kilde": "Fra Johannes’ Åpenbaring — Seerens kall bekreftes",
+    "tekst": "Jeg, Johannes, så en annen veldig engel stige ned fra himmelen, omhyllet av en sky; en regnbue stod om hans hode, og hans åsyn var som solen, hans \nben som søyler av ild. I sin hånd holdt han en liten bokrull, som var åpnet. Han satte sin høyre fot på havet og sin venstre på jorden, og ropte med \nkraftig røst, det lød som en løves brøl. Og straks etter runget de syv tordeners røster. Da de syv tordener hadde talt, ville jeg til å skrive det \nned; men da hørte jeg en stemme fra himmelen si: „Behold de syv tordeners ord under segl, og skriv dem ikke ned!“ Og engelen, som jeg hadde sett stå \npå havet og jorden, hevet sin høyre hånd mot himmelen og sverget ved ham som lever i all evighet, han som har skapt himmel, jord og hav og alt som i \ndem er, og sa: „Tiden er ute! Og når den dag kommer, da den syvende engel støter i sin basun, da skal Guds mysterium være fullbyrdet, slik som han \nhar forkynt det for sine tjenere profetene!“\nDa talte den røst jeg hadde hørt fra himmelen, på ny til meg: „Gå og hent den åpnede boken, den som engelen som står på havet og jorden, holder i sin \nhånd.“ Da gikk jeg hen til engelen og bad ham gi meg boken. Han sa til meg: „Ta og spis den; den skal virke bitter i din buk, skjønt søt som honning \ni din munn.\" Da tok jeg boken fra engelens hånd og spiste den, og søtt som honning smakte den i min munn; men da jeg hadde spist den, virket den \nbitter i min buk. Da ble det sagt til meg: „På ny skal du profetere, mot folk og raser, tungemål og konger i mengde!“"
+  },
+  "responsorium1": {
+    "ref": "Åp 10,7; Matt 24,30",
+    "v": "Når det støtes i basunen, skal Guds mysterium være fullbyrdet, Da skal Menneskesønnens tegn vise seg på himmelen, og de skal se Menneskesønnen komme på himmelens skyer med kraft og stor herlighet,",
+    "r": "slik som han har forkynt for sine tjenere profetene. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Efrems prekener.",
+    "kilde": "Kristi kors er menneskehetens frelse",
+    "tekst": "Vår Herre ble trådt under føtter av døden, men til gjengjeld tråkket han på døden som på en vei. Han underkastet seg døden og gikk inn i den frivillig \nfor å tilintetgjøre døden, mot dødens vilje. Vår Herre bar selv sitt kors 1, slik døden ville; men på korset ropte han høyt og kalte de døde opp av \ndødsriket, selv om døden ikke ville. Døden gav ham banesår ved hjelp av det legeme han hadde; med samme våpen overvant han døden.\nGuddommen skjulte seg under menneskenaturen og kom på kloss hold av den morderiske død, og dermed ble døden drept. Døden drepte det naturlige liv, det \novernaturlige liv drepte døden selv. Fordi døden ikke kunne sluke ham uten at han hadde et legeme, fordi helvetet ikke kunne svelge ham om han ikke \nhadde kjøtt, kom han til Jomfruen for der å hente seg en stridsvogn han kunne kjøre ned i underverdenen på. I det legemet han tok opp i seg, stormet \nhan dødsriket, rev opp skattkamrene der og kastet skattene for alle vinder.\nDer kom han til Eva, mor til alt som lever. Hun er vinmarken som døden rev ned gjerdet til ved Evas egne hender, slik at den kunne nyte hennes frukt. \nSlik ble Eva, mor til alt som lever, dødens utspring for alt som er til. Men så blomstret Maria, den nye vinmark i den gamle vinmarks, i Evas sted. \nI henne bodde Kristus, det nye liv, slik at da døden, selvsikker som vanlig, kom for å gjete sin bøling, da lå livet, dødens bane, på lur i den \ndødelige frukt. Da så døden intetanende slukte ham, slapp livet fri og mange med ham.\nEr ikke tømmermannssønnen herlig, han som kjørte på sitt kors ut i de store og altoppslukende dyp og hentet menneskeslekten med seg hjem til livets \nhus? For siden det var ved treet at menneskenes ætt falt ned i avgrunnen, var det ved treet de drog til livets hus. Treet var den gang blitt innsatt \nmed bitterhet, men den kvist som nå ble podet inn, var søt, slik at vi skulle gjenkjenne ham som ingen skapning kan stå seg mot.\nÆre være deg! Du bygget ditt kors som en bro over dødens juv, en bro som sjelene kunne gå på, over fra dødens rike til livets land.\nÆre være deg! Du iførte deg et dødelig menneskes legeme og gjorde det til livets kilde for alle som dør. a, du lever! Dine drapsmenn tedde seg som \nbønder mot ditt liv, for de sådde det som hvete i jordens muld slik at det kunne skyte opp igjen og mangfoldige andre sammen med det.\nkom, la oss bære vår kjærlighet frem som et storslått og felles offer! La oss utøse oss i rikholdige sanger og bønner til ham som bar sitt kors frem \nsom offer til Gud, slik at vi ved det skulle bli rike."
+  },
+  "responsorium2": {
+    "ref": "1 Kor 15,55-56; 2 Kor 4,13.14",
+    "v": "Død, hvor er din brodd? Død, hvor er din seier? Dødens brodd er synden; Fordi vi har troens ånd, tror vi at han som oppreiste Herren Jesus, også skal oppreise oss sammen med Jesus.",
+    "r": "men Gud være takk, som gir oss seier ved vår Herre Jesus Kristus. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Allmektige Gud, vi som har erfart nåden i Herrens oppstandelse, ber deg: La oss ved din kjærlighets And oppstå til det nye liv. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
