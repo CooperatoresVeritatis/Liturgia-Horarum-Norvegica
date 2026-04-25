@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-25",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260425/readings.htm"
+  },
+  "hymne": "Jødelands apostelskare!\nHva i verden kan forklare\nkraften i ditt gamle ord,\nsom ennu gjør underverker,\nhar til stolte minnesmerker\nalle kirker på vår jord!\nHvor kan vi med dem istemme,\nsom har dypt i østen hjemme,\nderes bilder dog forstå?\nHvor kan vi i fjerne egne,\nvidne på apostlers vegne\nhva de hørte, hva de så?\nJa, hvor kan, skjønt de er døde,\nderes ord på tunger gløde,\ntrosse hån og blokk og bål?\nHvor kan deres ånd i Norden,\nja, i hver en vrå på jorden,\ntale folkets modersmål?\nHerrens Ord og pinsedagen,\nbare de forklarer saken,\ngav oss alle tungers ånd,\nAnden som kan alt utvirke,\nsom i Jesu Kristi kirke\nløser alle tungebånd!\nSandelig, det var Guds finger\nsom gav bruden ørnevinger,\nmidt i ørken, hus og gård,\nsom gav korsets ord fra østen\nkjempekraften, kvinnerøsten,\nher blant oss i tusen år.\nHva kan makte, hva kan virke\ndet som skjer i Kristi kirke -\nalt umulighet for oss?\nKun Hans Ånd, som skapte solen,\nsom på allmakts-kongestolen\nbyder død og djevel tross.",
+  "salmer": [
+    {
+      "referanse": "Salme 19 (2-7)",
+      "antifon": "De forkynner for hele jorden, til jorderiks ende når deres ord.",
+      "tekst": [
+        "Himlene forkynner Guds ære,",
+        "hvelvingen kunngjør hans henders verk.",
+        "Dag bærer bud dl dag, natt gir sin kunnskap til natt.",
+        "Uten ord og uten tale,",
+        "det er ingen lyd å høre.",
+        "De forkynner for hele jorden, til jorderiks ende når deres ord. På himmelen reiser han solen et telt.",
+        "Som en brudgom går den ut av sitt kammer,",
+        "gleder seg som en helt til å løpe sin bane.",
+        "Dens løp går fra himmelrand til himmelrand, intet er skjult for dens glød.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 64",
+      "antifon": "Han skal forkynne Herrens verk, hans gjerning skal han fatte.",
+      "tekst": [
+        "Herre, lytt til min klage,",
+        "vern mitt liv mot den truende fiende.",
+        "Skjul meg for de ondes flokk, for voldsmenn i opprør.",
+        "De som hvesser sin tunge som sverdet,",
+        "legger giftige ord på buen,",
+        "for å skyte mot den uskyldige fra bakhold. Brått skyter de ham og frykter ikke.",
+        "De støtter hverandre i sin gjerning,",
+        "pønsker på ondt og legger snarer.",
+        "De sier: Hvem kan vel se det? Hvem gjetter våre skjulte tanker?\"",
+        "Herren ser deres innerste tanker,",
+        "han som gransker menneskets hjerte.",
+        "Gud har rammet dem med sin pil, plutselig er de såret.",
+        "For deres tunge felte han dem.",
+        "Alle som ser dem, ryster på hodet.",
+        "Hvert menneske skal frykte, forkynne Herrens verk. Hans gjerning skal han fatte.",
+        "Den rettferdige skal glede seg i Herren,",
+        "ta sin tilflukt til ham;",
+        "de oppriktige av hjertet skal juble.",
+        "Ære være Faderen og Sønnen og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 97",
+      "antifon": "De kunngjør hans rettferd, folkeslagene skuer hans herlighet.",
+      "tekst": [
+        "Herren er konge, fryd deg, du jord,",
+        "de talløse øyer juble.",
+        "Omkring ham er mulm og skyer, rettferd og rett er hans trones grunnvoll.",
+        "Ild farer frem for hans åsyn,",
+        "den fortærer hans fiender.",
+        "Hans lyn opplyser jordens riker. Jorden ser det og bever.",
+        "Fjellene smelter som voks for hans åsyn,",
+        "for hele jordens Herre.",
+        "Himlene kunngjør hans rettferd, folkeslagene skuer hans herlighet.",
+        "Skam over dem som dyrker bilder,",
+        "er stolte av sine guder,",
+        "tilbe Herren, alle guder.",
+        "Sion hører det og jubler, Judas døtre synger av fryd over dine dommer, Herre.",
+        "For du, Herre, er den høyeste over hele jorden,",
+        "høyt hevet over alle guder.",
+        "Herren elsker den som hater det onde, han vokter sine og frir dem ut.",
+        "Lys rinner opp for de rettferdige",
+        "og glede for de rene av hjertet.",
+        "Juble i Herren, alle rettferdige, lovsyng hans hellige navn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "De forkynte Herrens herlighet og makt,",
+    "r": "og fortalte om hans underfulle verk."
+  },
+  "lesning1": {
+    "referanse": "Ef\t4:1-16",
+    "kilde": "Den andliga enheten",
+    "tekst": "Jag uppmanar er alltså, jag som är fånge för Herrens skull, att leva värdigt er kallelse, alltid ödmjuka och milda. Ha fördrag med varandra i tålamod och \nkärlek. Sträva efter att med friden som band bevara den andliga enheten: en enda kropp och en enda ande, liksom ni en gång kallades till ett och samma hopp. \nEn är Herren, en är tron, ett är dopet, en är Gud och allas fader, han som står över allting, verkar genom allt och finns i allt.\nVar och en av oss har fått just den nåd som Kristus har velat ge honom. Därför heter det: Han steg upp i höjden och tog fångar, han gav människorna gåvor. \n(Att han steg upp, måste inte det betyda att han också har stigit ner i underjorden? Han som har stigit ner är också den som steg upp högt över alla himlar \nför att uppfylla allting.) Så gjorde han några till apostlar, andra till profeter, till förkunnare eller till herdar och lärare. De skall göra de heliga \nmera fullkomliga och därigenom utföra sin tjänst och bygga upp Kristi kropp, tills vi alla kommer fram till enheten i tron och i kunskapen om Guds son, \nblir fullvuxna och når en mognad som svarar mot Kristi fullhet. Vi skall inte längre vara barn och låta oss drivas omkring av alla lärovindar, inte vara \nlekbollar för människorna, som vill sprida villfarelse med sina bedrägliga påfund. Nej, låt oss i kärlek hålla fast vid sanningen och växa i alla \navseenden så att vi förenas med honom som är huvudet, Kristus. Han låter hela kroppen fogas samman och hållas ihop genom att alla lederna hjälper och \nstöder, med just den kraft han ger åt varje särskild del. Då växer hela kroppen till och byggs upp i kärlek."
+  },
+  "responsorium1": {
+    "ref": "Jfr\t2\tPet 1:21; Ords 2:6",
+    "v": "Ingen profetia har förmedlats genom mänsklig vilja. Herren är den som ger vishet, från hans mun kommer kunskap och förstånd.",
+    "r": "När människor talat ord från Gud har de varit drivna av helig ande, halleluja."
+  },
+  "lesning2": {
+    "referanse": "Ur Irenaeus av Lyons skrift Mot heresierna.",
+    "kilde": "Kyrkan förkunnar sanningen",
+    "tekst": "Kyrkan är utspridd till jordens gränser likt sädeskorn på ett åkerfält. Hon mottog från apostlarna och deras lärjungar tron på den ende Guden, den allsmäktige \nFadern, som skapat himmel och jord och havet och allt som finns i dem; och på den ende Jesus Kristus, Guds Son, som för vår frälsnings skull blev människa; \noch på den helige Ande, som förkunnat Guds rådslut genom profeterna. Hon mottog hans uppståndelse från de döda, på vår älskade Herres Jesu Kristi kroppsliga \nhimmelsfärd, på hans återkomst från himlen i Faderns härlighet, för att sammanfatta allt under ett huvud och uppväcka människosläktets alla människor, så \natt enligt den osynlige Faderns rådslut alla människor i himlen, på jorden och under jorden skulle böja sina knän för Jesus Kristus vår Herre och Gud och \nvarje mun bekänna: Jesus Kristus är Herre - och han hålla en rättvis dom över alla.\nDenna förkunnelse som hon mottagit, den härovan for-mulerade tron, bevarar kyrkan noggrant, som bodde hon i ett enda hus, trots att hon är utspridd över \nhela jorden. Hon tror den förkunnade sanningen som hade hon bara ett hjärta och en själ. Hon predikar, lär och förmedlar den enstämmigt vidare, som hade \nhon bara en mun. Ty även om värl-dens språk är olika, så är dock traditionens kraft en och densamma.\nDe i Germanien grundade kyrkorna tror och förmedlar inte något annat än de spanska eller de keltiska, de i östern inte något annat än de i Egypten, i Libyen \noch i världens medelpunkt Jerusalem. Tvärtom, liksom solen, Guds skapelse, är en och densamma i hela världen, så lyser också förkunnandet av sanningen \növerallt och upplyser alla män-niskor som vill komma till insikt om sanningen. Också den bland kyrkans föreståndare som utmärker sig genom sin förkunnelse, \nförkunnar inte något annat än detta - ty ingen är förmer än mästaren; inte heller den som har svårt att predika reducerar traditionen. Eftersom tron är \nen och densamma förökas den inte av den som talar mycket därom; inte heller förminskas den av den som talar mindre därom."
+  },
+  "responsorium2": {
+    "ref": "1\tKor\t1:17-18, 21",
+    "v": "Kristus har inte sänt mig med en vältalares vishet: det skulle göra Kristi kors till tomma ord. Eftersom världen inte lärde känna Gud genom visheten, beslöt Gud att genom dårskapen i förkunnelsen rädda dem som tror.",
+    "r": "Talet om korset är en dårskap för dem som går förlorade, men för oss som räddas är det en Guds kraft."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Himmelske Fader, du gav den helige Markus nåden och äran att förmedla glädjebudet om din Son. Låt oss bli trogna lärjungar som följer i Kristi spår i allt. Genom honom, Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
+}
