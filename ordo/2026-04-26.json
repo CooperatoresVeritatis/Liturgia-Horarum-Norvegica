@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-26",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260426/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 24",
+      "antifon": "Halleluja! Stenen er veltet fra gravens åpning. Halleluja!",
+      "tekst": [
+        "Herrens er jorden og alt den bærer,",
+        "jorderik og alle som bor der.",
+        "Han festet den over havet, den står fast over vannene.",
+        "„Hvem kan stige opp på Herrens fjell?",
+        "Hvem kan stå i hans helligdom?\"",
+        "„Den som har rent hjerte og skyldfrie hender, som ikke farer med svik og ikke sverger falsk.",
+        "Han mottar velsignelse fra Herren,",
+        "rettferdighet fra Gud, sin frelser.\"",
+        "„Dette er den ætt som søker Herren, Jakob som søker ditt åsyn.\"",
+        "„Porter, løft deres buer, spring opp, evige dører,",
+        "for herlighetens Konge kommer.\"",
+        "„Hvem er den herlighetens Konge?\" „Herren, den veldige, sterk i strid.\"",
+        "„Porter, løft deres buer, spring opp, evige dører,",
+        "for herlighetens Konge kommer.\"",
+        "„Hvem er den herlighetens Konge?\" „Herren, den Høyeste, han er herlighetens Konge.\"",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 66",
+      "antifon": "Halleluja! Kvinne, hvem søker du? Hvorfor søker du den levende blant de døde? Halleluja!",
+      "tekst": [
+        "Juble for Herren, all jorden,",
+        "lovsyng hans herlige navn.",
+        "Gi Gud den ære som tilkommer ham, pris ham og si: „Hvor skremmende dine gjerninger er!“",
+        "Dine fiender kryper",
+        "for din veldige makt.",
+        "All jorden kaster seg ned for deg, lovsynger deg og priser ditt navn.",
+        "Kom og se hva Herren har gjort,",
+        "hans skremmende gjerninger",
+        "blant menneskenes barn.",
+        "Han forvandlet hav til land, tørrskodd gikk de over elven.",
+        "La oss juble og glede oss i ham.",
+        "I sin velde hersker han til evig tid.",
+        "Hans øye våker over folkene. De gjenstridige kan ikke reise seg mot ham.",
+        "Lovpris Herren, alle folk,",
+        "takk og velsign ham med jublende røst.",
+        "Han som gir oss livet igjen, bevarer våre føtter fra å vakle.",
+        "Du har satt oss på prøve, Gud,",
+        "lutret oss slik man renser sølv.",
+        "Du lot oss gå i garnet, la en bør om våre hofter.",
+        "Du satte mennesker over oss;",
+        "vi gikk gjennom ild og vann,",
+        "men du førte oss ut til overflod.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 66",
+      "antifon": "Halleluja! Gråt ikke, Maria, Herren er oppstanden!\nHalleluja!",
+      "tekst": [
+        "Jeg kommer med brennoffer til ditt hus;",
+        "jeg innfrir mine løfter til deg,",
+        "de løfter som kom over mine lepper, som min munn gav i min angst.",
+        "Som brennoffer gir jeg deg gjøfe;",
+        "røken av bukker stiger til værs,",
+        "jeg ofrer både okser og bukker.",
+        "Kom og hør, dere som frykter Gud, jeg vil fortelle hva han har gjort for meg.",
+        "Fra min munn steg ropet opp til ham,",
+        "og min munn var full av lovsang.",
+        "Hvis mitt hjerte var fylt av ondskap, hadde Herren ikke hørt min bønn.",
+        "Men Herren bønnhørte meg,",
+        "han lyttet til min klage.",
+        "Lovet være Gud som ikke forkastet min bønn, og ikke tok fra meg sin miskunn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Jeg fikk hjelp, mitt liv fikk nye krefter. Halleluja!",
+    "r": "Jeg takker deg av hele mitt hjerte. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 12,1-18",
+    "kilde": "Fra Johannes’ Åpenbaring — Kvinnen viser seg som et tegn i himmelen",
+    "tekst": "Et stort tegn viste seg i himmelen: En kvinne, kledd i solen, med månen under sine føtter, og en krans av tolv stjerner om sitt hode; hun var svanger \nog skrek i barnsnød og fødselsveer. Og et annet tegn viste seg i himmelen: En uhyre, ildrød drage, med syv hoder og ti horn og med en krone på hvert \nav de syv hoder. Med halen feide den tredjedelen av stjernene på himmelen bort og slynget dem ned på jorden. Så stilte dragen seg fremfor kvinnen som \nskulle føde, for å sluke barnet straks det var født. Da fødte kvinnen et barn, en gutt, han som en gang skal styre hedningene med et septer av jern. \nOg barnet ble revet bort, inn til Gud, inn for hans trone. Men kvinnen flyktet ut i ødemarken, hvor Gud hadde beredt henne et tilfluktssted, og hvor \ndet blir sørget for henne i tolvhundreogseksti dager.\nDa brøt det ut en krig i himmelen: Mikael og hans engler førte krig mot dragen. Og dragen førte også krig, sammen med sine engler, men bukket under \nog mistet sin plass i himmelen. Og dragen, den store, - urtidens slange, djevelen, eller Satan, er hans navn - han som fører hele verden vill, han \nble styrtet ned på jorden, og hans engler med ham. Da hørte jeg en kraftig røst fra himmelen si: „Fra nå av står frelsen og kraften fast, vår Guds \nherredømme og hans Salvedes makt! For våre brødres anklager er styrtet, han som dag og natt anklaget dem overfor vår Gud! Ved Lammets blod har de \nvunnet over ham, og ved sitt eget vitnesbyrd; de hadde ikke sitt liv for kjært til å gå i døden. Fryd dere derfor, himler, og alle som har sin bolig \nder! Ve over jorden og over havet, for djevelen er styrtet ned til dere, vill av raseri, fordi han vet at hans tid er knapp! “\nDa dragen så at den var styrtet ned på jorden, forfulgte den kvinnen som hadde født gutten. Da fikk kvinnen to vinger av den store ørn, så hun kunne \nflykte til sitt tilfluktssted i ødemarken og bli sørget for der, i én tid, to tider og en halv tid, i sikkerhet for slangen. Da spydde slangen vann \nfra sitt gap etter kvinnen, så det ble en brusende elv, som skulle rive henne med seg. Men jorden kom kvinnen til hjelp; den åpnet et gap og \noppslukte elven som dragen spydde. I sitt raseri mot kvinnen drog da dragen bort for å føre krig mot resten av hennes barn, de som følger Guds bud \nog holder fast ved Jesu vitnesbyrd. Den ble stående på havets bredd."
+  },
+  "responsorium1": {
+    "ref": "Åp 12,11.12; 2 Makk 7,36",
+    "v": "For de har vunnet ved Lammets blod og ved det ord de vitnet om. De hadde ikke livet for kjært til å gå i døden. De måtte utholde en kortvarig pine, men for sin troskap mot Guds pakt har de nå fått del i et evig liv.",
+    "r": "Derfor, fryd dere himler og alle som bor der. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Av den hellige Gregor den Stores førti homilier over evangeliene.",
+    "kilde": "Kristus er den gode hyrde",
+    "tekst": "„Jeg er den gode hyrde. Og jeg kjenner mine får“, det vil si jeg elsker dem, „og mine kjenner meg“l. Det er som om han sa rett ut: „De som elsker meg, \nadlyder meg“. For den som ikke elsker sannheten, kjenner den slett ikke. Siden dere nettop har hørt, kjæreste brødre, om de farer vi, deres hyrder, \ner utsatt for, tenk da også over hvilke farer som truer dere, ut fra Herrens egne ord. Ransak dere selv og se om dere virkelig er hans får, se etter \nom dere kjenner ham, se etter om dere kjenner lyset fra sannheten. Jeg sier „kjenner“ og med det mener jeg: kjenner, ikke ved tro, men ved kjærlighet. \nKjenner, sier jeg, ikke i tro, men i gjerning. For evangelisten Johannes som sier dette, bekrefter dette der hvor han skriver: „Den som sier at han \nkjenner Gud, men ikke holder hans bud, er en løgner“2. Derfor er det at Herren her straks legger til:\tsom Faderen kjenner meg, og jeg kjenner \nFaderen; og jeg gir mitt liv for mine får“3. Det er som om han sa rett ut: „At jeg kjenner Faderen og kjennes av ham, består i det at jeg gir mitt \nliv for mine får. Dette betyr at den kjærlighet som får meg til å dø for fårene, viser hvor høyt jeg elsker Faderen.“\nOm disse fårene sier han så: „Mine får hører min røst; jeg kjenner dem og de følger meg og jeg gir dem evig liv“4. Og litt ovenfor sier han om dem: \n«Dersom noen går inn gjennom meg, skal han bli frelst og gå inn og ut og finne beite“5. Han går nemlig inn til troen og fra troen går han ut til \nbeskuelsen, fra tro til klarsyn, og han finner beite i det evige måltid. Hans får finner altså beite, fordi den som følger ham av udelt hjerte, \nfinner næring på det evigvarende grønnsvær. For hva er de utvalgtes beitemark, om ikke den indre glede over paradisets eviggrønne have? De utvalgtes \nbeitemark er nemlig nærværet av Guds ansikt, som uten ende nærer sinnet med livets brød når det beskues uten opphør.\nLa oss da, høyt elskede, søke hen til disse gressganger hvor vi kan glede oss over festlighetene sammen med så mange medborgere. Deres glade \nfeststemning bør tjene oss til innbydelse. La oss oppildne vårt sinn, la troen flamme opp mot det som den tror, la vårt begjær slå som flammer opp \nmot himmelen. Den som elsker slik, er alt på vei. Ingen motgang skal få legge en demper på gleden ved denne indre fest. For om noen har satt seg \nfore å gå et sted, endrer da ikke ulendte veier hans forsett. Heller ikke skal rikdommens hildring få dåre oss, for tåpelig er den vandringsmann \nsom glemmer å gå dit han skulle, bare fordi han får øye på fagre enger underveis."
+  },
+  "responsorium2": {
+    "ref": "Jf. Joh 10,14.15; 1 Kor 5,7",
+    "v": "Den gode hyrde er oppstanden, han som gav sitt liv for sine får, For Kristus, vårt påskelam, er slaktet.",
+    "r": "han som ville dø for sin hjord. Halleluja!"
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Allmektige, miskunnsrike Gud, før oss til de evige gleder, så hjorden kommer dit hvor hyrden er gått forut. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
