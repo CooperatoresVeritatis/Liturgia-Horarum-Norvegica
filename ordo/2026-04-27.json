@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-27",
+  "feast": "4 mandag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260427/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 73",
+      "antifon": "Gud er god mot Israel, mot dem som er rene av hjertet.\n Halleluja.",
+      "tekst": [
+        "Ja, Gud er god mot Israel,",
+        "mot dem som er rene av hjertet.",
+        "Men jeg var nær ved å snuble, mine føtter holdt på å gli ut.",
+        "For jeg ble misunnelig på de hovmodige,",
+        "jeg så at det gikk de ugudelige vel.",
+        "De nekter seg intet så lenge de lever, de er friske og velnærte.",
+        "Menneskers møye er de fri for,",
+        "de blir ikke rammet som andre.",
+        "Derfor er hovmod deres halsbånd, voldsferd er kappen de hyller seg i.",
+        "Ondskapen strømmer fra deres indre,",
+        "hjertets tanker trenger seg frem.",
+        "De håner og taler ondskapsfullt, ovenfra truer de med vold.",
+        "De løfter munnen mot himmelen,",
+        "og tungen farer om på jorden.",
+        "Derfor vender folket seg til dem, og vann i mengder suger de i seg.",
+        "De sier: „Hvordan skulle Gud vite om det?",
+        "Har den Høyeste kjennskap til noe?“",
+        "Ja, slik er de ugudelige som alltid er trygge og øker sin rikdom.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 73",
+      "antifon": "Bytt latteren med gråt og gleden med jammer. Halleluja.",
+      "tekst": [
+        "Forgjeves har jeg holdt hjertet rent",
+        "og vasket mine hender til tegn på uskyld.",
+        "Enda ble jeg plaget hele dagen, hver morgen ble jeg tuktet.",
+        "Hadde jeg sagt: „Slik vil jeg tale,",
+        "da hadde jeg sveket dine sønners ætt.",
+        "Jeg undret meg og grublet på dette, en urett jeg ikke kunne fatte.",
+        "Til jeg gikk inn i Guds helligdom;",
+        "da skjønte jeg hvordan det går dem til slutt.",
+        "Ja, du fører dem ut på glatte veier. Du lar dem falle og gå til grunne.",
+        "De blir revet bort",
+        "og ender i redsel.",
+        "Likesom en drøm når vi våkner, jager du bort deres bilde, Herre.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 73",
+      "antifon": "De som holder seg borte fra deg, går til grunne, for meg er det godt å holde meg nær til min Gud. Halleluja.",
+      "tekst": [
+        "Så lenge mitt sinn var bittert, mitt hjerte sårt,",
+        "da var jeg dum og uforstandig,",
+        "som en flodhest var jeg mot deg.",
+        "Men jeg blir hos deg for alltid, du har grepet min høyre hånd.",
+        "Du leder meg ved ditt råd,",
+        "og siden tar du meg opp i herlighet.",
+        "Hvem har jeg ellers i himmelen? Har jeg deg, er jeg uten ønsker på jorden.",
+        "Om min kropp og mitt hjerte forgår,",
+        "er Gud for evig mitt hjertes klippe, min arvedel.",
+        "Se, de som holder seg borte fra deg, går til grunne, du gjør ende på alle som er utro mot deg.",
+        "For meg er det godt å holde meg nær til Gud,",
+        "i Herren har jeg min tilflukt.",
+        "Jeg vil forkynne alt du har gjort.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Mitt hjerte og mitt legeme, Halleluja!",
+    "r": "Jubler mot den levende Gud. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 13,1-18",
+    "kilde": "Fra Johannes’ Åpenbaring — De to dyrene",
+    "tekst": "Jeg, Johannes, så et dyr stige opp av havet. Det hadde ti horn og syv hoder, med en krone på hvert av de ti horn, og bespottelige titler skrevet på sine \nhoder. Dyret jeg så, lignet en panter, men hadde labber som en bjørn og et gap som en løve. Og dragen gav det sin styrke og sin trone, og en uhyre makt. \nEtt av dets hoder virket dødelig såret, men det dødelige sår ble leget. Hele jorden var i age og undring over dyret og fulgte det; folk falt ned for \ndragen i tilbedelse fordi den hadde gitt dyret sin makt, og så tilbad de dyret, idet de sa: „Hvem kan vel måle seg med dyret, og hvem kan vel bekjempe \ndet?“ Det ble gitt dyret en munn til å føre store ord og bespottelig tale, og myndighet til å utøve sin makt i toogførti måneder. Da åpnet det sin munn \nfor å spotte Gud, hans navn og hans bolig, og alle dem som bor i himmelen. Så fikk det lov til å føre krig mot de hellige og vinne over dem, og makt \nover hver stamme og hver rase, hvert folk og hvert tungemål. Og alle som bor på jorden, skal falle ned for det i tilbedelse - alle de som siden verdens \ngrunnvoll ble lagt, ikke har fått sitt navn skrevet i Livets bok, hos Lammet som er ofret.\nDen som har ører, han høre: Lenker til dem som skal lenkes; døden ved sverdet til dem som skal falle for sverd! Her vil det bli bruk for de helliges \nstandhaftighet og tro! Deretter så jeg et annet dyr stige opp av jorden; det hadde to horn, som et lam, men det brølte som en drage. Det får hele sin \nmyndighet fra det første dyr og utøver den i dets tjeneste; det får hele jorden og alle som bor på den til å tilbe det første dyret - det hvis sår ble \nleget. Det gjør store jærtegn; ja, det lar til og med ild falle fra himmelen ned på jorden for alles øyne. Slik forfører det alle dem som bor på jorden, \nved de jærtegn det får makt til å gjøre i Dyrets tjeneste. Og det befaler jordens beboere å lage et bilde til ære for dyret - det som var blitt såret \nmed sverd, men var vakt til live igjen. Og det fikk makt til å ånde liv inn i bildet av dyret, så det kunne tale, og makt til å la drepe alle dem som \nikke tilbad bildet av dyret. Det sørger for at alle - små og store, rike og fattige, fri menn og slaver - får et merke på sin høyre hånd eller på sin \npanne, og at ingen kan kjøpe eller selge om han ikke bærer dyrets merke på seg, dets navn eller det tall som svarer til navnet. Her er det bruk for \nvisdom! Den som har forstand, får regne ut dyrets tall. For det er tallet for et menneske - og tallet er 666."
+  },
+  "responsorium1": {
+    "ref": "Åp 3,5; Matt 10,22",
+    "v": "Den som seirer, han skal kles i hvite klær, og hans navn vil jeg aldri slette ut av livets bok, Men den som holder ut til enden, skal bli frelst.",
+    "r": "og jeg vil kjennes ved hans navn for min Far og for hans engler. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Basilios den Stores bok „Om den Hellige Ånd“.",
+    "kilde": "Ånden gir liv",
+    "tekst": "Som del av sin plan om å føre oss til livet, skjenket Herren oss dåpens pakt. Dåpen preges både av død og liv. Vannet fremstiller nemlig døden, mens \nÅnden gir pant på liv. Og dette stiller oss overfor spørsmålet: Hvorfor blandes vannet med Ånden? Fordi hensikten med dåpen er dobbel, nemlig å \ntilintetgjøre syndens legeme slik at det ikke lenger skal bære frukt for døden, men leve ved Ånden og bære frukt i hellighet. Vannet er bilde på døden \nog tar imot legemet som i en grav. Ånden inngir livgivende kraft, forynger våre sjeler og fører dem fra den dødelighet som synden var skyld i, til \nlivet slik det var fra opphavet av. Dette er å fødes på nytt, av vann og Ånd: Slik døden skjer fyldest i vannet, slik gir Ånden oss liv. Ved tre \nneddykkinger og ved samme antall påkallelser forrettes dåpens store mysterium. Ved dette kommer dødens preg klart til uttrykk, samtidig som de døptes \nsjeler blir opplyst ved å motta kunnskap om Gud.\nDersom det altså finnes noen nåde i vannet, stammer den ikke fra vannets natur, men fra den Hellige Ånds nærvær. For dåpen „er ikke noen avleggelse av \nkroppens urenhet, men en god samvittighets pakt med Gud“l. For å gjøre oss skikket til livet etter oppstandelsen, holder Herren opp for oss et liv helt \ni pakt med Evangeliet. Han pålegger oss å leve uten sinne, å tåle ondt, være ubesudlet av vellyst og ikke pengekjære. Slik gjør han oss i stand til å \nvirkeliggjøre på forhånd og av eget valg det som livet i det hinsidige innebærer av natur.\nGjennom den Hellige Ånd gjeninnsettes vi i paradiset. Vi stiger opp til himlenes rike, på nytt blir vi Guds barn. Det er Ånden som gir oss frimodighet \ntil å kalle Gud vår Far. Han gir oss del i Kristi nåde og gjør at vi kan kalles lysets barn. Gjennom Ånden får vi del i den evige herlighet, kort sagt, \neie fylden av all velsignelse, både i denne verden og i den som skal komme. Gjennom Ånden gjenspeiles den skjønne glans av de goder som ligger og venter \npå oss, som om de allerede var til stede, de gode gaver vi gjennom troen ivrer etter å nyte. Hvis dette er pantet, hvordan ser resten ut? Hvis dette er \nførstegrøden, hvordan må da ikke avlingen være?"
+  },
+  "responsorium2": {
+    "ref": "",
+    "v": "Den Hellige Ånd i en dues skikkelse stiger ned over oss etter dåpens bad, etter syndenes forlatelse. Salig er vannets mysterium som setter oss fri til det evige liv.",
+    "r": "Han bærer bud fra himmelen om Guds fred, for Noas ark var et bilde på Kirken. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Barmhjertige Gud, du som ved din Sønns fornedrelse gjenreiste den falne verden, fyll dine troende med hellig jubel. La oss som du har revet løs fra syndens trelldom, få nyte den evige glede. Ved ham, vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
