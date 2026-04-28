@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-28",
+  "feast": "4 tirsdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260428/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 102",
+      "antifon": "La mitt rop nå frem til deg, Herre, skjul ikke ditt ansikt for meg. Halleluja.",
+      "tekst": [
+        "Herre, hør min bønn,",
+        "la mitt rop nå frem til deg.",
+        "Skjul ikke ditt åsyn for meg på nødens dag! Vend ditt øre til meg og svar når jeg roper!",
+        "For mine dager svinner som røk,",
+        "mine lemmer brenner som ild.",
+        "Mitt hjerte er slått og vissent som gress, så jeg glemmer å spise mitt brød.",
+        "Jeg sukker og jeg stønner,",
+        "jeg er bare skinn og ben.",
+        "Jeg er blitt som pelikanen i ødemarken, som uglen på øde steder.",
+        "Jeg ligger våken og klager",
+        "som en enslig fugl på taket.",
+        "Mine fiender håner meg dagen lang, de som roste meg, bruker mitt navn til forbannelse.",
+        "Jeg spiser aske for brød",
+        "og blander min drikk med tårer.",
+        "Herre, fordi du var harm på meg, har du grepet meg og slengt meg bort.",
+        "Mine dager er på hell, skyggene blir lange,",
+        "jeg visner bort som gress.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 102",
+      "antifon": "Herre, hør de elendiges klage. Halleluja.",
+      "tekst": [
+        "Men du, Herre, troner til evig tid,",
+        "ditt minne varer fra slekt til slekt.",
+        "Du vil reise deg av kjærlighet til Sion; nå er tiden inne til å vise nåde, timen er kommet.",
+        "Dine tjenere elsker Sions stener,",
+        "de ynkes over dets støv.",
+        "Hedningene skal frykte Herrens navn, alle jordens konger din herlighet,",
+        "når Herren bygger Sion opp igjen",
+        "og viser seg i sin herlighet,",
+        "når han hører de elendiges klage og ikke forsmår deres bønner.",
+        "Dette skal skrives for kommende slekter,",
+        "et nyskapt folk skal love Herren.",
+        "For han bøyde seg ned fra sin hellige høysal, fra himmelen skuet han ned på jorden,",
+        "for å lytte til fangenes sukk",
+        "og løslate dem som var dømt til døden.",
+        "Da skal Herrens navn forkynnes på Sion, hans lov og pris i Jerusalem,",
+        "når folkeslag og kongeriker",
+        "kommer sammen for å tjene Herren.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 102",
+      "antifon": "Du grunnla jorden, Herre, himmelen er dine henders verk. Halleluja.",
+      "tekst": [
+        "Underveis har han svekket min kraft,",
+        "han har forkortet mine dager.",
+        "Jeg sa: Min Gud, ta meg ikke bort midt i min levetid. Dine år varer fra slekt til slekt.",
+        "Du grunnla jorden i gammel tid,",
+        "himmelen er et verk av dine hender.",
+        "De skal gå til grunne, men du forblir. De skal slites som klesplagg, du skifter dem ut.",
+        "De skiftes ut, men du er den samme,",
+        "uten ende er dine år.",
+        "Dine tjeneres barn skal få bo i fred, deres ætt skal bestå for ditt åsyn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Kristus, oppstanden fra de døde, dør ikke mer. Halleluja!",
+    "r": "Døden har ikke noe herredømme over ham mer. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 14,1-13",
+    "kilde": "Fra Johannes’ Åpenbaring — Lammet seirer",
+    "tekst": "Jeg, Johannes, hadde igjen et syn: Jeg så Lammet stå på Sions berg, og sammen med det hundreogfireog- førtitusen som bar dets navn og dets Fars navn \nskrevet på sine panner. Derpå hørte jeg fra himmelen en lyd, sterk som bruset av veldige vannfall, som drønnet av en kraftig torden, men klangen lød som \nnår harpespillere slår på sine strenger. Det er som de synger en ny sang for tronen, for de fire levende skikkelser og for presbyterne. Og ingen kunne \nlære sangen andre enn de hundre og fire og førtitusen, de som er løskjøpt fra jorden. Det er de som ikke har besmittet seg med kvinner; jomfruer er de. \nDet er de som følger Lammet hvor det så går; de er kjøpt fri, for å være for Gud og Lammet som en førstegrøde av menneskeslekten. Falskhet har man aldri \nhørt fra deres munn; de er plettfrie.\nDeretter så jeg en annen engel, som fløy oppe under himmelhvelvet; den bar det evige evangelium, som den skulle forkynne for alle dem som holder til på \njorden, for hvert folk og hver rase, hver stamme og hvert tungemål. Den ropte med høy røst: »Frykt Gud og gi ham æren, for timen for hans dom er kommet; \nså tilbe ham som har skapt alt - himmel, jord, hav og kilder!\" Og enda en annen engel fulgte ham og sa: »Falt, falt er Babylon den store, hun som har \nforført alle folkeslag, gitt dem vredens vin å drikke!\" Og en tredje engel fulgte dem og ropte med høy røst: »Den som tilber dyret og dets bilde, og \nmottar dets merke på sin panne eller på sin hånd, han skal selv få drikke av Guds vredes vin; den står oppskjenket, ublandet i hans vredes beger! Og \nhan skal pines i ild og svovel, foran de hellige engler og Lammet. I all evighet skal røken fra deres pinsel stige opp, hverken dag eller natt skal de \nfinne lindring - ingen av dem som tilber dyret og dets bilde, og som bærer dets navn som merke!\" Her må de helliges standhaftighet vise seg - de som \nholder fast ved Guds bud og troen på Jesus. Og jeg hørte en røst fra himmelen si: »Skriv: Salige er de fra nå av, de døde som dør i Herren! Ja, så sier \nÅnden: De kan hvile fra sitt strev, for deres verk følger med dem.\""
+  },
+  "responsorium1": {
+    "ref": "Åp 14,7.6.7",
+    "v": "Fra himmelen hørte jeg englerøster som sa: Jeg så en annen engel som fløy oppe under himmelhvelvet. Den ropte med høy røst:",
+    "r": "»Frykt Gud og gi ham æren; tilbe ham som har skapt alt - himmel og jord, hav og kilder.\" Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Peter Krysologos’ prekener.",
+    "kilde": "Vær offer for Gud og prester for ham",
+    "tekst": "»Jeg bønnfaller dere ved Guds miskunn\"l. Det er Paulus som ber oss, eller snarere: Gjennom Paulus er det Gud som ber oss, fordi Gud vil elskes heller \nenn fryktes. Gud ber oss fordi han heller vil være Far enn Herre. Gud bønnfaller oss ved sin miskunn heller enn å stille strenge krav.\nHør hva Herren ber oss om: „Se på meg. Er ikke mitt legeme deres legeme, mine lemmer deres lemmer, mine innvoller deres innvoller, mine ben deres ben, \nmitt blod deres blod? Om det er så at dere frykter Gud, da kan dere jo elske det som er deres? Om det er så at dere flykter fra Gud, kan dere ikke vende \ntilbake til deres far? Men kanskje dere føler dere beskjemmet på grunn av min store lidelse, som dere var skyld i? Vær ikke redde!\nKorset har ingen brodd for meg, men for døden. Naglene påfører meg ikke smerte, men gjør at jeg elsker dere inderligere. Sårene får meg ikke til å skrike \nav smerte, men fører dere dypere inn i mitt hjerte. Min kropp, utspent på korset, åpner for dere mitt fang, det øker ikke min pine. Jeg taper ikke mitt \nblod, det betales som løsepenge for dere. Kom da! Kom tilbake og forstå at jeg er deres Far, han som dere ser gjengjelde ondt med godt, hån med \nkjærlighet, sår med ømhet.“\nLa oss så høre hva det er apostelen bønnfaller oss om. Han sier: ,Jeg bønnfaller dere om å bære frem deres legemer.\" Deretter føyer han noe til, og med \ndisse ordene gjør han alle mennesker til yppersteprester: „Jeg bønnfaller dere om å bære frem deres legemer som et levende offer.\"\nHvilket utrolig prestedømme vi kristne har del i! Mennesket er både offer og prest. Det behøver ikke å lete utenfor seg selv etter det som skal ofres \ntil Gud. Mennesket som skal ofres til Gud, frembærer offeret sammen med seg selv og i seg selv og for seg selv. Offeret forblir værende, og så blir \npresten. Offeret slaktes, men det lever; presten kan ikke drepe, han som skal ofre. Hvilket forunderlig offer hvor et legeme uten legeme, hvor blod \nuten blod bæres frem! „Jeg bønnfaller dere ved Guds miskunn,\" sier han, „om å bære frem deres legemer som et levende offer.\"\nSlikt et offer skjer etter det forbilde Kristus satte, da han i levende live ofret sitt legeme for at verden skulle ha liv. Sannelig, han gjorde sitt \nlegeme til et levende offer, for han som ble ofret, lever. I denne offergave kjøpes døden ut, det som ofres, forblir, offeret lever og døden blir \nstraffet. Derfor er det martyrene fødes når de dør, de begynner livet ved livets slutt, de lever når de blir drept, de stråler som lys i himmelen, de \nsom på jorden ble holdt for å ha sluknet.\nApostlene sier: „Jeg bønnfaller dere, brødre, ved Guds miskunn, om å bære frem deres legemer som et levende og hellig offer.“ Dette er det samme som \nprofeten sang om: „Offer og offergaver ville du ikke ha, men et legeme laget du meg“2. Menneske, vær da et offer til Gud, vær hans prest. Kast ikke vrak \npå det som Gud har bemyndiget deg til. Ifør deg hellighets drakt, spenn kyskhets belte om livet; la Kristus være slør på ditt hode; stå fast med korset \npå din panne som vern; spenn gudskunnskapens mysterium om ditt bryst; tenn bønnen som velluktende røkelse; grip Andens sverd; gjør hjertet til alter. \nSlik kan du trygt bære ditt legeme frem som en offergave til Gud. For Gud vil ha tro, ikke død; han tørster etter bønn, ikke blod; han stemmes forsonlig \nav menneskets vilje, ikke av menneskets død."
+  },
+  "responsorium2": {
+    "ref": "Åp 5,9.10",
+    "v": "Verdig er du til å ta boken og bryte dens segl, for du ble slaktet som offer. Du har gjort oss til et kongerike for vår Gud og til prester for ham.",
+    "r": "Til Gud har du kjøpt oss med ditt blod. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Allmektige Gud, vi som feirer minnet om Herrens oppstandelse, ber deg: Fyll oss med glede over den gjenløsning du har skjenket oss. Ved ham, vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
