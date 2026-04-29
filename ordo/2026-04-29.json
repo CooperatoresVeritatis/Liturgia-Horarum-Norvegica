@@ -1,0 +1,115 @@
+{
+  "date": "2026-04-29",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260429/readings.htm"
+  },
+  "hymne": "Av alla visa jungfrur skönt ledsagad\ngick Katarina till sin brudgums möte.\nFör hennes lyktas rena flamma flydde\nnattliga mörkret.\nPå hennes finger sattes bröllopsringen,\nsmyckad av stenar med en ädel strålglans:\n\"Se, jag dig giver\", så ljöd Herrens stämma,\n\"kärlekens tecken.\"\nI sina syner fick hon skåda honom,\nalltid densamme, alltid dock den nye,\noch höra löftet: \"Jag skall själv dig leda\nin i min glädje.\"\nDjupt i sitt väsen rörd av helig hetta\nblev hennes ande ryckt till höga höjder,\nallt medan Kristi sår som lågor brände\ni hennes lemmar.\nGud vare lovad, prisad och välsignad,\nhan som allena allt med makt regerar,\nen och treenig, Fader, Son och Ande,\nnu och för evigt. Amen.",
+  "salmer": [
+    {
+      "referanse": "Salme 19 (2-7)",
+      "antifon": "Da du bad med tårer og pleiet de syke, bar jeg din bønn frem for Herren. Halleluja.",
+      "tekst": [
+        "Himlene forkynner Guds ære,",
+        "hvelvingen kunngjør hans henders verk.",
+        "Dag bærer bud dl dag, natt gir sin kunnskap til natt.",
+        "Uten ord og uten tale,",
+        "det er ingen lyd å høre.",
+        "De forkynner for hele jorden, til jorderiks ende når deres ord. På himmelen reiser han solen et telt.",
+        "Som en brudgom går den ut av sitt kammer,",
+        "gleder seg som en helt til å løpe sin bane.",
+        "Dens løp går fra himmelrand til himmelrand, intet er skjult for dens glød.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 45",
+      "antifon": "Tilrettevis dem som sår ufred og splid, trøst de mismodige, ha omsorg for de svake, og vær tålmodig mot alle. Halleluja!",
+      "tekst": [
+        "Mitt hjärta flödar över av sköna ord,",
+        "jag sjunger min dikt för en konung,",
+        "en snabb skrivares penna är min tunga.",
+        "Du är den skönaste bland människor,",
+        "ljuvlighet är utgjuten över dina läppar,",
+        "ja, Gud har välsignat dig för evigt.",
+        "Omgjorda dina höfter, du hjälte, med ditt svärd,",
+        "klä dig i ditt majestät och din härlighet.",
+        "Drag ut och vinn seger!",
+        "Försvara sanning och rätt!",
+        "Din högra hand skall göra underbara gärningar.",
+        "Skarpa är dina pilar,",
+        "de skall lägga folken under dig,",
+        "konungens fiender skall träffas i hjärtat.",
+        "Gud, din tron står för tid och evighet,",
+        "ditt rikes spira är rättvisans spira.",
+        "Du älskar det rätta men hatar orätt.",
+        "Därför har Gud, din Gud,",
+        "smort dig med glädjens olja mer än dina likar.",
+        "Av myrra, aloe och kassia doftar dina kläder,",
+        "från elfenbenspalats gläder dig strängaspel.",
+        "Konungadöttrar har du som tärnor i ditt hov,",
+        "en drottning står vid din högra sida i guld från Ofir.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 45",
+      "antifon": "At Herren gav sitt liv for oss, det er kjærlighetens kjennetegn. Så skylder også vi å gi vårt liv for våre brødre. Halleluja!",
+      "tekst": [
+        "Hör, dotter, och ge akt, och vänd hit ditt öra:",
+        "Glöm nu ditt folk och din faders hus,",
+        "så att konungen får ha sin lust i din skönhet,",
+        "ty han är din herre, och för honom skall du falla ned.",
+        "Dotter av Tyros, de rikaste i folket",
+        "söker vinna din ynnest med gåvor.",
+        "Idel härlighet är konungadottern i gemaket:",
+        "av guldvirkat tyg består hennes dräkt,",
+        "i brokigt vävda kläder förs hon till konungen.",
+        "Jungfrur, hennes väninnor, följer henne,",
+        "de leds in till dig.",
+        "Under glädje och fröjd förs de fram,",
+        "de tågar in i konungens palats.",
+        "Dina söner skall träda i dina fäders ställe,",
+        "du skall sätta dem. till furstar överallt i landet.",
+        "Ditt namn vill jag göra prisat",
+        "bland alla kommande släkten,",
+        "ja, folken skall lova dig, alltid och i evighet.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": ": Gitt meg gledens fylde for ditt åsyn. Halleluja!",
+    "r": "Herre, vær snar til frelse."
+  },
+  "lesning1": {
+    "referanse": "Rom 8,28-39",
+    "kilde": "Fra Romerbrevet — Intet kan skille oss fra Kristi kjærlighet",
+    "tekst": "Vi vet at Gud i alle ting er med og virker til det beste for dem som elsker ham, dem som han har kalt ifølge sin plan. For dem Gud har gjort til \nsine egne fra første ferd av, dem har han også bestemt til å bli dannet i hans Sønns bilde, slik at hans Sønn blir den førstefødte blant en mengde \nbrødre. Og de som han har bestemt til dette, dem har han også kalt; de han har kalt, dem har han rettferdiggjort; og de han har rettferdiggjort, \ndem har han også gitt del i sin herlighet.\nHva er da mer å si? Hvis Gud er for oss, hvem kan da være mot oss? Han som ikke sparte sin egen Sønn, men prisgav ham for oss alle, kan han \nannet enn med ham gi oss del i alle sine gaver? Hvem vil våge å anklage dem Gud har utvalgt? For Gud er den som frikjenner. Hvem skal kunne \nsitte til doms over dem? For Kristus Jesus er død, ja, oppstanden, og troner ved Guds høyre hånd, og går nå i forbønn for oss. Og hvem skal \nkunne skille oss fra Kristi kjærlighet? Trengsel, angst, forfølgelse, sult nakenhet, fare, sverdet? Som det heter i Skriften: ,For din skyld \ndreper de oss dagen lang, vi blir sett på som får til slakt/ Men midt i alt dette vinner vi en overveldende seier, ved ham som gav oss sin \nkjærlighet.\nJa, jeg er overbevist om at hverken død eller liv, hverken engler eller ,makter1, hverken de ting som nå er eller de ting som skal komme, hverken \nsfærenes eller dypets ,krefter1, eller noen annen skapning, skal kunne skille oss fra Guds kjærlighet, slik som den har vist seg i Kristus Jesus, \nvår Herre."
+  },
+  "responsorium1": {
+    "ref": "Jf 2 Kor 4,10; Rom 8,29",
+    "v": "Jeg bærer på mitt legeme sårene til Jesu død, Gud har på forhånd bestemt oss til å bli dannet i hans Sønns bilde.",
+    "r": "for at Jesu liv skal synliggjøres i mitt legeme. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Katarina fra Sienas „Dialog“: Takksigelse til den hellige Treenighet.",
+    "kilde": "Jeg har smakt og sett",
+    "tekst": "Evige Gud, evige Treenighet, du som ved foreningen med din guddommelige natur gav slikt verd til din enbårne Sønns blod! Du, evige Treenighet, er \nsom havets dyp hvor man stadig finner mere jo mer man søker, og jo mer jeg finner, desto mere søker jeg deg. Det er som om du metter sjelen på en \nslik måte at den forblir både sulten og tørst, fordi den higer etter å se deg i ditt lys, du som er lyset, evige Treenighet. Med min forstands \nlys har jeg smakt og sett din avgrunns dyp i ditt lys, evige Treenighet, og også skjønnheten i ditt skaperverk. Jeg så at jeg er ditt bilde når \njeg innhyller meg i deg, for du gir meg noe av din makt og din visdom, den visdom som tilkommer din enbårne Sønn. Og den Hellige And som utgår \nfra deg, Fader, og fra din Sønn, gav meg den vilje som gjør at jeg kan elske. For du, evige Treenighet, er Skaperen og jeg er din skapning. \nSlik var det jeg skjønte, opplyst av deg, i den nye skapning du gjorde meg til ved din enbårne Sønns blod, at du er fanget av kjærligheten til \nditt skaperverks skjønnhet.\nÅ dypeste avgrunn, å evige Treenighet, å guddom, å bunnløse hav: Hvilken større gave kunne du gi meg enn deg selv? Du er den ild som alltid \nbrenner og aldri brenner opp; du er den ild som fortærer all egenkjærlighet i sjelen. Du er den ild som smelter all is og opplyser sinnet med \nditt lys, det lys som fikk meg til å kjenne din sannhet. I det speil som kaster gjenskinn av din sannhets lys, kjenner jeg deg som det høyeste \ngode, som godet over alle goder, det salige gode, det ubegripelige gode, godet uten pris; skjønnhet over all skjønnhet, visdom over all visdom, \nfor du er sannheten selv, du er englers føde som gav deg selv til mennesker ved din flammende kjærlighet. Du dekker min nakenhet med din kappe, \ndu nærer hungrende med din sødme, for du er søt på smak, ikke bitter."
+  },
+  "responsorium2": {
+    "ref": "",
+    "v": "Åpne din dør for meg, søster, du som skal arve riket sammen med meg; lukk opp for meg, kjære venninne, du som fikk lære min dypeste sannhet å kjenne. Du skal gå ut av bønnens lønnkammer og vie deg til å vitne om min sannhet.",
+    "r": "Min Ånds gave gjorde deg meget rik, mitt blod som fløt for deg, renset deg for hver syndeplett. Halleluja!"
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Evige Gud, du oppflammet den hellige Katarina ved din kjærlighet da du lot henne betrakte Kristi lidelse, og slik kalte du henne til tjeneste i Kirken. Gi at ditt folk på hennes forbønn må bli forenet i Kristi lidelses mysterium så vi kan fryde oss ved hans oppstandelse, han som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
