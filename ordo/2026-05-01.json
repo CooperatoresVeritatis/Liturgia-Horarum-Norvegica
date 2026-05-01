@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-01",
+  "feast": "Josef arbetaren",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260501/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 78",
+      "antifon": "Våre fedre fortalte om Herrens velde, og om alle de under som han har gjort. Halleluja!",
+      "tekst": [
+        "Lytt, mitt folk, til min lov,",
+        "vend øret til ordene fra min munn.",
+        "Jeg vil åpne min munn og tale i bilder, bære frem gåtefulle sagn fra gammel tid.",
+        "Det vi har hørt og kjenner, det våre fedre fortalte,",
+        "det skjuler vi ikke for deres barn.",
+        "Til etterslekten vil vi fortelle om Herrens herlige verk, om hans velde og om alle de under som han har gjort.",
+        "Han reiste et vitnesbyrd i Jakob, i Israel satte han en lov",
+        "Han befalte våre fedre å gjøre den kjent for sine barn.",
+        "Han ville at kommende slekter, de barn som siden ble født, skulle lære loven å kjenne.",
+        "Så skulle de stå frem og kunngjøre den for sine barn,",
+        "så de setter sin ht til Gud,",
+        "så de ikke glemmer hva Gud har gjort, men nøye holder hans bud.",
+        "De må ikke bli som sine fedre,",
+        "en trassig og gjenstridig ætt,",
+        "en ætt som ikke stod fast i sitt hjerte, som ikke var trofast mot Gud i sin ånd.",
+        "Efraims sønner var væpnet med buer,",
+        "men de tok flukten på stridens dag.",
+        "De overholdt ikke Guds pakt og nektet å følge hans lov.",
+        "De glemte alle hans storverk,",
+        "de under han hadde latt dem få se.",
+        "Han gjorde jærtegn for deres fedre, i Egypt, i Tanis’ land.",
+        "Han kløvde sjøen og førte dem over,",
+        "mens vannet stod som en voll.",
+        "Om dagen førte han dem i skyen, om natten i en lysende ild.",
+        "Han kløvde klipper i ørkenen, gav dem vann å drikke,",
+        "rikelig, som fra havdypet under jorden.",
+        "Av berg slo han bekker, lot vannet fosse som elver.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 78",
+      "antifon": "Israels barn spiste manna og drakk av den åndelige klippe som fulgte dem. Halleluja!",
+      "tekst": [
+        "Men stadig syndet de mot ham,",
+        "i ødemarken trosset de den Høyeste.",
+        "Med vilje satte de Gud på prøve, forlangte mat etter eget begjær.",
+        "De talte mot ham og sa:",
+        "„Kan da Gud dekke bord i ødemarken?",
+        "Vel slo han på klippen så vannet fløt og bekkene flommet over,",
+        "men kan han også gi oss brød",
+        "og skaffe kjøtt til sitt folk?\"",
+        "Da Herren hørte det, ble han harm. En ild brøt ut mot Jakob.",
+        "Guds vrede flammet opp mot Israel,",
+        "fordi de ikke trodde på Gud og ikke hadde",
+        "tillit til hans frelse.",
+        "Han befalte skyene høyt oppe, åpnet himmelens dører;",
+        "manna lot han regne til føde for folket,",
+        "korn fra himmelen gav han dem.",
+        "Mennesker fikk englebrød å spise, Gud sendte dem mat så de ble mette.",
+        "Han lot østenvinden blåse fra himmelen,",
+        "vinden fra sør drev han frem med sin kraft.",
+        "Han lot kjøtt dale ned over dem som støv, fugler så mange som havets sand.",
+        "Midt i leiren lot han dem falle,",
+        "rundt omkring deres boliger.",
+        "De spiste seg mette alle, han gav dem det de ville ha.",
+        "Men før de hadde stilt sin sult, mens de satt der med mat i munnen,",
+        "da flammet Guds vrede mot dem.",
+        "Da drepte han de sterkeste blant dem, slo Israels ungdom til jorden.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 78",
+      "antifon": "De husket at Gud er deres klippe, deres vern. Halleluja!",
+      "tekst": [
+        "Likevel holdt de ikke opp med å synde,",
+        "de satte ingen lit til hans underverk.",
+        "Han lot deres dager svinne som et pust, deres leveår gikk i forferdelse.",
+        "Når han drepte dem, søkte de ham,",
+        "da vendte de om og spurte etter Gud.",
+        "Da husket de at Gud er deres klippe, den Høyeste Gud deres vern.",
+        "Men deres munn bedrog ham,",
+        "de løy for ham med sin tunge.",
+        "De holdt ikke fast ved ham i sitt hjerte, og var ikke tro mot hans pakt.",
+        "Men han, den barmhjertige, tilgav synden,",
+        "han ødela dem ikke.",
+        "Tålmodig holdt han sin harme tilbake, lot ikke sin vrede bryte ut.",
+        "Han husket at de bare var kjød,",
+        "et pust som forsvinner og aldri mer vender tilbake.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Ved din oppstandelse, Kristus, Halleluja!",
+    "r": "Jublet himmel og jord. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Ap 17,1-18",
+    "kilde": "Fra Johannes’ Åpenbaring — Babylon den store",
+    "tekst": "Jeg, Johannes, hadde et syn. En av de syv engler - de som hadde de syv skåler - kom og sa til meg: „Kom, så skal jeg vise deg hvordan den store skjøge \nfår sin dom, hun som sitter ved de veldige vann, hun som kongene på jorden har drevet utukt med, og hvis utuktsvin jordens beboere har beruset seg i!“ \nSå førte han meg, i ånden, ut i ødemarken.\nDer fikk jeg se en kvinne sitte på et skarlagensrødt dyr, som var oversådd med bespottelige titler; det hadde syv hoder og ti horn. Kvinnen var kledd \ni purpur og skarlagen, og lyste av gull og edelstener og perler; hun hadde et gyllent beger i sin hånd, fylt til randen av hennes skjøgelevnets \navskyelige og vanhellige ting. Og på hennes panne stod dette symbolske navn:,Babylon den store, mor til jordens skjøger og alle dens avskyelige ting.‘ \nOg jeg så kvinnen beruse seg i blodet fra de hellige og fra Jesu vitner.\nDette synet bragte meg i age og undring. Men engelen sa til meg: „Hva er det du undrer deg over? Jeg skal fortelle deg hva dette symbolet betyr - kvinnen \nog dyret med de syv hoder og de ti horn, som bærer henne. Dyret du ser, var og er ikke; det er like ved å stige opp av avgrunnen og gå sin undergang i \nmøte. Men jordens beboere - de hvis navn ikke står skrevet i Livets Bok siden verdens grunnvoll ble lagt - de skal fylles av age når de ser dyret som \nvar og ikke er, komme til syne. Her må den vise bruke sin forstand! De syv hoder er de syv høyder som kvinnen sitter på. De betyr også syv konger; de \nfem er falt, den sjette finnes nå, den siste er ennå ikke kommet; og når han kommer, skal han ikke vare lenge. Dyret som var og ikke er, er selv den \nåttende, men samtidig en av de syv og på vei mot sin undergang. De ti horn som du så, er ti konger som ennå ikke har fått noe rike; sammen med dyret \nskal de få kongemakt for én time. De er alle enige om å stille sin makt og sin styrke i dyrets tjeneste. De skal føre krig mot Lammet, men fordi han \ner herrenes Herre og kongenes Konge, skal Lammet seire over dem, sammen med sine, - de kalte og utvalgte trofaste.\"\nOg videre sa engelen: „Det vann som du ser, der hvor skjøgen sitter, det er folkeslag og folkemengder, raser og tungemål. Og de ti horn som du ser, og \ndyret, de kommer til å fatte fiendskap mot skjøgen, til å plyndre henne naken, spise hennes kjøtt og la restene av henne gå opp i flammer. For Gud har \ninngitt dem denne tanken for å virkeliggjøre sin plan; han har latt dem bli enige om å stille sin kongsmakt i dyrets tjeneste, inntil alle hans \nbeslutninger er utført. Men kvinnen som du så, er den store by, som hersker over jordens konger.\""
+  },
+  "responsorium1": {
+    "ref": "Ap 17,14; 6,2",
+    "v": "Jordens konger skal føre krig mot Lammet, men Lammet skal seire over dem, Det ble gitt ham en seierskrans, og med seier drog han ut for å seire.",
+    "r": "fordi han er herrenes Herre og kongenes Konge. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra det annet Vatikankonsils pastoralkonstitusjon Gaudium et spes, om Kirken i den moderne verden.",
+    "kilde": "Om menneskets gjerning i verden",
+    "tekst": "Mennesket har alltid forsøkt å forbedre sine livsbetingelser ved hjelp av arbeid og oppfinnsomhet. I våre dager har det, særlig takket være \nvitenskap og teknikk, utvidet sitt herredømme til å omfatte nesten hele naturen, og denne utvidelsen fortsetter. Takket være økede internasjonale \nforbindelser av ulik art er menneskeheten gradvis kommet dithen at den oppfatter seg selv som ett verdensomspennende fellesskap, hvilket den også \ner. Dette gjør at mange av de goder som mennesket i tidligere tider ventet seg fra høyere makter, skaffer det seg i dag ved egne krefter. Stilt \noverfor denne voldsomme utvikling som allerede hele menneskeheten er trukket med i, melder det seg mange spørsmål:\nHvilken mening og verdi har denne virksomhet?\nHvordan skal alt dette brukes?\nHvilket mål er det enkeltmennesket og samfunnet streber mot?\nKirken som holder Guds Ord i forvaring, og ut av det øser religiøse og moralske prinsipper, har ikke alltid rede svar på enkeltspørsmål, men den \nønsker å forene åpenbaringens lys med all tilgjengelig erfaring, for å kaste lys over den vei som menneskeheten nylig har slått inn på. Troende \nmennesker anerkjenner at menneskets individuelle og kollektive aktivitet, det vil si dette voldsomme oppbud av krefter som mennesket har prestert \ngjennom århundrene for å forbedre sine livsvilkår, i og for seg er i samsvar med Guds vilje. Mennesket, skapt i Guds bilde, fikk jo i oppdrag å \nunderlegge seg jorden og alt som er på den, for å styre verden i rettferdighet og hellighet. Videre skulle det føre seg selv og alle ting tilbake \ntil Gud, i anerkjennelse av ham som altets skaper, slik at når alt er mennesket underlagt, kan Guds navn være stort over den vide jord. Dette \nangår dypest sett også de mest hverdagslige gjøremål. Menn og kvinner som utfører sin gjerning på en slik måte at det tjener til samfunnets ve \nog vel, alt mens de sørger for livets opphold for seg og sine, kan med rette anse at de fører Skaperens verk videre, er til gagn for sine \nmedmennesker, og at de ved sitt personlige arbeid bidrar til at Guds hensikt med historien går i oppfyllelse. Derfor skal ikke de kristne mene \nat landevinninger menneskene har oppnådd ved sin oppfinnsomhet og virkekraft, står i motsetning til Guds makt, eller at fornuftsskapninger \nlikesom skulle være Skaperens konkurrenter, men heller anse menneskehetens seire som tegn på Guds storhet og frukter av hans uutgrunnelige plan. \nMen jo større menneskenes makt blir, desto større ansvar får de, både individuelt og kollektivt. Av dette fremgår det klart at det kristne \nbudskap ikke hindrer menneskene i å bygge verden, og heller ikke fører til å forsømme medmenneskers beste, men snarere forplikter desto mer til \nå handle med disse mål for øye."
+  },
+  "responsorium2": {
+    "ref": "Jf. Gen 2,15",
+    "v": "Gud Herren tok mannen han hadde skapt, og satte ham i Edens have, Slik ble mennesket skapt i opphavet. er syndeplett. Halleluja!",
+    "r": "for å dyrke den og vokte den. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Evige Gud, alle tings Skaper, du som har satt mennesket under arbeidets lov, gi at vi, med den hellige Josef som vern og forbilde, fullfører de oppgaver du pålegger oss, og vinner den lønn du har lovet. Ved vår Herre"
+}
