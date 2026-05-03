@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-03",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260503/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 1",
+      "antifon": "Halleluja! Stenen er veltet fra gravens åpning. Halleluja!",
+      "tekst": [
+        "Salig den mann som ikke følger de ugudeliges råd",
+        "og ikke vandrer på syndens vei,",
+        "som ikke sitter i spotteres lag, men har sin lyst i Herrens lov og grunner på den dag og natt.",
+        "Han er lik et tre plantet nær rinnende bekker,",
+        "som gir frukt i rette tid og ikke står der",
+        "med vissent løv.",
+        "Alt hva han gjør, det får han lykke til.",
+        "Men slik går det ikke dem som er uten Gud,",
+        "de er lik agner som spredes for vinden.",
+        "Derfor kan ingen ugudelig bli stående når dommen felles,",
+        "og ingen synder tre inn",
+        "i de rettferdiges forsamling.",
+        "For Herren kjenner veien der de rettferdige vandrer.",
+        "Men veien de ugudelige velger,",
+        "fører til undergang.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 2",
+      "antifon": "Halleluja! Kvinne, hvem søker du? Hvorfor søker du den levende blant de døde? Halleluja!",
+      "tekst": [
+        "Hvorfor er folkene i opprør,",
+        "hvorfor grunner de på det som fåfengt er?",
+        "Jordens konger reiser seg, fyrstene samles til råd mot Herren og mot hans salvede:",
+        "\"La oss sprenge deres lenker",
+        "og kaste repene av oss.\"",
+        "Han som troner i himmelen, ler, Herren spotter dem.",
+        "Så taler han til dem i vrede,",
+        "forferder dem ved sin harme:",
+        "\"Det er jeg som har innsatt min konge på Sion, mitt hellige fjell.\" Jeg kunngjør det Herren har fastsatt.",
+        "Han sa til meg:",
+        "„Du er min Sønn, jeg har født deg i dag.",
+        "Be meg, og jeg vil gi deg hedningefolkene i arv og den vide jord i eie.",
+        "Med jernstav skal du knuse dem,",
+        "slå dem i stykker som pottemakerens kar.“",
+        "Og nå, dere konger, vær kloke, vær advart, dere herskere på jorden!",
+        "Tjen Herren med ærefrykt, juble med beven;",
+        "kyss jorden for hans fotter,",
+        "så ikke hans vrede skal blusse opp, og dere gå til grunne på veien.",
+        "Med et slag kan hans vrede tennes.",
+        "Salig den som tar sin tilflukt til ham.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 3",
+      "antifon": "Halleluja! Gråt ikke, Maria, Herren er oppstanden.\nHalleluja!",
+      "tekst": [
+        "Herre, hvor tallrike er mine fiender,",
+        "mange er de som reiser seg mot meg.",
+        "Mange er de som sier om meg: „Det er ingen frelse for ham hos Gud.“",
+        "Men du, Herre, er meg et skjold,",
+        "du er min ære, du løfter mitt hode.",
+        "Høyt ropte jeg til Herren, og han svarte meg fra sitt hellige fjell.",
+        "Jeg la meg, sov inn og våknet,",
+        "for Herren holder meg oppe.",
+        "Jeg frykter ikke for folk i tusentall som fylker seg mot meg på alle kanter.",
+        "Reis deg, Herre! Frels meg, min Gud!",
+        "For du slår alle mine fiender på kinnet, du knuser de ugudeliges tenner.",
+        "Frelsen er hos Herren; din velsignelse hvile over ditt folk.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Jeg fikk hjelp, mitt liv fikk nye krefter. Halleluja!",
+    "r": "Jeg takker av hele mitt hjerte. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 18,21-19,10",
+    "kilde": "Fra Johannes’ Åpenbaring — Tiden for Lammets bryllup",
+    "tekst": "Jeg, Johannes, hadde et syn: En mektig engel tok en sten som en veldig kvernsten, kastet den i havet og sa: „Slik skal Babylon falle, i ett nå skal den \nstore by bli styrtet ned og for alltid forsvinne!\"\nToner av harper og fløyter, sang og klang av trompeter - aldri skal de høres hos deg mer; håndverkere av alle slag - aldri skal de virke i deg mer; \nkvernens brus skal aldri høres, og lampens lys skal aldri skinne i deg mer; stemmene av brud og brudgom - aldri skal de høres i deg mer...\nFor dine kjøpmenn var de som hadde makten her på jorden, og din trolldom var det som forhekset alle folk! Og det er i denne by man har funnet profetenes \nog de helliges blod; ja, blodet av alle dem som er blitt myrdet på jorden.\nDeretter lød det et mektig brus, det var likesom utallige himmelske kor, som sang: „Halleluja! Frelsen og æren og makten hører vår Gud til - hans dommer \ner rette og rettferdige! Han har dømt den store skjøge, som fordervet jorden med sin utukt, og han har krevd sine tjeneres blod av hennes hånd!“ Og \nigjen ropte de: „Halleluja! Røken fra henne stiger opp i all evighet!\" Da kastet de fireogtyve presbytere og de fire levende skikkelser seg ned i \ntilbedelse for Gud på hans trone, og sa: „Amen! Halleluja!\" Nå lød det fra tronen en røst: »Pris vår Gud, alle hans tjenere, alle som frykter ham, \nsmå og store!\" Da hørte jeg noe som kunne være stemmene fra en uhyre folkemengde, det lød som brusende vannfall eller drønnet av voldsomme tordenskrall: \n»Halleluja! Herren, vår Gud, Allherskeren, har overtatt herredømmet! La oss glede oss og juble og gi ham all ære: Tiden er kommet for Lammets bryllup! \nHans brud har gjort seg i stand, skinnende rent lin har hun fått å ta på!\" Linet, det betyr de helliges gode gjerningen Så sier han til meg: »Skriv: \nSalige er de som er innbudt til Lammets bryllupsmåltid.\" Og han la til: »Dette er Guds egne, sanne ord.\" Jeg kastet meg ned for hans føtter for å tilbe \nham; men da sier han: »Gjør ikke det! For jeg er en Guds tjener som du og dine brødre - de som har Jesu vitnesbyrd. Gud skal du tilbe.\" Jesu vitnesbyrd, \ndet er ånden som taler gjennom profetene."
+  },
+  "responsorium1": {
+    "ref": "Åp l4,2; 19,6; 12,10; 19,5",
+    "v": "Jeg hørte fra himmelen en lyd, sterk som bruset av mektige vannfall: Herren, vår Gud, Allherskeren, har overtatt herredømmet. Nå lød det fra tronen en røst: Pris vår Gud, alle hans tjenere, alle som frykter ham, små og store.",
+    "r": "Nå er de kommet, vår Guds frelse, hans kraft og hans rike, og hans Salvedes makt. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra en påskehomilie av den hellige Maximus, biskop av Torino.",
+    "kilde": "Kristus er dagen",
+    "tekst": "Ved Kristi oppstandelse åpnes dødsriket, ved de ny døpte fornyes jorden, ved den Hellige And åpnes himmelen. Det åpne dødsriket gir døde fra seg, den \nnye jord lar oppstandne spire frem, den åpne himmel tar imot dem som stiger opp. Endelig kommer røveren til paradiset, de avdøde helliges legemer går \ninn i den hellige by, de døde vender tilbake til livet. Ved Kristi oppstandelse blir alle naturens elementer forklaret og hevet høyere opp. Underverdenen \nsender dem den holdt fanget, tilbake til jorden, jorden dem den begravet, til himmels; himmelen fører dem den tar imot, frem for Herren. I ett nu reiser \nFrelserens lidelse opp fra underverdenen, løfter opp fra jorden, gir sete i himmelen. For Kristi oppstandelse er liv for døde, tilgivelse for syndere, \nherlighet for hellige. Den hellige profeten David innbyr all skapningen til festen for Kristi oppstandelse, for han sier at den dag som Herren har \ngjort, er en dag til fryd og til glede 1.\nKristi lys er dag uten natt, dag uten ende; hans lys er overalt, det stråler alle vegne, overalt er det uten ende. Apostelen sier at denne dag er \nKristus. „Natten er omme,“ sier han, „og dagen stunder til“. Natten er omme, sier han, og den skal aldri mer stunde til, slik at du skal skjønne at \nnår Kristi lys bryter frem, jages djevelens mørke på flukt uten at syndens natt igjen faller på. Ved sitt evige lysvell fordriver den det mørke som var, \nog beskytter mot synden som ligger på lur.\nFor det er Sønnen selv som er denne dag, han som Faderen, som er dagen, betror sin guddoms hemmelighet. Ja, det er han som er dagen, han som sier \ngjennom Salomo: „Jeg lot et evig lys stige opp på himmelen“2. Som natt aldri følger på himmelens dag, slik følger ikke syndenes mørke på Kristi \nrettferdighet. Alltid skinner himmelens dag, den funkler og stråler og har ikke i seg noe som er mørkt. Slik er det også med Kristi lys: Alltid lyser \ndet, alltid funkler det, alltid tindrer det, og noe syndemørke kan ikke være i det, slik evangelisten Johannes sier: „Og lyset skinner i mørket, og \nmørket tok ikke imot det“3.\nDerfor, mine brødre, skal vi alle glede oss på denne hellige dag. Ingen må holde seg borte fra festlighetene fordi hans samvittighet nages av synder, \ningen må unnlate å ta del i den felles bønn fordi han knuges ned av sin syndebyrde. I dag skal selv synderen ikke fortvile, men håpe på tilgivelse; \ndette er ikke noen liten fortrinnsrett. For om røveren gjorde seg fortjent til paradiset, skulle ikke et kristenmenneske fortjene tilgivelse?"
+  },
+  "responsorium2": {
+    "ref": "Sal 18,7",
+    "v": "Herrens skjønnhet er høyt hevet over stjernene, Hans løp går fra himmelrand til himmelrand, intet er skjult for hans glød.",
+    "r": "hans prakt viser seg i himmelens skyer, og hans navn består til evig tid. Halleluja!"
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Gud, allmektige Far, du har gjenløst oss og gjort oss til dine barn. Se i godhet til dem du elsker med en fars kjærlighet, og la oss som tror på Kristus, vinne sann frihet og arve det evige liv. Ved ham, vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
