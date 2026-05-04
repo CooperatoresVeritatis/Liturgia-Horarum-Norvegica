@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-04",
+  "feast": "5 mandag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260504/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 6",
+      "antifon": "Herre, frels meg for din kjærlighets skyld. Halleluja!",
+      "tekst": [
+        "Herre, tukt meg ikke i din vrede,",
+        "refs meg ikke i din harme.",
+        "Vær meg nådig, Herre, for jeg er svak, helbred meg, for mitt hjerte er urolig.",
+        "Min sjel er grepet av redsel,",
+        "Herre, hvor lenge?",
+        "Herre, vend deg hit og berg mitt liv, frels meg i dm miskunn.",
+        "I døden kommer ingen deg ihu,",
+        "i dødsriket, hvem priser deg der?",
+        "Jeg er trett av å sukke, med tårer væter jeg mitt leie.",
+        "Jeg gråter hver natt;",
+        "min seng blir badet i tårer.",
+        "Mitt øye er sløvet av bitter sorg, og svekket av all den motstand jeg møter.",
+        "Vik fra meg, alle ugjerningsmenn,",
+        "for Herren har hørt min gråt.",
+        "Herren hørte da jeg tryglet og bad, han har tatt imot mm bønn.",
+        "Alle mine fiender skal bli til skamme,",
+        "de skal gripes av redsel og flykte med skam.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 9",
+      "antifon": "Gud, du er en tilflukt for den fattige i trengselens tid. Halleluja!",
+      "tekst": [
+        "Jeg vil takke deg, Herre, av hele mitt hjerte,",
+        "berette om alle dine under.",
+        "Jeg vil glede og fryde meg i deg, lovsynge ditt navn, du Høyeste.",
+        "Da mine fiender trakk seg tilbake,",
+        "snublet de og omkom for ditt åsyn.",
+        "Du har forsvart min sak og gitt meg mm rett, har satt deg på tronen, du rettvise dommer.",
+        "Du truet folkeslag, gjorde ende på de onde",
+        "og utslettet deres navn for evig tid.",
+        "Fienden er tilintetgjort, ødelagt for alltid.",
+        "Du har lagt deres byer i grus,",
+        "ingen minnes dem mer.",
+        "Herren troner til evig tid; han har reist sitt dommersete.",
+        "Han dømmer verden med rettferd,",
+        "feller rettvis dom over folkeslag.",
+        "For de undertrykte er Herren en borg, en borg i trengselstider.",
+        "De stoler på deg, de som kjenner ditt navn,",
+        "for du svikter ikke dem som søker deg, Herre.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 9",
+      "antifon": "Jeg vil synge din lovsang i Sions porter. Halleluja!",
+      "tekst": [
+        "Syng for Herren som bor på Sion,",
+        "gjør kjent blant folkene hans store verk.",
+        "For han som hevner blod, kommer de hjelpeløse ihu; han glemmer ikke deres skrik.",
+        "ær meg nådig, Gud, og se den nød",
+        "som mine fiender har voldt meg.",
+        "Du løfter meg opp fra dødens porter eg kan forkynne dine storverk og juble over din frelse i Sions porter.",
+        "Folkeslag sank i den grav de grov,",
+        "deres fot ble fanget i garnet de spente.",
+        "Herren gav seg til kjenne og holdt dom; gudløse ble fanget i egen gjerning.",
+        "Til dødsriket skal de gudløse fare,",
+        "alle folkeslag som glemmer Gud.",
+        "Men de fattige blir ikke glemt for alltid, de hjelpeløse er ikke evig foruten håp.",
+        "Herre, reis deg! La ikke mennesker råde,",
+        "la folkeslag få sin dom for ditt åsyn!",
+        "Herre, la folkene rammes av redsel, så de innser at de bare er mennesker.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Mitt hjerte og mitt legeme. Halleluja!",
+    "r": "Jubler mot den levende Gud. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 19,11-21",
+    "kilde": "Fra Johannes’ Åpenbaring — Guds Ord seirer",
+    "tekst": "Jeg, Johannes, så himmelen åpne seg, og ut kom en hvit hest. Han som red på den kalles ,Trofast og Sann‘; han dømmer og kjemper rettferdig. Hans øyne \nflammer som ild, og på sitt hode bærer han krone på krone, og med et navn inngravert som han alene kjenner. Han er kledd i en kappe som er dyppet i \nblod, og hans navn er Guds Ord. Himmelens hærskarer følger ham på hvite hester, kledd i fint lin, hvitt og rent. Fra hans munn går det ut et skarpt \nsverd; med det skal han slå hedningene ned. Med et septer av jern skal han styre dem. Og han trår vinpersen - den som er fylt med Guds, Allherskerens \nstraffende vrede. Og på hans kappe og ved hans hofte står hans titel skrevet: Kongenes Konge og herrenes Herre. Derpå så jeg en engel, som stod i solen; \nden ropte med kraftig røst til alle fugler som flyr under himmelhvelvet: „Kom hit, kom sammen til Guds store gjestebud - for å ete kjøtt av konger og \nhøvdinger og helter, kjøtt av hester og ryttere, kjøtt av alle, frie menn og slaver, store og små!“ Da så jeg dyret og jordens konger med sine hærer \nfylket til strid mot rytteren på hesten og hans hær. Men dyret ble grepet, og samtidig grep de den falske profet, han som gjorde jærtegn i dyrets \ntjeneste, - det var ved deres hjelp han forførte dem som tok imot dyrets merke og tilbad dets bilde. Begge ble de kastet levende i ildsjøen som brenner \nmed svovel. Og alle de andre ble drept med rytterens sverd, det sverd som gikk ut av hans munn. Og alle fuglene spiste seg mette på åtslenes \nkjøtt."
+  },
+  "responsorium1": {
+    "ref": "Ap 19,13.15.16",
+    "v": "Han er kledd i en kappe som er dyppet i blod, og hans navn er Guds Ord. Og på hans kappe og ved hans hofte står det skrevet: Kongenes konge og herrenes Herre.",
+    "r": "Han trår vinpersen, den som er fylt med Guds, med Allherskerens straffende vrede. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Gregor av Nyssas taler.",
+    "kilde": "Den førstefødte av den nye skapning",
+    "tekst": "Livets rike kom, og dødens makt ble brutt. Da skjedde det en ny fødsel, et annet slags liv oppstod, en ny livsform, en nydannelse av selve vår natur \nfant sted. Denne fødsel skjedde „ikke av blod, ikke av manns vilje, ikke av kjøds vilje, men av Gud“l. På hvilken måte? Det skal jeg nå nøye forklare i \nmin tale.\nDette barnet unnfanges av troen, det kommer til verden ved gjenfødelsen i dåpen. Kirken ammer det, det dier Kirkens lære, dets næring er brødet fra \noven, dets modne alder et hederlig liv, dets ekteskap er samlivet med visdommen, dets avkom er håpet, dets hjem er Guds rike, dets arvelodd og rikdom \ner paradisets gleder. Dets endelikt er ikke døden, men det evige liv, i den salighet som venter de hellige.\n„Dette er dagen som Herren har gjort“2. Denne dagen er annerledes enn de dager som var i begynnelsen. På denne dagen skaper Gud en ny himmel og en ny \njord, slik profeten sier3. Hvilken himmel? Himmelhvelvingen er troen på Kristus. Hvilken jord? Det gode hjerte, slik Herren sier, som suger i seg det \nregn som faller på det, og bærer mange foll. I dette skaperverket er solen et kyskt liv. Stjernene er dydene. Luften er en hederlig livsførsel. Havet \ner dybden av visdom og kunnskap. Gresset og nyskuddene er den gode lære og Guds befalinger som beitemarkens folk, det vil si Guds hjord, beiter på. \nFrukttrærne er overholdelsen av budene.\nPå denne dag skapes det sanne menneske, det som er etter Guds bilde og likhet. Skjønner du nå at „dagen som Herren har skapt,“ er begynnelsen på verden? \nDet er om denne dagen profeten Sakarja sier at den ikke er en dag som andre dager og heller ikke en natt som andre netter4. Og da har vi ennå ikke \nnevnt det mest bemerkelsesverdige ved den nådegave denne dagen bringer: Den løser fra dødens veer, den føder den førstefødte av de døde.\n„Jeg går til min Far“, sier han, „og til deres Far, til min Gud og deres Gud“5. Hvilket fagert og godt budskap! For vår skyld ble han en av oss, og ved \nå inngå slektskapsbånd med oss og gjøre oss til sine brødre, trekker han oss med seg når han går frem for den sanne Far som det menneske han er."
+  },
+  "responsorium2": {
+    "ref": "1 Kor 15,21-22; 2 Pet 3,13",
+    "v": "Som døden kom ved et menneske, er også de dødes oppstandelse kommet ved et menneske. Etter hans løfte venter vi nye himler og en ny jord.",
+    "r": "Som alle dør i Adam, skal alle få liv i Kristus. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Allmektige Gud, du forener dine troende i et felles håp. La ditt folk elske det du befaler, og lengte etter det du lover, så våre hjerter under alle livets omskiftelser er fast forankret der hvor de sanne gleder finnes. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
