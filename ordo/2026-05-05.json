@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-05",
+  "feast": "5 tirsdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260505/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 10",
+      "antifon": "Herren skal forsvare de fattiges rett. Halleluja!",
+      "tekst": [
+        "Herre, hvorfor er du så fjern?",
+        "Hvorfor skjuler du ditt åsyn i trengsels tider?",
+        "Ugudelige jager i sitt hovmod den arme, men fanges selv ved de knep dę fant på.",
+        "Den gudløse priser sin onde lyst,",
+        "den griske forbanner og ringeakter Herren.",
+        "Den ugudelige sier i sitt overmot: „Gud krever ikke til regnskap.",
+        "Det finnes ingen Gud.\"",
+        "Slik er det han tenker.",
+        "Han lykkes alltid i alt han gjør; fjernt i det høye er dine dommer.",
+        "Av alle sine motstandere blåser han.",
+        "Han sier i sitt hjerte:",
+        "„Jeg skal ikke vakle, ikke lide nød fra slekt til slekt.\"",
+        "Hans munn er full av forbannelse, svik og vold,",
+        "han har urett og ondskap på tungen.",
+        "Han ligger på lur ved gårdene og dreper i lønndom uskyldige folk.",
+        "Hans øyne speider etter den svake,",
+        "han lurer som løven i krattet.",
+        "Han vil gripe den arme i bakhold, fange ham og ta ham i garnet.",
+        "Han dukker seg ned og krøker seg sammen,",
+        "den vergeløse blir tatt til fange.",
+        "„Gud glemmer,\" slik er hans tanke, „han skjuler sitt ansikt og ser det nok aldri.\"",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 10",
+      "antifon": "Herre, du ser vår elendighet. Halleluja!",
+      "tekst": [
+        "Herre, reis deg! Løft din hånd,",
+        "glem ikke de elendige.",
+        "Hvorfor skal de gudløse ringeakte Gud og si ved seg selv: „Du krever jo ikke til regnskap.\"",
+        "For du ser både møye og sorg,",
+        "du ser og tar alt i din hånd.",
+        "Hen elendige tar sin tilflukt til deg, for farløse er du en hjelper,",
+        "bryt den ondes og ugudeliges arm,",
+        "krev ham til regnskap for hans ondskap",
+        "og gjør den til intet.",
+        "Herren er konge for evig og alltid; fremmede folk skal forsvinne fra hans jord.",
+        "Herre, du hører de hjelpeløses bønn,",
+        "vender øret til dem og gir dem mot.",
+        "He farløse og undertrykte hjelper du til deres rett.",
+        "Mennesker som hører jorden til,",
+        "skal ikke lenger volde skrekk.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 12",
+      "antifon": "Herrens ord er rene som brent sølv, lutret i ilden, syv ganger renset. Halleluja!",
+      "tekst": [
+        "Hjälp oss, Herre, ty de fromma är borta,",
+        "de trogna är försvunna från jorden.",
+        "De talar lögn, den ene med den andre, med hala tungor, och med falskhet i hjärtat.",
+        "Frels meg, Herre, de fromme er borte,",
+        "trofaste mennesker finnes ikke mer.",
+        "Hver mann taler løgn med sin neste, med falske lepper og tvedelt sinn.",
+        "Ve over alle som taler svik,",
+        "hver tunge som taler store ord.",
+        "De sier: „Tungen er vår styrke. Vi har leppene med oss. Hvem er vår mester?",
+        "Herren sier:",
+        "„Fordi vergeløse undertrykkes og fattige stønner,",
+        "vil jeg reise meg nå.",
+        "Jeg vil frelse dem som lengter etter hjelp.\"",
+        "Herrens ord er rene som brent sølv, lutret i ilden, syv ganger renset.",
+        "Herre, du vil bevare oss,",
+        "alltid verne oss mot denne slekt.",
+        "Gudløse mennesker svermer omkring usseldom hersker blant menneskenes barn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Kristus, oppstanden fra de døde, dør ikke mer. Halleluja!",
+    "r": "Døden får ikke herredømme over ham mer. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 20,1-15",
+    "kilde": "Fra Johannes’ Åpenbaring — Dragens siste kamp",
+    "tekst": "Jeg, Johannes, så en engel stige ned fra himmelen, med nøkkelen til avgrunnen og en svær lenke i sin hånd. Han grep dragen, urtidens slange - \ndjevelen eller Satan - og lenket ham for tusen år. Så kastet han ham ned i avgrunnen og satte lås og segl for, for at han ikke lenger skulle føre \nfolkene vill - ikke før de tusen år var gått. Da skal han slippes fri for en kort stund.\nDeretter så jeg troner, og de satte seg på dem og fikk sin rett. Og jeg så sjelene til dem som var blitt henrettet for å ha vitnet om Jesus og \nforkynt Guds ord, og alle de som ikke hadde tilbedt dyret og dets bilde, og hadde nektet å bære dets merke på sin panne og sin hånd; de fikk liv \nigjen og hersket med Kristus i tusen år. De andre døde fikk ikke liv før de tusen år var omme. Dette er den første oppstandelse. Salig og hellig \ner den som har del i den første oppstandelse. Over dem har den annen død ingen makt; de skal være Guds og Kristi prester, og herske med ham i \ntusen år.\nMen når de tusen år er omme, da skal Satan bli befridd fra sitt fengsel og dra ut for å forføre folkene fra de fire verdenshjørner, Gog og Magog, \nog samle dem alle til krig, tallrike som havets sand. De myldret opp over hele jordens overflate og kringsatte de helliges leir og den elskede by. \nMen ild falt fra himmelen og fortærte dem. Og djevelen som forførte dem, ble kastet i den brennende svovelsjøen, der hvor dyret og den falske \nprofet befant seg; der skal de pines dag og natt i all evighet. Deretter fikk jeg se en stor, hvit trone, og ham som satt på den. Himmel og jord \nsvant bort for hans åsyn og fantes ikke lenger. Og jeg så de døde, både store og små, stå for tronen. Bøker ble åpnet, og enda en annen bok - \nLivets bok. Og de døde ble dømt, hver etter sine gjerninger, etter hva der stod skrevet i bøkene.\nOg havet gav alle sine døde tilbake, og døden og dødsriket gav sine døde fra seg, og enhver ble dømt etter sine gjerningen Og døden og dødsriket \nble kastet i ildsjøen. Ildsjøen, det er den annen død. Og den som ikke fantes oppskrevet i Livets Bok, ble kastet i ildsjøen."
+  },
+  "responsorium1": {
+    "ref": "1 Kor 15,25-26; Åp 20,13.14",
+    "v": "For Kristus skal herske som konge inntil Gud har lagt alle fiender for hans føtter; Døden og dødsriket gav sine døde fra seg, og døden og dødsriket ble kastet i ildsjøen.",
+    "r": "den siste fiende som tilintetgjøres, er døden. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Kyrillos av Alexandrias kommentar til Johannesevangeliet.",
+    "kilde": "Jeg er det sanne vintre, og Faderen er vinbonden",
+    "tekst": "I billedform sier Herren at han er en vinranke, for han vil at vi skal elske den kjærlighet som knytter oss til ham, og forstå hvor nyttig det \ner for oss å være forenet med ham. De som er forenet med ham, sammenligner han med innpodede grener, fordi de ved å ha del i den Hellige Ånd har \nfått samme natur som ham. Det er nemlig den Hellige Ånd som har knyttet oss til Kristus, Frelseren. De som har sluttet seg til ham, blir innpodet \ni vinstokken som resultat av et fritt valg, men fra vinstokkens side skjer det som resultat av dens beskaffenhet. For det er ved et godt og fritt \nvalg vi er kommet dithen gjennom troen, vi er blitt av hans slekt og fått verdighet som sønner. Dette er i samsvar med den hellige Paulus som \nsier: „Den som holder seg til Herren, er én ånd med ham“2.\nAndre steder kaller profeten ham grunnmur og fundament, for på ham bygges vi opp, vi som kalles levende og åndelige stener, til å være et hellig \npresteskap, til å være Guds bolig i den Hellige And 3. Det finnes ikke noen annen måte for oss å bygges opp til å være dette enn med Kristus som \ngrunnvolU. Og ved samme type sammenligning sier han at han er vinstokken, som er mor og amme for dem som er grener på den. For vi er blitt født \npå nytt av ham og i ham, i Anden, til å bære livets frukter, ikke det gamle, det forgangne livs frukter, men frukter som bæres i troens nye liv \nog av kjærlighet til ham. La oss trofast holde fast på det vi har fått bli, likesom innpodet i ham, idet vi usvikelig holder oss til det hellige \nbud som vi har fått. La oss legge vinn på å bevare det gode som er vårt i kraft av vår edle byrd. Dette betyr at vi må klare å ikke bedrøve på \nnoen som helst måte den Hellige And som bor i oss, for gjennom ham vet vi jo at Gud bor i oss. Den vise Johannes forklarer på hvilken måte vi \ner i Kristus og han i oss ved å si: „På dette vet vi at vi er i ham og han i oss, at han har gitt oss av sin Ånd“5.\nPå samme måte som vinrankens stamme gjør at grenene til stadighet bærer frukt, ved hjelp av sin iboende og naturgitte beskaffenhet, slik fører \nGuds enbårne Ord de hellige inn i et slags slektskapsforhold med Gud Faderens og sin egen natur ved å gi dem Anden, i den monn de er forenet med \nham ved tro og all fromhet. Han oppfostrer dem til fromhet og virker i dem kunnskap om alle dyder og all god gjerning."
+  },
+  "responsorium2": {
+    "ref": "Joh 15,4.16",
+    "v": "Bli i meg, så blir jeg i dere. Jeg har satt dere til å gå ut og bære frukt, og frukt som varer.",
+    "r": "Som grenen ikke kan bære frukt av seg selv, men bare hvis den blir på vinstokken, slik kan heller ikke dere bære frukt uten å bli i meg. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Allmektige Gud, du gjenreiser oss i Kristi oppstandelse til evig liv. Styrk ditt folk i troen og håpet, så vi aldri tviler på oppfyllelsen av dine løfter. Ved ham, vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
