@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-06",
+  "feast": "5 onsdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260506/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 18",
+      "antifon": "Herre, jeg har deg hjertelig kjær, du er min styrke og min frelse. Halleluja!",
+      "tekst": [
+        "Herre, du er min styrke,",
+        "deg har jeg hjertelig kjær.",
+        "Herren er min klippe, min borg og min befrier. Han er min Gud, mitt tilfluktsfjell.",
+        "Han er mitt skjold,",
+        "mitt horn til frelse og mitt vern.",
+        "Lovet være Herren. Jeg kalte på ham og han fridde meg ut.",
+        "Dødens lenker bandt meg,",
+        "fordervelsens strømmer forferdet meg.",
+        "Dødsrikets bånd snørte seg om meg, i min vei lå dødens snarer.",
+        "Da kalte jeg på Herren i min nød,",
+        "da ropte jeg høyt til min Gud.",
+        "Han hørte min røst fra sitt tempel, til hans øre nådde mitt rop.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 18",
+      "antifon": "Herren har frelst meg i sin store barmhjertighet. Halleluja!",
+      "tekst": [
+        "Jorden rystet og bevet,",
+        "fjellenes grunnvoller skalv for hans vrede.",
+        "Røk steg opp fra hans nese, rortærende ild fra hans munn, ut av ham sprutet gnister og glør.",
+        "Han senket himmelen og steg ned,",
+        "mørke skyer var under hans føtter.",
+        "Ridende på kjeruber for han frem, han fløy på vindens vinger.",
+        "Han gjorde mørket til sitt skjulested,",
+        "han hyllet seg i regntunge skyer.",
+        "Fra stråleglansen foran ham for skyer frem, med hagl og glødende kull.",
+        "Herren tordnet i himmelen,",
+        "aen Høyeste lot røsten lyde:",
+        "gjennom hagl og glødende kull.",
+        "Han skjøt sine piler og drev dem på flukt, slynget ut lyn og fordrev dem.",
+        "Havbunnens renner kom da til syne,",
+        "jordens grunnvoller ble blottlagt, Herre,",
+        "da du truet og fnyste av vrede.",
+        "Han rakte sin hånd fra det høye og grep meg, han drog meg opp av det dype vann.",
+        "Han fridde meg ut fra min fiendes hånd,",
+        "mine motstandere var meg for sterke.",
+        "De gikk imot meg på ulykkens dag, men Herren var meg til støtte.",
+        "Han førte meg ut på åpent land,",
+        "han fridde meg ut, for han har meg kjær.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 18",
+      "antifon": "Herre, min Gud, du lyser i den mørke natt. Halleluja!",
+      "tekst": [
+        "Herren gjorde vel mot meg for min rettferds skyld,",
+        "han lønnet meg, for mine hender var rene.",
+        "Jeg holdt meg til Herrens veier og var ikke utro mot min Gud.",
+        "Alle hans dommer hadde jeg for øye,",
+        "jeg vek ikke fra hans bud.",
+        "Jeg var ulastelig for ham og voktet meg vel for å synde.",
+        "Herren lønnet min rettferd",
+        "han så at mine hender var rene.",
+        "Du viser deg trofast mot den som er tro, fullkommen mot den som er uten lyte.",
+        "Mot den rene viser du deg ren,",
+        "men vrang mot den svikefulle.",
+        "Du frelser de hjelpeløse, tvinger de stolte øyne ned.",
+        "Herre, du setter lys i min lampe,",
+        "min Gud lyser opp mitt mørke.",
+        "Med deg kan jeg angripe festninger, ved min Gud stormer jeg murer.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Gud oppreiste Kristus fra de døde. Halleluja!",
+    "r": "Så vår tro og vårt håp skal stå til Gud. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Åp 21,1-8",
+    "kilde": "Fra Johannes Åpenbaring — Det nye Jerusalem",
+    "tekst": "Jeg, Johannes, så en ny himmel og en ny jord. For den første himmel og den første jord var forsvunnet, og havet fantes ikke mer. Og jeg så den \nhellige by, det nye Jerusalem, komme ned fra himmelen, fra Gud, smykket som en brud for sin brudgom. Og fra tronen hørte jeg en høy røst som sa: \n„Gud har oppslått sin bolig blant menneskene! Han skal bo hos dem, og de skal være hans folk; som deres egen Gud skal han være blant dem. Han \nskal tørre bort hver tåre av deres øyne, og døden skal ikke lenger være til, heller ikke sorg eller jammer eller smerte, alt det gamle er \nforbi!“\nOg han som satt på tronen sa: „Ja, jeg gjør alle ting nye.“ Og han la til: „Skriv det ned; for alt dette er pålitelig og sant.“ Derpå sa han til \nmeg: „Det er skjedd! Jeg er Alfa og Omega, opphavet og målet. Den tørstende vil jeg la drikke fritt av Livets vannkilde. Den som seirer, han \nskal få alt dette i eie; jeg vil være hans Gud, og han skal være min sønn. Men de feige, de vantro og vanhellige, mordere, utuktige, trollmenn \nog avgudsdyrkere - alle svikerne - de skal finne sin lodd i den brennende svovelsjøen; det er den annen død.“"
+  },
+  "responsorium1": {
+    "ref": "Åp 21,3.4",
+    "v": "Gud har oppslått sin bolig blant menneskene, og han skal bo hos dem. Døden skal ikke lenger være til, heller ikke sorg eller jammer eller smerte, alt det gamle er forbi.",
+    "r": "Og Gud skal tørke bort hver tåre av deres øyne. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra brevet til Diognet",
+    "kilde": "De kristne i verden",
+    "tekst": "De kristne skiller seg ikke fra andre mennesker, hverken hva fedreland, språk eller klesdrakt angår. Heller ikke bor de i egne byer eller taler \net eget språk eller har en særskilt livsstil. Det er ikke ved hjelp av vitebegjærlige menneskers påfunn og tankespinn at de har funnet opp sin \nlære, heller ikke forfekter de noe menneskelig læresystem, slik som visse andre. De bor i grekernes eller barbarenes byer, alt etter som det \nfaller i hver enkelts lodd, og de følger stedets skikk med hensyn til mat og klær og levemåte for øvrig, men de oppfører seg allikevel på \nforunderlig vis og vekker alles undring.\nI sine hjemland bor de som om de var innvandrere. De gjør sin borgerplikt, men som om de var utlendinger. I hvert fremmed land er de hjemme, og \nhvert fedreland er utlendighet for dem. De gifter seg og får barn som andre, men de setter ikke ut sitt avkom. De deler bord, men ikke seng. De \ner i kjødet, men lever ikke etter kjødet 1. De tilbringer sitt liv på jorden, men har borgerskap i himmelen2. De overholder gjeldende lover og \nmer enn oppfyller dem ved sin vandel. De elsker alle, og forfølges av alle. De blir miskjent og fordømt; de blir slått ihjel og gjort levende. \nDe er fattige, men gjør mange rike. De mangler alt, men har overflod av alt. De vanæres, men av vanære vinner de ære. De forbannes, men får rett. \nDe blir utskjelt, men velsigner. De blir ydmyket, men viser respekt. De gjør vel, og for det blir de straffet som forbrytere. Når de mishandles, \nfryder de seg som om de fikk livet i gave. Jødene bekjemper dem som hedninger, og grekerne forfølger dem, men de som hater dem, kan ikke forklare \nårsaken til fiendskapet.\nEnkelt sagt er de kristne i verden det som sjelen er i legemet. Sjelen befinner seg i alle legemets lemmer, og de kristne i alle verdens byer. \nSjelen bor i legemet, men hører ikke legemet til, og de kristne bor i verden, men hører ikke verden til. Sjelen, som er usynlig, holdes i \nhusarrest i et legeme som er synlig. Også de kristne kan erkjennes fordi de er i verden, men deres gudsdyrkelse forblir usynlig. Kjødet hater \nsjelen og bekjemper den, selv om den ikke har gjort det noe galt, fordi sjelen hindrer kjødet i å følge sine lyster. Verden hater de kristne \nsom ikke har gjort den noe galt, fordi de stiller seg i veien for dens lyster.\nSjelen elsker legemet som hater den, og dets lemmer. Også de kristne elsker dem som hater dem. Sjelen er sperret inne i legemet, men det er den \nsom holder legemet sammen. Også de kristne holdes innesperret i verden som i et fengsel, men det er de som holder verden sammen. Sjelen som er \nudødelig, bor i et dødelig telt. Også de kristne har midlertidig opphold i det forgjengelige, mens de ser frem til uforgjengeligheten i himmelen. \nNår sjelen nektes mat og drikke, foredles den; også de kristne, når de mishandles, blir dag for dag flere. Gud har satt dem på en utpost de ikke \nhar lov til å be seg fri fra."
+  },
+  "responsorium2": {
+    "ref": "Joh 8,12; Sir 24,18 (Vulg 24,25)",
+    "v": "Jeg er verdens lys. I meg er all veis og sannhets nåde, i meg er alt livs og styrkes håp.",
+    "r": "Den som følger meg, skal ikke vandre i mørke, men ha livets lys. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Barmhjertige Gud, du som elsker og gjenoppretter vår uskyld, vend dine tjeneres hjerter til deg. La dem du har utfridd av vantroens mørke, aldri vike bort fra din sannhets lys. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
