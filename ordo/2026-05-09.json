@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-09",
+  "feast": "5 lørdag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260509/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 105",
+      "antifon": "Syng for Herren, kom ihu hans underverk. Halleluja!",
+      "tekst": [
+        "Lovsyng Herren, påkall hans navn,",
+        "kunngjør hans storverk blant folkene.",
+        "Syng og spill for ham, tal om alle hans under.",
+        "Ros dere av hans hellige navn,",
+        "de som søker Herren skal glede seg.",
+        "Søk Herren og hans makt, søk alltid hans åsyn.",
+        "Kom ihu hans underverk,",
+        "hans tegn og de dommer hans munn har talt,",
+        "dere, hans tjener Abrahams barn, sønner av Jakob, hans utvalgte.",
+        "Han er Herren, vår Gud,",
+        "hans rett råder over hele jorden.",
+        "Han minnes sin pakt til evig tid, det ord han gav til tusen slekter.",
+        "Den pakt han sluttet med Abraham",
+        "og eden han svor til Isak.",
+        "Den satte han til lov for Jakob, til evig pakt for Israel.",
+        "Han sa: „ Jeg gir dem Kanaans land",
+        "til odel og eie.“",
+        "De var ennå få i tall, en liten, innflyttet flokk, da de vandret fra folk til folk, fra det ene rike til det andre.",
+        "Han tillot ingen å kue dem,",
+        "for deres skyld tuktet han konger:",
+        "„Rør ikke mine salvede, gjør ikke ondt mot mine profeter.\"",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 105",
+      "antifon": "Gud glemte ikke den rettferdige, solgt som trell. Han fridde ham fra syndernes makt. Halleluja!",
+      "tekst": [
+        "Han kalte hungersnød over landet,",
+        "tok fra dem brødet, deres stav og støtte.",
+        "Foran dem sendte han en mann, som trell ble Josef solgt.",
+        "De tvang hans føtter i lenker,",
+        "jern ble lagt om hans hals,",
+        "inntil det ord han talte slo til og Herrens ord gav ham rett.",
+        "Da kongen sendte bud, ble han fri,",
+        "folkenes hersker slapp ham løs.",
+        "Han satte ham til herre over sitt hus, til styrer over alt sitt eie.",
+        "Han skulle rettlede stormenn etter sin vilje",
+        "og lære de eldste visdom.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 105",
+      "antifon": "Herren mintes sitt hellige ord, han lot sitt folk dra ut med glede. Halleluja!",
+      "tekst": [
+        "Så kom Israel til Egypt;",
+        "i hamittenes land bodde Jakob som fremmed.",
+        "Gud lot sitt folk bli meget fruktbart, sterkere enn dets fiender gjorde han det.",
+        "Han vendte deres hjerte, så de hatet hans folk",
+        "og fór med svik mot hans tjenere.",
+        "Da sendte han Moses, sin tjener, og Aron som han valgte seg ut.",
+        "De gjorde blant egypterne de tegn han hadde sagt,",
+        "jærtegn i hamittenes land.",
+        "Han sendte mørke, og mørket falt på, men allikevel trosset de hans ord.",
+        "Han gjorde vannet hos dem til blod",
+        "og tok livet av deres fisker.",
+        "Det krydde av frosk i landet helt inn i kongens saler.",
+        "På hans ord kom det svermer av klegg,",
+        "og mygg i hele landet.",
+        "I stedenfor regn gav han dem hagl, og sendte flammer av ild over landet.",
+        "Han slo vintrær og fikentrær ned,",
+        "brøt av hvert tre i riket.",
+        "Han bød, da kom gresshoppesvermer og larver i mengder uten tall.",
+        "De åt opp alt som vokste i landet",
+        "og markens grøde gnog de av.",
+        "Han slo alle de førstefødte i landet, førstegrøden av folkets kraft.",
+        "Med sølv og gull førte han ut sitt folk,",
+        "det var ingen i hans stammer som snublet.",
+        "Det var glede i Egypt da de drog, for folket var slått av redsel.",
+        "Han skjulte dem bak en sky,",
+        "satte ild til å lyse om natten.",
+        "De bad om mat og han sendte dem vaktler, med brød fra himmelen mettet han dem.",
+        "Han åpnet klippen og vann strømmet frem,",
+        "det rant som en elv i det tørre land.",
+        "For han mintes sitt hellige ord til Abraham, sin tjener.",
+        "Derfor lot han sitt folk dra ut med glede,",
+        "sine utvalgte fare under jubelrop.",
+        "Han gav dem hedningenes land i eie, de høstet frukten av folkeslagenes strev.",
+        "For at de skulle lyde hans bud",
+        "og holde hans lover i hevd.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Ved Jesu Kristi oppstandelse fra de døde. Halleluja!",
+    "r": ""
+  },
+  "lesning1": {
+    "referanse": "Åp 22,10-21",
+    "kilde": "",
+    "tekst": ""
+  },
+  "responsorium1": {
+    "ref": "Åp 22,16.17.20; Jes 55,1.3",
+    "v": "Jeg er Davids rotskudd og ætling, den klare morgenstjerne. Ånden og bruden sier: Kom! Hør, alle som tørster, kom hit og få vann; vend øret hit og kom til meg.",
+    "r": "Den som hører, han si: Kom, ja, kom, Herre Jesus! Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Augustins kommentar til salme 148.",
+    "kilde": "Påskens Halleluja",
+    "tekst": "Vi må forberede oss på det kommende liv ved å lovprise Gud i dette. Den evige jubel i det kommende liv kommer til å bestå i å lovsynge Gud, \nog ingen kan bli skikket til det kommende liv som ikke forbereder seg på det i det nåværende. Derfor priser vi Gud nå, men samtidig ber vi til \nham. Vår lovprisning preges av glede, men bønnen av sukk. Vi er blitt lovet noe vi ennå ikke har, og fordi han er sannferdig, han som har lovet \ndet, gleder vi oss i håpet, men fordi vi ennå ikke har fått det, sukker vi av lengsel. Det er godt for oss å forbli i lengselen inntil det som \ner lovet, kommer, for da forstummer sukket og det blir bare lovsang igjen. Det finnes altså to tidsepoker, den ene, den som nå er, med dette \nlivs fristelser og trengsler, og en annen, den som da skal komme, med trygghet og evig jubel. Derfor er det vi har den skikk å feire to tider, \nden før og den etter påske. Tiden før påske betegner den trengselstid vi befinner oss i her og nå; tiden etter påske, den vi nå feirer, betegner \nden salighet vi skal være i senere. Det vi feirer før påske, er det liv vi lever her og nå; etter påske betegner det vi feirer, det som vi ennå \nikke eier. Derfor tilbringer vi tiden før påske i faste og bønn, men nå, i tiden etter påske, har vi sluttet å faste og tilbringer tiden i \njubel og lovsang. Ordet «Halleluja\" som vi synger, betyr, som dere vet: „Lov Herren.\"\nI Kristus, vårt hode, ser vi begge disse tider fremstilt, begge blir vist oss. Herrens lidelse er det nåværende liv hvor vi er nødt til å streve, \nlide ondt og til sist dø. Herrens oppstandelse og forklarelse, derimot, viser hen mot det liv som skal bli vårt.\nDerfor formaner vi dere, brødre og søstre, å love Herren, og det er jo dette vi sier til hverandre når vi synger: «Halleluja!\" „Lov Herren,\" \nsier du til den andre og han til deg; når alle oppmuntrer hverandre, gjør alle det som de oppfordrer til. Men du må love ham med hele deg. Det \nbetyr at ikke bare din tunge eller din stemme skal lovsynge Gud, men også din samvittighet, din måte å leve på, dine gjerninger. Selvsagt priser \nvi Gud når vi er samlet i kirken, men når hver går til sitt, kan det virke som om vi slutter å lovsynge Gud. Men dersom vi fortsetter å føre et \ngodt liv, fortsetter vi i virkeligheten å lovprise Gud. Du slutter å prise Gud når du ikke gjør det som er i samsvar med rettferdigheten, og \nmed det som er ham til behag. Dersom du aldri unnlater å leve hederlig, da er det ditt liv som roper, selv om din tunge tier, og Gud lytter \ntil ditt hjerte. Slik våre ører hører våre stemmer, slik hører Guds ører våre tanker."
+  },
+  "responsorium2": {
+    "ref": "Joh 16,20",
+    "v": "Deres sorg Verden skal glede seg, dere skal sørge, men deres sorg",
+    "r": "skal forvandles til glede. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Allmektige, evige Gud, ved gjenfødelsen i dåpen har du skjenket oss ditt eget liv. Vi ber deg: Vern om oss som du har rettferdiggjort og gitt løfte om udødelighet, og før oss inn i din herlighets fylde. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
