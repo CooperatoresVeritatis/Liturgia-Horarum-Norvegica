@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-10",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260510/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 104",
+      "antifon": "Halleluja! Stenen er veltet fra gravens åpning. Halleluja!",
+      "tekst": [
+        "Lov Herren, min sjel,",
+        "Herre, min Gud, hvor du er stor!",
+        "Du har kledd deg i høyhet og herlighet, lyset er kappen du hyller deg i.",
+        "Du spente himlene ut som et telt",
+        "og tømret din høysal over vannet.",
+        "Du gjør skyene til dm vogn og farer frem på vindens vinger.",
+        "Vindene gjør du til sendebud,",
+        "ildsluer til dine tjenere.",
+        "Du grunnfestet jorden på dens søyler, aldri i evighet skal den rokkes.",
+        "Havdypet dekket den som en kappe,",
+        "vannene stod over fjellene.",
+        "Men de flyktet for dm trussel, for din tordenrøst måtte de rømme.",
+        "De hoppet over fjellene og fosset ned i dalene",
+        "til det sted du hadde bestemt.",
+        "Du satte dem en grense de ikke får gå over, aldri mer skal de dekke jorden.",
+        "I dalene lar du kilder velle frem,",
+        "bekker renner mellom fjellene.",
+        "De gir vann til markens dyr, villesler slukker sin tørst.",
+        "Der bygger himmelens fugler rede,",
+        "i løvhenget synger de.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 104",
+      "antifon": "Halleluja! Kvinne, hvem søker du? Hvorfor søker du den levende blant de døde? Halleluja!",
+      "tekst": [
+        "Du vanner fjellene fra din høysal,",
+        "jorden mettes med frukten av det du har gjort.",
+        "Gress lar du gro for feet og vekster som mennesket kan dyrke.",
+        "Slik lar du brødet gå frem av jorden",
+        "og vinen som gleder menneskets hjerte.",
+        "Du lar ansiktet skinne av olje, og brødet styrker menneskets hjerte.",
+        "Herrens trær får slukket sin tørst,",
+        "Libanons sedrer som han har plantet.",
+        "I dem bygger fuglene rede, i sypressen har storken sin bolig.",
+        "De høyeste fjell er stenbukkens hjem,",
+        "i bergskorter finner grevlingen ly.",
+        "Du skapte månen til å fastsette tider, og solen som vet når den skal gå ned.",
+        "Du sender mørket, og natten kommer,",
+        "da kryr de frem, alle skogens dyr.",
+        "Ungløver brøler etter bytte og krever at Gud skal fore dem.",
+        "Når solen rinner, lusker de vekk",
+        "og legger seg til i sme huler.",
+        "Da går mennesket til sin gjerning for å gjøre sitt arbeid til det blir kveld.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 104",
+      "antifon": "Halleluja! Gråt ikke Maria, Herren er stått opp fra de døde. Halleluja!",
+      "tekst": [
+        "Herre, hvor mange dine gjerninger er!",
+        "Du gjorde dem alle med visdom.",
+        "Jorden er full av det du har skapt.",
+        "Der er havet, stort og vidt, med et mylder ingen kan telle, både av små dyr og store.",
+        "Der går det skip, der er Leviatan",
+        "som du skapte for å more deg med.",
+        "Alle setter sin lit til deg, at du skal gi dem føde i rette tid.",
+        "Du strør ut, og de sanker,",
+        "du åpner din hånd og metter dem med gode gaver.",
+        "Skjuler du ditt åsyn, gripes de av redsel; tar du livsånden fra dem, utånder de og vender tilbake til jord.",
+        "Du sender din Ånd, og de skapes.",
+        "Du fornyer jordens åsyn.",
+        "Måtte Herrens herlighet vare til evig tid; måtte Herren glede seg over sitt verk!",
+        "Han ser på jorden, og den skjelver,",
+        "han rører ved fjellene, og de står i røk.",
+        "Hele mitt liv vil jeg lovsynge Herren, synge for min Gud så lenge jeg lever.",
+        "Måtte min sang finne nåde hos Herren!",
+        "Måtte Herren alltid være min glede!",
+        "Måtte synderne forsvinne fra jorden, de ugudelige ikke mer være til! Min sjel, lov Herren!",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Jeg fikk hjelp, mitt liv fikk nye krefter. Halleluja!",
+    "r": "Jeg takker av hele mitt hjerte. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "1 Joh 1,1-10",
+    "kilde": "Fra apostelen Johannes’ første brev — Livets Ord og Guds lys",
+    "tekst": "Det var fra opphavet av, og vi har hørt det og sett det med våre øyne; vi har skuet det, våre hender rørte ved det. Det er livets Ord vi taler om. \nFor livet åpenbarte seg, og vi har sett det og vitner om det, og forkynner det for dere, - det evige liv, som var hos Faderen og har åpenbart seg \nfor oss. Ja, det vi har sett og hørt, det forkynner vi for dere, for at også dere kan ha samfunn med oss. For vårt samfunn er et samfunn med \nFaderen og med hans Sønn Jesus Kristus. Og dette skriver vi til dere for at vår glede må bli full og hel.\nDette er da det budskap vi har hørt av ham, og som vi bringer videre til dere: At Gud er lys, og noe mørke finnes ikke i ham. Dersom vi sier at \nvi har samfunn med ham, men samtidig vandrer i mørket, da er vi løgnere og følger ikke sannheten. Men vandrer vi i lyset, slik som han selv er i \nlyset, da har vi samfunn med hverandre; da blir vi renset for all synd, ved Jesu, hans Sønns blod. Dersom vi sier at vi ikke har noen synd, da \nbedrar vi oss selv, og sannheten bor ikke i oss. Men dersom vi bekjenner våre synder, er han trofast og rettferdig, da tar han våre synder fra \noss og tvetter all vår ondskap av. Dersom vi sier at vi ikke har syndet, da gjør vi ham til en løgner, og hans ord bor ikke i oss."
+  },
+  "responsorium1": {
+    "ref": "1 Joh 1,2; 5,20",
+    "v": "Livet åpenbarte seg, og vi har sett det og vitner om det, og forkynner det for dere Vi vet at Guds Sønn er kommet; han er den sanne Gud, han er det evige liv.",
+    "r": "det evige liv som var hos Faderen og har åpenbart seg for oss. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Kyrillos av Alexandrias kommentar til 2. Korinterbrev.",
+    "kilde": "Gud forsonte oss med seg selv ved Kristus og gav oss forsoningens tjeneste",
+    "tekst": "De som har fått Ånden i pantl og er rike i håpet om oppstandelsen, de som har i eie det som ligger i vente, som om det allerede var kommet, sier \nat de fra nå av ikke kjenner noen etter kjødet. Vi er nemlig alle åndelige og befinner oss ikke lenger i kjødets forgjengelighet. Vi som den \nEnbårne har opplyst, er blitt forvandlet til Ordet som gir liv til alt. Så lenge synden rådet, lå vi bundet i dødens lenker, men vi rystet \nforgjengeligheten av oss da rettferdigheten i Kristus ble tilgjengelig. Ingen er lenger i kjødet, det vil si i den kjødelige skrøpelighet, for \ndet er sannsynligvis slik vi må forstå ,forgjengelighet', fremfor andre betydningsnyanser.\nEtter at Paulus har sagt at han ikke kjenner noen etter kjødet, legger han til, fordi han mistenker noen for å ha vrangforestillinger: „Om vi så \nhar kjent Kristus etter kjødet, kjenner vi ham ikke lenger slik“2. Det er som om han ville si: «Ordet ble kjød og tok bolig iblant oss og etter \nkjødet underkastet han seg døden for at vi alle skulle ha liv. Slik har vi kjent ham, men fra nå av kjenner vi ham ikke lenger på denne måten.\" \nSelv om han finnes i kjødet, han som etter tre dager våknet til liv igjen og er hos Faderen i himmelen, må det forståes slik at han står over \nkjødet. For han som døde én gang 3, «dør ikke mer, døden har ikke makt over ham lenger. Den død han døde, døde han for synden, én gang for alle. \nDet liv han lever, lever han for Gud\" 4.\nDersom han som er vårt livs høvding, ble slik, er det all mulig grunn til at vi selv, vi som følger i hans fotspor, må oppfattes slik at vi ikke \ner i kjødet, men står over kjødet. Den guddommelige Paulus sier meget riktig: «Slik at dersom noen er en ny skapning i Kristus\", sier han, «da er \ndet gamle veket bort, se, det nye er blitt til\" 5. Det gamle er dette: „Du er jord, og til jord skal du vende tilbake“6, og også dette som står i \nMoseboken:\n«Menneskets sinn er ivrig oppsatt på ondt fra ungdommen av“7. Det gamle er det som står i loven, og alt dette sier han er blitt opphevet. Vi er \nblitt rettferdiggjort ved troen på Kristus, og det er ute med forbannelsens kraft. Han som for vår skyld trampet dødens makt under fot, ble \nlevende igjen. Vi har kjent ham som av natur er sann Gud, og vi dyrker Gud i And og sannhet, med Sønnen som mellommann, han som gir verden de \nvelsignelser som kommer fra oven, fra Faderen. Derfor sier den guddommelige Paulus meget klokt: „Alt kommer fra Gud som ved Kristus forsonte \noss med seg selv“. For det var selvsagt ikke uten Faderens vitende og vilje at mysteriet med frelsesverket i kjødet fant sted, og det \nnybrottsverk som derav fulgte.\nDeretter forklarer Paulus mysteriet slik at Faderen har forsont oss med seg selv gjennom Kristus, både grekerne som lå i krig med ham ved sin \nfalske tro på mange guder, og jødene som klamret seg til lovens skygger og ikke var villige til å ta imot læren om den sanne gudsdyrkelse. For \ngjennom ham har vi adgang til Faderen, og ingen kommer til Faderen, slik han selv sier, uten gjennom ham. Derfor er det at „alt kommer fra Gud \nsom ved Kristus forsonte oss med seg selv og gav oss forsoningens tjeneste“8."
+  },
+  "responsorium2": {
+    "ref": "Rom 5,11; Kol 1,19-20",
+    "v": "Vi priser oss lykkelige i Gud ved vår Herre Jesus Kristus, For i ham har Gud villet la hele fylden bo, og ved ham forsone alt med seg.",
+    "r": "ved hvem vi nå har mottatt forsoningen. Halleluja!"
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Allmektige Gud, hjelp oss å feire med iver og kjærlighet disse gledens dager til ære for vår oppstandne Herre, så det vi her minnes, blir virkeliggjort i våre liv. Ved ham, vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
