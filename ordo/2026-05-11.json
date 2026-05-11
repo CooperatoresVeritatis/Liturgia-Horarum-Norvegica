@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-11",
+  "feast": "6 mandag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260511/readings.htm"
+  },
+  "hymne": "Hør universets jubelklang\nved morgenrødens første skjær,\nog jorden synger seirens sang,\nmens skrekken slår det ondes hær.\nSe, ærens konge, mektig, stor,\nde fangne fedre fører frem\ntil liv hvor lys og glede bor,\nfra gravens dyp og dødens hjem.\nFor han som lagt i graven var,\nbak sten og segl bevoktet vel,\nhar vunnet seier, og han har\ni graven nå lagt døden selv.\nEi tårer eller smerter mer,\nog endt er dødens mørke makt;\nden Sterkere oppstanden er,\nhar lysets englebud oss sagt.\nDe skinner nå som blanke lyn,\nde sår man i hans legem slo.\nI undringsjubel dette syn\nhans vitner roper ut i tro.\nÅ, Kristus, Konge nåderik,\nta hjertet vårt til eiendom,\nat vi i all vår tid deg slik\nkan love i din helligdom.",
+  "salmer": [
+    {
+      "referanse": "Salme 31",
+      "antifon": "Herre, lytt til mitt rop, kom meg til hjelp. Halleluja.",
+      "tekst": [
+        "Herre, til deg tar jeg min tilflukt,",
+        "la meg aldri i evighet bli til skamme.",
+        "Frels meg ved din rettferd, lytt til mitt rop, kom meg til hjelp.",
+        "Vær meg et vern, en klippe,",
+        "en borg til frelse.",
+        "Du vil føre meg ut av deres skjulte snarer, for, Herre, du er mitt vern.",
+        "I dine hender overgir jeg min ånd,",
+        "du forløser meg, Herre, du trofaste Gud.",
+        "Herre, jeg avskyr dem som tjener fremmede guder. Herre, jeg tar min tilflukt til deg.",
+        "Jeg vil danse av glede over dm miskunn.",
+        "Min nød og trengsel har du sett.",
+        "Du gav meg ikke over i fiendens hånd. Du skaffet meg feste for min fot.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 31",
+      "antifon": "Herre, la ditt åsyn lyse over din tjener. Halleluja.",
+      "tekst": [
+        "Herre, se til meg i nåde,",
+        "trengsel er kommet over meg.",
+        "Mitt øye sløves av bitter sorg, strupen snører seg sammen og kroppen svekkes.",
+        "I bekymring svinner mitt liv,",
+        "årene går i sukk og klage.",
+        "Min styrke svikter på grunn av min skyld, mine knokler tæres bort.",
+        "For alle mine fienders skyld",
+        "blir jeg til spott og spe.",
+        "For mine kjenninger er jeg et skremsel. Folk som ser meg på gaten, flykter.",
+        "Lik en død er jeg glemt og ute av sinn.",
+        "Jeg er som et sønderslått kar.",
+        "Jeg hører mange som hvisker, - redsel på alle kanter, -",
+        "de legger opp råd mot meg,",
+        "og tenker på å ta mitt liv.",
+        "Herre, til deg setter jeg min lit. Jeg sier: „Du er min Gud“.",
+        "Mine dager er i din hånd,",
+        "fri meg fra fiender som står meg etter livet.",
+        "La ditt åsyn lyse over din tjener og frels meg i din godhet.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 31",
+      "antifon": "Lovet være Herren som på underfull måte har vist meg sin miskunn. Halleluja.",
+      "tekst": [
+        "Herre, hvor stor er din godhet",
+        "mot dem som frykter deg.",
+        "Du øser den ut for alles øyne, over dem som søker tilflukt hos deg.",
+        "Du skjuler dem i ditt åsyns ly",
+        "mot menneskers svik og list.",
+        "Du skjermer dem i din hytte mot tungens bitende sverd.",
+        "Lovet være Herren!",
+        "I sin troskap har han øvet underverk,",
+        "vist meg miskunn i den kringsatte by.",
+        "Og jeg, jeg sa i min trengsel: „Jeg er støtt bort fra dine øyne.“",
+        "Men du hørte min bedende stemme,",
+        "mitt rop om hjelp.",
+        "Elsk Herren, alle hans fromme. Herren bevarer dem som tror.",
+        "Men han gjør rikelig gjengjeld",
+        "mot dem som farer frem i overmot.",
+        "Fatt mot og vær sterke, alle dere som håper på ham.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Mitt hjerte og mitt legeme, Halleluja!",
+    "r": "Jubler mot den levende Gud. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "1 Joh 2,1-11",
+    "kilde": "Fra Apostelen Johannes’ første brev — Det nye bud",
+    "tekst": "Mine små barn, dette skriver jeg til dere for at dere ikke skal synde. Men om noen allikevel synder, så har vi en talsmann hos Faderen, Jesus \nKristus, den rettferdige. Han er sonofferet for våre synder, - ja, ikke bare våre, men hele verdens.\nPå dette skal vi kunne vite om vi virkelig kjenner ham: Er det så at vi holder fast ved hans bud? Den som sier at han kjenner ham, men ikke følger \nhans bud, han er en løgner, og i ham bor sannheten ikke. Den mann derimot som holder fast ved hans bud, i ham har Guds kjærlighet virkelig nådd \nsitt mål. Dette er tegnet på at vi er i ham. Den som mener at han er i ham, han må også selv leve slik som han levde.\nMine kjære, det er ikke noe nytt bud jeg skriver til dere om, det er det samme gamle, som dere har hatt fra første stund. Det gamle bud er det \nord dere har hørt. Og dog er det et nytt bud jeg bringer, for nå er det virkeliggjort, både i ham og i dere; mørket viker, og det sanne lys \nskinner allerede!\nDen som sier at han er i lyset, men hater sin bror, han er fremdeles i mørket. Den som elsker sin bror, han lever i lyset, og han har intet han \nkan snuble over. Men den som hater sin bror, han er i mørket, og vandrer i mørket, uten å vite hvor han går hen, for mørket har blindet hans \nøyne."
+  },
+  "responsorium1": {
+    "ref": "Joh 13,34; 1 Joh 2,10.3",
+    "v": "Et nytt bud gir jeg dere, at dere skal elske hverandre, slik jeg har elsket dere. På dette vet vi om vi kjenner Kristus: Er det så at vi holder hans bud?",
+    "r": "Den som elsker sin bror, blir i lyset. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Av Didymos fra Alexandrias traktat om Treenigheten.",
+    "kilde": "Den Hellige Ånd fornyer oss i dåpen",
+    "tekst": "Som Gud, sammen med Faderen og Sønnen, fornyer den Hellige Ånd oss i dåpen. I stedet for vår uskjønnhet gir den oss vår fordums skjønnhet tilbake. \nDen fyller oss med sin egen nåde, slik at vi ikke lenger kan ha noe i oss som ikke er ønskverdig. Den frigjør oss fra synden og døden og det \njordiske, det vil si fra jord og aske. Den gjør oss til åndelige mennesker som har del i den guddommelige herlighet. Den gjør oss til Gud Faders \nbarn og arvinger, den gjør oss likedannet med Sønnens bilde og til medarvinger sammen med ham, til brødre som skal herliggjøres sammen med ham, \nog som sammen med ham skal regjere. I jordens sted gir den oss himmelen tilbake og skjenker oss paradiset som gunst. Den kroner oss med større \nheder enn englene, og med døpefontens guddommelige vannstrømmer slukker den Gehennas evige flamme.\nPå to måter blir nemlig mennesker unnfanget. Den ene unnfangelsen skjer ved legemet, den andre ved den guddommelige Ånd. Lærde menn har skrevet \nom dette. Jeg skal anføre deres navn og det de lærer. Johannes sier: „Dem som tok imot ham, gav han rett til å bli Guds barn - de som tror på \nhans navn. De er ikke født av blod, ikke av kjøds vilje, ikke av manns vilje, men av Gud“l. Han sier altså at de som er kommet til tro på \nKristus, har fått rett til å bli Guds, det vil si den Hellige Ånds barn, til å knytte slektskapsbånd med Gud, en heder som ikke er blitt englene \ntil del. For å gjøre det klart at den Hellige Ånd er den Gud som unnfanger, fører han Kristi ord som vitne: „Sannelig, sannelig, sier jeg deg: \nDen som ikke blir født av vann og Ånd, kan ikke komme inn i Guds rike“2.\nEtter den synlige orden føder døpefonten vårt synlige legeme ved \nprestenes tjeneste; etter den åndelige orden døper Guds And, som fornuften ikke kan fatte, ved englers tjeneste både vårt legeme og vår sjel i \nseg selv og gjenføder dem. Også Døperen sa om Kristus, i samsvar med uttrykket „av vann og Ånd“: „Han skal døpe dere i Hellig Ånd og ild“3. For \ndet menneskelige leirkar trenger først å bli renset i vann, dernest å bli brent i den åndelige ild som gjør det fullkomment, for Gud er en \nfortærende ild. Det trenger altså den Hellige And til å fullkommengjøre det og gjøre det nytt. For Johannes Døperen visste at den åndelige ild \nogså kan vanne, og at vannet også kan brenne."
+  },
+  "responsorium2": {
+    "ref": "Jes 44,3.4; Joh 4,14",
+    "v": "Jeg øser vann på tørstig jord og lar bekker risle over det tørre land; min Ånd vil jeg utøse over din ætt, Det skal bli en kilde med vann som veller frem og gir evig liv.",
+    "r": "og de skal vokse opp som piletrær ved bekkefar. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Miskunnsrike Gud, la oss som feirer påskens hellige liturgi, alltid få erfare kraften i din Sønns oppstandelse, han som lever og råder fra evighet til evighet."
+}
