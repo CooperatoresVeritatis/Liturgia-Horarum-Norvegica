@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-15",
+  "feast": "6 fredag i påsketiden",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260515/readings.htm"
+  },
+  "hymne": "Jesus, din förbön\ngenomtränger världen\nöppnar i tiden\nevighetens brunn.\nLängst in i natten\ngick du för att tända\nevighetsljuset,\ndag som aldrig släcks.\nHärlighets mörker\nmolnskyn av din smärta\ndöpte oss alla,\nJesus Krist, till dig.\nO att få leva\ni den nya dagen\nett med din vilja\nett med dig i Gud.\nMedan vi spanar\nefter dig mot himlen\nnår oss din förbön\nsluts vi in i dig.\n\"Herre, var är du?\"\nfrågar våra ögon\nblinda i ljuset\nbländade av dig. Amen.",
+  "salmer": [
+    {
+      "referanse": "Salme 38",
+      "antifon": "Herre, tukt meg ikke i din harme Halleluja.",
+      "tekst": [
+        "Herre, straff meg ikke i dm vrede,",
+        "tukt meg ikke i din harme.",
+        "Jeg er gjennomboret av dine piler, din hånd ligger tungt på meg.",
+        "Hele min kropp er syk for din vredes skyld,",
+        "mine synder gir meg ikke fred i mine ben.",
+        "Over mitt hode skyller min brøde, og den tynger meg ned som en byrde.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 38",
+      "antifon": "Herre, du kjenner min klage Halleluja.",
+      "tekst": [
+        "Mine sår både stinker og verker,",
+        "for min uforstandighets skyld.",
+        "Jeg er elendig og bøyet, sorgfull vandrer jeg dagen lang.",
+        "Mine lender er fulle av brann,",
+        "intet er friskt på min kropp.",
+        "Jeg er lammet og fullstendig knust, jeg skriker i hjertets pine.",
+        "Herre, du kjenner min klage,",
+        "mine sukk er ikke skjult for deg.",
+        "Mitt hjerte banker, min kraft har sviktet, selv øyet har mistet sin glans.",
+        "Mine venner og mine frender",
+        "skyr meg for min plages skyld.",
+        "Mine nærmeste fjerner seg fra meg, de som vil meg til livs, setter snarer.",
+        "De som vil meg ondt, legger råd om forderv,",
+        "de tenker ut svik hele dagen.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 38",
+      "antifon": "Jeg vil bekjenne min skyld, Herre, gå ikke fra meg, for du er min frelses Gud. Halleluja.",
+      "tekst": [
+        "Men jeg er som en døv,",
+        "som en stum som ikke åpner sin munn,",
+        "som en mann som ikke hører, som ikke har svar i sin munn.",
+        "Herre, til deg står mitt håp.",
+        "Du vil bønnhøre, Herre, min Gud.",
+        "Jeg tenker: „La dem ikke triumfere over meg, fryde seg når jeg vakler.\"",
+        "For jeg er nær ved å falle,",
+        "og min plage er alltid hos meg.",
+        "Jeg vil bekjenne min skyld, jeg vil sørge over min synd.",
+        "Mine fiender lever, fulle av kraft,",
+        "mange er de som bærer på grunnløst hat.",
+        "De lønner meg godt med ondt og står meg imot for jeg søker det gode.",
+        "Herre, gå ikke fra meg,",
+        "min Gud, hold deg ikke på avstand.",
+        "Herre, il meg til hjelp, du er min frelses Gud.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Kristus, da du stod opp fra de døde, Halleluja!",
+    "r": "Jublet himmel og jord. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "1 Joh 3,1-10",
+    "kilde": "Fra Apostelen Johannes’ første brev — Vi er Guds barn",
+    "tekst": "Se hvilken kjærlighet Faderen har vist oss: Vi får kalles Guds barn - ja, vi er det! Og når verden ikke kjenner oss, er det fordi den aldri har \nkjent ham. Mine kjære! Allerede nå er vi Guds barn, men hva vi skal bli, er ennå ikke åpenbart. Vi bare vet at den dag han åpenbarer seg, skal \nvi bli ham lik, for da skal vi se ham som han er. Og enhver som har et slikt håp til ham, renser seg selv, likesom han selv er ren.\nDen som synder, forbryter seg mot Loven, for synden er nettopp et lovbrudd. Og dere vet at når han trådte frem i verden, var det for å ta syndene \nbort; i ham finnes ikke noen synd. Så synder da heller ingen som lever i ham. Den som synder, har hverken sett ham eller kjent ham. Mine små barn! \nLa ingen føre dere vill. Den som handler rettferdig, er rettferdig, som han er det. Den som synder, er av djevelen, for djevelen har syndet fra \nførste stund av; og Guds Sønn trådte frem i verden for å ødelegge djevelens verk. Den som er født av Gud, begår ikke synd; den guddommelige sæd \ner nedlagt i ham. Så han kan ikke synde, fordi han er født av Gud. Slik skjelnes Guds barn fra djevelens barn: Den som ikke handler rettferdig, \nden som ikke elsker sin bror - han er ikke av Gud."
+  },
+  "responsorium1": {
+    "ref": "1 Joh 3,1.2",
+    "v": "Se hvilken kjærlighet Faderen har vist oss: Vi vet at den dag han åpenbarer seg, skal vi bli ham lik, for da skal vi se ham som han er.",
+    "r": "Vi får kalles Guds barn, ja, vi er det. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra en preken til Kristi himmelfartsdag av pave Leo den Store.",
+    "kilde": "Kristi himmelfart øker vår tro",
+    "tekst": "Da vi feiret påske, var det Herrens oppstandelse som var årsak til vår glede. I dag er det hans himmelfart som gir oss grunn til å glede oss, nå \nda vi ihukommer og holder den dag hellig da vår ydmyke natur i Kristus ble løftet opp over alle himmelhærer, over alle englenes hærskarer og alle \nhøye myndigheter og tok sete hos Gud Fader. Gud har nemlig ordnet det så viselig og lagt forholdene for standhaftighet og vekst slik til rette \nat hans nåde blir enda mer vidunderlig når troen ikke svikter, håpet ikke vakler og kjærligheten ikke kjølner etter at det som med rette inngjøt \nærefrykt for ham, ikke lenger er synlig for menneskers øyne. For de storsinnedes styrke ligger i dette, dette er lyset i de sjeler som tror \nsterkt, nemlig ufortrødent å tro på det som man ikke kan se med legemets øyne og å lengte dit hvor blikket ikke når frem. Om vår frelse bare \nforholdt seg til det som ligger i dagen, hvordan skulle da ekte fromhet kunne oppstå i våre hjerter, hvordan skulle da noen som helst kunne bli \nrettferdiggjort ved tro?\nDet som i vår Frelser var synlig, gikk over i de sakramentale mysterier. For at troen skulle styrkes og renses, fulgte læren i klarsynets sted; \ndens myndighet var det de troendes hjerter skulle lyde, opplyst av lyset fra oven.\nDenne tro, som Herrens himmelferd bare øket, og som den Hellige Ånds gaver befestet, lot seg ikke skremme hverken av lenker eller fengsel, \nhverken av landsforvisning eller sult, hverken av bål eller snerrende villdyr, ikke av grusomme forfølgeres utsøkte pinsler. For denne tro \nkjempet ikke bare menn, men også kvinner, ikke bare unggutter, men også pikebarn, og dét like til å la sitt blod flyte. Denne tro jaget demoner \npå flukt, drev ut sykdommer, reiste opp døde. De salige apostler var blitt bestyrket i troen av mangfoldige mirakler og belært av mange ord, men \nde ble allikevel forskrekket over Herrens skrekkelige lidelse, og det var under tvil de tok imot budskapet om at han var stått opp fra de døde. \nMen da han for opp til himmelen, var det dem til slik gagn at det som tidligere hadde gjort dem fryktsomme, nå ble vendt til glede. De løftet \nsjelens blikk og beskuet guddommen til ham som sitter ved Faderens høyre hånd. Da de ikke lenger kunne se hans legeme, innså de med sin sjels \nøyne at han ikke hadde forlatt Faderen da han steg ned, og at han ikke fjernet seg fra dem da han for opp. Det var fra da av, mine kjære, at \nMenneskesønnen på en bedre og verdigere måte ble erkjent som Guds Sønn. Da han hadde fått tilbake den herlighet han hadde hos Faderen, begynte \nhan på uransakelig vis å være mer nærværende ved sin guddom enn før han i sin menneskenatur var blitt fjern. Da begynte troen på klokere vis \nved sinnets skritt å nærme seg Sønnen som er Faderen lik. Den hadde ikke lenger behov for å berøre den legemlige substans som gjør at Sønnen \ner mindre enn Faderen. Det herliggjorte legemes natur forble hva den var, men de troendes tro ble kalt til å berøre den Enbårne som er sin \nFader lik, ikke med legemlige hender, men med åndelig forstand."
+  },
+  "responsorium2": {
+    "ref": "Hebr. 8,1; 10,22.23",
+    "v": "Slik en yppersteprest er det vi har, at han har satt seg på høyre side av majestetens trone i himlene. La oss holde urokkelig fast ved bekjennelsen av vårt håp, for han som gav løftet, er trofast.",
+    "r": "La oss tre frem med oppriktig hjerte i troens fulle visshet, med hjertet renset for ond samvittighet. Halleluja!"
+  },
+  "teDeum": null,
+  "bønn": "Barmhjertige Gud, du gjenskaper oss i Kristi oppstandelse til evig liv. Led oss til vår Frelser, han som sitter ved din høyre hånd, og la oss som ble gjenfødt i dåpen, ikles den evige salighet når han kommer igjen i herlighet, han som lever og råder fra evighet til evighet."
+}
