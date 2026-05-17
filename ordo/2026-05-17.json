@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-17",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260517/readings.htm"
+  },
+  "hymne": "Jesus, din förbön\ngenomtränger världen\nöppnar i tiden\nevighetens brunn.\nLängst in i natten\ngick du för att tända\nevighetsljuset,\ndag som aldrig släcks.\nHärlighets mörker\nmolnskyn av din smärta\ndöpte oss alla,\nJesus Krist, till dig.\nO att få leva\ni den nya dagen\nett med din vilja\nett med dig i Gud.\nMedan vi spanar\nefter dig mot himlen\nnår oss din förbön\nsluts vi in i dig.\n\"Herre, var är du?\"\nfrågar våra ögon\nblinda i ljuset\nbländade av dig. Amen.",
+  "salmer": [
+    {
+      "referanse": "Salme 145",
+      "antifon": "Halleluja! Gud har oppreist Kristus fra de døde og gitt ham del i sin herlighet. Halleluja!",
+      "tekst": [
+        "Jeg vil opphøye deg, min Gud, min konge,",
+        "love ditt navn i all gvighet.",
+        "Fra dag til dag vil jeg prise deg, evig og alltid prise ditt navn.",
+        "Herren er stor og høylovet,",
+        "hans storhet kan ingen lodde.",
+        "Slekt etter slekt skal love ditt verk, forkynne din veldige gjerning.",
+        "Det skal tales om din herlighets strålende glans,",
+        "og jeg skal fortelle om dine under.",
+        "Det skal tales om dine veldige gjerninger, og jeg skal berette om dine storverk.",
+        "De feirer minnet om all din godhet",
+        "og jubler over din rettferd.",
+        "Nådig og barmhjertig er Herren, langmodig og rik på miskunn.",
+        "Herren er god mot alle,",
+        "hans miskunn favner hele hans verk.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 145",
+      "antifon": "Halleluja! Høyt er du ophøyet, Herre, høyt over alle himler. Halleluja!",
+      "tekst": [
+        "All skapningen priser deg, Herre,",
+        "dine trofaste lover deg.",
+        "De forkynner ditt rikes ære, taler om din veldige makt.",
+        "Så menneskebarn skal se din storhet,",
+        "ditt rikes strålende prakt.",
+        "Ditt rike står gjennom alle tider, ditt herrevelde gjennom alle slekter.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 145",
+      "antifon": "Halleluja! Meg er gitt all makt i himmel og på jord. Halleluja!",
+      "tekst": [
+        "Herren er trofast i sine ord,",
+        "hellig i all sin gjerning.",
+        "Herren støtter dem som faller, han reiser dem som er knuget ned.",
+        "Alles øyne ser hen til deg,",
+        "og du gir alle føde i rette tid.",
+        "Du åpner din hånd, og metter alt som lever, med velsignelse.",
+        "Herren er rettvis i all sin vei,",
+        "trofast i all sin gjerning.",
+        "Herren er nær dem som roper, som ærlig kaller på ham.",
+        "Han oppfyller deres ønske som frykter ham,",
+        "han hører deres rop og frelser dem.",
+        "Herren verner alle som elsker ham, men de gudløse utrydder han.",
+        "Min munn skal forkynne Herrens pris,",
+        "alt levende signe hans hellige navn.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Jeg fikk hjelp, mitt liv fikk nye krefter. Halleluja!",
+    "r": ": Jeg takker av hele mitt hjerte. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "1 Joh 3,18-24",
+    "kilde": "Fra apostelen Johannes’ første brev — Troens og kjærlighetens bud",
+    "tekst": "Mine små barn! Kjærligheten skal ikke ytre seg bare i ord; den må være ekte og vise seg i gjerning. Derved skal dere vite at vi hører sannheten \ntil. Og foran hans åsyn skal vi stille vårt hjerte til ro, selv om det fordømmer oss; for Gud er større enn vårt hjerte og kjenner alle ting. \nMine kjære! Dersom vårt hjerte ikke fordømmer oss, da tør vi tre frimodig frem for Gud, og hva vi enn ber ham om, skal vi få, fordi vi holder \nfast ved hans bud og gjør det som gleder ham. Og dette er hans bud: At vi skal tro på hans Sønns, Jesu Kristi navn, og elske hverandre, slik som \nhan har befalt oss det. Og den som overholder hans bud, han forblir i Gud, og Gud i ham. Og at han bor i oss, vet vi - ved den And han har gitt \noss."
+  },
+  "responsorium1": {
+    "ref": "1 Joh 3,24; Sir 1,9.10 Vulg.",
+    "v": "Den som overholder Guds bud, han forblir i Gud, og Gud i ham. Gud skapte visdommen i den Hellige And og utøste den over alt som lever.",
+    "r": "Og at han bor i oss, vet vi, - ved den And han har gitt oss. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra en homilie over Høysangen av den hellige Gregor fra Nyssa.",
+    "kilde": "Den herlighet som du har gitt meg, har jeg gitt dem",
+    "tekst": "Kjærligheten driver frykten ut på en fullkommen måte, som skrevet står, og når frykten forvandles, blir den til kjærlighet. Da skjønner vi at de \nsom blir frelst, utgjør en enhet ved å være forenet med det eneste gode, gjennom den fullkommenhet som duen symboliserer. Slik forstår vi \nfølgende vers hvor det sies: „En er min due, min fullkomne. Hun er sin mors eneste barn, yndlingen til henne som fødte henne“l.\nDette forklarer Herren tydeligere i Evangeliet. Han gir disiplene all makt ved å velsigne dem. Han skjenker andre gaver til de hellige ved å be \ntil Faderen. Men høyere enn disse gode gaver setter han det viktigste av alt, nemlig at de aldri noensinne må stå splittet i ulike meninger når \ndet gjelder å velge rett. De skal alle være ett, forenet med det ene, ja, det eneste gode. Slik skal de, gjennom den Hellige Ånds enhet, være \nfast sammenbundet ved fredens bånd, slik apostelen sier, og alle skal være ett legeme og én ånd gjennom det ene håp de ble kalt til.\nMen det er best at vi siterer Evangeliets guddommelige ord bokstavelig: „At de alle må være ett slik du, Far, er i meg, og jeg i deg, at også de \nmå være ett“3. Dette enhetens bånd er herligheten. Ingen som ærlig gransker Skriften, vil benekte at det er den Hellige And som kalles herlighet \nnår han hører hva Herren sier, nemlig følgende: „For den herlighet du har gitt meg, har jeg gitt dem“4.\nHan gav dem i sannhet slik herlighet da \nhan sa til dem: „Motta den Hellige Ånd“5. Da han tok opp i seg den menneskelige natur, mottok han allikevel den herlighet han jo hadde fra før \nverden ble til. Da denne natur var blitt herliggjort gjennom Ånden, ble denne Åndens herlighet gitt videre til hele etterslekten, først til \ndisiplene. „Den herlighet du har gitt meg, har jeg gitt dem, for at de skal være ett, likesom vi er ett: Jeg i dem og du i meg, slik at de kan \nvære fullkomne ved å være ett“6. Den som vokser til, fra spebarn til moden mann, og når skjels år og alder, han er ikke lenger trellkvinne eller \nfrillekone, men får del i den kongelige verdighet. Den som ved selvbeherskelse og renhet kan motta Andens herlighet, han er den fullkomne due \nsom brudgommen betrakter og taler om: „En er min due, min fullkomne. Hun er sin mors eneste barn, yndlingen til henne som fødte henne. “"
+  },
+  "responsorium2": {
+    "ref": "Jf. Joh 15,15; 14,26; 15,14",
+    "v": "Dere kaller jeg ikke lenger tjenere, men mine venner, for dere vet alt hva jeg har gjort blant dere. Dere er mine venner, om dere gjør det jeg befaler dere.",
+    "r": "Ta imot den Hellige And, Trøsteren, i dere; det er ham Faderen skal sende dere. Halleluja."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Herre, lytt i nåde til våre bønner. Vi som tror at menneskeslektens Frelser lever hos deg i herlighet, vi ber deg: La oss få erfare at han er med oss inntil tidenes ende, slik han selv har lovet, han som lever og råder fra evighet til evighet."
+}
