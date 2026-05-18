@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-18",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260518/readings.htm"
+  },
+  "hymne": "Martyrers Konung, segrare,\nsom kröner trons bekännare\noch leder till ditt rike dem\nsom före allt har sökt din fred.\nO gode Herre, tag emot\nvårt hjärtas sång och bönerop;\nvi prisar dig, o Helige,\noch beder om förlåtelse.\nVem segrat i martyrerna\nom icke du, Guds Offerlamm?\nSå lyft oss med din Andes kraft\nur sorg och nöd och syndafall.\nDin är, o Gud, all helighet,\no Fader, Son och Hjälpare.\nLåt oss med din martyr få del\ni evighetens härlighet. Amen.",
+  "salmer": [
+    {
+      "referanse": "Salme 2",
+      "antifon": "Ni skall bli hatade av alla för mitt namns skull. Men den som håller ut till slutet skall bli räddad. (PT Halleluja.)",
+      "tekst": [
+        "Hvorfor er folkene i opprør,",
+        "hvorfor grunner de på det som fåfengt er?",
+        "Jordens konger reiser seg, fyrstene samles til råd mot Herren og mot hans salvede:",
+        "\"La oss sprenge deres lenker",
+        "og kaste repene av oss.\"",
+        "Han som troner i himmelen, ler, Herren spotter dem.",
+        "Så taler han til dem i vrede,",
+        "forferder dem ved sin harme:",
+        "\"Det er jeg som har innsatt min konge på Sion, mitt hellige fjell.\" Jeg kunngjør det Herren har fastsatt.",
+        "Han sa til meg:",
+        "„Du er min Sønn, jeg har født deg i dag.",
+        "Be meg, og jeg vil gi deg hedningefolkene i arv og den vide jord i eie.",
+        "Med jernstav skal du knuse dem,",
+        "slå dem i stykker som pottemakerens kar.“",
+        "Og nå, dere konger, vær kloke, vær advart, dere herskere på jorden!",
+        "Tjen Herren med ærefrykt, juble med beven;",
+        "kyss jorden for hans fotter,",
+        "så ikke hans vrede skal blusse opp, og dere gå til grunne på veien.",
+        "Med et slag kan hans vrede tennes.",
+        "Salig den som tar sin tilflukt til ham.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 11",
+      "antifon": "Våra lidanden i denna tid betyder ingenting mot den härlighet som skall uppenbaras och bli vår. (PT Halleluja.)",
+      "tekst": [
+        "Jag har tagit min tillflykt till Herren.",
+        "Hur kan ni då säga till mig:",
+        "\"Fly som en fågel upp i bergen,",
+        "ty de gudlösa spänner bågen,",
+        "de har lagt sin pil på strängen,",
+        "för att i mörkret skjuta på de trogna.",
+        "När grundvalarna rivs upp,",
+        "vad kan då den rättfärdige göra?\"",
+        "Herren är i sitt heliga tempel,",
+        "Herrens tron är i himlen.",
+        "Hans ögon skådar ned på världen,",
+        "hans blickar prövar alla människor.",
+        "Herren prövar den rättfärdige",
+        "men hatar den gudlöse och den som älskar våld.",
+        "Han skall låta eld och svavel regna över de gudlösa,",
+        "glödande vind blir dem given.",
+        "Ty Herren är rättfärdig, rättfärdigheten älskar han,",
+        "de trogna skall skåda hans ansikte.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 17",
+      "antifon": "Som guld i smältugnen prövade han sina utvalda, och som en brännoffergåva tog han emot dem. (PT Halleluja.)",
+      "tekst": [
+        "Hör, o Herre, en rättfärdig sak,",
+        "ge akt på mitt rop, lyssna till min bön.",
+        "Den kommer inte från falska läppar.",
+        "Jag ber dig, Herre: Ge mig min rätt,",
+        "dina ögon ser vad som är rätt och sånt.",
+        "Du prövar mitt hjärta,",
+        "du utforskar det om natten,",
+        "du rannsakar mig men finner ingen orätt,",
+        "inga onda tankar går ut ur min mun.",
+        "Efter dina läppars ord vill jag handla,",
+        "vad människor än må göra.",
+        "På dina budords stigar går mina steg,",
+        "mina fötter håller sig stadigt på dina vägar.",
+        "Jag åkallar dig, ty du, Gud, skall svara mig.",
+        "Vänd ditt öra till mig, hör mina ord.",
+        "Bevisa din underbara nåd,",
+        "och befria mig från fienden,",
+        "du som räddar dem",
+        "som tar sin tillflykt till din högra hand.",
+        "Bevara mig som en ögonsten,",
+        "skydda mig i dina vingars skugga",
+        "för de gudlösa, som vill förgöra mig,",
+        "för mina dödsfiender, som omger mig.",
+        "De förhärdar sitt hjärta,",
+        "de tar stolta ord i sin mun.",
+        "De är runt omkring mig, var jag än går,",
+        "de spejar efter hur de kan slå mig till marken,",
+        "som lejonet som längtar efter rov,",
+        "det unga lejonet som ligger i försåt.",
+        "Stå upp, Herre, träd emot den gudlöse, slå ner honom,",
+        "rädda mig från honom med ditt svärd.",
+        "Rädda mig med din hand, Herre,",
+        "från dessa människor,",
+        "från denna världens människor,",
+        "som har allting redan i detta livet",
+        "och vilkas buk du fyller med dina gåvor,",
+        "som har söner i mängd",
+        "och lämnar sitt överflöd åt sina barn.",
+        "I rättfärdighet skall jag skåda ditt ansikte,",
+        "när jag vaknar, vill jag mätta mig av din åsyn.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Nöd och trångmål har träffat mig, halleluja,",
+    "r": "men dina bud är min lust, halleluja."
+  },
+  "lesning1": {
+    "referanse": "Upp 7:9-17",
+    "kilde": "Den stora skaran inför tronen och Lammet",
+    "tekst": "Sedan såg jag, och se: en stor skara som ingen kunde räkna, av alla folk och stammar och länder och språk. De stod inför tronen och Lammet klädda i vita \nkläder med palmkvistar i sina händer. Och de ropade med hög röst: \"Frälsningen finns hos vår Gud, som sitter på tronen, och hos Lammet.\"\nAlla änglarna stod kring tronen och kring de äldste och de fyra varelserna. Och de föll ner på sina ansikten inför tronen och tillbad Gud och sade: \"Amen. \nLovsången och härligheten, visheten och tacksägelsen, äran och makten och kraften tillhör vår Gud i evigheters evighet, amen.\"\nOch en av de äldste sade till mig: \"Dessa som är klädda i vita kläder, vilka är de och varifrån kommer de?\" Jag svarade: \"Du vet det, herre.\" Han sade \ntill mig: \"Det är de som kommer ur det stora lidandet. De har tvättat sina kläder rena och gjort dem vita i Lammets blod. Därför står de inför Guds tron, \noch de tjänar honom dag och natt i hans tempel, och han som sitter på tronen skall slå upp sitt tält över dem. De skall inte längre hungra och inte längre \ntörsta, varken solen eller någon annan hetta skall träffa dem. Ty Lammet som står mitt för tronen skall vara deras herde och leda dem fram till livets \nvattenkällor, och Gud skall torka alla tårar från deras ögon.\""
+  },
+  "responsorium1": {
+    "ref": "Upp 2:10c, 11b; Syr 4:28",
+    "v": "Var trogen intill döden, så skall jag ge dig livets segerkrans. Kämpa intill döden för sanningen, så skall herren Gud strida för dig.",
+    "r": "Den som segrar skall inte skadas av den andra döden, halleluja."
+  },
+  "lesning2": {
+    "referanse": "Av historien om Eriks gjerninger, skrevet av Israel, kannik ved domkirken i Uppsala",
+    "kilde": "",
+    "tekst": "I det tiende regjeringsår til vår navngjetne konge yppet en gammel fiende ved navn Magnus, sønn av danekongen, strid mot ham, for at den rettferdige \nmann skulle prøves av trengsler, og utsæden skulle bære mangfoldig frukt. Etter sin mors slekt krevde Magnus med urette retten til å styre, i strid \nmed landets skikk som forbyr utlendinger å regjere. Derfor var det også at en fyrste i landet knyttet til seg noen drabanter i skjendigheten, bestakk \ndem med gaver og lokket dem med løfter, og sammen planla de å ta den navngjetne konge av dage. Da de i hemmelighet hadde samlet en hær, gikk de til \nangrep på kongen, som ante fred og ingen fare, i nærheten av Ostra Aros. Dette skjedde dagen før festen for Herrens himmelfart, da kongen lykkelig \nskulle fare etter Herren opp til himmelen med martyriets palmegren. Mens han den dagen var til stede ved messen i den Hellige Treenighets kirke på \ndet berget som kalles Herrens berg, og hvor domkirken nå ligger, kom en av hans menn og fortalte ham at fiender nærmet seg byen, og at det var rådelig \nå rykke ut mot dem med det samme. Da fortelles det at han svarte slik: «Det hindrer meg i å høre denne store festdagens mysterier til ende, men jeg \nstoler på at Herren et annet sted vil la oss få høre det som gjenstår av gudstjenesten.» Da han hadde sagt det, anbefalte han seg til Gud, tegnet seg \nmed korsets tegn, gikk ut av kirken, væpnet seg og sine menn, og sammen med dem, få som de var, gikk han tappert i møte med fienden. De begynte kampen \nmot ham, og særlig styrte de fylkingen mot kongen selv og påførte Herrens salvede sår på sår der han lå på marken. Da han allerede var halvdød, gikk \nde enda hardere inn på ham, påførte ham hån og spott, og uten ærbødighet hugget de av hans ærverdige hode. Slik gikk han seirende fra krig til fred \nog fikk himmelriket i lykkelig bytte for det jordiske rike. Men på samme sted skjedde de første jærtegn, for på det sted hvor hans blod først rant, \nbrøt det frem en sprudlende kilde som er der den dag i dag og vitner om hans martyrium. Da fienden hadde trukket seg tilbake og hadde latt det hellige \nlegeme ligge der hvor han falt, tok de få av kongens menn som var igjen, liket og bar det inn i stuen til en fattig enke der i nærheten. Der bodde \ndet også en fattig kone som hadde vært blind i lang tid. Da hun dekket til martyrens legeme, fikk hun noe av det hellige blod på fingrene. Da hun tok \ndem opp til øynene, forsvant mørket, og hun fikk på nytt se lyset, og hun priste Gud i hans hellige.\nResten av hans levnetsbeskrivelse, overføringen av det hellige legeme og de mirakler som Herren gjorde gjennom sin hellige, og som han fremdeles gjør \nden dag i dag, er utelatt her for korthets skyld, men er nedskrevet annetsteds. Den salige Erik led døden i året 1160 etter Herrens inkarnasjon, \nden 18. mai, mens pave Alexander den tredje førte forsetet i den romerske kirke, i vår Herres Jesu Kristi styringstid, ham være heder og ære i all \nevighet. Amen."
+  },
+  "responsorium2": {
+    "ref": "Sal 64,11; 116,15",
+    "v": "Den rettferdige skal glede seg i Herren, Kostelig i Herrens øyne er hans venners død.",
+    "r": "ta sin tilflukt til ham."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Gud, du råder över himmel och jord, och du gav åt den helige Erik segerpalmen och ditt rikes härlighet. \nLåt oss genom hans förtjänst och förbön i varje motgång vinna kor¬sets seger och en gång krönas med livets krona i himlen. \nGenom din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
+}
