@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-24",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260524/readings.htm"
+  },
+  "hymne": "O Kristus, livets Herre, sänd\ndin stora gåva, Hjälparen,\nlåt honom fylla hjärtats rum\noch helga våra läppars lov.\n0 vilken ömhet i din nåd,\nsom läker stridens alla sår;\nen enda Ande enar dem\nsom jagisk vilja söndrade.\n1 sanning salig är den stad\ndär Herrens frid är uppenbar,\ndär tron med helig kärleks band\nförenar i ett nytt förbund.\nLåt denna stora salighet,\nförst given i Jerusalem,\ntill världens ändar snart bli känd\noch glädja med sin ljuvlighet.\nMå samma dyrkan bäras fram\npå alla språk, i varje land\noch vi i Andens enighet\nbesjunga Kristi härlighet. Amen.",
+  "salmer": [
+    {
+      "referanse": "Salme 104",
+      "antifon": "Ånden blåser hvor den vil, du hører den suser, men hvor den kommer fra og hvor den blåser hen, vet du ikke. Halleluja!",
+      "tekst": [
+        "Lov Herren, min sjel,",
+        "Herre, min Gud, hvor du er stor!",
+        "Du har kledd deg i høyhet og herlighet, lyset er kappen du hyller deg i.",
+        "Du spente himlene ut som et telt",
+        "og tømret din høysal over vannet.",
+        "Du gjør skyene til dm vogn og farer frem på vindens vinger.",
+        "Vindene gjør du til sendebud,",
+        "ildsluer til dine tjenere.",
+        "Du grunnfestet jorden på dens søyler, aldri i evighet skal den rokkes.",
+        "Havdypet dekket den som en kappe,",
+        "vannene stod over fjellene.",
+        "Men de flyktet for dm trussel, for din tordenrøst måtte de rømme.",
+        "De hoppet over fjellene og fosset ned i dalene",
+        "til det sted du hadde bestemt.",
+        "Du satte dem en grense de ikke får gå over, aldri mer skal de dekke jorden.",
+        "I dalene lar du kilder velle frem,",
+        "bekker renner mellom fjellene.",
+        "De gir vann til markens dyr, villesler slukker sin tørst.",
+        "Der bygger himmelens fugler rede,",
+        "i løvhenget synger de.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 104",
+      "antifon": "Brått kom det en lyd fra himmelen som av et veldig vær. og de ble alle fylt av den Hellige Ånd. Halleluja!",
+      "tekst": [
+        "Du vanner fjellene fra din høysal,",
+        "jorden mettes med frukten av det du har gjort.",
+        "Gress lar du gro for feet og vekster som mennesket kan dyrke.",
+        "Slik lar du brødet gå frem av jorden",
+        "og vinen som gleder menneskets hjerte.",
+        "Du lar ansiktet skinne av olje, og brødet styrker menneskets hjerte.",
+        "Herrens trær får slukket sin tørst,",
+        "Libanons sedrer som han har plantet.",
+        "I dem bygger fuglene rede, i sypressen har storken sin bolig.",
+        "De høyeste fjell er stenbukkens hjem,",
+        "i bergskorter finner grevlingen ly.",
+        "Du skapte månen til å fastsette tider, og solen som vet når den skal gå ned.",
+        "Du sender mørket, og natten kommer,",
+        "da kryr de frem, alle skogens dyr.",
+        "Ungløver brøler etter bytte og krever at Gud skal fore dem.",
+        "Når solen rinner, lusker de vekk",
+        "og legger seg til i sme huler.",
+        "Da går mennesket til sin gjerning for å gjøre sitt arbeid til det blir kveld.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 104",
+      "antifon": "Send ut din Ånd og alt blir omskapt, du fornyer jordens åsyn. Halleluja!",
+      "tekst": [
+        "Herre, hvor mange dine gjerninger er!",
+        "Du gjorde dem alle med visdom.",
+        "Jorden er full av det du har skapt.",
+        "Der er havet, stort og vidt, med et mylder ingen kan telle, både av små dyr og store.",
+        "Der går det skip, der er Leviatan",
+        "som du skapte for å more deg med.",
+        "Alle setter sin lit til deg, at du skal gi dem føde i rette tid.",
+        "Du strør ut, og de sanker,",
+        "du åpner din hånd og metter dem med gode gaver.",
+        "Skjuler du ditt åsyn, gripes de av redsel; tar du livsånden fra dem, utånder de og vender tilbake til jord.",
+        "Du sender din Ånd, og de skapes.",
+        "Du fornyer jordens åsyn.",
+        "Måtte Herrens herlighet vare til evig tid; måtte Herren glede seg over sitt verk!",
+        "Han ser på jorden, og den skjelver,",
+        "han rører ved fjellene, og de står i røk.",
+        "Hele mitt liv vil jeg lovsynge Herren, synge for min Gud så lenge jeg lever.",
+        "Måtte min sang finne nåde hos Herren!",
+        "Måtte Herren alltid være min glede!",
+        "Måtte synderne forsvinne fra jorden, de ugudelige ikke mer være til! Min sjel, lov Herren!",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Herrens Ånd har oppfylt jordens krets. Halleluja!",
+    "r": "Og han som omslutter alt, kjenner hvert tungemål. Halleluja!"
+  },
+  "lesning1": {
+    "referanse": "Rom 8,5-2",
+    "kilde": "Fra brevet til romerne — De som følger Åndens ledelse, er Guds barn",
+    "tekst": "De som følger den syndige natur, lar sine ønsker forme av den, mens de som følger Ånden, stemmer sitt sinn etter den. Den syndige natur er \ninnstilt på død, mer. Ånden på liv og fred. Derfor er den syndige natur fiendtlig sinnet mot Gud, den underkaster seg ikke Guds lov, den er til \nog med ute av stand til det; og de som følger den, kan ikke være etter Guds sinn.\nMen dere lever ikke naturens liv, men Åndens, så sant Guds Ånd bor i dere. Den som ikke eier Kristi Ånd, hører ikke ham til; men dersom Kristus \nbor i dere, vil legemet nok være døden undergitt på grunn av synden, men ånden levende i kraft av rettferdigheten. Og så sant hans Ånd, som \noppreiste Jesus fra de døde, bor i dere, da skal han som oppreiste fra de døde Kristus Jesus, også gi deres dødelige legemer liv ved sin Ånd \nsom bor i dere. Så er vi da riktignok skyldnere, mine brødre, men ikke overfor den syndige natur, som om den skulle ha noe krav på vårt liv; \nnei, lar dere den få råde, er døden dere viss. Men dersom dere ved Ånden gjør det av med den syndige naturs verk, da er livet deres.\nFor alle de som lar seg føre av Guds Ånd, de er Guds barn. Det er ikke den gamle slaveånd dere har fått igjen, slik at frykten fremdeles skulle \nherske; nei, den ånd dere har fått, gir dere rang som barn, den får oss til å rope: „Abba! Far!“ Ånden selv forener seg med vår egen ånd for å \nbevitne at vi er Guds barn. Men er vi barn, da er vi også arvinger, Guds arvinger og Kristi medarvinger, så sant vi tar del i hans lidelse, for \nogså å få del i herligheten, sammen med ham.\nJeg mener nemlig at de lidelser vi har å gjennomgå her i verden, er for ingenting å regne mot den herlighet vi en gang skal tre frem i. For når \nskapningen speider i spent forventning, er det fordi den lengter etter å få se Guds barn tre frem i all sin glans. Nå er jo skapningen intetheten \nunderlagt, riktignok ikke av egen vilje, det var en som laget det så; og et håp har den å se frem til. For selv skapningen skal bli befridd fra \nforgjengelighetens slaveri og få del i den frihet som Guds barn i sin herlighet eier. Ja, vi vet at hele skapningen uten unntagelse fremdeles \nstønner i fødselsveer. Og ikke den alene, men også vi som alt har fått den første høst av Andens gaver, også vi sukker i vårt hjertes dyp, mens \nvi i lengsel venter på at vårt legeme skal bli kjøpt fri. For vår frelse er ennå noe vi håper på. Et håp en ser oppfylt, er ikke noe håp; har \nen noe innen synsvidde, hva skal en så fortsette å håpe for? Men å håpe på noe vi ikke ser, det betyr å vente på det med utholdenhet. Og så \nkommer også Ånden vår avmakt til unnsetning. Selv vet vi ikke å be slik som vi burde; men Ånden går selv i forbønn for oss, med sukk som ord \nikke kan gjengi. Og han som ransaker hjertene, vet hva Åndens higen er; han vet at dens forbønn for de hellige svarer til Guds egen vilje."
+  },
+  "responsorium1": {
+    "ref": "Gal 4,6; 3,26; 2 Tim 1,7",
+    "v": "Dere er barn i kraft av troen på Kristus Jesus, For Gud gav oss ikke motløshets ånd, men krafts os kjærlighets og sindighets ånd.",
+    "r": "og Gud sendte sin Sønns Ånd inn i deres hjerter, hvor den roper: Abba, Far. Halleluja!"
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Ireneus’ verk «Mot vranglærene\".",
+    "kilde": "Den Hellige And ble utsendt",
+    "tekst": "Da Herren gav disiplene makt til å gjenføde mennesker til Gud, sa han til dem: «Gå ut og gjør alle folkeslag til disipler, idet dere døper dem i \nFaderens og Sønnens og den Hellige Ånds navn“l. Det var denne Ånd han ved profetene hadde lovet «i de siste dager å utøse over ... sine treller \nog tjeneste kvinner slik at de taler profetisk“2. Derfor var det også at Ånden steg ned over Guds Sønn da han var blitt Menneskesønn. Sammen med \nham vennet Ånden seg til å bo i mennesker, til å hvile over mennesker3 og ta bolig i Guds skapning. Den gjør Faderens vilje i dem og fornyer \ndem fra å være den gamle skapning til å bli Kristi nye skapning. Det var denne Ånd David bad om for menneskeslekten da han sa: «Styrk meg med \ndin styrende Ånd“4.\nDet var denne Ånd Lukas sier steg ned over disiplene pinsedag etter Herrens himmelferd. Den hadde makt til å føre alle folkeslag inn til livet \nog å inngå en ny pakt med dem. Derfor sang de på alle tungemål med én røst en lovsang til Gud. Ånden førte sammen fjerntliggende stammer og bar \nfrem til Faderen førstegrødeoffer av alle folkeslag. Derfor var det Herren lovet at han ville sende en Talsmann for å tilpasse oss til Gud. På \nsamme måte som tørt mel ikke kan bli én brøddeig eller ett brød uten vann, slik kunne heller ikke vi som er mange, bli ett i Kristus Jesus uten \nvann fra himmelen. Og på samme måte som tørr jord ikke kan bære avling om den ikke vannes, slik kan heller ikke vi som før var det tørre tre,5 \nbære livskraftig frukt uten rikelig med regn fra oven. Våre legemer har ved dåpens bad fått del i den enhet som gir uforgjengelighet, våre \nsjeler har fått del i denne enhet ved Anden. Derfor er begge nødvendige, for begge gir oss del i Guds liv.\nGuds And steg ned over Herren, „visdoms og forstands Ånd, råds og styrkes Ånd, kunnskaps og fromhets Ånd, gudsfrykts Ånd“6. Herren gav den i \nsin tur videre til Kirken og sendte Talsmannen fra himmelen ned til hele jorden, dit djevelen falt ned som et lyn, sier Herren7. Derfor trenger \nvi Guds dugg, slik at vi ikke skal brenne eller være ufruktbare, og dessuten ha en Talsmann der hvor vi også har en anklager 8. Herrens menneske \nsom var falt blant røvere, som han følte medlidenhet med og forbant sårene på, gir han i den Hellige Ånds varetekt9. Han gav to kongelige \ndenarer slik at vi som får Faderens og Sønnens bilde og innskrift preget inn i oss ved den Hellige Ånd 10, kan la den denar som er blitt oss \nbetrodd, øke i verdi, og betale Herren mange ganger tilbake 11."
+  },
+  "responsorium2": {
+    "ref": "Apg 2,1-2",
+    "v": "Da pinsefesen opprant, var de samlet alle som én. Med ett kom det et brus fra himmelen, Da disiplene var samlet, kom det et brus fra himmelen over dem.",
+    "r": "lik et veldig uvær som nærmet seg, og fylte hele huset. Halleluja!"
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Barmhjertige, nådige Gud, ved denne pinsefest helliggjør du din Kirke blant alle verdens folkeslag. Utøs den Hellige Ånds gaver over all jorden, og la Åndens kraft som virket da Evangeliet først ble forkynt, i dag fylle de troendes hjerter. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
