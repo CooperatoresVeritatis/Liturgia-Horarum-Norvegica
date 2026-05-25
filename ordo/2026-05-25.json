@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-25",
+  "feast": "Jungfru Maria, kyrkans moder",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260525/readings.htm"
+  },
+  "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+  "salmer": [
+    {
+      "referanse": "Salme 73",
+      "antifon": "Gud er god mot Israel, mot dem som er rene av hjertet.",
+      "tekst": [
+        "Ja, Gud er god mot Israel,",
+        "mot dem som er rene av hjertet.",
+        "Men jeg var nær ved å snuble, mine føtter holdt på å gli ut.",
+        "For jeg ble misunnelig på de hovmodige,",
+        "jeg så at det gikk de ugudelige vel.",
+        "De nekter seg intet så lenge de lever, de er friske og velnærte.",
+        "Menneskers møye er de fri for,",
+        "de blir ikke rammet som andre.",
+        "Derfor er hovmod deres halsbånd, voldsferd er kappen de hyller seg i.",
+        "Ondskapen strømmer fra deres indre,",
+        "hjertets tanker trenger seg frem.",
+        "De håner og taler ondskapsfullt, ovenfra truer de med vold.",
+        "De løfter munnen mot himmelen,",
+        "og tungen farer om på jorden.",
+        "Derfor vender folket seg til dem, og vann i mengder suger de i seg.",
+        "De sier: „Hvordan skulle Gud vite om det?",
+        "Har den Høyeste kjennskap til noe?“",
+        "Ja, slik er de ugudelige som alltid er trygge og øker sin rikdom.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 73",
+      "antifon": "Bytt latteren med gråt og gleden med jammer.",
+      "tekst": [
+        "Forgjeves har jeg holdt hjertet rent",
+        "og vasket mine hender til tegn på uskyld.",
+        "Enda ble jeg plaget hele dagen, hver morgen ble jeg tuktet.",
+        "Hadde jeg sagt: „Slik vil jeg tale,",
+        "da hadde jeg sveket dine sønners ætt.",
+        "Jeg undret meg og grublet på dette, en urett jeg ikke kunne fatte.",
+        "Til jeg gikk inn i Guds helligdom;",
+        "da skjønte jeg hvordan det går dem til slutt.",
+        "Ja, du fører dem ut på glatte veier. Du lar dem falle og gå til grunne.",
+        "De blir revet bort",
+        "og ender i redsel.",
+        "Likesom en drøm når vi våkner, jager du bort deres bilde, Herre.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 73",
+      "antifon": "De som holder seg borte fra deg, går til grunne, for meg er det godt å holde meg nær til min Gud.",
+      "tekst": [
+        "Så lenge mitt sinn var bittert, mitt hjerte sårt,",
+        "da var jeg dum og uforstandig,",
+        "som en flodhest var jeg mot deg.",
+        "Men jeg blir hos deg for alltid, du har grepet min høyre hånd.",
+        "Du leder meg ved ditt råd,",
+        "og siden tar du meg opp i herlighet.",
+        "Hvem har jeg ellers i himmelen? Har jeg deg, er jeg uten ønsker på jorden.",
+        "Om min kropp og mitt hjerte forgår,",
+        "er Gud for evig mitt hjertes klippe, min arvedel.",
+        "Se, de som holder seg borte fra deg, går til grunne, du gjør ende på alle som er utro mot deg.",
+        "For meg er det godt å holde meg nær til Gud,",
+        "i Herren har jeg min tilflukt.",
+        "Jeg vil forkynne alt du har gjort.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Hvor søtt er ditt ord for min gane, Herre.",
+    "r": "Søtere enn honning i min munn."
+  },
+  "lesning1": {
+    "referanse": "Job 2,1-13",
+    "kilde": "Fra Jobs bok — Job blir slått med byller og får besøk av venner",
+    "tekst": "Så hendte det en dag at Guds sønner kom og trådte frem for Herren; blant dem var også Satan. „Hvor kommer du fra?\" spurte Herren. „Jeg har streifet \nomkring på jorden,“ svarte Satan. Da sa Herren til ham: „La du merke til min tjener Job? Det finnes ikke hans make på jorden. Han er en hederlig \nog rettskaffen mann, som frykter Gud og holder seg borte fra det som er ondt. Fremdeles er han like from. Uten grunn har du egget meg til å føre \nham i ulykke.“ Men Satan svarte: „Hud for hud! En mann gir jo gjerne alt han eier for sitt liv. Men rekk bare hånden ut og rør ved hans ben og \nkjøtt, så skal du sannelig se at han spotter deg like opp i ansiktet.\" Da sa Herren til Satan: „Han er i din makt. Spar bare livet hans!\"\nSå gikk Satan bort fra Herren, og han slo Job med vonde byller fra hode til hel. Job tok et potteskår og skrapte seg med, der han satt borte på \navfallsdyngen. Da sa hans hustru til ham: „Er du fremdeles like from? Spott heller Gud og dø!\" Men han svarte: „Du taler som en ufornuftig kvinne. \nSkal vi bare ta imot det gode fra Gud? Skal vi ikke ta imot det onde også?\" Tross alt som hadde hendt, syndet ikke Job med sin munn.\nJob hadde tre venner. Da de fikk høre om all ulykken som hadde rammet ham, kom de hver fra sitt hjemsted: Elifas fra Teman, Bildad fra Sjuah og \nSofar fra Na’ama. De ble enige om at de skulle gå til Job og vise ham sin medynk og trøste ham. Mens de ennå var et stykke borte, fikk de øye på \nham; men de kjente ham ikke igjen. Da brast de i gråt, flerret kappene sine og kastet støv opp i luften så det falt ned over hodet på dem. Så satt \nde hos ham der på jorden i syv dager og syv netter. Og ingen sa et ord til ham, for de så at han led forferdelig."
+  },
+  "responsorium1": {
+    "ref": "Sal 38, 2.3.4.12",
+    "v": "Herre, tukt meg ikke i din harme, jeg er gjennomboret av dine piler. Mine venner og mine frender skyr meg for min plages skyld.",
+    "r": "Hele min kropp er syk for din vredes skyld."
+  },
+  "lesning2": {
+    "referanse": "Ur ett tal hållet av den helige påven Paulus VI vid avslutningen av Andra Vatikankonciliets tredje session.",
+    "kilde": "Maria, Kyrkans moder",
+    "tekst": "När man tänker på det intima band som förenar Maria och Kyrkan, så förklarar vi, till den\nsaliga Jungfruns ära och till vår egen tröst, att den allraheligaste Maria är Kyrkans moder, det\nvill säga mor till hela det kristna folket, såväl hjorden som herdarna, som alla kallar henne den\nkärleksfullaste modern. Vi stadgar också att hela det kristna folket hädanefter skall åkalla\nhenne med detta ljuvliga namn och så växa i vördnad för Guds moder och rikta sina böner till\nhenne.\nDet handlar, mina vördade bröder, om en titel som inte är obekant för den\nkristna fromheten. Tvärtom hyser de kristtrogna och hela kyrkan en förkärlek för att anropa\nMaria under detta namn, vilket förvisso hör samman med den äkta Mariafromheten, eftersom\ndet är fast grundat i den värdighet som Maria åtnjuter i sin egenskap av moder till det\nmänniskoblivna Ordet.\nEftersom hennes gudomliga moderskap således är skälet till Marias enastående\nförbindelse med Kristus och hennes unika närvaro i det frälsningens verk som Kristus Jesus\nutfört, så hänger på liknande sätt förbindelsen mellan Maria och Kyrkan samman med hennes\nGudsmoderskap. Maria är ju Kristi moder, och i och med att han antog mänsklig natur i\nhennes moderliv förenade han sin kropp, som är Kyrkan, med sig själv såsom dess huvud.\nMaria, som alltså är Kristi moder, måste därmed gälla som alla troendes och herdars moder,\ndet vill säga Kyrkans moder.\nDetta är skälet till att vi, hur ovärdiga och svaga vi än är, ändå med barnsligt\nförtroende och brinnande kärlek lyfter blicken upp till henne. Hon gav oss en gång Jesus,\nkällan till nåden från ovan. Hon kan inte annat än skänka en mors hjälp till Kyrkan, i\nsynnerhet nu när Kristi Brud strävar att med förnyad iver utföra sin frälsningsbringande\nuppgift.\nDessa intima band mellan vår himmelska Mor och människosläktet manar oss\natt fostra och stärka detta förtroende. Även om hon är välsignad av Gud med de härligaste och\nsällsammaste gåvor för att bli en värdig mor åt det människoblivna Ordet, så är Maria likväl\nvår närmaste. Hon är liksom vi Adams dotter och därför vår syster i kraft av vår gemensamma\nmänskliga natur. Men hon var orörd av ursyndens fläck med tanke på Kristi kommande\nförtjänster. Och till de gåvor som Gud hade givit henne lade hon sin egen fullkomliga tro, som\när vårt föredöme, och därmed gjorde hon sig förtjänt av denna evangeliska lovprisning:\nVälsignad du som trodde!\nI detta vårt dödliga liv gav hon oss bilden av den fullkomliga lärjungen, spegeln\nav alla dygder, det fulla uttrycket för ett liv enligt de saligprisningar som Kristus Jesus har\nförkunnat. Därför ser hela Kyrkan i alla sina livsyttringar och hela sin verksamhet sin\nfullkomligaste förebild i Guds jungfruliga Moder: hon visar hur man helt och full kan\nefterlikna Kristus."
+  },
+  "responsorium2": {
+    "ref": "",
+    "v": "Den helige Ande kom över Maria Hon var sin Sons förbundna i hans lidande, hon fylldes än en gång av Anden och blev de återlöstas Moder:",
+    "r": "Och den Högstes kraft överskyggade henne."
+  },
+  "teDeum": null,
+  "bønn": "Gud, barmhärtighetens Fader, din Son har gjort sin moder, den saliga jungfrun Maria, också till vår moder. Låt hennes kärlek få din kyrka att växa och helgas, så att alla jordens folk samlas i dess famn. Genom din Son"
+}
