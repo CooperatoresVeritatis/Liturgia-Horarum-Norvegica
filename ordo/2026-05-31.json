@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-31",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260531/readings.htm"
+  },
+  "hymne": "Guds menighet syng for vår Skaper i lønn! \nengler synger med -\nGuds menighet syng for vår Skaper i lønn!\nengler synger med -\nHan gav oss til Frelser sin enbårne Sønn.\nSå liflig vi leker for Herren!\nSlå harpen, du fromme salmist på jord,\n- strengen er av gull -\nfor Jesus vår konge, Guds levende ord!\nSå liflig vi leker for Herren!\nDa høres de glødende tungers røst,\n- Ånden er oss nær -\nsom bringer oss alltid den evige trøst.\nSå liflig vi leker for Herren!",
+  "salmer": [
+    {
+      "referanse": "Salme 8",
+      "antifon": "Vær oss nær, du ene, allmektige Gud, Fader og Sønn og Hellige Ånd.",
+      "tekst": [
+        "Herre, vår Herre, herlig er ditt navn",
+        "over den vide jord.",
+        "Høyt over himmelen er din herlighet, barn og spebarn lovsynger den.",
+        "Din herlighets bolig står som en festning",
+        "for å slå dine fiender til jorden.",
+        "Når jeg ser din himmel, dine henders verk, månen og stjernene som du har dannet,",
+        "hva er da et menneske at du tenker på ham,",
+        "et menneskebarn at du sørger for det?",
+        "Lite ringere enn englene gjorde du ham, kronet ham med herlighet og ære.",
+        "Du satte ham til herre over dine henders verk,",
+        "alt la du under hans føtter:",
+        "Småfe og okser i samlet flokk, villdyr i skog og mark,",
+        "himmelens fugler og fisk i hav,",
+        "alt som ferdes på havets stier.",
+        "Herre, vår Herre, herlig er ditt navn over den vide jord.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 35",
+      "antifon": "Faderens kjærlighet, Sønnens nåde, Åndens samfunn, å salige Treenighet!",
+      "tekst": [
+        "Herre, strid imot dem som strir imot meg,",
+        "kjemp mot dem som bekjemper meg.",
+        "Grip ditt skjold og ditt verge, reis deg, og kom meg til hjelp.",
+        "Finn spydet og stridsøksen frem,",
+        "rykk ut mot dem som forfølger meg.",
+        "Si til min sjel: „Jeg er din frelse.\"",
+        "Jeg skal juble i Herren",
+        "og glede meg over hans frelse.",
+        "Da roper jeg ut med kropp og sjel: „Herre, hvem er som du?",
+        "Du utfrir hjelpeløs mann",
+        "fra den som er ham for sterk.",
+        "Du verner den fattige stakkar mot den som utnytter ham.\"",
+        "Falske vitner reiser seg mot meg",
+        "og spør meg om slikt som jeg ikke vet.",
+        "De gjengjelder godt med ondt, jeg kjenner meg helt forlatt.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 35",
+      "antifon": "Faderen er sanndru, Sønnen er sannheten, den Hellige Ånd er sannheten, å salige Treenighet!",
+      "tekst": [
+        "Da de var syke, gikk jeg i botsdrakt;",
+        "jeg plaget meg selv med faste.",
+        "Jeg bad med bøyet hode som for en venn eller bror.",
+        "Lik en som sørger over sin mor",
+        "gikk jeg i sørgeklær.",
+        "Men nå, da jeg vakler, flokkes de skadefro om meg;",
+        "krøplinger angriper meg, jeg vet ikke hvorfor,",
+        "de river og sliter uten stans.",
+        "Frafalne er de og spotter og håner, de skjærer tenner mot meg.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Himlene ble skapt ved Guds ord.",
+    "r": "All deres hær ved hans ånde."
+  },
+  "lesning1": {
+    "referanse": "1 Kor 2,1-16",
+    "kilde": "Fra første korinterbrev — Guds viljes store mysterium",
+    "tekst": "Da jeg kom til dere, var det ikke som noen mester i talekunst eller filosofi jeg la frem for dere Guds vitnesbyrd. Nei, jeg besluttet at så \nlenge jeg var blant dere, skulle min eneste tanke være Jesus Kristus, spikret til korset. Svak, engstelig og med bevende hjerte var det jeg \ntrådte frem for dere. Og om min forkynnelse og mitt budskap fikk virke, var det ikke gjennom besnærende argumenter; de overbeviste gjennom ånd \nog kraft. Slik at deres tro ikke skulle være grunnlagt på menneskelig visdom, men på Guds kraft.\nSant nok, også vi taler om visdom, blant dem som er modne for det; men da er det ikke om en visdom som er av denne verden eller stammer fra \ndenne verdens herrer, de som nå forgår. Nei, det vi forkynner, er Guds visdom, hans mysterium - de skjulte planer, som han fra før tidenes \nopphav har gjort rede, for å gi oss del i sin herlighet. Og det har ingen av denne verdens herrer kjent, for hadde de kjent til det, da hadde \nde ikke korsfestet ham som er herlighetens Herre. Men som det står skrevet:\n'Hva intet øye har sett og intet øre har hørt, og hva som ikke er kommet opp i noe menneskes hjerte; alt hva Gud har gjort rede for dem som \nelsker ham’ - det har Gud åpenbart for oss gjennom Ånden. For Ånden trenger til bunns i alle ting, selv dybdene i Gud. Kan vel noen annen enn \nmenneskets egen ånd vite hva som bor i dets sinn? Og den Ånd vi har fått del i, den er ikke av denne verden; den kommer fra Gud, og lærer oss \nå kjenne de gaver Gud har gitt oss. Så taler vi heller ikke om dem med ord som menneskelig visdom har lært oss, men i et språk som Ånden lærer \noss; for ting fra Åndens verden må vi uttrykke på dens egen måte, blant dem som hører Ånden til. For et menneske, slik det er av naturen, er \nikke mottakelig for det som kommer fra Guds Ånd; for ham er det dårskap, og han er ute av stand til å forstå det, fordi det er ting som må \nbedømmes ut fra en åndelig innsikt. Det menneske som er opplyst av Anden, derimot, han kan dømme om alt, men selv ikke dømmes av noen. Hvem \nkjenner vel Herrens tanke, så han skulle gi ham råd? Men vi har del i Kristi tanke."
+  },
+  "responsorium1": {
+    "ref": "Jf. Ef 1,17.18; 1 Kor 2,12",
+    "v": "Måtte vår Herres Jesu Kristi Gud, herlighetens Far, gi oss den And som gir visdom og åpenbaring, så vi kan lære Gud å kjenne. Måtte han opplyse våre hjerters øyne, Vi har ikke fått verdens ånd, men den And som er fra Gud.",
+    "r": "så vi kan forstå hvilket håp han har kalt oss til, hvor rik og herlig arven er for de hellige."
+  },
+  "lesning2": {
+    "referanse": "Fra „Brevet til Serapio\" av den hellige Athanasios, biskop av Alexandria.",
+    "kilde": "Der hvor lyset er, der er også stråleglansen,der er også stråleglansens kraft og lysende nåde",
+    "tekst": "La oss nå ta for oss den katolske Kirkes overlevering, det som har vært dens lære og tro fra begynnelsen av, den tro Herren gav, apostlene \nforkynte og fedrene våket over. Det er den som er Kirkens grunnvoll, og den som faller fra denne troen, kan verken være eller kalles en kristen \nlenger. Der er altså den hellige og fullkomne Treenighet som er Gud i Faderen og Sønnen og den Hellige And. Den er ikke iblandet noe som er \nden fremmed, eller noe som kommer utenfra; den består ikke av en skaper og noe som er skapt, men den er fullt og helt rettet mot å skape og å \nforme. Den er seg selv lik og uatskillelig etter sin natur, og dens virkekraft er én. Faderen gjør nemlig alt gjennom Ordet i den Hellige Ånd, \nog slik er det at enheten i den hellige Treenighet bevares, og slik har det seg at det i Kirken forkynnes én Gud, „han som er over alle, \ngjennom alle og i alle\"1. „Over alle\" som Fader, som opphav, som kilde; „gjennom alle\" gjennom Ordet; „i alle\" i den Hellige Ånd. Treenigheten \nbegrenser seg ikke til navn eller talemåter uten innhold, men den er Treenighet i sannhet, etter sin eksistens. Slik Faderen er den som er, \nslik er hans Ord den som er, den Gud som er over alle. Heller ikke den Hellige Ånd er uten egeneksistens, men er til og består virkelig.\nDet som Ånden deler ut til hver enkelt, det er det Faderen som skjenker rikelig gjennom Ordet. Alt det som tilhører Faderen, tilhører Sønnen. \nDerfor er det som Sønnen gir i den Hellige Ånd, Faderens nådegaver. Og når Ånden er i oss, da er også Ordet som gir Ånden, til stede i oss, og \ni Ordet er Faderen. Det er det dette ordet betyr: „Faderen og jeg vil komme og ta bolig hos ham\"2. For der hvor lyset er, der er også \nstråleglansen3, der er også stråleglansens kraft og lysende nåde.\nDet er dette Paulus lærer når han sier til korinterne i sitt annet brev til dem: „Vår Herres Jesu Kristi nåde, Guds kjærlighet og den Hellige \nÅnds samfunn være med dere alle!\"4 Den nåde og den gave som gis, blir gitt i Treenigheten fra Faderen gjennom Sønnen i den Hellige Ånd. For \npå samme måte som den nåde som blir gitt, kommer fra Faderen gjennom Sønnen, slik kan vi ikke få del i den gave som er i oss, uten i den \nHellige Ånd. Når vi har del i ham, har vi Faderens kjærlighet, Sønnens nåde og den Hellige Ånds samfunn."
+  },
+  "responsorium2": {
+    "ref": "",
+    "v": "La oss velsigne Faderen og Sønnen og den Hellige Ånd. Velsignet være Herren i sin høye himmel, lovet og æret i evighet.",
+    "r": "La oss prise og opphøye dem for alltid."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Gud, vår Far, du har sendt sannhetens Ord og helliggjørelsens And inn i verden, og åpenbart for menneskene din Treenighets mysterium. La oss, når vi bekjenner den sanne tro, erfare Treenighetens evige herlighet og tilbe enheten i majestetens allmakt. Ved vår Herre"
+}
