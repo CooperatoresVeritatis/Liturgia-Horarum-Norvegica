@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-29",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260629/readings.htm"
+  },
+  "hymne": "Du är välsignad, Rom, av Herrens sändebud;\nde två förnämsta göt i dig sitt röda blod.\nSå är din skönhet större än all världens glans;\ndin är ej äran, men de många heligas\nsom du i vanvett dödat genom kors och svärd.\nO Guds martyrer, hör oss i er härlighet,\no Petrus, klippa, Paulus, ren som liljans kalk,\no Kristi stridsmän, segrare i andlig kamp:\nmed goda böner skydda oss från ondskans makt\noch lyft oss nådigt upp från jordens jämmerdal.\nAll ära tillhör Fadern, evighetens Gud,\noch ende Sonen välde, makt, rättfärdighet,\noch Herrens Ande, Hjälparen, all salighet;\n0 enda Gudom, heliga Treenighet,\nsom nu och alltid råder över dina verk. Amen.",
+  "salmer": [
+    {
+      "referanse": "Salme 19 (2-7)",
+      "antifon": "Hvis du elsker meg, Simon Peter, røkt mine får.",
+      "tekst": [
+        "Himlene forkynner Guds ære,",
+        "hvelvingen kunngjør hans henders verk.",
+        "Dag bærer bud dl dag, natt gir sin kunnskap til natt.",
+        "Uten ord og uten tale,",
+        "det er ingen lyd å høre.",
+        "De forkynner for hele jorden, til jorderiks ende når deres ord. På himmelen reiser han solen et telt.",
+        "Som en brudgom går den ut av sitt kammer,",
+        "gleder seg som en helt til å løpe sin bane.",
+        "Dens løp går fra himmelrand til himmelrand, intet er skjult for dens glød.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 64",
+      "antifon": "For meg er livet Kristus og døden en vinning, jeg roser meg bare av Jesu Kristi kors.",
+      "tekst": [
+        "Herre, lytt til min klage,",
+        "vern mitt liv mot den truende fiende.",
+        "Skjul meg for de ondes flokk, for voldsmenn i opprør.",
+        "De som hvesser sin tunge som sverdet,",
+        "legger giftige ord på buen,",
+        "for å skyte mot den uskyldige fra bakhold. Brått skyter de ham og frykter ikke.",
+        "De støtter hverandre i sin gjerning,",
+        "pønsker på ondt og legger snarer.",
+        "De sier: Hvem kan vel se det? Hvem gjetter våre skjulte tanker?\"",
+        "Herren ser deres innerste tanker,",
+        "han som gransker menneskets hjerte.",
+        "Gud har rammet dem med sin pil, plutselig er de såret.",
+        "For deres tunge felte han dem.",
+        "Alle som ser dem, ryster på hodet.",
+        "Hvert menneske skal frykte, forkynne Herrens verk. Hans gjerning skal han fatte.",
+        "Den rettferdige skal glede seg i Herren,",
+        "ta sin tilflukt til ham;",
+        "de oppriktige av hjertet skal juble.",
+        "Ære være Faderen og Sønnen og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 97",
+      "antifon": "Herre, er det virkelig deg, så si at jeg skal komme ut til deg på vannet.",
+      "tekst": [
+        "Herren er konge, fryd deg, du jord,",
+        "de talløse øyer juble.",
+        "Omkring ham er mulm og skyer, rettferd og rett er hans trones grunnvoll.",
+        "Ild farer frem for hans åsyn,",
+        "den fortærer hans fiender.",
+        "Hans lyn opplyser jordens riker. Jorden ser det og bever.",
+        "Fjellene smelter som voks for hans åsyn,",
+        "for hele jordens Herre.",
+        "Himlene kunngjør hans rettferd, folkeslagene skuer hans herlighet.",
+        "Skam over dem som dyrker bilder,",
+        "er stolte av sine guder,",
+        "tilbe Herren, alle guder.",
+        "Sion hører det og jubler, Judas døtre synger av fryd over dine dommer, Herre.",
+        "For du, Herre, er den høyeste over hele jorden,",
+        "høyt hevet over alle guder.",
+        "Herren elsker den som hater det onde, han vokter sine og frir dem ut.",
+        "Lys rinner opp for de rettferdige",
+        "og glede for de rene av hjertet.",
+        "Juble i Herren, alle rettferdige, lovsyng hans hellige navn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Herrens ord varer evig,",
+    "r": "Det er evangeliet som er forkynt for dere."
+  },
+  "lesning1": {
+    "referanse": "Gal 1,15-2,10",
+    "kilde": "Fra Paulus’ brev til Galaterne — Diskusjonen mellom Peter og Paulus",
+    "tekst": "Han som like fra mors liv har utkåret meg og i sin nåde har kalt meg, han fant for godt å åpenbare sin Sønn for meg, for at jeg skulle bringe \nbudskapet om ham til hedningene. Da var det ikke noe menneske jeg spurte til råds, heller ikke drog jeg opp til Jerusalem for å tale med dem \nsom var kalt til apostler før meg; nei, jeg drog straks ut i Arabia, og derfra tilbake til Damaskus. Først tre år senere reiste jeg opp til \nJerusalem for å lære Kefas å kjenne, og ble da en fjorten dagers tid hos ham. Noen annen av apostlene traff jeg ikke dengang; bare Jakob, \nHerrens bror. Og det jeg her skriver til dere, kan Gud være mitt vitne på; det er ingen løgn. Siden kom jeg til Syria og Kilikia; men for \nkirkene i Judea var jeg personlig ukjent. De hørte bare det ble sagt, at «han som nylig forfulgte oss, forkynner nå den tro han nettopp ville \nutrydde,» og de priste Gud for hva han hadde gjort for meg.\nFjorten år senere drog jeg så på ny opp til Jerusalem, sammen med Barnabas, og tok Titus med meg. Og det var etter en åpenbaring. Da la jeg \nfrem for dem det evangelium jeg forkynner for hedningene, for å forvisse meg om at mitt arbeid ikke var og ikke hadde vært forgjeves; men det \nskjedde i enrom for de mest ansette. Og selv ikke Titus, som var med meg, og som var hellener, forlangte de noen omskjærelse av. Og det til \ntross for noen som hadde lurt seg inn, noen falske brødre som hadde sneket seg inn for å finne en anledning til å ta fra oss vår frihet, den \nsom vi har gjennom Kristus Jesus, og så bringe oss i slaveri igjen.\nDem gjorde vi ingen innrømmelser, enn ikke et øyeblikk, - for vi ville bevare for dere det sanne evangelium. Hva nå angår dem som går for å \nvære de mest fremstående - hva de var er uten betydning for meg, - Gud ser ikke på folks ytre - hva dem angår, påla iallfall ikke de meg noe \nmer. Tvertimot, de forstod at forkynnelsen av evangeliet for de uomskårne var meg betrodd, likesom det var betrodd Peter overfor de omskårne. \nFor han som hadde gjort Peter i stand til å være apostel for de omskårne, hadde gjort det samme for meg når det gjaldt hedningene.\nOg da de altså klart hadde sett den nåde som var blitt meg til del, gav Jakob, Kefas og Johannes - som jo var de anerkjente støtter - de gav \nmeg og Barnabas hånden som tegn på vårt fellesskap. Vi skulle da gå til hedningene, de til de omskårne; bare skulle vi love å huske på de \nfattige - og nettopp dette har jeg da også lagt vinn på å gjøre."
+  },
+  "responsorium1": {
+    "ref": "Matt 16,18-19",
+    "v": "Du er Peter - klippen -, og på denne klippe vil jeg bygge min Kirke. Og den skal dødsrikets porter aldri få i sin vold. Det du binder på jorden, skal være bundet i himlene, og det du løser på jorden skal være løst i himlene.",
+    "r": "Deg vil jeg gi nøklene til himlenes rike."
+  },
+  "lesning2": {
+    "referanse": "Fra Den hellige biskop Augustins prekener",
+    "kilde": "Disse martyrene har sett det de forkynte",
+    "tekst": "Det er De hellige apostler Peter og Paulus’ martyrium som har helliget denne dagen for oss. Vi snakker ikke her om noen ukjente martyrer. \n«Deres budskap har lydt over hele jorden, og ordene deres har nådd til jordens grenser.»1 Disse martyrene har sett det de forkynte; de levde \ni rettferdighet ved å bekjenne sannheten og dø for sannheten. Den første blant apostlene, Den hellige Peter, næret en brennende kjærlighet til \nKristus, og det ble ham forunt å høre: «Og jeg sier deg at du er Peter.» Han hadde jo selv sagt: «Du er Kristus, den levende Guds sønn.» \nOg Kristus sa til ham: «Og jeg sier deg at du er Peter, og på denne klippe vil jeg bygge min Kirke.»2 På denne klippe vil jeg bygge den tro \nsom du bekjenner. På dette som du har sagt: «Du er Kristus, den levende Guds sønn», vil jeg bygge min Kirke. For du er Peter. Navnet Peter \nkommer av ‘klippe’ (petra), det er ikke ordet ‘klippe’ som kommer av Peter. Slik kommer navnet Peter av ‘klippe’ (petra) på samme måte som \nordet ‘kristen’ kommer av navnet Kristus.\nSom dere vet, valgte Herren Jesus ut sine disipler før sin lidelse, og han kalte dem apostler. Blant dem var det nesten ved alle anledninger \nbare Peter som ble betrodd å representere hele Kirken. Fordi han alene stod som representant for hele Kirken, ble det ham forunt å høre: «Jeg \nvil gi deg nøklene til himlenes rike.»3 Nå var det jo ikke én mann som fikk disse nøklene, men Kirken som enhet. Grunnen til at Peter gis en \nforrang, er altså at han representerte den universelle og ene kirke, og når ordene «Jeg betror deg» rettes til ham, så betyr det at alle har \nfått det betrodd. For at dere skal forstå at Kirken har fått nøklene til himlenes rike, hør nå hva Herren på et annet sted sier til alle \napostlene sine: «Ta imot Den Hellige And», og straks etter: «Dersom dere tilgir noen deres synder, da skal de bli tilgitt. Dersom dere \nfastholder syndene for noen, skal de bli fastholdt.»4\nDet var altså med rette at Herren etter sin oppstandelse betrodde nettopp Peter å røkte hans får. Det var jo ikke slik at Peter alene gjorde \nseg fortjent til å røkte Herrens får. Men når Kristus taler til én, er det enheten som anbefales og betones. Og han taler til Peter først \nfordi Peter er den første blant apostlene. Ikke føl deg trist, apostel, men svar én gang, svar igjen og svar for tredje gang! La din \nbekjennelse seire tre ganger ved kjærlighet, for din selvsikkerhet ble overvunnet tre ganger av frykt. Det som du hadde bundet tre ganger, \nmå løses tre ganger. Løs med kjærlighet det som du hadde bundet med frykt! Og allikevel har Herren betrodd sine får til Peter både én, to og \ntre ganger.\nEn dag er minnedag for to apostlers lidelse. Men også de to var ett. Selv om deres lidelse fant sted på forskjellige dager, var de ett. Peter \ngikk i forveien, Paulus fulgte etter. Vi feirer apostlenes festdag, en festdag helliget for oss med apostlenes blod. La oss elske deres tro, \nderes liv, deres strev, deres lidelser, deres bekjennelse og forkynnelse!"
+  },
+  "responsorium2": {
+    "ref": "",
+    "v": "Hellige Paulus apostel, sannhetens forkynner og hedningenes apostel, Ved deg har alle nasjoner lært Guds nåde å kjenne.",
+    "r": "i sannhet verdig er det å ære deg."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Herre, vår Gud, vi er samlet på denne festdag i glede over dine apostler Peter og Paulus. Gi at din Kirke trofast følger deres lære som la grunnvollen for vår tro. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
