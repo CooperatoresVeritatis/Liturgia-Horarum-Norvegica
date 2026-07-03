@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-03",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260703/readings.htm"
+  },
+  "hymne": "Jødelands apostelskare!\nHva i verden kan forklare\nkraften i ditt gamle ord,\nsom ennu gjør underverker,\nhar til stolte minnesmerker\nalle kirker på vår jord!\nHvor kan vi med dem istemme,\nsom har dypt i østen hjemme,\nderes bilder dog forstå?\nHvor kan vi i fjerne egne,\nvidne på apostlers vegne\nhva de hørte, hva de så?\nJa, hvor kan, skjønt de er døde,\nderes ord på tunger gløde,\ntrosse hån og blokk og bål?\nHvor kan deres ånd i Norden,\nja, i hver en vrå på jorden,\ntale folkets modersmål?\nHerrens Ord og pinsedagen,\nbare de forklarer saken,\ngav oss alle tungers ånd,\nAnden som kan alt utvirke,\nsom i Jesu Kristi kirke\nløser alle tungebånd!\nSandelig, det var Guds finger\nsom gav bruden ørnevinger,\nmidt i ørken, hus og gård,\nsom gav korsets ord fra østen\nkjempekraften, kvinnerøsten,\nher blant oss i tusen år.\nHva kan makte, hva kan virke\ndet som skjer i Kristi kirke -\nalt umulighet for oss?\nKun Hans Ånd, som skapte solen,\nsom på allmakts-kongestolen\nbyder død og djevel tross.",
+  "salmer": [
+    {
+      "referanse": "Salme 19 (2-7)",
+      "antifon": "De forkynner for hele jorden, til jorderiks ende når deres ord.",
+      "tekst": [
+        "Himlene forkynner Guds ære,",
+        "hvelvingen kunngjør hans henders verk.",
+        "Dag bærer bud dl dag, natt gir sin kunnskap til natt.",
+        "Uten ord og uten tale,",
+        "det er ingen lyd å høre.",
+        "De forkynner for hele jorden, til jorderiks ende når deres ord. På himmelen reiser han solen et telt.",
+        "Som en brudgom går den ut av sitt kammer,",
+        "gleder seg som en helt til å løpe sin bane.",
+        "Dens løp går fra himmelrand til himmelrand, intet er skjult for dens glød.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 64",
+      "antifon": "Han skal forkynne Herrens verk, hans gjerning skal han fatte.",
+      "tekst": [
+        "Herre, lytt til min klage,",
+        "vern mitt liv mot den truende fiende.",
+        "Skjul meg for de ondes flokk, for voldsmenn i opprør.",
+        "De som hvesser sin tunge som sverdet,",
+        "legger giftige ord på buen,",
+        "for å skyte mot den uskyldige fra bakhold. Brått skyter de ham og frykter ikke.",
+        "De støtter hverandre i sin gjerning,",
+        "pønsker på ondt og legger snarer.",
+        "De sier: Hvem kan vel se det? Hvem gjetter våre skjulte tanker?\"",
+        "Herren ser deres innerste tanker,",
+        "han som gransker menneskets hjerte.",
+        "Gud har rammet dem med sin pil, plutselig er de såret.",
+        "For deres tunge felte han dem.",
+        "Alle som ser dem, ryster på hodet.",
+        "Hvert menneske skal frykte, forkynne Herrens verk. Hans gjerning skal han fatte.",
+        "Den rettferdige skal glede seg i Herren,",
+        "ta sin tilflukt til ham;",
+        "de oppriktige av hjertet skal juble.",
+        "Ære være Faderen og Sønnen og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 97",
+      "antifon": "De kunngjør hans rettferd, folkeslagene skuer hans herlighet.",
+      "tekst": [
+        "Herren er konge, fryd deg, du jord,",
+        "de talløse øyer juble.",
+        "Omkring ham er mulm og skyer, rettferd og rett er hans trones grunnvoll.",
+        "Ild farer frem for hans åsyn,",
+        "den fortærer hans fiender.",
+        "Hans lyn opplyser jordens riker. Jorden ser det og bever.",
+        "Fjellene smelter som voks for hans åsyn,",
+        "for hele jordens Herre.",
+        "Himlene kunngjør hans rettferd, folkeslagene skuer hans herlighet.",
+        "Skam over dem som dyrker bilder,",
+        "er stolte av sine guder,",
+        "tilbe Herren, alle guder.",
+        "Sion hører det og jubler, Judas døtre synger av fryd over dine dommer, Herre.",
+        "For du, Herre, er den høyeste over hele jorden,",
+        "høyt hevet over alle guder.",
+        "Herren elsker den som hater det onde, han vokter sine og frir dem ut.",
+        "Lys rinner opp for de rettferdige",
+        "og glede for de rene av hjertet.",
+        "Juble i Herren, alle rettferdige, lovsyng hans hellige navn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "De forkynte Herrens herlighet og makt,",
+    "r": "og fortalte om hans underfulle verk."
+  },
+  "lesning1": {
+    "referanse": "1 Kor 4,1-16",
+    "kilde": "Fra Paulus’ første brev til korinterne. — Vi skal være apostlenes etterfølgere, som apostlene er Kristi etterfølgere",
+    "tekst": "Man skal betrakte oss som medhjelpere for Kristus og forvaltere av de guddommelige mysterier. Men det som forlanges av en forvalter, er at han viser \nseg tro. Og for meg betyr det lite, om jeg dømmes av dere eller i det hele tatt av en menneskelig domstol. Ja, jeg kan ikke engang selv dømme i min \nsak. Riktignok er jeg meg ikke noen skyld bevisst, men dermed er jeg ikke frikjent; for Herren er min dommer. Døm altså ikke før tiden er inne, men \nvent til Herren kommer, - han som skal kaste lys over det som er skjult i mørket og bringe våre innerste tanker for dagen. Og da skal enhver få den \nros han fortjener av Gud.\nJa, i det foregående har jeg brukt meg selv og Apollos som eksempler, men det er beregnet på dere, slik at dere ‘holder dere til reglene’, som det \nheter, — med andre ord, at ingen fremhever noen enkelt på andres bekostning. For hvem sier at du overhodet har noe fortrinn? Eier du kanskje noe som \ndu ikke har fått i gave? Men hvis du selv har fått det, hvorfor da skryte av det, som om det ikke var så?\nSå, dere har allerede alt hva dere ønsker? Dere er allerede blitt rike? Dere har allerede tatt kongedømmet i besittelse - uten oss? Ja, var det bare \nså vel, — så vi kunne få dele det med dere! For det synes som om Gud har stilt oss apostler aller nederst, blant de dødsdømte, - der vi står i \ngapestokken for hele verden, både for engler og for mennesker. Vi er tåper for Kristi skyld, dere så kloke i Kristus; vi er avmektige, dere er \nsterke; dere blir æret, vi blir foraktet. Frem til denne dag har vi stadig lidt både sult og tørst og knapt hatt klær på kroppen, vi blir mishandlet \nog streifer hjemløse omkring, alt mens vi sliter oss ut med våre henders arbeid. Man skjeller oss ut, og vi velsigner; vi blir forfulgt, og vi \nfinner oss i det; folk taler ille om oss, og vi gir godt ord igjen. Til jordens berme er vi blitt, et utskudd for alle mennesker, inntil den dag i \ndag.\nDet er ikke for å gjøre dere til skamme at jeg skriver dette til dere, men for å vise dere til rette, som barn jeg er glad i. For dere kan vel ha \ntusenvis av skolemestere i Kristus, men ikke mer enn én far; og det er jeg, som gjennom evangeliet er blitt deres far i Kristus Jesus. Så oppfordrer \njeg dere da til å bli meg lik."
+  },
+  "responsorium1": {
+    "ref": "Joh 15,15; Matt 13,11.16",
+    "v": "Jeg kaller dere ikke lenger tjenere, dere kaller jeg nå venner, Dere er det gitt å kjenne det himmelske rikes mysterier. Salig er deres øyne fordi de ser, salige er deres ører fordi de hører.",
+    "r": "for alt det jeg har hørt av min Far, har jeg gitt dere del i."
+  },
+  "lesning2": {
+    "referanse": "Fra Den hellige pave Gregor den stores Prekener over evangeliene",
+    "kilde": "Min Herre og min Gud",
+    "tekst": "«Men Tomas, som ble kalt tvilling og var en av de tolv, var ikke sammen med dem da Jesus kom.» Han var den eneste disippelen som ikke var der, og da han kom tilbake, fikk han høre hva som var skjedd, men han ville ikke tro det han hørte. \nHerren kom en gang til og lot den vantro disippelen røre ved sin side, han viste frem hendene sine, og da han hadde vist sårmerkene, helbredet han \ndisippelens sår, nemlig hans vantro. Kjæreste brødre, hva er det som slår dere i denne fortellingen? Tror dere at det var tilfeldig det som skjedde: \nat denne utvalgte disippelen først ikke var der, men at han kom senere og hørte, at han tvilte på det han fikk høre, at han berørte da han tvilte \nog at han trodde da han berørte?\nDette skjedde ikke tilfeldig, men ved Guds tilskikkelse. For på underfullt vis ordnet Guds mildhet det slik at da denne tvilende disippel berørte \nsårene hans mester hadde på kroppen, da helbredet han samtidig vantroens sår i oss. For Tomas’ vantro har bidratt mer til at vi kan tro enn troen \ntil de disiplene som (allerede) trodde. For idet berøringen gir Tomas troen tilbake, legger vi bort all vår tvil og befestes i troen. Slik er nemlig \ndisippelen som tvilte og berørte, blitt et vitne om at oppstandelsen virkelig skjedde.\nTomas rørte ved ham og utbrøt: «Min Herre og min Gud!» Jesus sa til ham: «Fordi du har sett meg, Tomas, tror du.»2 Når apostelen Paulus sier: «Men \ntroen er sikkerhet for det som håpes, bevis for det en ikke ser,»3 så er det åpenbart fordi troen er et bevis på de ting som det ikke er mulig å se. \nFor det som viser seg for oss, er ikke noe vi tror, men noe vi vet. Da Tomas så og rørte ved ham, hvorfor sier da Jesus til ham: «Fordi du har sett \nmeg, tror du»? Men han så én ting og trodde noe annet. Det var jo ikke mulig for et dødelig menneske å se Gud. Det var altså mennesket han så, men \ndet var Gud han bekjente da han sa: «Min Herre og min Gud!» Ved å se trodde han, og idet han betraktet dette mennesket av kjøtt og blod, utbrøt han \nat dette mennesket var Gud som han ikke kunne se.\nDet som følger, gir oss stor glede: «Salige er de som ikke har sett, men som allikevel tror.»4 Dette ordet sikter uten tvil til oss som ikke har \nsett ham i kjødet, men bevarer ham i hjertet. Ordet sikter til oss, men bare hvis vi lar vår tro følges av gjerninger. For det er den som i gjerning \nuttrykker det han tror, som har en ekte tro. Men om den som er troende bare i navnet, sier Paulus: «De erklærer at de kjenner Gud, men ved sine \ngjerninger fornekter de ham.»5 Og Jakob sier det slik: «Uten gjerninger er troen død.»6"
+  },
+  "responsorium2": {
+    "ref": "1 Joh 1,2.1.3a",
+    "v": "Livet åpenbarte seg og vi har sett det og vitner om det, og forkynner det for dere, Det vi har sett med egne øyne og hendene våre rørte ved: livets Ord; det vi har sett og hørt forkynner vi dere.",
+    "r": "det evige liv, som var hos Faderen, og har åpenbart seg for oss."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Allsmäktige Gud, ge oss glädje på den helige Tomas högtidsdag, ge oss stöd i hans förbön, \nså att vi tror och har liv i din Sons namn och bekänner honom som vår Herre och Gud, \nhan som med dig, Fader, och den helige Ande lever och råder i evigheters evigheter."
+}
