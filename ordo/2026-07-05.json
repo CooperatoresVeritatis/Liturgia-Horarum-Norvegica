@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-05",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260705/readings.htm"
+  },
+  "hymne": "Den signede dag med fryd vi ser\nav havet til oss oppkomme;\nden lyse på himlen mer og mer\noss alle til lyst og fromme!\nDet kjennes på oss som lysets barn\nat natten hun er nu omme!\nDen signede stund, den midnattstid,\nvår Herre han lot seg føde,\nda klarnet det opp i østerlid\ntil deiligste morgenrøde,\nda lyset opprant, som jorden all\nskal lysne uti og gløde.\nOm levende ble hvert tre i skov,\nog var så hvert blad en tunge,\nde kunne dog ei Guds nådes lov\nmed verdelig røst utsjunge.\nTi evig nu skinner livets lys\nfor gamle og så for unge.\nSå takker vi Gud, vår Fader god,\nsom lerken i morgenrøde,\nfor dagen han oss opprinne lot,\nfor livet han gav av døde;\nden signede dag i Jesu navn\noss alle vårt liv forsøte!\nNu saktelig skrid, du høytidsdag,\nmed stråler i krans om tinde!\nHver time til Herrens velbehag\nsom bekker i eng henrinne,\ntil frydelig seg til sist de snor\nopp under de grønne linde!\nSom gull er den årle morgenstund,\nnår dagen oppstår av døde;\ndog kysser oss og med gull i munn\nden liflige aftenrøde,\nså tindre enn må det matte blikk,\nde bleknede kinner gløde.\nSå reiser vi til vårt fedreland,\nder ligger ei dag i dvale,\nder stander en borg så prud og grann\nmed gammen i gyldne sale,\nså frydelig der til evig tid\nmed venner i lys vi tale!",
+  "salmer": [
+    {
+      "referanse": "Salme 104",
+      "antifon": "Herre, min Gud, du har kledd deg i høyhet og herlighet, lyset er kappen du hyller dei i.",
+      "tekst": [
+        "Lov Herren, min sjel,",
+        "Herre, min Gud, hvor du er stor!",
+        "Du har kledd deg i høyhet og herlighet, lyset er kappen du hyller deg i.",
+        "Du spente himlene ut som et telt",
+        "og tømret din høysal over vannet.",
+        "Du gjør skyene til dm vogn og farer frem på vindens vinger.",
+        "Vindene gjør du til sendebud,",
+        "ildsluer til dine tjenere.",
+        "Du grunnfestet jorden på dens søyler, aldri i evighet skal den rokkes.",
+        "Havdypet dekket den som en kappe,",
+        "vannene stod over fjellene.",
+        "Men de flyktet for dm trussel, for din tordenrøst måtte de rømme.",
+        "De hoppet over fjellene og fosset ned i dalene",
+        "til det sted du hadde bestemt.",
+        "Du satte dem en grense de ikke får gå over, aldri mer skal de dekke jorden.",
+        "I dalene lar du kilder velle frem,",
+        "bekker renner mellom fjellene.",
+        "De gir vann til markens dyr, villesler slukker sin tørst.",
+        "Der bygger himmelens fugler rede,",
+        "i løvhenget synger de.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 104",
+      "antifon": "Herren lot brød gro frem av jorden og vin som gleder menneskets hjerte.",
+      "tekst": [
+        "Du vanner fjellene fra din høysal,",
+        "jorden mettes med frukten av det du har gjort.",
+        "Gress lar du gro for feet og vekster som mennesket kan dyrke.",
+        "Slik lar du brødet gå frem av jorden",
+        "og vinen som gleder menneskets hjerte.",
+        "Du lar ansiktet skinne av olje, og brødet styrker menneskets hjerte.",
+        "Herrens trær får slukket sin tørst,",
+        "Libanons sedrer som han har plantet.",
+        "I dem bygger fuglene rede, i sypressen har storken sin bolig.",
+        "De høyeste fjell er stenbukkens hjem,",
+        "i bergskorter finner grevlingen ly.",
+        "Du skapte månen til å fastsette tider, og solen som vet når den skal gå ned.",
+        "Du sender mørket, og natten kommer,",
+        "da kryr de frem, alle skogens dyr.",
+        "Ungløver brøler etter bytte og krever at Gud skal fore dem.",
+        "Når solen rinner, lusker de vekk",
+        "og legger seg til i sme huler.",
+        "Da går mennesket til sin gjerning for å gjøre sitt arbeid til det blir kveld.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 104",
+      "antifon": "Gud så på alt han hadde skapt, og se, de var såre godt.",
+      "tekst": [
+        "Herre, hvor mange dine gjerninger er!",
+        "Du gjorde dem alle med visdom.",
+        "Jorden er full av det du har skapt.",
+        "Der er havet, stort og vidt, med et mylder ingen kan telle, både av små dyr og store.",
+        "Der går det skip, der er Leviatan",
+        "som du skapte for å more deg med.",
+        "Alle setter sin lit til deg, at du skal gi dem føde i rette tid.",
+        "Du strør ut, og de sanker,",
+        "du åpner din hånd og metter dem med gode gaver.",
+        "Skjuler du ditt åsyn, gripes de av redsel; tar du livsånden fra dem, utånder de og vender tilbake til jord.",
+        "Du sender din Ånd, og de skapes.",
+        "Du fornyer jordens åsyn.",
+        "Måtte Herrens herlighet vare til evig tid; måtte Herren glede seg over sitt verk!",
+        "Han ser på jorden, og den skjelver,",
+        "han rører ved fjellene, og de står i røk.",
+        "Hele mitt liv vil jeg lovsynge Herren, synge for min Gud så lenge jeg lever.",
+        "Måtte min sang finne nåde hos Herren!",
+        "Måtte Herren alltid være min glede!",
+        "Måtte synderne forsvinne fra jorden, de ugudelige ikke mer være til! Min sjel, lov Herren!",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Salige er deres øyne som ser!",
+    "r": "Og deres ører som hører!"
+  },
+  "lesning1": {
+    "referanse": "2 Sam 12,1-25",
+    "kilde": "Fra andre Samuelsbok. — Davids anger",
+    "tekst": "Herren sendte Natan til David. Han gikk inn til kongen og sa: «Det bodde to menn i en by. Den ene var rik og den andre fattig. Den rike hadde småfe \nog storfe i mengde; men den fattige hadde ikke annet enn et lite lam som han hadde kjøpt. Han alte det opp, og det vokste til sammen med barna hans. \nDet spiste av hans mat, drakk av hans skål, lå i hans fang og var som en datter for ham. En dag fikk den rike mannen besøk av en vandringsmann. \nDa kvidde han seg for å ta noe av sitt eget småfe eller storfe og lage i stand for vandringsmannen som var kommet til ham. Og han tok den fattiges \neneste lam og laget det i stand for gjesten.» David ble brennende harm på den mannen og sa til Natan: «Så sant Herren lever, den mannen som har gjort \ndette, skal dø! Og lammet skal han betale firedobbelt, fordi han gjorde dette og ikke viste skånsel.» Da sa Natan til David: «Du er mannen! Så sier \nHerren, Israels Gud: Jeg salvet deg til konge over Israel og berget deg fra Sauls hånd. Jeg gav deg din herres hus og hans hustruer i ditt fang. Jeg \ngav deg både Israels- og Judariket. Og var det enda for lite, ville jeg lagt ti. både det ene og det andre. Hvorfor har du da foraktet Herrens ord \nog gjort det som er ondt i Herrens øyne? H L titten Uria har du drept med sverd. Du lot amonittene drepe ham, og du tok hans hustru og giftet deg med \nhenne. Så skal da sverdet aldri vike fra ditt hus, siden du har foraktet meg og tatt hetittens Urias hustru. Så sier Herren: Jeg lar ulykke komme \nover deg fra din egen ætt. Jeg vil ta dine hustruer like for øynene på deg og gi dem til en annen mann. Han skal ligge med dem midt på lyse dagen. \nFor du nar handlet i det skjulte, men jeg vil la dette skje for øynene på hele Israel midt på lyse dagen.» Da sa David til Natan: Jeg har syndet mot \nHerren.» Natan svarte: «Så har da også Herren tatt bort din synd; du skal ikke dø. Men fordi du ved å gjøre dette har gitt Herrens fiender grunn til \nå spotte, skal den sønnen du har fått, ikke få leve.» Så gikk Natan hjem.\nHerren lot en hard sykdom ramme gutten som David nådde fått med Urias hustru. David bad til Gud for gutten tg fastet strengt. Hver gang han kom hjem, \nla han seg på gulvet og ble liggende der hele natten. De øverste ved noffet kom og ville få ham til å reise seg fra gulvet, men han nektet og ville \nheller ikke spise sammen med dem. Den syvende dagen døde gutten. Men Davids menn våget ikke å fortelle ham at gutten var død; for de sa: «Når vi \nsnakket til ham mens gutten ennå levde, hørte han ikke på oss. Hvordan skal vi da få sagt ham at gutten er død? Han -.unne gjøre noe forferdelig.» \nMen David så at mennene hvisket seg imellom, og han skjønte at gutten var død. Han spurte mennene sine: «Er gutten død?» De svarte: «Ja, han er død.» \nDa reiste David seg opp fra gulvet. Han vasket seg og salvet seg og skiftet klær. Så gikk han inn i Herrens hus, bøyde seg og tilbad. Da han kom \nhjem, bad han om mat. Den ble satt frem, og han spiste. Mennene sa til ham: «Hvordan er det du bærer deg at? Mens gutten ennå levde, fastet du og \ngråt. Og nå da han er død, står du opp og spiser.» Han svarte: «Så lenge gutten levde, fastet og gråt jeg. For jeg tenkte at Herren kanskje ville \nforbarme seg over meg og la gutten leve. Men hvorfor skulle jeg faste nå da han er død? Kan jeg hente ham tilbake igjen? Jeg må engang dra dit han \ner, men han kommer aldri tilbake til meg.» David trøstet Batseba, sin hustru. Han gikk inn til henne og lå med henne, og hun fikk en sønn som hun \nkalte Salomo. Herren holdt av ham og sendte bud med profeten Natan. Han kalte gutten Jedidja for Herrens skyld."
+  },
+  "responsorium1": {
+    "ref": "Manasses bønn 9.10; Sal 51 (50),5.6",
+    "v": "Mine synder er flere enn sandkornene ved havet. Jeg er ikke verdig til å løfte mitt blikk og se opp mot himmelen, for mine misgjerninger tynger meg. Jeg har egget din vrede. Jeg kjenner min synd, den står alltid for meg. Mot deg alene har jeg syndet.",
+    "r": "Jeg har gjort det som er ondt i dine øyne."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige biskop Augustins prekener.",
+    "kilde": "Et angrende sinn er et offer for Gud",
+    "tekst": "Jag erkjenner min skyld, sier David. Hvis jeg erkjenner den, så er det opp til deg å tilgi den. La oss for all del ikke innbille oss at vi lever godt \nog uten synd. Vårt liv er bare prisverdig når vi ber om tilgivelse. Men mennesker uten håp er desto mer nysgjerrige etter andre menneskers synder \nsom de er uoppmerksomme på sine egne. De søker ikke etter noe de kan korrigere, men noe å angripe. Og siden de ikke kan be om unnskyldning, er de \nrede til å anklage andre. Slik er ikke det eksemplet salmisten her gir oss på bonn og velbehag for Gud, når han sier: For jeg erkjenner det gale jeg \nhar gjort, og min synd står alltidfor meg. Hans oppmerksomhet var ikke rettet mot andre menneskers svnder! Det var seg selv han anklaget; han smigret \nseg ikke, men gikk dypt i seg selv. Han skånte ikke seg selv, og derfor var hans bønn om selv å bli skånet ikke upassende.\nVil du forsones med Gud? Lær hvordan du skal forholde deg til deg selv, så Gud blir forsonet med deg. Les oppmerksomt den samme salmen, for der står \ndet: For hvis du ønsket offer ville jeg gitt deg det; men du har ikke behag i brennofre. Skal du stå uten offer? Ikke ofre noe, ikke behage Gud med \nnoen offergaver? Hva var det du sa? Hvis du ønsket offer, ville jeg gitt deg det; men du har ikke behag i brennofre. Hør fortsettelsen og si: \nEt offer for Gud er en sønderbrutt ånd. Gud forsmår ikke et ydmyket og sønderknust hjerte. Du kastet fra deg det du skulle ofre, men nå har du funnet \ndet du kan ofre. For hos fedrene var det slaktedyr du ofret, det var hva de kalte offer. Hvis du ønsket offer, ville jeg gitt deg det. Det er altså \nikke det du ønsker, og likevel søker du et offer.\nDu finner ingen glede i brennofre, sier han. Siden du ikke finner noen glede i brennofre, skal du da forbli uten offergave? Avgjort ikke. Det er en \nsønderbrutt ånd som er et offer for Gud: Gudforsmår ikke et ydmyket og sønderknust hjerte. Der har du det du skal ofre! Ikke gå ut og ta buskapen \ndin i øyensyn, ikke gjør båten din istand for å seile til fjerne land etter røkelse. Let i hjertet ditt etter det som er Gud velbehagelig. Hjertet \nmå sønderknuses! Er du redd for at det ikke blir noe igjen av ditt hjerte når det sønderknuses? Se hva det står: Skap et rent hjerte i meg, Gud. For \nat et rent hjerte kan skapes, må det urene sønderknuses.\nLa oss være misfornøyde med oss selv når vi synder, siden Gud mishages av syndene våre. Siden vi ikke er uten synd, la oss i alle fall ligne Gud ved \nå være misfornøyd med det han mishages av. Til en viss grad forener du deg da med Guds vilje, fordi du er misfornøyd med det i deg selv som også han, \ndin Skaper, avskyr."
+  },
+  "responsorium2": {
+    "ref": "Sal 51(50),12",
+    "v": "Mine synder, Herre, sitter fast i meg som piler. Men før de sårer meg Skap et rent hjerte i meg, Gud, gi meg en ny og trofast ånd.",
+    "r": "leg meg, Herre, min Gud, med botens legedom."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Barmhjertige Gud, ved din Sønns fornedrelse har du oppreist den falne verden. Gi dine troende en hellig glede, og la dem du har utfridd fra syndens trelldom, få del i den evige salighet. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
