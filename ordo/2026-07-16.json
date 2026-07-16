@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-16",
+  "feast": "torsdag - uke III",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260716/readings.htm"
+  },
+  "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+  "salmer": [
+    {
+      "referanse": "Salme 89",
+      "antifon": "Herre, kom oss ihu, tenk på din tjeners vanære.",
+      "tekst": [
+        "Men nå har du støtt din salvede bort,",
+        "forkastet ham i din vrede.",
+        "Du har opphevet pakten med din tjener, vanæret hans krone og trådt den i støvet.",
+        "Du har revet ned alle hans murer",
+        "og lagt hans borger i grus.",
+        "De plyndrer ham, alle som går forbi, han er blitt til spott for sine granner.",
+        "Du har løftet hans fienders høyre hånd",
+        "og gledet alle hans motstandere.",
+        "Ja, hans hvasse sverd har du trukket tilbake og ikke holdt ham oppe i striden.",
+        "Du har gjort ende på hans glans",
+        "og veltet hans trone til jorden.",
+        "Hans ungdoms dager har du forkortet, du har dekket ham med skam.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 89",
+      "antifon": "Jeg er Davids rotskudd og ættling, morgenens klare stjerne.",
+      "tekst": [
+        "Hvor lenge, Herre? Vil du skjule deg for alltid?",
+        "Hvor lenge skal din vrede flamme som ild?",
+        "Herre, kom ihu at mitt liv er kort, alle menneskebarn som du har skapt, forgår.",
+        "Hvor finnes den mann som ikke ser døden,",
+        "som frir sin sjel fra dødsrikets vold?",
+        "Herre, hvor er dine fordums velgjerninger som du i troskap lovet David med ed?",
+        "Herre, kom ihu din tjeners skam,",
+        "at jeg bærer alle folkenes spott i min favn.",
+        "For dine fiender spotter, Herre, håner din salvede hvor han enn går.",
+        "Lovet være Herren til evig tid.",
+        "Amen, amen.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 90",
+      "antifon": "Alle våre dager svinner som gresset. Fra evighet er du, Gud.",
+      "tekst": [
+        "Herre, du har vært oss en bolig",
+        "fra slekt til slekt.",
+        "Før fjellene ble til, før jorden og jorderiket ble født, fra evighet til evighet er du.",
+        "Du byr mennesket vende tilbake til støv og sier:",
+        "„Vend tilbake, menneskebarn.\"",
+        "For tusen år er i dine øyne som én dag, som dagen i går og som en nattevakt.",
+        "Du skyller dem bort som en drøm om morgenen,",
+        "de er som det groende gress.",
+        "Det gror og blomstrer en morgen, innen aftenen er det vissent og tørt.",
+        "Vi blir oppslukt av din vrede,",
+        "din harme slår oss med skrekk.",
+        "Våre misgjerninger holder du deg for øye, vår skjulte synd for ditt åsyns lys.",
+        "Alle våre dager svinner under din vrede,",
+        "årene går som et pust.",
+        "Sytti år er vår levetid, åtti for den sterke.",
+        "Men de er fulle av møye og tomhet,",
+        "forsvinner hastig og vi med dem.",
+        "Hvem har kjent styrken av din vrede, hvem frykter din harmes glød?",
+        "Lær oss å telle våre dager",
+        "for å vinne hjertets visdom.",
+        "Herre, kom! Hvor lenge vil du drøye? Ha medynk med dine tjenere.",
+        "Mett oss med din miskunn ved daggry,",
+        "og vi skal juble alle våre dager.",
+        "Vend straffens dager til glede og alle ulykkens år.",
+        "La dine tjenere se din gjerning,",
+        "din herlighet stråle over våre barn.",
+        "Herre, la din miskunn hvile over oss, styrk våre henders gjerning.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Herre, hos deg er livets kilde.",
+    "r": "I ditt lys ser vi lyset."
+  },
+  "lesning1": {
+    "referanse": "1 Kong 22,1-9.15-23. 29.34-38",
+    "kilde": "Fra Første Kongebok. — Gud åpenbarer sin plan med den ugudelige Akab",
+    "tekst": "Arameerne og israelittene holdt seg nå i ro i tre år; det var ingen ufred mellom dem. Det tredje året drog Josjafat, kongen i Juda, ned til kongen i \nIsrael. Da sa Israels konge :v mennene sine: «Dere vet vel at Ramot i Gilead tilhører oss? Og så sitter vi stille og tar ikke byen fra arameerkongen! \nOg til Josjafat sa han: «Vil du være med på en hærferd mot Ramot i Gilead?» Josjafat svarte: «Jeg som du, mitt folk som ditt folk, mine hester som \ndine hester.» Men etterpå sa Josjafat: «Søk først råd hos Herren!» Da kalte Israels konge sammen profetene, omkring fire hundre mann, og spurte dem: \n«Skal jeg dra i hærferd mot Ramot i Gilead, eller skai jeg la det være?» De svarte: «Dra opp! Herren vil gi byen i kongens hånd.» Men Josjafat sa: \n«Er det ingen annen av Herrens profeter her som vi også kunne spørre?» Israels konge svarte: «Der er ennå en mann som vi kunne få til å spørre Herren. \nMen jeg hater ham, fordi han aldri spår noe godt for meg, men bare vondt. Det er Mika, sønn av Jimla.» Josjafat sa: «Kongen skulle ikke tale slik!» \nDa ropte Israels konge på en av hoffmennene og sa: «Skynd deg og hente Mika, sønn av Jimla!»\nDa han kom frem, sa kongen til ham: «Mika, skal vi dra i hærferd mot Ramot i Gilead, eller skal vi la det være?» Hav svarte: «Dra opp, så skal du ha \nlykken med deg! Herren vil gi byen i kongens hånd.» Men kongen sa til ham: «Hvor mange ganger skal jeg la deg sverge på at du ikke sier meg annet \nenn sannheten i Herrens navn?» Da sa Mika: «Jeg så hele Israel spredt utover fjellene som en saueflokk uten gjeter. Og Herren sa: Disse har ingen \nherre. La dem dra hjem igjen i fred hver til sitt!» Da sa Israels konge til Josjafat: «Var det ikke det jeg fortalte deg at han aldri spår noe godt \nfor meg, men bare vondt?»\nMika sa: Så hør Herrens ord! Jeg så Herren sitte på sin trone, og hele himmelens hær stod omkring ham, noen på høyre og noen på venstre side. Da \nspurte Herren: «Hvem vil dåre Akab så han gjør en hærferd til Ramot i Gilead og faller der?» En svarte så og en annen så. Da gikk ånden frem, stilte \nseg for Herrens åsyn og sa: «Jeg skal dåre ham.» «Hvordan?» spurte Herren. Den svarte: Jeg vil dra av sted og være en løgnens ånd i munnen på alle \nhans profeter.« Da sa Herren: «Ja, du kan få dåre ham, og det skal også lykkes for deg. Dra avsted og gjør det!» Så har da Herren lagt en løgnens \nånd i munnen på alle disse dine profeter. Men han har varslet ulykke for deg.\nSå drog kongen i Israel og Josafat, kongen i Juda, opp mot Ramot i Gilead.\nMen en mann spente buen og skjøt på måfå. Han traff Israels konge mellom brynjeskjørtet og brynjen. Da sa kongen til vognstyreren sin: «Snu og kjør \nmeg ut av slaget! Jeg er såret.» Striden ble stadig hårdere den dagen, og de holdt kongen oppreist i vognen, så han kunne følge kampen mot arameerne. \nBlodet rant fra såret ned i vognen, og da kvelden kom, døde han. Ved solnedgang gikk det et rop gjennom leiren: «Hver mann hjem til sin by og sitt \nland!» Slik døde kongen, og de førte ham til Samaria og gravla ham der. Og da de skylte vognen ved dammen i Samaria. slikket hundene hans blod, \nmens skjøgene badet seg der. Det gikk som Herren hadde sagt."
+  },
+  "responsorium1": {
+    "ref": "Jer 29,8.9.11; Deut 18.18",
+    "v": "La dere ikke narre av profetene deres, for det er logn det de spår dere i mitt navn. Jeg vil la det fremstå en profet, og legge mine ord i hans munn.",
+    "r": "Jeg vet hvilke tanker jeg har med dere, sier Herren."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Ambrosius’ traktat Om mysteriene.",
+    "kilde": "Katekese over ritene som følger etter dåpen",
+    "tekst": "Etter dåpen steg du opp til presten. Tenk over det som så fulgte. Var det ikke det David taler om: Liksom når olje på hodet renner ned i skjegget, \nned i Arons skjegg? Dette er også den salve som Salomo omtaler slik: Ditt navn er som utgyvt olje: derfor er det unge piker har elsket deg og \ntiltrukket deg. Hvor mange, Herre Jesus, har ikke i dag blitt fornyet og har elsket deg og sagt: Dra oss etter deg! Vi skal løpe i duften a: dine \nklar, idet de mottok oppstandelsens vellukt.\nForstå hvorfor dette skjer: den vise har øyne i hodet. Oljen renner ned i skjegget, det vil si den renner over ungdommens skjønnhet og i skjegget til \nAron: for at du skai bli til et utvalgt, prestelig og dyrebart folk. For vi blir alle salvet med åndelig nåde til Guds rike og til presteverdighet.\nEtter dette fikk du hvite klær som et tegn på at du har lagt av syndens ham og er iført uskyldens kyske kappe som Profeten taler om: Rens meg med \nisop så jeg blir ren, tvett meg, og jeg blir hvitere enn sne. Det er altså klart at den som blir døpt er renset, både ifølge Moseloven og ifølge \nEvangeliet. Ifølge Moseloven, siden det var med en isop- kvast at Moses stenket lammets blod; ifølge Evangeliet, siden Kristi kjortel var hvit som \nsne da han i Evangeliet viste sin oppstandelses herlighet. Hvitere enn sne blir den hvis synd er tilgitt! Derfor er det også at Herren sier gjennom \nJesaja: Om syndene deres var som purpur, skal jeg gjøre dere hvite som sne.\nKirken, som har på seg slike klær gjennom gjenfødelsens bad, sier i Høysangen: Jeg er sort og fager, Jerusalems døtre. Sort på grunn av den \nmenneskelige skrøpelighet, fager ved nåden; sort fordi den består av syndere, fager ved troens sakrament. Jerusalems døtre ser disse klærne og sier \nmed undring: Hvem er hun som stiger opp i hvitt? Hun var jo sort, hvorledes nå plutselig hvit?\nMen Kristus, som ser sin Kirke i hvite klær - han som selv, itolge profeten Sakarja, for dens skyld bar skitne klar - ser den rengjort og tvettet i \ngjenfødelsens bad, sier: Så fager du er, min kjære, så fager du er; øynene dine er som duens — den duen i hvis bilde Den Hellige And kom ned fra \nhimmelen.\nSå tenk på at du mottok et åndelig segl, Anden med visdom og forstand, Anden med råd og styrke, Anden som gir kunnskap og frykt for Herren og den \nhellige gudsfrykts And, og bevar det du mottok! Gud Faderen signet deg, Herren Kristus konfirmerte deg og ga Anden som pant i ditt hjerte, slik du \nhørte i lesningen fra apostelen."
+  },
+  "responsorium2": {
+    "ref": "Ef 1,13-14; 2 Kor 1,21-22",
+    "v": "Ved å tro er dere merket med Den Hellige And som var lovet oss, som er pantet på vår arv; Gud har salvet oss, han som også har satt sitt segl på oss og gitt oss Anden som pant i våre hjerter.",
+    "r": "hans herlighet til lov og pris."
+  },
+  "teDeum": null,
+  "bønn": "Allmektige Gud, du lar din sannhets lys skinne for de villfarne, så de kan vende tilbake til den rette vei. Gi alle som bekjenner den kristne tro, kraft til å gjøre det som er denne tro verdig, og sky det som står den imot. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
