@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-17",
+  "feast": "fredag - uke III",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260717/readings.htm"
+  },
+  "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+  "salmer": [
+    {
+      "referanse": "Salme 69",
+      "antifon": "Jeg har skreket meg trett av å bie på min Gud.",
+      "tekst": [
+        "Frels meg, min Gud,",
+        "for vannene når meg til sjelen.",
+        "Jeg er sunket i bunnløst dyp, hvor det ikke finnes feste for foten.",
+        "Jeg er kommet ut på dypet,",
+        "og strømmene river meg med seg.",
+        "Trett har jeg skreket meg, strupen brenner, mitt øye er matt av å bie på min Gud.",
+        "Langt flere enn hårene på mitt hode",
+        "er de som hater meg uten grunn.",
+        "Mange er de som vil meg til livs, som med urette står meg imot.",
+        "Hva jeg ikke har tatt,",
+        "det må jeg erstatte.",
+        "Gud, du kjenner min dårskap, min synd er ikke skjult for deg.",
+        "La ikke meg føre skam over dem som bier på deg,",
+        "Herre, hærskarenes Gud,",
+        "og ikke utsette for hån dem som søker deg, Israels Gud.",
+        "For din skyld tåler jeg spott,",
+        "mitt åsyn dekkes av skjensel.",
+        "Fremmed er jeg for mine brødre, for min mors sønner en ukjent.",
+        "Nidkjærhet for ditt hus har fortært meg,",
+        "forakten for deg faller på meg.",
+        "Jeg plaget min sjel med faste, men av det får jeg bare hån.",
+        "En sekk har jeg tatt som kledning",
+        "og jeg er bhtt dem en fabel.",
+        "Ved byporten taler de bak mm rygg, i drikkelag synger de om meg.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 69",
+      "antifon": "De gav meg galle å spise og slukket min tørst med eddik.",
+      "tekst": [
+        "Jeg retter min bønn til deg,",
+        "se, nå er nådens tid.",
+        "Gud, i din store miskunn, hør meg ved din frelsende troskap.",
+        "Frels meg fra gjørmen så jeg ikke synker,",
+        "fri meg fra hatet og vannenes dyp.",
+        "La ikke strømmen rive meg bort, la ikke dypet sluke meg, eller brønnen lukke seg over meg.",
+        "Herre, svar meg i din nådes godhet,",
+        "vend deg til meg i din store miskunn.",
+        "Skjul ikke ditt åsyn for din tjener, jeg er i nød, gi meg hurtig svar.",
+        "Kom til min sjel og forløs den,",
+        "for mine fienders skyld må du fri meg.",
+        "Du vet hvordan jeg spottes og bærer skam og skjensel.",
+        "Du kjenner alle mine fiender,",
+        "skammen har knust mitt hjerte.",
+        "Jeg ventet forgjeves medlidende ord, på trøstere, men fant ikke noen.",
+        "De gav meg galle å spise",
+        "og slukket min tørst med eddik.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 69",
+      "antifon": "Søk Herren, og deres sjel skal leve.",
+      "tekst": [
+        "Og meg som er arm og elendig",
+        "skal din frelse opphøye, min Gud.",
+        "Jeg vil prise Guds navn med lovsang og opphøye ham med takk.",
+        "Det er mer for Herren enn offerdyr,",
+        "enn okser med horn og klover.",
+        "De fattige skal se det og glede seg, søk Gud, og dm sjel skal leve.",
+        "For Herren har hørt de fattiges bønn",
+        "og ikke forsmådd sine fangne venner.",
+        "Lovpris ham, himmel og jord, havet og alt det som rører seg der.",
+        "For Gud vil frelse Sions stad",
+        "og oppbygge Judas byer.",
+        "Hans tjeneres ætt skal ta dem i arv, de som elsker hans navn, skal få bo der.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Herren skal lære oss sine veier.",
+    "r": "Og vi skal ferdes på hans stier."
+  },
+  "lesning1": {
+    "referanse": "2 Krøn 20,1-9.13-24",
+    "kilde": "Fra Andre Krønikebok. — Den vidunderlige historieom Guds hjelp til den trofaste kong Josjafat",
+    "tekst": "I de dager samlet moabittene og amonittene seg sammen med en del av meunittene og gjorde hærferd mot Josjafat. Folk kom til ham med melding om dette og \nsa: «Det kommer en stor hær imot deg fra den andre siden av sjøen, fra Edom. De står allerede i Haseson-Tamar» — det er En- Gedi. Da ble kongen redd. \nHan vendte seg til Herren for å søke råd hos ham, og lyste ut faste over hele Juda. Judeerne samlet seg for å søke hjelp hos Herren; fra alle byene i \nJuda kom de for å be Herren om råd. Så trådte Josjafat frem for dem som var kommet sammen fra Juda og Jerusalem, i Herrens hus, foran den nye forgården, \nog sa: Herre, våre fedres Gud! Er det ikke du som er Gud i himmelen, og som rår over alle kongeriker på jorden? I din hånd er makt og velde, og ingen \nkan stå seg mot deg. Var det ikke du, vår Gud som drev innbyggerne ut av dette landet for ditt folk Israel og gav det til din venn Abrahams ætt for \nalltid? De bosatte seg der og bygget en helligdom for ditt navn. Da sa de: «Kommer det noen ulykke over oss, sverd, straffedom, pest eller hungersnød, \nda vil vi stille oss foran dette huset, for ditt åsyn; for i dette huset bor ditt navn. Vi vil rope til deg i vår nød, og du vil høre og hjelpe.»\nAlle judeerne stod der for Herrens åsyn, selv deres småbarn, deres hustruer og deres sønner. Da kom Herrens And -midt i forsamlingen - over levitten \nJahasiel, sønn av Sakarja, sønn av Benaja, sønn av Je’iel, Mattanjas sønn, som var en av Asafs sønner. Han sa: «Lytt, alle judeere og dere som bor i \nJerusalem, og du kong Josjafat! Så sier Herren til dere: Frykt ikke og vær ikke redde for denne store hæren; for dette er ikke deres kamp, men Guds. \nDra ned mot dem i morgen. Da går de oppover Hassisbakken, og dere kommer til å møte dem ved enden av dalen ut mot ødemarken i Jeruel. Men det er ikke \ndere som skal kjempe denne gangen. Dere menn fra Juda og Jerusalem skal bare stille dere opp og stå og se på hvordan Herren frelser dere. Vær ikke \nredde og mist ikke motet! Dra ut mot dem i morgen! Herren vil være med dere.»\nDa bøyde Josjafat seg med ansiktet mot jorden, og alle fra Juda og Jerusalem falt ned for Herren og tilbad ham. De levittene som hørte til Kehat- og \nKorah-sønnene, reiste seg og lovet Herren, Israels Gud, med sterk og høy røst.\nMorgenen etter brøt de tidlig opp og drog ut til ødemarken i Tekoa. Med det samme de drog ut, trådte Josjafat frem og sa: «Hør på meg, dere menn fra \nJuda og Jerusalem! Tro på Herren deres Gud, så skal dere holde stand! Tro på hans profeter, så skal dere ha lykken med dere!» Siden rådførte han seg \nmed folket og stilte så opp en flokk av sangere, som skulle love Herren i hellig skrud, mens de drog ut foran den væpnede hæren. De skulle synge: «Pris \nHerren, for hans miskunn varer evig!»\nSå snart de stemte i med jubelrop og lovsang, lot Herren en flokk som lå i bakhold, angripe ammonittene og moabittene og mennene fra Se’ir-fjellene som \nrykket frem mot Juda, og de ble slått. Ammonittene og moabittene vendte seg da mot mennene fra Se’ir-fjellene og utslettet dem fullstendig. Da de hadde \ngjort ende på dem, gav de seg til å utrydde hverandre. Da judeerne kom opp til det stedet hvor en kunne se ut over ødemarken, og så seg om etter hæren, \nfikk de øye på de falne som lå døde på marken: Ingen hadde sluppet unna."
+  },
+  "responsorium1": {
+    "ref": "Ef 6,12.14; 2 Krøn 20,17",
+    "v": "Vår kamp er ikke en kamp mot kjøtt og blod, men mot makter og myndigheter, mot ondskapens åndehær. Stå tillitsfullt og se på hvordan Herren frelser dere.",
+    "r": "Stå da fast med sannheten som belte om livet."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Ambrosius’ traktat Om mysteriene.",
+    "kilde": "Om eukaristien, for de ny døpte",
+    "tekst": "Renset og beriket av disse tegnene, vender det nydøpte folk seg mot Kristi alter og sier: Jeg vil gå inn til Guds alter, til Gud som gleder min ungdom. \nDet har lagt av seg den gamle vranglære, og forynget som ørnen skynder det seg til dette himmelske gjestebud. Det kommer og ser det hellige alter gjort \nrede, og utbryter: Du har dekket et bordfor meg! Det er dette folket som taler gjennom David når han sier: Herren er min hyrde; meg fattes intet. Han \nlar meg ligge i grønne enger. Han leder meg til hvilens vann. Og videre: Selv om eg skulle vandre i dødsskyggens dal, frykter jeg ikke noe ondt. For du \ner med meg. Din kjepp og din stav, de trøster meg. D:>. dekker bord for meg like foran mine fiender. Du salver mitt hode med olje. Mitt beger renner \nover.\nDet er underfullt at Gud lot det regne manna for fedrene og daglig næret dem med mat fra himmelen. Derfor heter det: Mennesket spiste englers brød. Og \nlikevel, alle de som spiste det brødet, døde i ørkenen', mens dette brødet som du mottar, dette levende brødet som kommer nedfra himmelen. formidler det \nevige liv, og den som spiser dette brødet ska. aldri i evighet dø\\ for det er Kristi legeme.\nTenk over hva som er edlest, englebrødet eller Kristi kjød, som er livets legeme. Mannaen den gang kom fra himmelen, men dette (eukaristien) overstiger \nhimmelen: den var himmelsk, dette er himlenes Herre; mannaen ble fordervet hvis den ble oppbevart til neste dag, dette er fritt fra all fordervelse. \nJa, den som fromt smaker det, kan overhodet ikke erfare fordervelsen. For dem strømmer det vann fra en klippe, for deg flyter blodet fra Kristus; de \nble lesket av vannet for en stund, deg renser blodet for evig. Jøden drikker, og tørster; men når du drikker, kan du ikke tørste. Det første var et \nskyggebilde, men dette andre er virkeligheten.\nDersom det du med undring hører om er et skyggebilde, hvor stort er da ikke det du beundrer skyggen av! Hør hvordan det som skjedde hos fedrene, er en \nforutspeiling: det heter: De drakk av klippen som fulgte dem; men denne klippen var Kristus. Men Gud hadde ikke behag i de fleste av dem, for de ble \nliggende døde i ørkenen. Men dette skjedde som en forutspeilingfor oss. Du har kommet til erkjennelse av større ting: for lyset er mere enn et \nskyggebilde, sannheten mer enn en forutspeiling, Skaperens legeme mer enn manna fra himmelen."
+  },
+  "responsorium2": {
+    "ref": "1 Kor 10,1-2.11.3-4",
+    "v": "Våre fedre gikk gjennom havet og alle ble døpt til Moses i skyen og i havet. Alle spiste de den samme åndelige føde og alle drakk den samme åndelige drikk.",
+    "r": "Alt dette som hendte med dem, skulle være til tegn."
+  },
+  "teDeum": null,
+  "bønn": "Allmektige Gud, du lar din sannhets lys skinne for de villfarne, så de kan vende tilbake til den rette vei. Gi alle som bekjenner den kristne tro, kraft til å gjøre det som er denne tro verdig, og sky det som står den imot. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
