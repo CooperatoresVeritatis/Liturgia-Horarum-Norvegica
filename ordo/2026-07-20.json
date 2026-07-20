@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-20",
+  "feast": "Thorlak biskop Islands skyddspatron",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260720/readings.htm"
+  },
+  "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+  "salmer": [
+    {
+      "referanse": "Salme 73",
+      "antifon": "Gud er god mot Israel, mot dem som er rene av hjertet.",
+      "tekst": [
+        "Ja, Gud er god mot Israel,",
+        "mot dem som er rene av hjertet.",
+        "Men jeg var nær ved å snuble, mine føtter holdt på å gli ut.",
+        "For jeg ble misunnelig på de hovmodige,",
+        "jeg så at det gikk de ugudelige vel.",
+        "De nekter seg intet så lenge de lever, de er friske og velnærte.",
+        "Menneskers møye er de fri for,",
+        "de blir ikke rammet som andre.",
+        "Derfor er hovmod deres halsbånd, voldsferd er kappen de hyller seg i.",
+        "Ondskapen strømmer fra deres indre,",
+        "hjertets tanker trenger seg frem.",
+        "De håner og taler ondskapsfullt, ovenfra truer de med vold.",
+        "De løfter munnen mot himmelen,",
+        "og tungen farer om på jorden.",
+        "Derfor vender folket seg til dem, og vann i mengder suger de i seg.",
+        "De sier: „Hvordan skulle Gud vite om det?",
+        "Har den Høyeste kjennskap til noe?“",
+        "Ja, slik er de ugudelige som alltid er trygge og øker sin rikdom.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 73",
+      "antifon": "Bytt latteren med gråt og gleden med jammer.",
+      "tekst": [
+        "Forgjeves har jeg holdt hjertet rent",
+        "og vasket mine hender til tegn på uskyld.",
+        "Enda ble jeg plaget hele dagen, hver morgen ble jeg tuktet.",
+        "Hadde jeg sagt: „Slik vil jeg tale,",
+        "da hadde jeg sveket dine sønners ætt.",
+        "Jeg undret meg og grublet på dette, en urett jeg ikke kunne fatte.",
+        "Til jeg gikk inn i Guds helligdom;",
+        "da skjønte jeg hvordan det går dem til slutt.",
+        "Ja, du fører dem ut på glatte veier. Du lar dem falle og gå til grunne.",
+        "De blir revet bort",
+        "og ender i redsel.",
+        "Likesom en drøm når vi våkner, jager du bort deres bilde, Herre.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 73",
+      "antifon": "De som holder seg borte fra deg, går til grunne, for meg er det godt å holde meg nær til min Gud.",
+      "tekst": [
+        "Så lenge mitt sinn var bittert, mitt hjerte sårt,",
+        "da var jeg dum og uforstandig,",
+        "som en flodhest var jeg mot deg.",
+        "Men jeg blir hos deg for alltid, du har grepet min høyre hånd.",
+        "Du leder meg ved ditt råd,",
+        "og siden tar du meg opp i herlighet.",
+        "Hvem har jeg ellers i himmelen? Har jeg deg, er jeg uten ønsker på jorden.",
+        "Om min kropp og mitt hjerte forgår,",
+        "er Gud for evig mitt hjertes klippe, min arvedel.",
+        "Se, de som holder seg borte fra deg, går til grunne, du gjør ende på alle som er utro mot deg.",
+        "For meg er det godt å holde meg nær til Gud,",
+        "i Herren har jeg min tilflukt.",
+        "Jeg vil forkynne alt du har gjort.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Hvor søtt er ditt ord for min gane, Herre.",
+    "r": "Søtere enn honning i min munn."
+  },
+  "lesning1": {
+    "referanse": "2 Kor 1,15-2,11",
+    "kilde": "Fra Paulus’ andre brev til korinterne. — Hvorfor apostelen endret sine planer",
+    "tekst": "I tillit til dette var det jeg hadde tenkt å komme til dere først, for å vise dere enda en gunst. Så ville jeg ha reist fra Korint til Makedonia, og \nderetter vendt tilbake til dere; så kunne dere ha hjulpet meg videre på vei til Judea. Og når nå dette var min hensikt, kan jeg da sies å ha gått \nlettferdig frem? Eller at jeg lar menneskelige beregninger få innpass i det jeg planlegger, slik at jeg sier både ja og nei? Nei, så sant Gud er trofast: \nDet språk vi har ført overfor dere, har ikke vært både ja og nei. For Guds Sønn, Kristus Jesus, han som vi har forkynt for dere, - enten det nå var jeg \nselv, Silvanus eller Timotheos, han er jo ikke både et nei og et ja - i ham lyder Guds fulle ja! Hvert eneste av Guds løfter er blitt bekreftet i ham, - \nog derfor er det også ved ham at vi sier vårt amen’, Gud til ære. Og den som knytter både oss og dere fast til Kristus, den Salvede, er Gud, Gud selv \nhar salvet oss - han som også har satt sitt segl på oss, og som har gitt oss Anden til pant i våre hjerter. Og det kaller jeg Gud til vitne på, han som \nhar mitt liv i sin makt: Det er for å skåne dere, at jeg ennå ikke er kommet til Korint! Ja, ikke slik å forstå at vi vil kommandere over deres tro; vi \ner bare medhjelpere, med den oppgave å bringe gleden inn blant dere. Troen står dere jo fast nok i.\nSå gjorde jeg altså opp med meg selv, at jeg ikke på ny ville besøke dere i et sørgelig ærend. For hvis jeg kom til å volde dere sorg - hvem skulle så \nkunne gjøre meg glad? Det måtte jo bli en som jeg voldte sorg! Og nettopp derfor var det jeg skrev som jeg gjorde: Jeg ville unngå et besøk som brakte \nmeg sorg fra dem som jeg hadde rett til å vente meg glede av, jeg som våger å tro at dere alle føler min glede som deres egen. Derfor var det dypt \nnedbøyet og syk om hjertet at jeg skrev til dere, og under mange tårer. Og det var ikke for å volde dere sorg, men for at dere skulle forstå den \ninderlige kjærlighet jeg har nettopp til dere.\nOm der da er en som har voldt sorg, så er det ikke meg det er gått ut over, men dere alle (i alle fall i noen monn: så sier jeg ikke for meget) Men han \ndet gjelder, har fått nok med den straff flertallet har dømt ham til, dere må nå heller ta ham til nåde igjen og trøste ham - så han ikke selv skal \nsynke ned i en sorg som blir bunnløs. Derfor ber jeg dere om å la avgjørelsen gå i kjærlighetens favør, når det gjelder ham. Det var også derfor jeg \nskrev, for å sette dere på prøve, og se om dere var lydige i ett og alt. Altså: Den dere tilgir, tilgir også jeg; og det jeg har tilgitt - om jeg da \nhar hatt noe å tilgi - det har jeg tilgitt for deres skyld, for Kristi åsyn, så ikke Satan får narret oss i en felle; for hva han er ute etter, det \nvet vi."
+  },
+  "responsorium1": {
+    "ref": "2 Kor 1,21-22; Deut 5,2. 4",
+    "v": "Gud er den som grunnfester både oss og dere i Kristus, og som har salvet oss. Han har også satt sitt segl på oss Herren vår Gud sluttet en pakt med oss. Ansikt til ansikt talte Herren med oss.",
+    "r": "og gitt oss Anden som pant i våre hjerter."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige Thorlåkrs liv.",
+    "kilde": "Uten opphold arbeidet han utrettelig på å sette Guds lov ut i livet",
+    "tekst": "I hele den tid den salige Thorlåkr levde i sitt dødelige legeme, utmerket han seg slik at han alltid gjorde seg fortjent til, ved Guds vilje, å \nforfremmes fra lavere rang til høyere verdighet. For som barn lærte han seg villig å lese, og da han som ung mann utmerket seg ved sine gode seder \nog sin grundige utdannelse, ble han vel fortjent ordinert til prest. Da han med all rett var blitt prest, kom han til Paris, for å bli enda bedre \nutdannet i den guddommelige lovs lære, og han drog ikke derfra før han var fullt utlært i alle gode disipliner.\nDa han var kommet tilbake til sitt fedreland og nå hadde nådd den rette alder, gikk han inn i augustinerkorherrenes orden, og som den mann han lenge \nhadde vært i Guds øyne, ble han nå kjent for alle de som bodde sammen med ham. I augustinerkorherrenes kloster ble han først kalt til prior og \nderetter utpekt til abbed, og i ord og gjerning lærte han omhyggelig alle som levde sammen med ham og skyldte ham lydighet, å overholde ordensregelen. \nEtter at han hadde iført seg sin ordens drakt, satte han seg fore at han bare ytterst sjelden skulle forlate klosterets klausur og ikke ta del i \nnoen verdslige sammenkomster. Som den fullkomne verdensforakter han var, mente han at hans eget rene klosterliv kunne tilsmusses hvis han ikke \nomhyggelig holdt seg unna slikt. Utrettelig ville han sette Guds lov ut i livet, og uten opphold strevde han med å speke sitt kjød og tvinge det \ntil lydighet.\nIkke lenge etter at ryet om hans hellighet alt hadde spredt seg vidt og bredt, merket den ærverdige gamle biskop Kleng at hans dødstime nærmet seg. \nDa valgte han Thorlåkr til sin etterfølger i embetet. Dette valget bifalt alle som var til stede, og de brakte Gud evig takk for at han i nåde hadde \nsatt en slik mann, så hellig og så ærbar, til å lede sin Kirke. Med klokt lederskap og stor omhu la han nå som valgt biskop den største vekt på å \nforvalte og dra omsorg for alt det som lå under hans jurisdiksjon. Da han hadde overtatt som biskop, viste han sin biskoppelige rang med stor \nautoritet og naturlig verdighet, men han sviktet likevel ikke sin ordens forskrift og dyder. Mens alt dette pågikk, begynte han med fast hånd å \nstyre sin ganske store familie, og omhyggelig å undervise alle i sitt hus i hvordan de skulle leve et sømmelig liv. De prester i hans bispedømme som \nhan kjente som fromme geistlige, hedret han som det sømmet seg, og elsket dem med faderlig kjærlighet. Men dem som han så levde nokså likegyldig og \nopptrådte i strid med sin stand, prøvde han med fromme advarsler og meget beherskede irettesettelser å kalle tilbake til et liv som var mer i \noverensstemmelse med deres geistlige stilling.\nEller:\nFra biskop Thorlåkrs saga\nDa den salige biskop Thorlåkr i femten år hadde sittet på bispestolen i Skålholt, med heder og som en lysende blomst av velgjerninger, elsket av \nGud og gode mennesker, barmhjertig og ærlig, ydmyk, rettferdig og tålmodig, utmattet av menneskers motstand og dertil plaget av mange slags \nsykdommer, slo han frempå for vennene sine at han ville trekke seg fra bispegjerningen og vende tilbake til sitt tidligere liv som korherre. Men \nden allmektige Gud lot det ikke gå slik. Han så at biskopens kyskhet og fromme liv var vel skikket til å gi ham helgenverdighet, og at hans heder i \nmenns øyne på ingen måte ble mindre ved den bispeverdigheten Han hadde gitt ham. (...)\nDen salige biskop Thorlåkr dro sist på visitas i den egnen som lå nærmest, og på reisen pådrog han seg den sykdommen som førte ham til graven. Han \nkom avkreftet hjem til Skålholt, og lå tre måneder til sengs med alvorlig sykdom, men hadde aldri så store smerter at han ikke klarte å ordne og \nstyre med alt som han ville. Søstersønnen Pål kom ofte og besøkte ham da han lå syk, for biskopen elsket ham høyest av sine slektninger, og mange \nvenner av biskopen kom for å spørre ham til råds og vise ham sin kjærlighet.. (...)\nSyv netter før sin død kalte han til seg sine prester og lot dem gi ham sykesalvingen, men før han ble salvet, talte han lenge til dem, enda han \nhadde vanskelig for å snakke. (...) «Jeg vil be dere om å tilgi meg om jeg har gjort noe dere ikke syntes var riktig.» Men alle sa at han hadde \ningenting å anklage seg for. Da talte Gissur Hallsson på alles vegne: «Vi ber Dem, herre, at De vil tilgi oss den uretten vi har gjort mot Dem, \nselv om den er både stor og mangfoldig.» Den salige Thorlåkr gav dem vennlig sin tilgivelse.\nDa sa Gissur de ordene som Den Hellige And må ha talt til ham: «Vi ber Dem, herre, at selv om De nå i Deres legemlige nærvær på synlig vis forlater \noss, så må De likevel forbli vår åndelige far, og be om miskunn hos den allmektige Gud, for vi tror fullt og fast at De i det åndelige liv hos Gud \nikke vil ha mindre makt enn nå.»\nBiskop Thorlåkr fulgte Guds Sønns eksempel, og svarte ikke et ord. Men stilltiende sa han ja til det han ikke hadde noe ord for, og han hjelper nå \nalle med det han da ble bedt om. Men for ydmykhetens skyld ville han ikke gi uttrykk for at han var i stand til det.\nFå av dem som var til stede, maktet å holde tårene tilbake. Da biskopen så det, sa han: «Sørg ikke selv om vi nå skilles, for det går meg slik det \ner bestemt. Jeg ville nok ha vært til liten nytte om ikke andre hadde hjulpet meg. Dere vil ikke lide noe stort tap når jeg går bort, og jeg vil bli \netterfulgt av en stor høvding. Men jeg kan trøste dere med at jeg synes å vite for visst at Gud ikke vil dømme meg til helvetesmann.»\nDeretter kysset han prestene og gav dem sin velsignelse før han ble salvet. Etter sykesalvingen ville han ikke tale om annet enn det som var strengt \nnødvendig, men så lenge han levde, beveget han leppene i bønn.\nBiskop Thorlåkr døde torsdag, en natt før julaften, seksti år gammel, etter femten år som biskop."
+  },
+  "responsorium2": {
+    "ref": "Matt 25,21.20",
+    "v": "Det er bra, en god og tro tjener er du. Du har vært tro i lite, nå vil jeg sette deg over mye. Herre, du gav meg fem talenter; se, jeg har tjent fem talenter til.",
+    "r": "Kom inn til gleden hos din Herre!"
+  },
+  "teDeum": null,
+  "bønn": "Barmhärtige Gud, du satte den helige Thorlak, din bekännare och biskop, till att tjäna ditt folk och hjälpa det fram till den eviga frälsningen. \nVi ber dig: låt honom, som på jorden lärde oss vägen till livet, vara vår förespråkare hos dig i himlen. \nGenom din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
+}
