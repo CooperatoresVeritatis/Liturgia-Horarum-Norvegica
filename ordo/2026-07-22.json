@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-22",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260722/readings.htm"
+  },
+  "hymne": "Jag vill sjunga om min vän,\nHerden, han som själv är livet.\nFåren känner han igen,\nvet var källan är belägen.\nHerre Jesus Krist, Guds Son,\ndig jag får all kraft ifrån.\nJag vill sjunga om min vän,\nMästaren. Jag tveklöst följer\nhonom, som är sanningen,\nför vars blick sig intet döljer.\nHerre Jesus Krist, Guds Son,\ndig jag får allt ljus ifrån.\nJag vill sjunga om min vän,\nFrälsaren, som själv är livet.\nI hans död är slutligen\ndödens onda helt fördrivet.\nHerre Jesus Krist, Guds Son,\ndig jag väntar nåd ifrån.",
+  "salmer": [
+    {
+      "referanse": "Salme 19 (2-7)",
+      "antifon": "Sin mun öppnade hon med vishet, hon hade vänlig förmaning på sin tunga.",
+      "tekst": [
+        "Himlene forkynner Guds ære,",
+        "hvelvingen kunngjør hans henders verk.",
+        "Dag bærer bud dl dag, natt gir sin kunnskap til natt.",
+        "Uten ord og uten tale,",
+        "det er ingen lyd å høre.",
+        "De forkynner for hele jorden, til jorderiks ende når deres ord. På himmelen reiser han solen et telt.",
+        "Som en brudgom går den ut av sitt kammer,",
+        "gleder seg som en helt til å løpe sin bane.",
+        "Dens løp går fra himmelrand til himmelrand, intet er skjult for dens glød.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 45",
+      "antifon": "Dessa som Herren har helgat, de hoppades på honom och lovsjöng honom i sitt hjärta.",
+      "tekst": [
+        "Mitt hjärta flödar över av sköna ord,",
+        "jag sjunger min dikt för en konung,",
+        "en snabb skrivares penna är min tunga.",
+        "Du är den skönaste bland människor,",
+        "ljuvlighet är utgjuten över dina läppar,",
+        "ja, Gud har välsignat dig för evigt.",
+        "Omgjorda dina höfter, du hjälte, med ditt svärd,",
+        "klä dig i ditt majestät och din härlighet.",
+        "Drag ut och vinn seger!",
+        "Försvara sanning och rätt!",
+        "Din högra hand skall göra underbara gärningar.",
+        "Skarpa är dina pilar,",
+        "de skall lägga folken under dig,",
+        "konungens fiender skall träffas i hjärtat.",
+        "Gud, din tron står för tid och evighet,",
+        "ditt rikes spira är rättvisans spira.",
+        "Du älskar det rätta men hatar orätt.",
+        "Därför har Gud, din Gud,",
+        "smort dig med glädjens olja mer än dina likar.",
+        "Av myrra, aloe och kassia doftar dina kläder,",
+        "från elfenbenspalats gläder dig strängaspel.",
+        "Konungadöttrar har du som tärnor i ditt hov,",
+        "en drottning står vid din högra sida i guld från Ofir.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 45",
+      "antifon": "Under glädje och fröjd förs de fram inför Herren.",
+      "tekst": [
+        "Hör, dotter, och ge akt, och vänd hit ditt öra:",
+        "Glöm nu ditt folk och din faders hus,",
+        "så att konungen får ha sin lust i din skönhet,",
+        "ty han är din herre, och för honom skall du falla ned.",
+        "Dotter av Tyros, de rikaste i folket",
+        "söker vinna din ynnest med gåvor.",
+        "Idel härlighet är konungadottern i gemaket:",
+        "av guldvirkat tyg består hennes dräkt,",
+        "i brokigt vävda kläder förs hon till konungen.",
+        "Jungfrur, hennes väninnor, följer henne,",
+        "de leds in till dig.",
+        "Under glädje och fröjd förs de fram,",
+        "de tågar in i konungens palats.",
+        "Dina söner skall träda i dina fäders ställe,",
+        "du skall sätta dem. till furstar överallt i landet.",
+        "Ditt namn vill jag göra prisat",
+        "bland alla kommande släkten,",
+        "ja, folken skall lova dig, alltid och i evighet.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Låt mina ord och mitt hjärtas tankar behaga dig,",
+    "r": "Herre, min klippa och min förlossare."
+  },
+  "lesning1": {
+    "referanse": "Ordsp 31,10-31",
+    "kilde": "Fra Salomos ordspråk. — Kvinnen som frykter Herren",
+    "tekst": "En sterk kvinne - hvem finner henne? Mer enn perler er hun verd. Mannen har full tillit til henne, og det skorter ikke på vinning. Hun gjør bare godt \nmot ham, aldri noe vondt, så lenge hun lever. Hun sørger både for ull og lin, hennes hender arbeider med liv og lyst. Hun er som en kjøpmanns skip, \nlangt bortefra henter hun mat. Før dagen gryr er hun oppe, gir husfolket mat og setter jentene i arbeid. Vil hun ha en åker, får hun tak i den; hun \nplanter en vingård for det hun har tjent. Styrke er beltet hun har om livet, hun legger kraft i armene. Hun merker at hennes arbeid lykkes, hennes \nlampe slukner ikke om natten. Hun legger hendene på rokken, og fingrene griper om teinen. Hun åpner hånden for dem som lider nød, rekker armene ut \ntil fattigfolk. Kommer det sne, er hun ikke redd for huset, for hele hennes hus er dobbelt kledd. Tepper lager hun selv, hun har klær av lin og \npurpurfarget ull. Hennes mann er kjent der folket samles, han sitter sammen med landets eldste. Hun lager skjorter som hun selger, og leverer belter \ntil kjøpmannen. Kraft og verdighet er hennes drakt, og hun ler mot kommende dager.\nHun taler klokt når hun åpner munnen, og vennlig rettledning har hun på tungen. Hun ser etter hvordan det går i huset, og spiser ikke brød hun har \nvunnet i latskap. Hennes sønner står frem og priser henne lykkelig, og mannen gir henne ros: «Det finnes mange dyktige kvinner, men du overgår dem \nalle.» Ynde svikter, og skjønnhet forgår; en kvinne som frykter Herren, skal prises. La henne nyte frukten av sitt arbeid; der menneskene møtes, \nfår hun ros for sine gjerninger."
+  },
+  "responsorium1": {
+    "ref": "Jf. Ordsp 31,17.18; jf. Sal 46,6",
+    "v": "Styrke er beltet hun har om livet, hun gjør sine armer sterke. Hun kan ikke rokkes, for Gud er til stede; Gud hjelper henne når morgenen gryr.",
+    "r": "Hennes lampe slukner ikke om natten."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige pave Gregor den Stores prekener over Evangeliene",
+    "kilde": "Hun brant av lengsel etter Kristus som hun trodde noen hadde tatt bort",
+    "tekst": "Da Maria Magdalena kom til graven og ikke fant Herrens legeme der, trodde hun noen hadde tatt det bort, og hun fortalte dette til disiplene. De \nkom og fikk selv se, og de trodde at det var slik som kvinnen hadde sagt. Og om disiplene heter det videre: Disiplene gikk så hjem til seg selv. Og \nderetter sies det: Men Maria sto utenfor graven og gråt.\nHer må vi tenke på hvor sterk en kjærlighet som hadde satt denne kvinnens sjel i brann. Hun vek ikke fra Herrens grav selv om disiplene gikk sin vei. \nHun fortsatte å lete etter ham som hun ikke hadde funnet, hun gråt mens hun lette, og i sin glødende kjærlighet brant hun av lengsel etter ham som \nhun trodde de hadde tatt bort. Derfor gikk det slik at hun som var blitt igjen for å lete, var den eneste som nå fikk se ham. For utholdenhet i en \ngod gjerning er jo en dyd, og Sannhetens røst sier: Men den som holder ut til enden, skal bli frelst.\nFørst søkte hun ham altså, men fant ham slett ikke. Hun fortsatte å lete, og derfor gikk det slik at hun fant. Det som skjedde, var at utsettelsen \nfikk lengselen til å vokse, og mens den vokste, prøvde den å gripe det den faktisk hadde funnet. For hellige lengsler tiltar i styrke gjennom \nutsettelser. Og hvis utsettelsen får dem til å forsvinne, har de ikke vært virkelige lengsler. Enhver som har vunnet frem til sannheten, har vært \noppflammet av denne kjærlighet. Derfor sier David: Min sjel tørstet etter den levende Gud. Når skal jeg komme og tre frem for Guds åsyn? Derfor \nsier Kirken likeledes i Høysangen: Jeg er blitt såret av kjærlighet. Derfor heter det videre: Afm sjel renner bort som vann. (jfr. Sal 22,15)\nKvinne, hvorfor gråter du? Hvem søker du? Spørsmålet blir stilt fordi hun sørger og for å øke hennes lengsel. For når hun nevner den som hun søkte, \nvil hennes kjærlighet til ham brenne enda sterkere.\nJesus sier til henne: Maria. Etter først å ha brukt fellesbetegnelsen (kvinne) uten å bli gjenkjent bruker han hennes eget navn. Det er som om han \nbent frem sier til henne: \"Gjenkjenn ham som gjenkjenner deg. Jeg kjenner deg ikke som en blant mange, nei, jeg kjenner deg som nettopp den du er.” \nFordi Maria blir kalt ved sitt eget navn, gjenkjenner hun den som taler til henne, og hun kaller ham straks \"rabbuni\", det vil si \"mester\". For det \nvar både han som hun søkte i det ytre, og han som lærte henne å søke ham i det indre."
+  },
+  "responsorium2": {
+    "ref": "",
+    "v": "Da Maria Magdalena vendte tilbake fra graven, sa hun til disiplene: Jeg har sett Herren. Hun så den elskede som hun lenge søkte, og bar bud om det hun hadde sett.",
+    "r": "Salig hun som var verdig til å bære det første budskap om at livet er gjenoppstått."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Evige Gud, den heliga Maria Magdalena fick före alla andra uppdraget att förkunna påskens glädje. Lär oss att med henne som förebedjerska och förebild \nförkunna den uppståndne och levande Herren och en gång se honom i din härlighet. \nGenom honom, Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
+}
