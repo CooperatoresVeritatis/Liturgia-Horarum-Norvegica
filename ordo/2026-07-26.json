@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-26",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260726/readings.htm"
+  },
+  "hymne": "Den signede dag med fryd vi ser\nav havet til oss oppkomme;\nden lyse på himlen mer og mer\noss alle til lyst og fromme!\nDet kjennes på oss som lysets barn\nat natten hun er nu omme!\nDen signede stund, den midnattstid,\nvår Herre han lot seg føde,\nda klarnet det opp i østerlid\ntil deiligste morgenrøde,\nda lyset opprant, som jorden all\nskal lysne uti og gløde.\nOm levende ble hvert tre i skov,\nog var så hvert blad en tunge,\nde kunne dog ei Guds nådes lov\nmed verdelig røst utsjunge.\nTi evig nu skinner livets lys\nfor gamle og så for unge.\nSå takker vi Gud, vår Fader god,\nsom lerken i morgenrøde,\nfor dagen han oss opprinne lot,\nfor livet han gav av døde;\nden signede dag i Jesu navn\noss alle vårt liv forsøte!\nNu saktelig skrid, du høytidsdag,\nmed stråler i krans om tinde!\nHver time til Herrens velbehag\nsom bekker i eng henrinne,\ntil frydelig seg til sist de snor\nopp under de grønne linde!\nSom gull er den årle morgenstund,\nnår dagen oppstår av døde;\ndog kysser oss og med gull i munn\nden liflige aftenrøde,\nså tindre enn må det matte blikk,\nde bleknede kinner gløde.\nSå reiser vi til vårt fedreland,\nder ligger ei dag i dvale,\nder stander en borg så prud og grann\nmed gammen i gyldne sale,\nså frydelig der til evig tid\nmed venner i lys vi tale!",
+  "salmer": [
+    {
+      "referanse": "Salme 1",
+      "antifon": "Ditt kors, o Herre, det er livets tre.",
+      "tekst": [
+        "Salig den mann som ikke følger de ugudeliges råd",
+        "og ikke vandrer på syndens vei,",
+        "som ikke sitter i spotteres lag, men har sin lyst i Herrens lov og grunner på den dag og natt.",
+        "Han er lik et tre plantet nær rinnende bekker,",
+        "som gir frukt i rette tid og ikke står der",
+        "med vissent løv.",
+        "Alt hva han gjør, det får han lykke til.",
+        "Men slik går det ikke dem som er uten Gud,",
+        "de er lik agner som spredes for vinden.",
+        "Derfor kan ingen ugudelig bli stående når dommen felles,",
+        "og ingen synder tre inn",
+        "i de rettferdiges forsamling.",
+        "For Herren kjenner veien der de rettferdige vandrer.",
+        "Men veien de ugudelige velger,",
+        "fører til undergang.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 2",
+      "antifon": "Kongen som jeg innsetter på mitt hellige fjell, det er min Sønn som jeg har kjær.",
+      "tekst": [
+        "Hvorfor er folkene i opprør,",
+        "hvorfor grunner de på det som fåfengt er?",
+        "Jordens konger reiser seg, fyrstene samles til råd mot Herren og mot hans salvede:",
+        "\"La oss sprenge deres lenker",
+        "og kaste repene av oss.\"",
+        "Han som troner i himmelen, ler, Herren spotter dem.",
+        "Så taler han til dem i vrede,",
+        "forferder dem ved sin harme:",
+        "\"Det er jeg som har innsatt min konge på Sion, mitt hellige fjell.\" Jeg kunngjør det Herren har fastsatt.",
+        "Han sa til meg:",
+        "„Du er min Sønn, jeg har født deg i dag.",
+        "Be meg, og jeg vil gi deg hedningefolkene i arv og den vide jord i eie.",
+        "Med jernstav skal du knuse dem,",
+        "slå dem i stykker som pottemakerens kar.“",
+        "Og nå, dere konger, vær kloke, vær advart, dere herskere på jorden!",
+        "Tjen Herren med ærefrykt, juble med beven;",
+        "kyss jorden for hans fotter,",
+        "så ikke hans vrede skal blusse opp, og dere gå til grunne på veien.",
+        "Med et slag kan hans vrede tennes.",
+        "Salig den som tar sin tilflukt til ham.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 3",
+      "antifon": "Herre, du er mitt vern, i din ære finner jeg all min kraft.",
+      "tekst": [
+        "Herre, hvor tallrike er mine fiender,",
+        "mange er de som reiser seg mot meg.",
+        "Mange er de som sier om meg: „Det er ingen frelse for ham hos Gud.“",
+        "Men du, Herre, er meg et skjold,",
+        "du er min ære, du løfter mitt hode.",
+        "Høyt ropte jeg til Herren, og han svarte meg fra sitt hellige fjell.",
+        "Jeg la meg, sov inn og våknet,",
+        "for Herren holder meg oppe.",
+        "Jeg frykter ikke for folk i tusentall som fylker seg mot meg på alle kanter.",
+        "Reis deg, Herre! Frels meg, min Gud!",
+        "For du slår alle mine fiender på kinnet, du knuser de ugudeliges tenner.",
+        "Frelsen er hos Herren; din velsignelse hvile over ditt folk.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Måtte Kristi ord bo i dere i hele sin fylde.",
+    "r": "Lær hverandre med visdom."
+  },
+  "lesning1": {
+    "referanse": "Kor 7,2-16",
+    "kilde": "Fra Paulus’ andre brev til korinterne — Apostelen trøstes ved korinternes bot",
+    "tekst": "Gjør plass for oss i deres hjerter! Ingen har vi gjort urett, ingen har vi bragt ulykke over, ingen har vi utnyttet. Jeg sier ikke dette for å \ndømme noen; jeg har alt sagt at dere er i vårt hjerte, vi hører sammen, i døden som i livet. Stor er min tillit til dere, og stor ære har jeg av \ndere. Ja, jeg er meget oppmuntret; midt i alle våre trengsler fylles jeg av en hjertens glede.\nFor det er jo så, at da vi kom til Makedonia, var det ingen ro å finne for vårt arme jeg. Trengsel møtte oss på alle kanter: strid omkring oss, \nangst og uro i oss. Men der er én som trøster de nedbøyde, og Gud gav oss nytt mot ved Titus’ komme. Det var ikke bare det at han endelig kom, \nmen også at han var blitt så oppmuntret av sitt besøk hos dere. Han kunne fortelle oss om hvordan dere lengtet, om hvor bedrøvet dere var, og hvor \nivrige når det gjaldt meg - og alt dette gjorde at gleden fikk overhånd!\nSå selv om jeg gjorde dere sorg med mitt brev, angrer jeg det ikke nå; kanskje har jeg angret det - jeg ser jo også at brevet til å begynne med \ngjorde dere bedrøvet - men nå er jeg bare glad. Ikke over at dere ble bedrøvet, men over at sorgen førte dere til besinnelse. Det var en sorg \netter Guds sinn, og ingen skade har dere lidt av oss. For en slik sorg fører til omvendelse og frelse, så den har man aldri grunn til å angre; \nmens den sorg verden kjenner, fører døden i vold. Men når sorgen blir etter Guds sinn, se hva den da fører til - all den gode vilje dere viser, \nalle de unnskyldninger dere gjør, men også all denne harme, denne frykt, denne lengsel, denne nidkjærhet, denne refselse! På alle måter har dere \nrenvasket dere i denne saken. Så om jeg skrev til dere, var det ikke på grunn av den som hadde forgått seg, heller ikke på grunn av ham det har \ngått ut over; nei, det var for at den hengivenhet dere viser for meg skulle komme frem i fullt lys hos dere, for Guds åsyn.\nOg alt dette har betydd en stor trøst for oss. Men en enda større glede for oss har det vært å se hvor glad Titus var; alle sammen har dere vært \nmed og gjort ham rolig til sinns. Så om jeg har skrytt litt av dere overfor ham, er jeg heller ikke blitt til skamme, tvert imot; akkurat som vi \ntil dere ikke har sagt annet enn hva sant er, slik har også våre rosende ord til Titus vist seg sanne nok. Desto varmere slår også hans hjerte \nfor dere nå, hver gang han tenker på den lydighet dere viste, og den age og respekt dere tok imot ham med. Så gleder jeg meg da over at jeg kan \nstole på dere i en og alt."
+  },
+  "responsorium1": {
+    "ref": "2 Kor 7,10. jf. 9",
+    "v": "Sorg etter Guds sinn fører til omvendelse og frelse. Vår sorg er etter Guds sinn, så vi ikke skal lide noen skade.",
+    "r": "Sorg som er av denne verden, fører til død."
+  },
+  "lesning2": {
+    "referanse": "Fra homilier over Andre brev til korinterne av den hellige biskop Johannes Krysostomos.",
+    "kilde": "I alle trengsler har jeg overflod av glede",
+    "tekst": "Igjen taler Paulus om nestekjærligheten og glatter over det skarpe ved refselsen. Etter at han hadde bebreidet og dadlet dem for at de, enda de \nvar elsket, ikke viste kjærlighet til gjengjeld, men hadde løsrevet seg fra hans kjærlighet og gitt seg i lag med andre slette mennesker, så \nmildner han igjen det bitre ved refselsen og sier: Gi rom for oss! det vil si, «vær glad i oss». Han utber seg en gunst som ikke er en byrde, \nog som er nyttigere for giverne enn for mottagerne. Og han sier ikke «Vær glad i», men mere hensynsfullt: Gi rom.\nHvem har drevet oss bort? sier han. Hvem kastet oss ut av tankene deres? Hvorfor er det trangt for oss hos dere? Som han sa tidligere: Det er i \nderes eget hjerte det er trangt, slik sier han enda klarere nå, Gi romfor oss, og på denne måten trekker han dem til seg igjen. Ikke noe skaper \nkjærlighet som når den elskede forstår at den som elsker i høyeste grad søker hans kjærlighet.\nJeg har alt sagt, sier han, at dere er i vårt hjerte; vi hører sammen i døden som i livet. Dette er den største kjærlighet at han, selv når han ble \nforaktet, velger å dø og leve med dem. For dere er ikke bare liksom i vårt hjerte, sier han, men slik som jeg har sagt. For det er mulig å elske \nog samtidig unnfly farlige situasjoner; men slik er det ikke for oss.\nJeg er fylt av trøst. Hva slags trøst? Trøst fra dere, fordi dere har vendt tilbake til et bedre levesett og trøstet meg ved deres gjerninger. \nDette er typisk for en som elsker: å dadle fordi han ikke elskes til gjengjeld og samtidig vokte seg for ikke å dadle for mye. Så han sier: Jeg \ner blitt rikelig trøstet og har overflod av glede.\nDet var som om han vil si: «Jeg var sint på dere, men dere unnskyldte dere rikelig og trøstet meg; for dere tok ikke bare fra meg grunnen til \nsorg, men ga meg en større glede.»\nHan gjør klart hvor stor gleden er ved ikke bare å vise det med ordene Jeg har overflod av glede, men ved å legge til, i all vår trengsel. Så stor \nvar gleden dere ga meg at den ikke kunne ødelegges av en så stor prøvelse, men gleden overgikk alle de plagene som ble oss til del, og tillot oss \nikke å bli tynget av påkjenningen."
+  },
+  "responsorium2": {
+    "ref": "2 Kor 12,12.1?",
+    "v": "Jeg har gjort en apostels tegn blant dere Jeg vil med glede bruke alt, ja, selv bli oppbrukt for deres skyld.",
+    "r": "Med stor tålmodighet, tegn, under og mektige gjerninger."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Allmektige Gud, du er et vern for dem som håper på deg. Uten deg har intet verd, og uten deg er intet hellig. Utøs din miskunn over oss. Lær oss å bruke denne verdens goder i pakt med din vilje, så vi under din ledelse kan nå det som har evig verd. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+}
