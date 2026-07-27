@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-27",
+  "feast": "Marta",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260727/readings.htm"
+  },
+  "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+  "salmer": [
+    {
+      "referanse": "Salme 6",
+      "antifon": "Frels meg, Herre, i din miskun.",
+      "tekst": [
+        "Herre, tukt meg ikke i din vrede,",
+        "refs meg ikke i din harme.",
+        "Vær meg nådig, Herre, for jeg er svak, helbred meg, for mitt hjerte er urolig.",
+        "Min sjel er grepet av redsel,",
+        "Herre, hvor lenge?",
+        "Herre, vend deg hit og berg mitt liv, frels meg i dm miskunn.",
+        "I døden kommer ingen deg ihu,",
+        "i dødsriket, hvem priser deg der?",
+        "Jeg er trett av å sukke, med tårer væter jeg mitt leie.",
+        "Jeg gråter hver natt;",
+        "min seng blir badet i tårer.",
+        "Mitt øye er sløvet av bitter sorg, og svekket av all den motstand jeg møter.",
+        "Vik fra meg, alle ugjerningsmenn,",
+        "for Herren har hørt min gråt.",
+        "Herren hørte da jeg tryglet og bad, han har tatt imot mm bønn.",
+        "Alle mine fiender skal bli til skamme,",
+        "de skal gripes av redsel og flykte med skam.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 9",
+      "antifon": "For de fattige er Herren en borg i trengelselstider.",
+      "tekst": [
+        "Jeg vil takke deg, Herre, av hele mitt hjerte,",
+        "berette om alle dine under.",
+        "Jeg vil glede og fryde meg i deg, lovsynge ditt navn, du Høyeste.",
+        "Da mine fiender trakk seg tilbake,",
+        "snublet de og omkom for ditt åsyn.",
+        "Du har forsvart min sak og gitt meg mm rett, har satt deg på tronen, du rettvise dommer.",
+        "Du truet folkeslag, gjorde ende på de onde",
+        "og utslettet deres navn for evig tid.",
+        "Fienden er tilintetgjort, ødelagt for alltid.",
+        "Du har lagt deres byer i grus,",
+        "ingen minnes dem mer.",
+        "Herren troner til evig tid; han har reist sitt dommersete.",
+        "Han dømmer verden med rettferd,",
+        "feller rettvis dom over folkeslag.",
+        "For de undertrykte er Herren en borg, en borg i trengselstider.",
+        "De stoler på deg, de som kjenner ditt navn,",
+        "for du svikter ikke dem som søker deg, Herre.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 9",
+      "antifon": "Jeg vil juble over din frelse i Sions porter.",
+      "tekst": [
+        "Syng for Herren som bor på Sion,",
+        "gjør kjent blant folkene hans store verk.",
+        "For han som hevner blod, kommer de hjelpeløse ihu; han glemmer ikke deres skrik.",
+        "ær meg nådig, Gud, og se den nød",
+        "som mine fiender har voldt meg.",
+        "Du løfter meg opp fra dødens porter eg kan forkynne dine storverk og juble over din frelse i Sions porter.",
+        "Folkeslag sank i den grav de grov,",
+        "deres fot ble fanget i garnet de spente.",
+        "Herren gav seg til kjenne og holdt dom; gudløse ble fanget i egen gjerning.",
+        "Til dødsriket skal de gudløse fare,",
+        "alle folkeslag som glemmer Gud.",
+        "Men de fattige blir ikke glemt for alltid, de hjelpeløse er ikke evig foruten håp.",
+        "Herre, reis deg! La ikke mennesker råde,",
+        "la folkeslag få sin dom for ditt åsyn!",
+        "Herre, la folkene rammes av redsel, så de innser at de bare er mennesker.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Gi meg forstand, så jeg kan følge dine lover.",
+    "r": "Og holde dem av hele mitt hjerte."
+  },
+  "lesning1": {
+    "referanse": "2 Kor 8,1-24",
+    "kilde": "Fra Paulus’ andre brev til korinterne. — Paulus ber om kollekt til Jerusalem",
+    "tekst": "Nå vil vi fortelle dere, brødre, om den nåde Gud har visi menighetene i Makedonia. De mange trengsler de har gjennomgått, har bare gjort deres \nglede så meget større, slik at de midt i sin dype fattigdom har vist en overstrømmende gavmildhet. For det kan jeg bevitne: De har gitt både etter \nevne og over evne, og det helt av egen drift; inntrengende har de bedt oss om å få lov til å delta i den hjelpen vi nå yter de hellige. Ja, de \nhar gjort langt mer enn hva vi hadde håpet; for de har stilt seg selv til rådighet for Herren, og så for oss, som Guds vilje var. Derfor har vi \nbedt Titus om å fortsette det arbeid han har begynt blant dere, og fullføre innsamlingen. Dere har jo overflod på alt, på tro, på talegaver og \ninnsikt, på iver og kjærlighet — den kjærlighet vi har bragt dere; men da må dere også vise at dere har overflod når det gjelder denne gaven!\nDette sier jeg ikke som noe påbud; jeg bare nevner de andres iver, for å se om kjærligheten blant dere er like så ekte. Dere minnes jo hvor gavmild \nvår Herre Jesus Kristus selv har vist seg - hvordan han som var rik, ble fattig for deres skyld, og gjennom sin fattigdom gjorde dere rike! Dette \ner da bare et råd jeg gir dere, som forresten stemmer med deres egen innstilling; det var jo dere selv som begynte med dette allerede i fjor, og \nhelt av egen drift. Så fullfør nå verket, slik at det kan svare både til viljen som var god, og til hva dere faktisk evner. Når bare den gode \nviljen er der, er en velkommen med hva en har, og ingen spør etter det en ikke har. Det er jo ikke meningen at dere skal lide nød, mens andre \nfår det godt; det er bare et spørsmål om likhet. Denne gang er det dere som har overflod og kan lindre nøden hos dem; en annen gang har kanskje \nde overflod og kan komme dere til hjelp. Slik blir det likhet, som det også står skrevet: «Den som hadde meget, fikk ikke overflod, og den som \nhadde lite, led ingen mangel.»\nGud være takk; han har vakt den samme omsorg for dere også i Titus’ hjerte. For ikke bare gikk han gjerne med på det jeg bad ham om; men så ivrig \ner han nå at det er på eget ønske at han reiser til dere. Sammen med ham sender vi en bror som i alle kirkene får lovord for sitt arbeid for \nevangeliet. Det er forresten også han som menighetene, til Herrens ære og på vårt ønske, har utpekt til å reise sammen med oss for å besørge \ndenne gaven. Dermed har vi sørget for at ingen får noe å skumle om, angående det store beløpet som er oss betrodd; det ligger oss nemlig på hjerte \nå være uklanderlige, ikke bare i Herrens øyne, men også i folks. Med disse to sender vi enda en av våre brødre, hvis iver vi ofte og på mange \nmåter har hatt anledning til å konstatere; og nå er han ivrigere enn noensinne, fordi han venter seg så meget av dere. Altså: Hva Titus angår, \nså er han jo vår egen medhjelper og medarbeider blant dere; og hva våre brødre angår, så er de kirkenes utsendinger og gjenspeiler Kristi \nherlighet. Så la da alle kirkene gjennom dem få se både hvilken kjærlighet dere har, og hvor det er med rette at vi har rost dere!"
+  },
+  "responsorium1": {
+    "ref": "2 Kor 8,9; Fil 2,7",
+    "v": "Dere kjenner vår Herre Jesu Kristi gavmildhet, han som var rik, ble fattig for deres skyld Han oppgav alt sitt eget og gikk inn i slavens kår.",
+    "r": "så dere skulle bli rike ved hans fattigdom."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige biskop Augustins prekener.",
+    "kilde": "Salige er de som har fått ta imot Kristus i sitt hjem",
+    "tekst": "Vår Herre Jesu Kristi ord formaner oss om at det er ett mål vi skal strekke oss mot mens vi strever med denne verdens mange gjøremål. Nå vandrer vi \nfrem som pilegrimer uten å være fremme. Nå er vi underveis, og ennå ikke hjemme. Nå vandrer vi i lengsel og nyter ennå ikke fruktene. La oss likevel \nufortrødent gå på og stadig ha målet for øye, så vi til slutt kan vinne frem.\nMarta og Maria var søstre, ikke bare i kjødet, men også i gudsfrykt. Begge var knyttet til Herren, og i fellesskap tjente de ham mens han levde i \ndenne verden. Martha tok imot ham som man pleier å motta gjester. Men hun gjorde det slik som en tjenestepike tar imot sin Herre, som en syk tar \nimot sin Frelser, som en skapning tar imot sin Skaper. Hun som trengte næring for sin ånd tok imot ham som trengte mat for sin kropp. For Herren \nville ta en tjeners skikkelse og i denne skikkelse motta næring av tjenere. Slik ville han hjelpe dem, ikke seg selv. Det var altså av nåde, ikke \nav trang. For det var også av denne nåde at han fremsto som en som trengte føde. Han hadde et menneskelig legeme, og et legeme som både sultet og \ntørstet.\nSlik ble altså Herren mottatt som en gjest, han som kom til sitt eget, og hans egne tok ikke imot ham. Men alle som tok imot ham, gav han rett til \nå bli Guds barn. Han tok imot slaver og gjorde dem til sine brødre; Han løskjøpte fanger og gjorde dem til medarvinger. Nå må ikke noen av dere si: \n«A, så salige de var som fikk ta imot Kristus i sitt eget hjem!» Du skal ikke sørge eller murre fordi du er født i en tid da du ikke lenger ser \nHerren i kjøtt og blod. Han har ikke tatt fra deg den nåden. Han sier jo: Alt hva dere har gjort mot én av mine minste, har dere gjort mot meg.\nMen la meg få si dette til deg, Marta: Du er velsignet i din gode tjeneste, og får hvile som lønn for ditt strev. Nå er du opptatt med mangfoldige \ngjøremål. Du vil gi mange dødelige legemer mat, selv om de tilhører de hellige. Når du kommer til ditt rette fedreland, vil du da finne en fremmed \nsom du kan motta som gjest? Vil du finne en sulten som du kan gi brød, en tørst som du kan gi å drikke, en syk som du kan besøke? En trettekjær som \ndu kan forsone? En død som du kan begrave?\nIntet av dette vil være der. Men hva kommer da til å være der? Jo, det som Maria valgte: Der skal vi selv få mat, ikke gi andre å spise. Der skal vi \ni all sin fylde få det som Maria valgte her: Fra dette bugnende bord, fra Herrens egne ord, sanket hun smuler. For vil dere vite hvordan det vil \nvære der? Herren selv sier om sine tjenere: Sannelig sier jeg dere at han vil la dem legge seg til bords og selv gå frem og tjene dem."
+  },
+  "responsorium2": {
+    "ref": "Joh 12,3",
+    "v": "Etter Jesus hadde vekket opp Lasarus, holdt de et festmåltid for ham i Betania, Maria tok et pund kostbar nardussalve, og salvet Jesu føtter.",
+    "r": "og Marta vårtet opp."
+  },
+  "teDeum": null,
+  "bønn": "Allsmäktige, evige Gud, din Son blev gäst i den heliga Martas hus. Låt oss på hennes bön troget tjäna Kristus i hans bröder \noch en gång tas emot i himmelrikets boningar. \nGenom din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
+}
