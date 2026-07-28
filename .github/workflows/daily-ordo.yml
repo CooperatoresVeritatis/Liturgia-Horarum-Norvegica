@@ -2,16 +2,25 @@ name: Daily Ordo
 
 on:
   schedule:
-    # 22:00 UTC = midnight Oslo time (CEST, summer). Adjust to 23:00 in winter.
-    - cron: '0 22 * * *'
+    # Primary run: 01:00 UTC = 03:00 Oslo (CEST, summer) / 02:00 Oslo (CET, winter).
+    # By then the site has rolled over to the new day, so we scrape today's office.
+    - cron: '0 1 * * *'
+    # Fallback run: 04:00 UTC (~06:00 Oslo). The scraper is idempotent — if the
+    # primary run already produced today's file this exits without changes, but if
+    # the primary run hit a network error this second attempt fills the gap.
+    - cron: '0 4 * * *'
   workflow_dispatch:   # Allow manual runs from the GitHub UI
+
+concurrency:
+  group: daily-ordo
+  cancel-in-progress: false
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # Needed to commit the ordo JSON file
+      contents: write   # Needed to commit the ordo JSON files
 
     steps:
       - name: Check out repository
@@ -24,22 +33,36 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scripts/scrape_lesning.py
-
-      - name: Commit ordo file (if new)
         run: |
-          DATE=$(date -u '+%Y-%m-%d')
-          FILE="ordo/${DATE}.json"
-          if [ -f "$FILE" ]; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add "$FILE"
-            # Only commit if there is something staged
-            git diff --cached --quiet || git commit -m "ordo: add ${DATE} (unverified, needs review)"
-            git push
+          DATE=$(TZ=Europe/Oslo date '+%Y-%m-%d')
+          echo "Target date (Oslo): $DATE"
+          python scripts/scrape_lesning.py "$DATE"
+
+      - name: Build liturgical year archive
+        run: python scripts/build_archive.py
+
+      - name: Upload raw HTML for debugging
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oblates-raw-html
+          path: debug/
+          retention-days: 5
+          if-no-files-found: ignore
+
+      - name: Commit ordo and archive (if changed)
+        run: |
+          DATE=$(TZ=Europe/Oslo date '+%Y-%m-%d')
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ordo archive
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            echo "No new ordo file to commit."
+            git commit -m "ordo: add ${DATE} (unverified, needs review)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
           fi
