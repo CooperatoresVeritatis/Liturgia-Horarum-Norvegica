@@ -524,9 +524,20 @@ def parse_oblates(soup: BeautifulSoup) -> dict:
 # Other hours (Laudes, Middagsbønn, Vesper)
 # ---------------------------------------------------------------------------
 
+def container_has_content(div: Tag) -> bool:
+    """
+    True if a div holds real liturgical content rather than a navigation menu
+    that merely mentions the hour names: it must contain at least one red-bold
+    section header (Hymne, Bønn, …) and a substantial amount of text.
+    """
+    return div.find(is_red_bold_header) is not None and \
+        len(div.get_text(strip=True)) > 500
+
+
 def find_hour_container(soup: BeautifulSoup, patterns: list[str]) -> Tag | None:
     """
-    Find the <div id=…> whose text *starts* with one of the hour-name patterns.
+    Find the <div id=…> whose text *starts* with one of the hour-name patterns
+    and actually contains liturgical content (nav menus are rejected).
     Matching only the first characters keeps page-wide wrapper divs (whose text
     starts with the first hour on the page) from matching every hour. If several
     divs match (nested wrappers), the smallest one wins.
@@ -534,7 +545,7 @@ def find_hour_container(soup: BeautifulSoup, patterns: list[str]) -> Tag | None:
     candidates = []
     for div in soup.find_all("div", id=True):
         head = div.get_text(" ", strip=True)[:150].upper()
-        if any(re.search(p, head) for p in patterns):
+        if any(re.search(p, head) for p in patterns) and container_has_content(div):
             candidates.append(div)
     if not candidates:
         return None
@@ -644,6 +655,20 @@ def scrape_other_hours(session: requests.Session, soup: BeautifulSoup) -> dict:
     hours: dict[str, dict | None] = {}
     structure_logged = False
 
+    def log_structure_once():
+        nonlocal structure_logged
+        if structure_logged:
+            return
+        structure_logged = True
+        ids = [d.get("id") for d in soup.find_all("div", id=True)]
+        log.warning(f"div ids on page: {ids}")
+        links = [
+            f"{a.get_text(' ', strip=True)[:30]} → {a['href']}"
+            for a in soup.find_all("a", href=True)
+            if "breviar" in a["href"] or len(a.get_text(strip=True)) < 30
+        ]
+        log.warning(f"candidate links on page: {links[:40]}")
+
     for key, hour_def in HOUR_DEFS.items():
         try:
             container = find_hour_container(soup, hour_def["patterns"])
@@ -656,20 +681,30 @@ def scrape_other_hours(session: requests.Session, soup: BeautifulSoup) -> dict:
                     DEBUG_DIR.mkdir(exist_ok=True)
                     (DEBUG_DIR / f"oblates-{key}.html").write_text(html, encoding="utf-8")
                     sub_soup = BeautifulSoup(html, "lxml")
-                    container = find_hour_container(sub_soup, hour_def["patterns"]) \
-                        or sub_soup.find("div", id="cmymain")
+                    cmymain = sub_soup.find("div", id="cmymain")
+                    if cmymain is not None and container_has_content(cmymain):
+                        container = cmymain
+                    else:
+                        container = find_hour_container(sub_soup, hour_def["patterns"])
             if container is None:
-                log.warning(f"{key}: no container found — skipping")
-                if not structure_logged:
-                    ids = [d.get("id") for d in soup.find_all("div", id=True)]
-                    log.warning(f"div ids on page: {ids}")
-                    structure_logged = True
+                log.warning(f"{key}: no content container found — skipping")
+                log_structure_once()
                 hours[key] = None
                 continue
-            hours[key] = parse_hour(container, hour_def["canticum"])
+            parsed = parse_hour(container, hour_def["canticum"])
+            # An hour with no psalms, no reading and no prayer is a failed
+            # parse (e.g. we matched the wrong element) — store null, not an
+            # empty shell.
+            if not parsed["salmer"] and not parsed["lesning"] and \
+                    not parsed["hymne"] and not parsed["bønn"]:
+                log.warning(f"{key}: container matched but parsed empty — skipping")
+                log_structure_once()
+                hours[key] = None
+                continue
+            hours[key] = parsed
             log.info(
-                f"{key}: parsed — {len(hours[key]['salmer'])} psalms, "
-                f"lesning={bool(hours[key]['lesning'])}"
+                f"{key}: parsed — {len(parsed['salmer'])} psalms, "
+                f"lesning={bool(parsed['lesning'])}"
             )
         except Exception as e:
             log.warning(f"{key}: parse failed ({e}) — skipping")
@@ -734,18 +769,22 @@ def main():
     # "Today" in Oslo — the runner's clock is UTC, which is a day behind Oslo
     # between midnight and 01:00/02:00 Oslo time.
     target_date = datetime.now(OSLO_TZ).date()
-    if len(sys.argv) > 1:
+    force = False
+    for arg in sys.argv[1:]:
+        if arg == "--force":
+            force = True
+            continue
         try:
-            target_date = datetime.strptime(sys.argv[1], "%Y-%m-%d").date()
+            target_date = datetime.strptime(arg, "%Y-%m-%d").date()
         except ValueError:
-            log.error("Date must be YYYY-MM-DD")
+            log.error("Usage: scrape_lesning.py [YYYY-MM-DD] [--force]")
             sys.exit(1)
 
     date_str = target_date.isoformat()
     output_path = OUTPUT_DIR / f"{date_str}.json"
 
-    if output_path.exists():
-        log.info(f"{output_path} already exists — delete it to re-scrape")
+    if output_path.exists() and not force:
+        log.info(f"{output_path} already exists — use --force to re-scrape")
         sys.exit(0)
 
     log.info(f"Scraping for {date_str}…")

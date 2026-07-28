@@ -10,6 +10,11 @@ on:
     # the primary run hit a network error this second attempt fills the gap.
     - cron: '0 4 * * *'
   workflow_dispatch:   # Allow manual runs from the GitHub UI
+    inputs:
+      force:
+        description: "Re-scrape even if today's file already exists"
+        type: boolean
+        default: false
 
 concurrency:
   group: daily-ordo
@@ -24,10 +29,10 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: pip
@@ -39,14 +44,18 @@ jobs:
         run: |
           DATE=$(TZ=Europe/Oslo date '+%Y-%m-%d')
           echo "Target date (Oslo): $DATE"
-          python scripts/scrape_lesning.py "$DATE"
+          FORCE=""
+          if [ "${{ inputs.force }}" = "true" ]; then
+            FORCE="--force"
+          fi
+          python scripts/scrape_lesning.py "$DATE" $FORCE
 
       - name: Build liturgical year archive
         run: python scripts/build_archive.py
 
       - name: Upload raw HTML for debugging
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: oblates-raw-html
           path: debug/
