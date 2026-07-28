@@ -1,0 +1,155 @@
+{
+  "key": "uke-i-tirsdag",
+  "type": "ferie",
+  "feast": "tirsdag - uke I",
+  "dates": [
+    "2026-07-28"
+  ],
+  "content": {
+    "date": "2026-07-28",
+    "feast": "tirsdag - uke I",
+    "feast_en": "Office of Readings",
+    "verified": false,
+    "mismatch_flag": false,
+    "sources": {
+      "no": "https://www.oblates.se/index.php?o=nbreviar",
+      "en": "https://universalis.com/europe.norway/20260728/readings.htm"
+    },
+    "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+    "salmer": [
+      {
+        "referanse": "Salme 10",
+        "antifon": "Herre, reis deg, kom meg til hjelp, rekk hånden ut til min frelse.",
+        "tekst": [
+          "Herre, hvorfor er du så fjern?",
+          "Hvorfor skjuler du ditt åsyn i trengsels tider?",
+          "Ugudelige jager i sitt hovmod den arme, men fanges selv ved de knep dę fant på.",
+          "Den gudløse priser sin onde lyst,",
+          "den griske forbanner og ringeakter Herren.",
+          "Den ugudelige sier i sitt overmot: „Gud krever ikke til regnskap.",
+          "Det finnes ingen Gud.\"",
+          "Slik er det han tenker.",
+          "Han lykkes alltid i alt han gjør; fjernt i det høye er dine dommer.",
+          "Av alle sine motstandere blåser han.",
+          "Han sier i sitt hjerte:",
+          "„Jeg skal ikke vakle, ikke lide nød fra slekt til slekt.\"",
+          "Hans munn er full av forbannelse, svik og vold,",
+          "han har urett og ondskap på tungen.",
+          "Han ligger på lur ved gårdene og dreper i lønndom uskyldige folk.",
+          "Hans øyne speider etter den svake,",
+          "han lurer som løven i krattet.",
+          "Han vil gripe den arme i bakhold, fange ham og ta ham i garnet.",
+          "Han dukker seg ned og krøker seg sammen,",
+          "den vergeløse blir tatt til fange.",
+          "„Gud glemmer,\" slik er hans tanke, „han skjuler sitt ansikt og ser det nok aldri.\"",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 10",
+        "antifon": "Herre, du ser vår elendighet.",
+        "tekst": [
+          "Herre, reis deg! Løft din hånd,",
+          "glem ikke de elendige.",
+          "Hvorfor skal de gudløse ringeakte Gud og si ved seg selv: „Du krever jo ikke til regnskap.\"",
+          "For du ser både møye og sorg,",
+          "du ser og tar alt i din hånd.",
+          "Hen elendige tar sin tilflukt til deg, for farløse er du en hjelper,",
+          "bryt den ondes og ugudeliges arm,",
+          "krev ham til regnskap for hans ondskap",
+          "og gjør den til intet.",
+          "Herren er konge for evig og alltid; fremmede folk skal forsvinne fra hans jord.",
+          "Herre, du hører de hjelpeløses bønn,",
+          "vender øret til dem og gir dem mot.",
+          "He farløse og undertrykte hjelper du til deres rett.",
+          "Mennesker som hører jorden til,",
+          "skal ikke lenger volde skrekk.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 12",
+        "antifon": "Herrens ord er sanne, de står fast for evig.",
+        "tekst": [
+          "Hjälp oss, Herre, ty de fromma är borta,",
+          "de trogna är försvunna från jorden.",
+          "De talar lögn, den ene med den andre, med hala tungor, och med falskhet i hjärtat.",
+          "Frels meg, Herre, de fromme er borte,",
+          "trofaste mennesker finnes ikke mer.",
+          "Hver mann taler løgn med sin neste, med falske lepper og tvedelt sinn.",
+          "Ve over alle som taler svik,",
+          "hver tunge som taler store ord.",
+          "De sier: „Tungen er vår styrke. Vi har leppene med oss. Hvem er vår mester?",
+          "Herren sier:",
+          "„Fordi vergeløse undertrykkes og fattige stønner,",
+          "vil jeg reise meg nå.",
+          "Jeg vil frelse dem som lengter etter hjelp.\"",
+          "Herrens ord er rene som brent sølv, lutret i ilden, syv ganger renset.",
+          "Herre, du vil bevare oss,",
+          "alltid verne oss mot denne slekt.",
+          "Gudløse mennesker svermer omkring usseldom hersker blant menneskenes barn.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      }
+    ],
+    "vers": {
+      "v": "Herren leder de ydmyke med rettferd.",
+      "r": "Og lærer de fattige sin vei."
+    },
+    "lesning1": {
+      "referanse": "2 Kor 9,1-15",
+      "kilde": "Fra Paulus’ andre brev til korinterne. — Den åndelige frukt av denne innsamling",
+      "tekst": "Hva nå denne hjelpen til de hellige angår, er det ikke engang nødvendig at jeg skriver til dere om den. Jeg vet jo hvor villige dere er og taler med \nstolthet om dere til makedonerne; «Akaia», sier jeg, «har stått klar siden i fjor», og dette at dere var så ivrige, har vært en spore for mange. \nAllikevel sender jeg nå disse brødrene, for at det skal vise seg at våre lovord om dere ikke var tomme ord, men at dere virkelig står klar, slik som \njeg har sagt. Ellers blir i eg, med all min tillit, gjort til skamme - og dere med! - når makedonerne kommer sammen med meg og finner dere uforberedt. \nJeg har altså funnet det nødvendig å be brødrene dra i forveien ned til dere og ordne på forhånd med den gaven dere har gitt løfte om, så den kan ligge \nferdig og virkelig være en vennegave, og ikke noe som dere er blitt presset til å gi.\nTenk på at den som sparsomt sår, han skal sparsomt høste, mens den som gavmildt sår, han skal også høste rikelig. Så må da enhver gi hva han finner for \ngodt, men ikke tvert og tvungent, for Gud elsker en glad giver. Og Gud har makt til å fylle dere med sin nåde i rikelig mål, slik at dere alltid og \nunder alle forhold har alt dere trenger, og enda har rikelig til å gjøre godt med. Som det står skrevet: «Han har strødd ut, han har gitt til de fattige; \nhans godhet varer til evig tid.»\nHan som skaffer bonden korn til utsæd og brød til mat, han skal også skaffe dere såkorn, og la det spire og vokse, så deres godhet kan få bære rike \nfrukter. Da blir dere selv rike i alt, og kan på alle måter vise en gavmildhet som får takken til å stige opp til Gud, når vi bærer gaven frem. For den \nhjelp dere gir gjennom denne hellige tjeneste vil ikke bare lindre nøden blant de hellige, den får også en strøm av takksigelser til å stige opp til \nGud. Denne hjelpen viser at dere holder mål, og det vil de prise Gud for. Den er beviset på at dere er lydige mot det Kristi evangelium dere bekjenner, \nog på at dere helhjertet slutter dere til samfunnet med dem som med alle de andre. Så vil de da be for dere og dermed bevitne sin hengivenhet for dere, \nfordi de forstår hvilken overveldende nåde Gud har fylt dere med. Ja, Gud være takk for sin gave - så stor, at ord ikke strekker til."
+    },
+    "responsorium1": {
+      "ref": "Luk 6,38; 2 Kor 9,7",
+      "v": "Gi, så skal dere få: Et godt mål, sammenrystet, stappet og breddfullt, skal dere få i fanget. Enhver skal gi det han har bestemt seg for i sitt hjerte, ikke med ulyst eller av tvang.",
+      "r": "Med det mål dere selv måler med, skal det også måles opp til dere."
+    },
+    "lesning2": {
+      "referanse": "Fra den hellige biskop Basilios den Stores homilier.",
+      "kilde": "Så for dere selv med rettferdighet",
+      "tekst": "Etterlign jorden, du menneske. Bær frukt slik den gjør, så du ikke viser deg dårligere enn jorden, som ikke har noen sjel. For jorden bringer frem \nfrukt, ikke for selv å nyte den selv, men til beste for deg. Men all frukten av de velgjerninger du viser, samler du for deg selv, siden de gode \ngjerningers nåde og belønning vender tilbake til dem som utøvet dem. Du ga til den sultne, og det du ga ble ditt, og det med renter. For likesom kornet, \nsom sås i jorden, blir til gagn for den sående, slik vil brødet gitt til den som sulter, gi deg stort utbytte senere. Så la målet for ditt jordbruk \nvære begynnelsen på å så i himmelen; for så for dere selv med rettferdighet, sier Skriften.\nDu kommer til å etterlate pengene her, selv om du ikke vil det. Men fortjenesten for dine gode gjerninger, den bringer du til Herren, når hele folket \nsom står omkring deg for den felles Dommer vil kalle deg «forsørger» og «velgjører» og alle andre navn på menneskevennlighet og godhet? Ser du ikke \nhvordan folk ødsler penger i teateret, på brytekamper, på gjøglere, menn som kjemper med villdyr og som man føler vemmelse ved å se på, for en kortvarig \nære og for mengdens brøl og applaus? Og du er smålig med dine utlegg, du som skal komme frem til en slik herlighet? Gud skal ta imot deg, englene prise \ndeg og alle mennesker fra verdens skapelse av prise deg salig. Evig salighet, rettferdighetens seierskrans og himlenes rike er belønningen du får for \nå forvalte riktig disse forgjengelige tingene. Men det bryr du deg ikke om. Bekymringene over de nære ting får deg til å ringeakte det gode vi håper på. \nSå kom nå, del ut din rikdom på forskjellig vis, vær gavmild og storslått i dine gaver til de fattige! Ja, la det bli sagt om deg: Han delte ut, han ga \ntil de fattige, hans rettferd står til evig tid.\nHvor takknemlig du burde være mot din velgjører, hvor glad, hvor stolt over æren at ikke du trenger å gå på andre menneskers dør, men at de kommer til \ndeg! Men du er sur og utilgjengelig, du unngår å møte folk for ikke å bli tvunget til å gi fra deg selv den minste sum. Du har bare én ting å si: «Jeg \nhar ikke noe, jeg kan ikke gi bort, for jeg er fattig.» Ja, du er sannelig fattig og mangler alt som er edelt: fattig på nestekjærlighet, fattig i tro \npå Gud og fattig på håp om det evige liv."
+    },
+    "responsorium2": {
+      "ref": "Jf Jes 58,7-8",
+      "v": "Del ditt brød med dem som sulter, og la hjelpeløse og hjemløse komme i ditt hus. Sørg for klær når du ser en naken, svikt ikke dine egne.",
+      "r": "Da skal ditt lys bryte frem som morgenrøden, og din rettferd skal gå foran ditt åsyn."
+    },
+    "teDeum": null,
+    "bønn": "Allmektige Gud, du er et vern for dem som håper på deg. Uten deg har intet verd, og uten deg er intet hellig. Utøs din miskunn over oss. Lær oss å bruke denne verdens goder i pakt med din vilje, så vi under din ledelse kan nå det som har evig verd. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
+    "laudes": {
+      "hymne": "",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": ""
+    },
+    "middagsbønn": {
+      "hymne": "",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": ""
+    },
+    "vesper": {
+      "hymne": "",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": ""
+    }
+  }
+}
