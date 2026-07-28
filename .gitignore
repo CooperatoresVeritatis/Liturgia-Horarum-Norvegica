@@ -44,3 +44,4 @@ bin/
 lib64
 include/
 pyvenv.cfg
+debug/

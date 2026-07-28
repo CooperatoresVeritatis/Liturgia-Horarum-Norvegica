@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-scrape_lesning.py — Daily scraper for the Office of Readings (Lesningsgudstjenesten).
+scrape_lesning.py — Daily scraper for the Liturgy of the Hours:
+the Office of Readings (Lesningsgudstjenesten) plus, when found on the page,
+Laudes, Middagsbønn and Vesper.
 
 Sources:
   - Norwegian text:  https://www.oblates.se/index.php?o=nbreviar  (today only)
   - Verification:    https://universalis.com/europe.norway/YYYYMMDD/readings.htm
 
 Output:
-  - ordo/YYYY-MM-DD.json
+  - ordo/YYYY-MM-DD.json  (date in Europe/Oslo)
+  - debug/*.html          (raw fetched HTML, for workflow artifacts — not committed)
 
 Run manually:
   python scripts/scrape_lesning.py [YYYY-MM-DD]
@@ -16,9 +19,12 @@ Run manually:
 import sys
 import json
 import re
+import time
 import logging
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -28,7 +34,27 @@ log = logging.getLogger(__name__)
 
 OBLATES_URL = "https://www.oblates.se/index.php?o=nbreviar"
 UNIVERSALIS_URL = "https://universalis.com/europe.norway/{date}/readings.htm"
+OSLO_TZ = ZoneInfo("Europe/Oslo")
 OUTPUT_DIR = Path(__file__).parent.parent / "ordo"
+DEBUG_DIR = Path(__file__).parent.parent / "debug"
+
+# The other hours we try to locate on the oblates.se page, keyed by the name
+# used in the output JSON. Each hour is matched by regexes against the first
+# characters of a candidate <div id=…> container's text.
+HOUR_DEFS = {
+    "laudes": {
+        "patterns": [r"\bLAUDES\b", r"\bMORGENB[ØO]NN\b"],
+        "canticum": "Benedictus",
+    },
+    "middagsbønn": {
+        "patterns": [r"\bMIDDAGSB[ØO]NN\b", r"\bTERS\b", r"\bSEKST\b", r"\bNON\b"],
+        "canticum": None,
+    },
+    "vesper": {
+        "patterns": [r"\bVESPER\b", r"\bKVELDSB[ØO]NN\b", r"\bAFTENB[ØO]NN\b"],
+        "canticum": "Magnificat",
+    },
+}
 
 HEADERS = {
     "User-Agent": (
@@ -86,11 +112,28 @@ def header_text(tag) -> str:
 # oblates.se parser
 # ---------------------------------------------------------------------------
 
+def fetch_html(session: requests.Session, url: str, attempts: int = 4) -> str:
+    """GET a URL with retries and exponential backoff (15s, 30s, 60s)."""
+    for attempt in range(1, attempts + 1):
+        try:
+            resp = session.get(url, headers=HEADERS, timeout=30)
+            resp.raise_for_status()
+            resp.encoding = "utf-8"
+            return resp.text
+        except requests.RequestException as e:
+            if attempt == attempts:
+                raise
+            wait = 15 * (2 ** (attempt - 1))
+            log.warning(f"Fetch failed ({e}) — retry {attempt}/{attempts - 1} in {wait}s")
+            time.sleep(wait)
+    raise RuntimeError("unreachable")
+
+
 def fetch_oblates(session: requests.Session) -> BeautifulSoup:
-    resp = session.get(OBLATES_URL, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
-    resp.encoding = "utf-8"
-    return BeautifulSoup(resp.text, "lxml")
+    html = fetch_html(session, OBLATES_URL)
+    DEBUG_DIR.mkdir(exist_ok=True)
+    (DEBUG_DIR / "oblates-main.html").write_text(html, encoding="utf-8")
+    return BeautifulSoup(html, "lxml")
 
 
 def collect_text_until_next_section(start_tag) -> str:
@@ -108,10 +151,9 @@ def collect_text_until_next_section(start_tag) -> str:
     return "\n".join(lines)
 
 
-def parse_psalms(cmymain: Tag) -> tuple[list[dict], dict]:
+def parse_psalms(cmymain: Tag) -> list[dict]:
     """
-    Parse the three psalms and the versicle that precedes the first reading.
-    Returns (salmer, vers).
+    Parse the psalms (with antiphons) of an hour. Returns salmer.
 
     HTML pattern:
       <font color="red">Ant. 1</font> antiphon text <br/><br/>
@@ -141,7 +183,6 @@ def parse_psalms(cmymain: Tag) -> tuple[list[dict], dict]:
         return tag.get("color", "").lower() == "red" and bool(tag.find("strong"))
 
     salmer = []
-    vers = {"v": "", "r": ""}
 
     # Collect opening antiphon tags (first occurrence of each number)
     seen_nums: set[str] = set()
@@ -243,14 +284,22 @@ def parse_psalms(cmymain: Tag) -> tuple[list[dict], dict]:
             "tekst": psalm_lines,
         })
 
-    # --- Versicle (℣/℟ pair between psalms and Første lesning) --------------
-    l1_header = cmymain.find(
-        lambda t: is_red_bold_header(t) and "Første lesning" in header_text(t)
+    return salmer
+
+
+def parse_versicle(container: Tag, before_header: str) -> dict:
+    """
+    Parse the ℣/℟ pair that sits immediately before the red-bold header whose
+    text contains `before_header` (e.g. "Første lesning").
+    """
+    vers = {"v": "", "r": ""}
+    header = container.find(
+        lambda t: is_red_bold_header(t) and before_header in header_text(t)
     )
-    if l1_header:
+    if header:
         # previous_siblings iterates nearest → farthest, so we get the
         # versicle pair that sits immediately before the reading header.
-        for sib in l1_header.previous_siblings:
+        for sib in header.previous_siblings:
             if isinstance(sib, Tag) and sib.name == "strong":
                 if not vers["r"]:
                     vers["r"] = clean_text(sib.get_text())
@@ -260,8 +309,7 @@ def parse_psalms(cmymain: Tag) -> tuple[list[dict], dict]:
                     vers["v"] = txt
             if vers["v"] and vers["r"]:
                 break
-
-    return salmer, vers
+    return vers
 
 
 def parse_reading(header_tag: Tag) -> dict:
@@ -335,6 +383,12 @@ def parse_responsory(resp_p: Tag) -> dict:
     for sib in resp_p.next_siblings:
         if is_red_bold_header(sib) or is_responsory_p(sib):
             break
+        # Stop at a red antiphon marker (e.g. "Ant. til Benedictus" after the
+        # responsory of Laudes/Vesper)
+        if isinstance(sib, Tag) and sib.name == "font" and \
+                sib.get("color", "").lower() == "red" and \
+                sib.get_text(strip=True).startswith("Ant."):
+            break
         if isinstance(sib, Tag):
             if sib.name == "strong":
                 r_raw = clean_text(sib.get_text())
@@ -357,6 +411,41 @@ def parse_responsory(resp_p: Tag) -> dict:
         "v": " ".join(v_parts).strip(),
         "r": r_text,
     }
+
+
+def parse_hymne(container: Tag) -> str:
+    """Parse the hymn of an hour from its red-bold 'Hymne' header."""
+    hymne_header = container.find(
+        lambda t: is_red_bold_header(t) and header_text(t) == "Hymne"
+    )
+    if not hymne_header:
+        return ""
+    lines = []
+    for sib in hymne_header.next_siblings:
+        # Stop at first antiphon or next red-bold section
+        if is_red_bold_header(sib):
+            break
+        if isinstance(sib, Tag):
+            # Skip hidden alternative hymns
+            if sib.name == "div" and "display:none" in sib.get("style", ""):
+                continue
+            # Stop at first antiphon marker
+            if sib.name == "font" and re.match(r"Ant\.\s*\d", sib.get_text(strip=True)):
+                break
+            if sib.name == "font" and sib.get("color", "").lower() in ("#fd1601", "red"):
+                txt = sib.get_text(strip=True)
+                if txt.startswith("eller"):
+                    break  # stop before "eller:" links
+            if sib.name in ("script", "style"):
+                continue
+            txt = sib.get_text(separator="\n").strip()
+            if txt:
+                lines.append(txt)
+        elif isinstance(sib, NavigableString):
+            txt = str(sib).strip()
+            if txt:
+                lines.append(txt)
+    return "\n".join(l for l in lines if l)
 
 
 def parse_oblates(soup: BeautifulSoup) -> dict:
@@ -386,40 +475,11 @@ def parse_oblates(soup: BeautifulSoup) -> dict:
         result["feast"] = blue.get_text(strip=True)
 
     # --- Hymn ----------------------------------------------------------------
-    hymne_header = cmymain.find(
-        lambda t: is_red_bold_header(t) and header_text(t) == "Hymne"
-    )
-    if hymne_header:
-        lines = []
-        for sib in hymne_header.next_siblings:
-            # Stop at first antiphon or next red-bold section
-            if is_red_bold_header(sib):
-                break
-            if isinstance(sib, Tag):
-                # Skip hidden alternative hymns
-                if sib.name == "div" and "display:none" in sib.get("style", ""):
-                    continue
-                # Stop at first antiphon marker
-                if sib.name == "font" and re.match(r"Ant\.\s*\d", sib.get_text(strip=True)):
-                    break
-                if sib.name == "font" and sib.get("color", "").lower() in ("#fd1601", "red"):
-                    txt = sib.get_text(strip=True)
-                    if txt.startswith("eller"):
-                        break  # stop before "eller:" links
-                if sib.name in ("script", "style"):
-                    continue
-                txt = sib.get_text(separator="\n").strip()
-                if txt:
-                    lines.append(txt)
-            elif isinstance(sib, NavigableString):
-                txt = str(sib).strip()
-                if txt:
-                    lines.append(txt)
-        result["hymne"] = "\n".join(l for l in lines if l)
+    result["hymne"] = parse_hymne(cmymain)
 
     # --- Psalms + versicle ---------------------------------------------------
-    salmer, vers = parse_psalms(cmymain)
-    result["salmer"] = salmer
+    result["salmer"] = parse_psalms(cmymain)
+    vers = parse_versicle(cmymain, "Første lesning")
     result["vers"] = vers if (vers["v"] or vers["r"]) else None
 
     # --- First reading -------------------------------------------------------
@@ -458,6 +518,164 @@ def parse_oblates(soup: BeautifulSoup) -> dict:
         result["bønn"] = collect_text_until_next_section(bønn_header)
 
     return result
+
+
+# ---------------------------------------------------------------------------
+# Other hours (Laudes, Middagsbønn, Vesper)
+# ---------------------------------------------------------------------------
+
+def find_hour_container(soup: BeautifulSoup, patterns: list[str]) -> Tag | None:
+    """
+    Find the <div id=…> whose text *starts* with one of the hour-name patterns.
+    Matching only the first characters keeps page-wide wrapper divs (whose text
+    starts with the first hour on the page) from matching every hour. If several
+    divs match (nested wrappers), the smallest one wins.
+    """
+    candidates = []
+    for div in soup.find_all("div", id=True):
+        head = div.get_text(" ", strip=True)[:150].upper()
+        if any(re.search(p, head) for p in patterns):
+            candidates.append(div)
+    if not candidates:
+        return None
+    return min(candidates, key=lambda d: len(d.get_text()))
+
+
+def find_hour_link(soup: BeautifulSoup, patterns: list[str]) -> str | None:
+    """
+    If an hour lives behind its own URL, find a same-site link whose text
+    matches the hour name and return the absolute URL.
+    """
+    for a in soup.find_all("a", href=True):
+        txt = a.get_text(" ", strip=True).upper()
+        if not txt or len(txt) > 40:
+            continue
+        if any(re.search(p, txt) for p in patterns):
+            url = urljoin(OBLATES_URL, a["href"])
+            if urlparse(url).netloc == urlparse(OBLATES_URL).netloc and "#" not in a["href"]:
+                return url
+    return None
+
+
+def parse_canticum(container: Tag, name: str) -> dict | None:
+    """
+    Parse the Gospel canticle (Benedictus / Magnificat): its antiphon and text.
+    The antiphon marker is a red font tag mentioning the canticle name.
+    """
+    ant_tag = container.find(
+        lambda t: isinstance(t, Tag) and t.name == "font"
+        and t.get("color", "").lower() == "red"
+        and name.lower() in t.get_text().lower()
+        and "ant" in t.get_text().lower()
+    )
+    if not ant_tag:
+        return None
+
+    antifon = ""
+    tekst_lines = []
+    for sib in ant_tag.next_siblings:
+        if is_red_bold_header(sib):
+            break
+        if isinstance(sib, Tag) and sib.name == "font" and \
+                sib.get("color", "").lower() == "red":
+            # Closing repetition of the same antiphon marker → done
+            if name.lower() in sib.get_text().lower():
+                break
+            continue
+        txt = clean_text(node_text(sib)) if not isinstance(sib, NavigableString) \
+            else clean_text(str(sib))
+        if txt:
+            if not antifon:
+                antifon = txt
+            else:
+                tekst_lines.append(txt)
+    return {"antifon": antifon, "tekst": tekst_lines}
+
+
+def parse_section(container: Tag, header_substr: str) -> str:
+    """Collect the text of a red-bold-headed section (Forbønner, Bønn, …)."""
+    header = container.find(
+        lambda t: is_red_bold_header(t) and header_substr in header_text(t)
+    )
+    return collect_text_until_next_section(header) if header else ""
+
+
+def parse_hour(container: Tag, canticum: str | None) -> dict:
+    """
+    Generic parser for Laudes / Middagsbønn / Vesper. Reuses the same building
+    blocks as the Office of Readings: hymn, psalms with antiphons, a short
+    reading, responsory, Gospel canticle, intercessions and closing prayer.
+    """
+    result = {
+        "hymne": parse_hymne(container),
+        "salmer": parse_psalms(container),
+        "lesning": None,
+        "responsorium": None,
+        "canticum": None,
+        "forbønner": "",
+        "bønn": "",
+    }
+
+    lesning_header = container.find(
+        lambda t: is_red_bold_header(t) and "lesning" in header_text(t).lower()
+    )
+    if lesning_header:
+        result["lesning"] = parse_reading(lesning_header)
+
+    resp_tags = container.find_all(is_responsory_p)
+    if resp_tags:
+        result["responsorium"] = parse_responsory(resp_tags[0])
+
+    if canticum:
+        result["canticum"] = parse_canticum(container, canticum)
+
+    result["forbønner"] = parse_section(container, "Forbønner")
+    result["bønn"] = parse_section(container, "Bønn")
+
+    return result
+
+
+def scrape_other_hours(session: requests.Session, soup: BeautifulSoup) -> dict:
+    """
+    Locate and parse Laudes, Middagsbønn and Vesper. Never raises: an hour that
+    cannot be found or parsed becomes None, and the page's div structure is
+    logged so the layout can be verified from the workflow logs / debug artifact.
+    """
+    hours: dict[str, dict | None] = {}
+    structure_logged = False
+
+    for key, hour_def in HOUR_DEFS.items():
+        try:
+            container = find_hour_container(soup, hour_def["patterns"])
+            if container is None:
+                # Hour might live on its own page — follow a matching link once.
+                link = find_hour_link(soup, hour_def["patterns"])
+                if link:
+                    log.info(f"{key}: not on main page, following {link}")
+                    html = fetch_html(session, link)
+                    DEBUG_DIR.mkdir(exist_ok=True)
+                    (DEBUG_DIR / f"oblates-{key}.html").write_text(html, encoding="utf-8")
+                    sub_soup = BeautifulSoup(html, "lxml")
+                    container = find_hour_container(sub_soup, hour_def["patterns"]) \
+                        or sub_soup.find("div", id="cmymain")
+            if container is None:
+                log.warning(f"{key}: no container found — skipping")
+                if not structure_logged:
+                    ids = [d.get("id") for d in soup.find_all("div", id=True)]
+                    log.warning(f"div ids on page: {ids}")
+                    structure_logged = True
+                hours[key] = None
+                continue
+            hours[key] = parse_hour(container, hour_def["canticum"])
+            log.info(
+                f"{key}: parsed — {len(hours[key]['salmer'])} psalms, "
+                f"lesning={bool(hours[key]['lesning'])}"
+            )
+        except Exception as e:
+            log.warning(f"{key}: parse failed ({e}) — skipping")
+            hours[key] = None
+
+    return hours
 
 
 # ---------------------------------------------------------------------------
@@ -513,7 +731,9 @@ def check_mismatch(no_data: dict, en_data: dict) -> bool:
 # ---------------------------------------------------------------------------
 
 def main():
-    target_date = date.today()
+    # "Today" in Oslo — the runner's clock is UTC, which is a day behind Oslo
+    # between midnight and 01:00/02:00 Oslo time.
+    target_date = datetime.now(OSLO_TZ).date()
     if len(sys.argv) > 1:
         try:
             target_date = datetime.strptime(sys.argv[1], "%Y-%m-%d").date()
@@ -534,6 +754,9 @@ def main():
         log.info("Fetching oblates.se…")
         oblates_soup = fetch_oblates(session)
         no_data = parse_oblates(oblates_soup)
+
+        log.info("Scraping other hours (Laudes, Middagsbønn, Vesper)…")
+        hours = scrape_other_hours(session, oblates_soup)
 
         log.info("Fetching universalis.com…")
         en_data = fetch_universalis(session, target_date)
@@ -559,6 +782,9 @@ def main():
         "responsorium2": no_data.get("responsorium2"),
         "teDeum": no_data.get("teDeum"),
         "bønn": no_data.get("bønn", ""),
+        "laudes": hours.get("laudes"),
+        "middagsbønn": hours.get("middagsbønn"),
+        "vesper": hours.get("vesper"),
     }
 
     OUTPUT_DIR.mkdir(exist_ok=True)
@@ -578,6 +804,9 @@ def main():
     log.info(f"  lesning1:     {bool(ordo['lesning1'])}")
     log.info(f"  lesning2:     {bool(ordo['lesning2'])}")
     log.info(f"  bønn:         {len(ordo['bønn'])} chars")
+    log.info(f"  laudes:       {bool(ordo['laudes'])}")
+    log.info(f"  middagsbønn:  {bool(ordo['middagsbønn'])}")
+    log.info(f"  vesper:       {bool(ordo['vesper'])}")
 
 
 if __name__ == "__main__":

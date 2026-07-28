@@ -1,0 +1,490 @@
+{
+  "keys": {
+    "fest-2-lordag-i-pasketiden": {
+      "type": "fest",
+      "feast": "2 lørdag i påsketiden",
+      "dates": [
+        "2026-04-18"
+      ],
+      "file": "days/fest-2-lordag-i-pasketiden.json"
+    },
+    "fest-2-onsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "2 onsdag i påsketiden",
+      "dates": [
+        "2026-04-15"
+      ],
+      "file": "days/fest-2-onsdag-i-pasketiden.json"
+    },
+    "fest-2-torsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "2 torsdag i påsketiden",
+      "dates": [
+        "2026-04-16"
+      ],
+      "file": "days/fest-2-torsdag-i-pasketiden.json"
+    },
+    "fest-3-fredag-i-pasketiden": {
+      "type": "fest",
+      "feast": "3 fredag i påsketiden",
+      "dates": [
+        "2026-04-24"
+      ],
+      "file": "days/fest-3-fredag-i-pasketiden.json"
+    },
+    "fest-3-mandag-i-pasketiden": {
+      "type": "fest",
+      "feast": "3 mandag i påsketiden",
+      "dates": [
+        "2026-04-20"
+      ],
+      "file": "days/fest-3-mandag-i-pasketiden.json"
+    },
+    "fest-3-onsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "3 onsdag i påsketiden",
+      "dates": [
+        "2026-04-22"
+      ],
+      "file": "days/fest-3-onsdag-i-pasketiden.json"
+    },
+    "fest-3-tirsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "3 tirsdag i påsketiden",
+      "dates": [
+        "2026-04-21"
+      ],
+      "file": "days/fest-3-tirsdag-i-pasketiden.json"
+    },
+    "fest-3-torsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "3 torsdag i påsketiden",
+      "dates": [
+        "2026-04-23"
+      ],
+      "file": "days/fest-3-torsdag-i-pasketiden.json"
+    },
+    "fest-4-mandag-i-pasketiden": {
+      "type": "fest",
+      "feast": "4 mandag i påsketiden",
+      "dates": [
+        "2026-04-27"
+      ],
+      "file": "days/fest-4-mandag-i-pasketiden.json"
+    },
+    "fest-4-tirsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "4 tirsdag i påsketiden",
+      "dates": [
+        "2026-04-28"
+      ],
+      "file": "days/fest-4-tirsdag-i-pasketiden.json"
+    },
+    "fest-5-lordag-i-pasketiden": {
+      "type": "fest",
+      "feast": "5 lørdag i påsketiden",
+      "dates": [
+        "2026-05-09"
+      ],
+      "file": "days/fest-5-lordag-i-pasketiden.json"
+    },
+    "fest-5-mandag-i-pasketiden": {
+      "type": "fest",
+      "feast": "5 mandag i påsketiden",
+      "dates": [
+        "2026-05-04"
+      ],
+      "file": "days/fest-5-mandag-i-pasketiden.json"
+    },
+    "fest-5-onsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "5 onsdag i påsketiden",
+      "dates": [
+        "2026-05-06"
+      ],
+      "file": "days/fest-5-onsdag-i-pasketiden.json"
+    },
+    "fest-5-tirsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "5 tirsdag i påsketiden",
+      "dates": [
+        "2026-05-05"
+      ],
+      "file": "days/fest-5-tirsdag-i-pasketiden.json"
+    },
+    "fest-5-torsdag-i-pasketiden": {
+      "type": "fest",
+      "feast": "5 torsdag i påsketiden",
+      "dates": [
+        "2026-05-07"
+      ],
+      "file": "days/fest-5-torsdag-i-pasketiden.json"
+    },
+    "fest-6-fredag-i-pasketiden": {
+      "type": "fest",
+      "feast": "6 fredag i påsketiden",
+      "dates": [
+        "2026-05-15"
+      ],
+      "file": "days/fest-6-fredag-i-pasketiden.json"
+    },
+    "fest-6-lordag-i-pasketiden": {
+      "type": "fest",
+      "feast": "6 lørdag i påsketiden",
+      "dates": [
+        "2026-05-16"
+      ],
+      "file": "days/fest-6-lordag-i-pasketiden.json"
+    },
+    "fest-6-mandag-i-pasketiden": {
+      "type": "fest",
+      "feast": "6 mandag i påsketiden",
+      "dates": [
+        "2026-05-11"
+      ],
+      "file": "days/fest-6-mandag-i-pasketiden.json"
+    },
+    "fest-7-fredag-i-pasketiden": {
+      "type": "fest",
+      "feast": "7 fredag i påsketiden",
+      "dates": [
+        "2026-05-22"
+      ],
+      "file": "days/fest-7-fredag-i-pasketiden.json"
+    },
+    "fest-bonaventura-biskop-och-kyrkolarare": {
+      "type": "fest",
+      "feast": "Bonaventura biskop och kyrkolärare",
+      "dates": [
+        "2026-07-15"
+      ],
+      "file": "days/fest-bonaventura-biskop-och-kyrkolarare.json"
+    },
+    "fest-josef-arbetaren": {
+      "type": "fest",
+      "feast": "Josef arbetaren",
+      "dates": [
+        "2026-05-01"
+      ],
+      "file": "days/fest-josef-arbetaren.json"
+    },
+    "fest-jungfru-maria-kyrkans-moder": {
+      "type": "fest",
+      "feast": "Jungfru Maria, kyrkans moder",
+      "dates": [
+        "2026-05-25"
+      ],
+      "file": "days/fest-jungfru-maria-kyrkans-moder.json"
+    },
+    "fest-knut-konung-och-martyr-danmarks-skyddspatron": {
+      "type": "fest",
+      "feast": "Knut konung och martyr Danmarks skyddspatron",
+      "dates": [
+        "2026-07-10"
+      ],
+      "file": "days/fest-knut-konung-och-martyr-danmarks-skyddspatron.json"
+    },
+    "fest-marta": {
+      "type": "fest",
+      "feast": "Marta",
+      "dates": [
+        "2026-07-27"
+      ],
+      "file": "days/fest-marta.json"
+    },
+    "fest-thorlak-biskop-islands-skyddspatron": {
+      "type": "fest",
+      "feast": "Thorlak biskop Islands skyddspatron",
+      "dates": [
+        "2026-07-20"
+      ],
+      "file": "days/fest-thorlak-biskop-islands-skyddspatron.json"
+    },
+    "fest-xvi-sondag-i-det-alminnelige-kirkear": {
+      "type": "fest",
+      "feast": "XVI søndag i det alminnelige kirkeår",
+      "dates": [
+        "2026-07-19"
+      ],
+      "file": "days/fest-xvi-sondag-i-det-alminnelige-kirkear.json"
+    },
+    "uke-i-lørdag": {
+      "type": "ferie",
+      "feast": "lørdag - uke I",
+      "dates": [
+        "2026-07-04"
+      ],
+      "file": "days/uke-i-lørdag.json"
+    },
+    "uke-ii-tirsdag": {
+      "type": "ferie",
+      "feast": "tirsdag - uke II",
+      "dates": [
+        "2026-07-07"
+      ],
+      "file": "days/uke-ii-tirsdag.json"
+    },
+    "uke-iii-fredag": {
+      "type": "ferie",
+      "feast": "fredag - uke III",
+      "dates": [
+        "2026-07-17"
+      ],
+      "file": "days/uke-iii-fredag.json"
+    },
+    "uke-iii-lørdag": {
+      "type": "ferie",
+      "feast": "lørdag - uke III",
+      "dates": [
+        "2026-07-18"
+      ],
+      "file": "days/uke-iii-lørdag.json"
+    },
+    "uke-iii-mandag": {
+      "type": "ferie",
+      "feast": "mandag - uke III",
+      "dates": [
+        "2026-07-13"
+      ],
+      "file": "days/uke-iii-mandag.json"
+    },
+    "uke-iii-tirsdag": {
+      "type": "ferie",
+      "feast": "tirsdag - uke III",
+      "dates": [
+        "2026-06-16",
+        "2026-07-14"
+      ],
+      "file": "days/uke-iii-tirsdag.json"
+    },
+    "uke-iii-torsdag": {
+      "type": "ferie",
+      "feast": "torsdag - uke III",
+      "dates": [
+        "2026-07-16"
+      ],
+      "file": "days/uke-iii-torsdag.json"
+    },
+    "uke-iv-fredag": {
+      "type": "ferie",
+      "feast": "fredag - uke IV",
+      "dates": [
+        "2026-07-24"
+      ],
+      "file": "days/uke-iv-fredag.json"
+    },
+    "uke-iv-lørdag": {
+      "type": "ferie",
+      "feast": "lørdag - uke IV",
+      "dates": [
+        "2026-05-30",
+        "2026-06-27"
+      ],
+      "file": "days/uke-iv-lørdag.json"
+    },
+    "uke-iv-torsdag": {
+      "type": "ferie",
+      "feast": "torsdag - uke IV",
+      "dates": [
+        "2026-07-23"
+      ],
+      "file": "days/uke-iv-torsdag.json"
+    },
+    "ukjent-2026-04-25": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-04-25"
+      ],
+      "file": "days/ukjent-2026-04-25.json"
+    },
+    "ukjent-2026-04-26": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-04-26"
+      ],
+      "file": "days/ukjent-2026-04-26.json"
+    },
+    "ukjent-2026-04-29": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-04-29"
+      ],
+      "file": "days/ukjent-2026-04-29.json"
+    },
+    "ukjent-2026-05-03": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-03"
+      ],
+      "file": "days/ukjent-2026-05-03.json"
+    },
+    "ukjent-2026-05-10": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-10"
+      ],
+      "file": "days/ukjent-2026-05-10.json"
+    },
+    "ukjent-2026-05-14": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-14"
+      ],
+      "file": "days/ukjent-2026-05-14.json"
+    },
+    "ukjent-2026-05-17": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-17"
+      ],
+      "file": "days/ukjent-2026-05-17.json"
+    },
+    "ukjent-2026-05-18": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-18"
+      ],
+      "file": "days/ukjent-2026-05-18.json"
+    },
+    "ukjent-2026-05-24": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-24"
+      ],
+      "file": "days/ukjent-2026-05-24.json"
+    },
+    "ukjent-2026-05-31": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-05-31"
+      ],
+      "file": "days/ukjent-2026-05-31.json"
+    },
+    "ukjent-2026-06-29": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-06-29"
+      ],
+      "file": "days/ukjent-2026-06-29.json"
+    },
+    "ukjent-2026-07-03": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-07-03"
+      ],
+      "file": "days/ukjent-2026-07-03.json"
+    },
+    "ukjent-2026-07-05": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-07-05"
+      ],
+      "file": "days/ukjent-2026-07-05.json"
+    },
+    "ukjent-2026-07-11": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-07-11"
+      ],
+      "file": "days/ukjent-2026-07-11.json"
+    },
+    "ukjent-2026-07-22": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-07-22"
+      ],
+      "file": "days/ukjent-2026-07-22.json"
+    },
+    "ukjent-2026-07-25": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-07-25"
+      ],
+      "file": "days/ukjent-2026-07-25.json"
+    },
+    "ukjent-2026-07-26": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-07-26"
+      ],
+      "file": "days/ukjent-2026-07-26.json"
+    }
+  },
+  "coverage": {
+    "uke-I": {
+      "collected": [
+        "lørdag"
+      ],
+      "missing": [
+        "mandag",
+        "tirsdag",
+        "onsdag",
+        "torsdag",
+        "fredag",
+        "søndag"
+      ]
+    },
+    "uke-II": {
+      "collected": [
+        "tirsdag"
+      ],
+      "missing": [
+        "mandag",
+        "onsdag",
+        "torsdag",
+        "fredag",
+        "lørdag",
+        "søndag"
+      ]
+    },
+    "uke-III": {
+      "collected": [
+        "mandag",
+        "tirsdag",
+        "torsdag",
+        "fredag",
+        "lørdag"
+      ],
+      "missing": [
+        "onsdag",
+        "søndag"
+      ]
+    },
+    "uke-IV": {
+      "collected": [
+        "torsdag",
+        "fredag",
+        "lørdag"
+      ],
+      "missing": [
+        "mandag",
+        "tirsdag",
+        "onsdag",
+        "søndag"
+      ]
+    }
+  },
+  "totals": {
+    "days_scraped": 55,
+    "ferial": 10,
+    "feasts": 26,
+    "unclassified": 17
+  }
+}
