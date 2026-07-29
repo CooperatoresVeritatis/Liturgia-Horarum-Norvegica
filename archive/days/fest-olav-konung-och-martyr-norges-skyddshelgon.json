@@ -1,0 +1,151 @@
+{
+  "key": "fest-olav-konung-och-martyr-norges-skyddshelgon",
+  "type": "fest",
+  "feast": "Olav konung och martyr Norges skyddshelgon",
+  "dates": [
+    "2026-07-29"
+  ],
+  "content": {
+    "date": "2026-07-29",
+    "feast": "Olav konung och martyr Norges skyddshelgon",
+    "feast_en": "Office of Readings",
+    "verified": false,
+    "mismatch_flag": false,
+    "sources": {
+      "no": "https://www.oblates.se/index.php?o=nbreviar",
+      "en": "https://universalis.com/europe.norway/20260729/readings.htm"
+    },
+    "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+    "salmer": [
+      {
+        "referanse": "Salme 18",
+        "antifon": "Herre, jeg har deg hjertelig kjær, du er min styrke og min frelse.",
+        "tekst": [
+          "Herre, du er min styrke,",
+          "deg har jeg hjertelig kjær.",
+          "Herren er min klippe, min borg og min befrier. Han er min Gud, mitt tilfluktsfjell.",
+          "Han er mitt skjold,",
+          "mitt horn til frelse og mitt vern.",
+          "Lovet være Herren. Jeg kalte på ham og han fridde meg ut.",
+          "Dødens lenker bandt meg,",
+          "fordervelsens strømmer forferdet meg.",
+          "Dødsrikets bånd snørte seg om meg, i min vei lå dødens snarer.",
+          "Da kalte jeg på Herren i min nød,",
+          "da ropte jeg høyt til min Gud.",
+          "Han hørte min røst fra sitt tempel, til hans øre nådde mitt rop.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 18",
+        "antifon": "Herren fridde meg ut, for han har meg kjær.",
+        "tekst": [
+          "Jorden rystet og bevet,",
+          "fjellenes grunnvoller skalv for hans vrede.",
+          "Røk steg opp fra hans nese, rortærende ild fra hans munn, ut av ham sprutet gnister og glør.",
+          "Han senket himmelen og steg ned,",
+          "mørke skyer var under hans føtter.",
+          "Ridende på kjeruber for han frem, han fløy på vindens vinger.",
+          "Han gjorde mørket til sitt skjulested,",
+          "han hyllet seg i regntunge skyer.",
+          "Fra stråleglansen foran ham for skyer frem, med hagl og glødende kull.",
+          "Herren tordnet i himmelen,",
+          "aen Høyeste lot røsten lyde:",
+          "gjennom hagl og glødende kull.",
+          "Han skjøt sine piler og drev dem på flukt, slynget ut lyn og fordrev dem.",
+          "Havbunnens renner kom da til syne,",
+          "jordens grunnvoller ble blottlagt, Herre,",
+          "da du truet og fnyste av vrede.",
+          "Han rakte sin hånd fra det høye og grep meg, han drog meg opp av det dype vann.",
+          "Han fridde meg ut fra min fiendes hånd,",
+          "mine motstandere var meg for sterke.",
+          "De gikk imot meg på ulykkens dag, men Herren var meg til støtte.",
+          "Han førte meg ut på åpent land,",
+          "han fridde meg ut, for han har meg kjær.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 18",
+        "antifon": "Herre, min Gud, du lyser i den mørke natt.",
+        "tekst": [
+          "Herren gjorde vel mot meg for min rettferds skyld,",
+          "han lønnet meg, for mine hender var rene.",
+          "Jeg holdt meg til Herrens veier og var ikke utro mot min Gud.",
+          "Alle hans dommer hadde jeg for øye,",
+          "jeg vek ikke fra hans bud.",
+          "Jeg var ulastelig for ham og voktet meg vel for å synde.",
+          "Herren lønnet min rettferd",
+          "han så at mine hender var rene.",
+          "Du viser deg trofast mot den som er tro, fullkommen mot den som er uten lyte.",
+          "Mot den rene viser du deg ren,",
+          "men vrang mot den svikefulle.",
+          "Du frelser de hjelpeløse, tvinger de stolte øyne ned.",
+          "Herre, du setter lys i min lampe,",
+          "min Gud lyser opp mitt mørke.",
+          "Med deg kan jeg angripe festninger, ved min Gud stormer jeg murer.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      }
+    ],
+    "vers": {
+      "v": "Alle ble slått av undring.",
+      "r": "Over de ord som gikk ut av hans munn."
+    },
+    "lesning1": {
+      "referanse": "2 Kor 10,1-11,6",
+      "kilde": "Fra Paulus’ andre brev til korinterne. — Paulus’forsvar",
+      "tekst": "Nå vil jeg, Paulus selv ta til orde og ved Kristi godhet og mildhet be dere - jeg som jo skal være så modig når jeg har dere på avstand, og så spak når \nvi står ansikt til ansikt - jeg bønnfaller dere om at når jeg kommer, må jeg få slippe å vise dere hvor modig jeg kan være! Jeg akter nemlig ellers å gå \nhåndfast frem overfor visse folk - slike som tror at vi bare handler ut fra rent menneskelige hensyn. Menneskelige er vi nok, men vår kamp fører vi ikke \nmed menneskelige midler, de våpen vi bruker i striden, er mer enn menneskelige våpen; de eier en guddommelig kraft, som får festninger til å styrte i \ngrus. Med dem river vi alle menneskelige beregninger overende, alt stort og stolt som måtte reise seg mot vår erkjennelse av Gud; og hver en tanke tar \nvi til fange, for å bringe den til lydighet mot Kristus. Og så snart dere helt har undergitt dere ham, står vi klar til å gjøre opp med all annen \nulydighet. Gjør dere klart hva som jo ligger i dagen: Om noen er viss på å høre Kristus til, da må han også innse at det gjelder oss like fullt som det \ngjelder ham. Og selv om jeg skulle insistere enda mer på våre fullmakter - de som Herren har gitt oss, ikke for å rive ned blant dere, men for å bygge \nopp - så ville jeg ikke bli stående til skamme. Men jeg vil ikke det skal se ut som om jeg forsøker å skremme dere med brev. Brevene, sier man, har nok \nbåde alvor og myndighet, men når han er her selv, er det en skral kropp og ingenting å høre på. Men den som sier så, han skal merke seg at slik vi viser \noss på avstand, gjennom våre brev, slik akter vi også å vise oss i gjerning, så snart vi er til stede!\nNei, det er nok så at vi ikke våger å sammenligne oss, enn si stille oss like med enkelte, som søker å gjøre seg gjeldende. Men når de ikke bruker annet \nmål på seg selv enn sin egen storhet, og ikke sammenligner med andre enn seg selv, da skorter det på forstanden. Vi selv akter ikke å rose oss ut over \ndet som er rimelig, men holde oss innenfor de grenser som Gud selv har fastlagt for oss, men de omfatter også dere! Nei, vi går ikke for vidt, slik som \ndet kunne sies hvis vi ikke var kommet så langt som til dere; men faktisk var vi jo de første som nådde frem til dere med Kristi evangelium! Vi går \naltså ikke over streken, ved å rose oss av andres arbeid; og vi har det håp, at vi etter hvert som deres tro vokser, kan få slik fremgang blant dere at \ngrensene for vårt virke kan bli utvidet. Da håper vi å bringe evangeliet videre, til landene bortenfor Korint, og unngå å hente oss ros på andres område, \nav arbeid som alt er gjort. Den som roser seg, skal rose seg av Herren. For om en anbefaler seg selv, er ikke dermed hans verd prøvet; Herren må selv \nanbefale ham.\nJeg skulle ønske dere ville bære over med en smule dårskap fra min side! Ja bær over med meg! For min nidkjærhet for dere er Guds egen; jeg har jo \ntrolovet dere med Kristus og ham alene, som en ren jomfru skulle dere stå frem for ham. Men jeg er redd for at det skal gå med dere som med Eva, som \nslangen fikk narret med sin list, med andre ord, at noen skal få fordreid hodet slik på dere, at dere mister det rene og oppriktige forhold til Kristus. \nFor når den første og beste kommer og forkynner dere en annen Jesus enn den vi har forkynt, når dere får en annen ånd enn den dere før har mottatt, eller \nfår høre et annet evangelium enn det dere først lyttet til - så tar dere så gjerne imot. Allikevel tror jeg ikke jeg står tilbake i noe for disse \n‘overapostler’. For om jeg ikke har noen forstand på veltalenhet, har jeg til gjengjeld mrstand på det jeg taler om; det har dere klart fått se på alle \nmåter."
+    },
+    "responsorium1": {
+      "ref": "2 Kor 10,3-4; Ef 6,16.17",
+      "v": "Vi går frem på menneskelig vis, men vi kjemper ikke med menneskelige midler. Vi griper troens skjold og Andens sverd, som er Guds ord.",
+      "r": "For våre våpen er ikke fra mennesker."
+    },
+    "lesning2": {
+      "referanse": "Fra Den salige Olavs lidelse og mirakler av den salige Eystein Erlendsson, erkebiskop av Nidaros.",
+      "kilde": "Hvordan St. Olav levde og forkynte",
+      "tekst": "Den gang den berømte kong Olav styrte i Norge, et meget stort land mot nord, med Danmark i sør, trådte føttene til menn som forkynte fred, som \nforkynte godt budskap, inn i landet. Hittil hadde disse folkeslagene vært hengitt til den vanhellige dyrkelse av avguder, forblindet som de var av \novertroiske forestillinger, men nå fikk de høre om troen på den sanne Gud og hvordan han skulle dyrkes; ja, de hørte nok, men mange nektet å ta imot \nden. Siden de bodde så langt mot nord, satt de fastfrosset i vantroens is i nærheten av den nordpol hvorfra all styggedom velter ut over jordens \noverflate. Det var derfra Jeremias så en kokende gryte komme, og det er om denne nordpolen Jesaja skrytende sier: «Høyt over himmelens stjerner vil \njeg reise min trone, og jeg vil ta sete på tingfjellet lengst i nord». Men den store og høylovede Herre, han som bygger sin by i nord, smeltet \nnordpolens isbre med milde vinder fra sør, og mildnet de ville hedningers trassige og stridbare sinn med troens varme. De fikk høre om Herren, og \nhan sendte sendemenn til disse folkeslag, sitt ords budbringere, menn som skulle forkynne i landet den sannhet som er i Jesus Kristus, vende folk \nbort fra avgudsdyrkelsen, love de troende uforgjengelig liv og evig glede og skremme de vantro og vrangvillige med trussel om den kommende dom og \npinsler uten ende.\nDette landet var det kong Olav styrte, slik vi har fortalt. Enda han var hedning, var han god av natur, og hans edle sinn gjorde ham snar til å \nhandle på rettskaffent vis. Da han i England hadde fått visshet om Evangeliets sannhet, trykket han troen til sitt bryst, og med et fromt sinn \nskyndte han seg til byen Rouen for der å få motta dåpens nåde. Da han var blitt renset i frelsens bad, ble han med ett et nytt menneske, og, slik \napostelen sier, da han var blitt begravet med Kristus i dåpen til døden, glemte han det som lå bak og strakte seg etter det som lå foran, han vandret \ni det nye levnet han hadde mottatt og overholdt nøye alt troen bød. Han foraktet alle tomme fornøyelser, og det jordiske rikets herlighet holdt han \nfor liten å være i forhold til himmelrikets sødme. Selv om han levde i kongelig prakt, var han fattig i ånden, og alt mens han var opptatt med \njordiske gjøremål, grunnet han over det som hører himmelen til. Det som Guds lov forbyr, avskydde han på det sterkeste, det den påbyr, lå ham varmt \npå hjertet.\nOg ikke slo han seg til ro med egen frelse, men han forsøkte med stor iver å omvende til troen de folkeslag han ved Guds forsyn var blitt satt til \nå lede. Etter den nye tingenes orden tok kongen på seg apostelens verv, og høvdingen forkynte Kristi ords nåde overalt og for alle. Det var ikke få \nden forkynnelsens nåde som var utgytt på hans lepper, førte fra å dyrke onde demoner til å anerkjenne og ære sin skaper. Det var heller ikke få som \nhans beundringsverdige fromhet og liv i streng kyskhet inspirerte til å gi avkall på verden og til å elske det himmelske fedreland. For hvem var så \nvrang, hvem var så forherdet at han ikke måtte bøye av for den gode kongens milde ord, ord fylt av åndelig visdom! Hvem var så sløv og så treg at \nhan ikke ble vakt av hans enestående livsførsel!\nEller.\nHvordan St. Olav døde som martyr for den sanne tro\nKristi vidkjente martyr drog deretter til Russland og ble mottatt med heder av Jaroslav, den ærerike kongen i landet. Han tilbrakte tiden der i den \nstørste heder, så lenge han ville være. Han ble værende en god stund, viste innbyggerne et eksempel på god vandel og etterlot dem et minne om sin \ngudsfrykt, nestekjærlighet, godhet og velkjente tålmodighet. Til sist, nå da han var smeltet i forfølgelsens og utlendighetens ild, ble han funnet \nvelbehagelig og skikket til å kunne utstå en enda hardere kamp, og drevet av Gud drog han gjennom Sverige tilbake til sitt fedreland. Herren gav \nham enda rikere nåde, og han ble mottatt med stor begeistring av mange. Mot de gode opptrådte han nådig og kjærlig, men mot motstanderne av den \nsunne lære tedde han seg truende og streng. Han var iført troens brynje, påspent Andens sverd som er Guds ord, gjennom baktalelse og ros, gjennom \nære og vanære, ved rettferdighetens våpen på høyre og venstre side, og denne makeløse forkynner sådde til stadighet troens ord overalt underveis, \nrede til å tåle hvilken forfølgelse det enn skulle være. Han utsatte seg frivillig for farer og rygget ikke tilbake for å lide martyrdøden, om så \nskulle være Guds vilje.\nOg siden arbeideren er sin lønn verd, behaget det til sist Herren å føre sin stridsmann ut av legemets fengsel, slik at han kunne få den største og \nmest fyllestgjørende lønn for sitt strev, og kongen få se Kongen i all hans glans.\nDet finnes en landsdel, hvor hans legeme nå er stedt til hvile. Innbyggerne der var forherdet og trassige i sin ondskap, - sannhetens, og dermed \nkongens, innbitte fiender. Dit kom så Kristi martyr for om mulig å forkynne Guds nåde for folket der. Da sannhetens fiender fikk rede på dette, \nkalte de sammen ondskapens ting, og samlet seg mot Herren og mot hans salvede. Hans frelsesbudskap bød nemlig dem og deres skikker svært mye imot. \nNoen av dem lot seg bestikke med gaver fra en viss Knut, kongens fiende, andre var ganske enkelt drevet av egen ondskap, og dessuten nektet de å \nta imot denne nye religionen som stred mot fedrenes lover. De samlet en hær og gikk til kamp mot kongen på det stedet som kalles Stiklestad, før \ndet gikk opp for ham hva som var i gjære, mens han oppholdt seg et stykke unna hæren sin. Men den vidkjente martyr hadde blikket rettet ene og alene \nmot det som hører himmelen til, av hele sitt hjerte lengtet han etter å komme dit ved å oppnå martyrkransen, og derfor fryktet han ikke den store \nhop. Krigen truet, og han som elsket fred, tok opp utfordringen, for han ville kjempe for rett og rettferdighets sak. Etter å ha samlet hæren, så \nstor som han kunne på kort varsel, gikk han fiendene i møte.\nDa bestemte Herren seg for å skjenke sin martyr den lønn han så ofte hadde kjempet for og å åpenbare for ham sin herlighet, som han så inderlig og \nså lenge hadde tørstet etter, og derfor tillot han den herlige martyr å falle for onde menneskers spyd, for å kunne krone ham med desto større \nherlighet.\nHan falt onsdag den 29. juli i det 1030. år etter Herrens inkarnasjon, drept uten skånsel i forsvar for troen av troens fiender. Lykkelig drog han \nfra slagmarken til kongens evige slott, fra krig til den fred som overgår all forstand, vår Herre Jesus Kristus til pris og ære, for hans er hederen \nog æren i all evighet. Amen."
+    },
+    "responsorium2": {
+      "ref": "",
+      "v": "Natten før han skulle lide, så Olav Jesus stå hos seg i herlighet og si: Mens han kjærlig betraktet Jesu åsyn, mottok han det himmelske varsel.",
+      "r": "Kom, min kjære, tiden er kommet for å høste fruktene av ditt strev."
+    },
+    "teDeum": null,
+    "bønn": "Allsmäktige, evige Gud, du konungarnas krona och martyrernas seger, vi vet att den helige Olav för vår talan inför dig. \nLåt oss, som prisar din storhet i hans ärorika död, få segerkransen som du lovat åt dem som älskar dig.\nGenom din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter.",
+    "laudes": {
+      "hymne": "",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": ""
+    },
+    "middagsbønn": {
+      "hymne": "",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": ""
+    },
+    "vesper": {
+      "hymne": "",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": ""
+    }
+  }
+}

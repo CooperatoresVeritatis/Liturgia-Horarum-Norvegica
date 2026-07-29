@@ -192,6 +192,14 @@
       ],
       "file": "days/fest-marta.json"
     },
+    "fest-olav-konung-och-martyr-norges-skyddshelgon": {
+      "type": "fest",
+      "feast": "Olav konung och martyr Norges skyddshelgon",
+      "dates": [
+        "2026-07-29"
+      ],
+      "file": "days/fest-olav-konung-och-martyr-norges-skyddshelgon.json"
+    },
     "fest-thorlak-biskop-islands-skyddspatron": {
       "type": "fest",
       "feast": "Thorlak biskop Islands skyddspatron",
@@ -490,9 +498,9 @@
     }
   },
   "totals": {
-    "days_scraped": 56,
+    "days_scraped": 57,
     "ferial": 11,
-    "feasts": 26,
+    "feasts": 27,
     "unclassified": 17
   }
 }
