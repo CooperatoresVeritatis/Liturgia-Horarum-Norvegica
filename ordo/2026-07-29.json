@@ -113,31 +113,178 @@
   },
   "teDeum": null,
   "bønn": "Allsmäktige, evige Gud, du konungarnas krona och martyrernas seger, vi vet att den helige Olav för vår talan inför dig. \nLåt oss, som prisar din storhet i hans ärorika död, få segerkransen som du lovat åt dem som älskar dig.\nGenom din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter.",
-  "laudes": {
-    "hymne": "",
-    "salmer": [],
-    "lesning": null,
-    "responsorium": null,
-    "canticum": null,
-    "forbønner": "",
-    "bønn": ""
-  },
+  "laudes": null,
   "middagsbønn": {
-    "hymne": "",
-    "salmer": [],
+    "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
+    "salmer": [
+      {
+        "referanse": "Salme 119 (9-16II Beth)",
+        "antifon": "Velsignet være du Herre, lær meg dine bud.",
+        "tekst": [
+          "Hvordan skal den unge holde stien ren?",
+          "Ved å holde dine ord.",
+          "Jeg søker deg av hele mitt hjerte, la meg ikke fare vill, bort fra dme bud.",
+          "For at jeg ikke skal synde mot deg,",
+          "gjemmer jeg ditt ord i mitt hjerte.",
+          "Lovet være du, Herre, lær meg dine bud.",
+          "Med mine lepper gjentar jeg stadig",
+          "alle de dommer som utgår fra din munn.",
+          "Å vandre dine lovbuds vei er min glede, større enn all verdens rikdom.",
+          "Jeg vil grunne på dine bud,",
+          "og tenke over dine veier.",
+          "I dine bud har jeg all min glede, jeg glemmer ikke dine ord.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige Ånd,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 119 (9-16II Beth)",
+        "antifon": "I dine fotefar var det jeg gikk, Herre.",
+        "tekst": [
+          "I hovmod har de lukket sitt hjerte.",
+          "Deres munn er full av skryt.",
+          "De omringer meg på alle kanter, søker meg for å slå meg ned.",
+          "De ligner løven ute på rov;",
+          "ungløven som ligger på lur.",
+          "Reis deg, Herre, gå ham i møte og tving ham i kne. Fri meg fra den gudløse med ditt sverd.",
+          "Fri meg, Herre, med dm hånd",
+          "fra denne verdens mennesker.",
+          "Driv dem bort fra verden, Herre, de har fått sin del. Fyll dem med det du har tiltenkt dem.",
+          "La deres sønner spise seg mette,",
+          "deres spebarn få spise det som er til overs.",
+          "I min rettferd skal jeg skue ditt åsyn. Når jeg våkner, skal jeg mettes av din herlighets glans.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige Ånd,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen.",
+          "Ant. 3",
+          "Reis deg, Herre, frels meg.",
+          "Kort lesning1 Pet 1,15-16",
+          "Han som har kalt dere, er hellig; så vær også dere hellige, i all deres ferd, slik som det står skrevet: Hellige skal dere være, for jeg er hellig.",
+          "Dine prester skal kle seg i rettferdighet.",
+          "Dine hellige skal juble av glede. BønnAllmektige, miskunnsrike Gud, du som unner oss hvile ved middagstid, se med velvilje på det arbeid som er påbegynt, rett på det som vi har gjort feil og gi at alt fullendes etter din vilje. Ved Kristus, vår Herre.La oss prise Herren. Gud være lovet!."
+        ]
+      }
+    ],
     "lesning": null,
     "responsorium": null,
     "canticum": null,
     "forbønner": "",
-    "bønn": ""
+    "bønn": "Allmektige, miskunnsrike Gud, du som unner oss hvile ved middagstid, se med velvilje på det arbeid som er påbegynt, rett på det som vi har gjort feil og gi at alt fullendes etter din vilje. Ved Kristus, vår Herre.\nLa oss prise Herren.\nGud være lovet!."
   },
   "vesper": {
-    "hymne": "",
-    "salmer": [],
-    "lesning": null,
-    "responsorium": null,
-    "canticum": null,
-    "forbønner": "",
-    "bønn": ""
+    "hymne": "Du lyser, høge martyrdrott,\nsom krune smidd av gull;\nhjå Fader din i himmelslott\nme ser deg frygdefull.\nHøyr du dei bøner som me bed,\nog i ditt namn ber fram:\nFor dine heilagmenn me kved,\nfri oss frå synd og skam!\nFor det var du som siger vann,\nvår Gud, i martyrblod;\nog styrken sin hjå deg dei fann,\ndei store sendebod.\nDu sigrar yver syndi vår\nnår me forlating fær,\nog gjev oss sæle barnekår;\ndu alt i alle er.\nMe lovar deg, vår Fader god,\nog Sonen du oss gav,\nog Heilaganden som ber\nbod um siger yver grav.",
+    "salmer": [
+      {
+        "referanse": "Salme 27",
+        "antifon": "Olav stod frem som apostel og forkynte Kristi nåde for folket.",
+        "tekst": [
+          "Herren er mitt lys og min frelse,",
+          "for hvem skal jeg frykte?",
+          "Herren verner mitt liv, for hvem skal jeg være redd?",
+          "Når illgjerningsmannen går inn på meg",
+          "og vil fortære mitt kjød,",
+          "mine fiender som vil forfølge meg, så snubler og faller de selv.",
+          "Og fylker en hær seg mot meg,",
+          "mitt hjerte er uten frykt.",
+          "Om krig bryter ut mot meg, allikevel er jeg trygg.",
+          "Ett lengter jeg etter, det ber jeg om,",
+          "alltid å bo i Herrens hus,",
+          "å skue Herrens skjønnhet, ta vare på hans hellige tempel.",
+          "Han gjemmer meg i sitt telt.",
+          "Han skjuler meg på den onde dag.",
+          "Han løfter meg opp på sitt fjell, over fienden hever jeg høyt mitt hode.",
+          "I hans telt vil jeg ofre med jubel,",
+          "med sang og spill vil jeg prise Herren.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 27",
+        "antifon": "Jeg vil gjøre ham til en søyle i mitt tempel.",
+        "tekst": [
+          "Herre, hør mitt rop.",
+          "Vær nådig og gi meg svar.",
+          "Mitt hjerte taler til deg, mine øyne søker ditt åsyn.",
+          "Skjul ikke ditt åsyn for meg,",
+          "støt ikke i vrede din tjener bort.",
+          "Du er min hjelp, slipp meg ikke, min Gud, min frelser, gå ikke fra meg.",
+          "Forlater meg far og mor,",
+          "min Herre vil ta meg til seg.",
+          "Herre, led meg på jevne stier, vis meg din vei for fiendens skyld.",
+          "Gud, gi meg ikke dl pris",
+          "for mine fienders hat.",
+          "Falske vitner står opp mot meg, de fnyser og truer med vold.",
+          "Jeg tror at jeg skal få se",
+          "Herrens godhet i de levendes land.",
+          "Vent på Herren, stol på ham, stå fast i ditt hjerte, ha tillit til Gud.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "CanticumKolosserbrevet (1,12-20)",
+        "antifon": "Den som mister livet for min skyld, skal vinne det.",
+        "tekst": [
+          "Takk Faderen med glede,",
+          "han som gjorde oss skikket til de helliges arv i lyset.",
+          "Han har revet oss ut av mørkets makt og ført oss over i sin elskede Sønns rike.",
+          "I ham er vi frikjøpt",
+          "og har fått tilgivelse for våre synder.",
+          "Han er den usynlige Guds bilde, all skapningens førstefødte.",
+          "For i ham ble alt skapt i himlene og på jorden,",
+          "det synlige og det usynlige.",
+          "Det være seg troner eller herredømmer, makter eller myndigheter, alt ble skapt ved ham og for ham.",
+          "Han er før alt,",
+          "og alt består i ham.",
+          "Han er hode for legemet, for Kirken. Han er opphavet, den førstefødte av de døde,",
+          "så at han i ett og alt",
+          "skulle være den fremste.",
+          "For i ham har Gud villet la hele fylden bo og ved ham forsone alt med seg,",
+          "ja, alt på jorden og i himlene,",
+          "da han stiftet fred ved blodet fra hans kors.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      }
+    ],
+    "lesning": {
+      "referanse": "1 Pet 4,13-14",
+      "kilde": "",
+      "tekst": "Gled dere bare, i samme mål som dere får del i Kristi lidelser, for da skal dere også kunne motta ham med jubel, den dag han trer frem i sin \nherlighet. Og blir dere forhånet for Kristi skyld, så regn dere for lykkelige, for da hviler hans herlighet, ja, Guds egen And, over dere."
+    },
+    "responsorium": {
+      "ref": "",
+      "v": "Gud, du har satt oss på prøve, men du førte oss ut til overflod. Du lutret oss slik man renser sølv. Ære være Faderen og Sønnen og den Hellige Ånd.",
+      "r": "Gud, du har satt oss på prøve, men du førte oss ut til overflod."
+    },
+    "canticum": {
+      "antifon": "I dag ble Olav drept av dem som ikke elsket sannheten, han gikk som seierherre fra krig til evig fred.",
+      "tekst": [
+        "Min sjel opphøyer Herren,",
+        "min ånd fryder seg i Gud, min frelser,",
+        "han som har sett til sin ringe tjenerinne. For se, fra nå av skal alle slekter prise meg salig.",
+        "Store ting har han gjort mot meg, han den mektige.",
+        "Hellig er hans navn.",
+        "Hans miskunn varer fra slekt til slekt mot dem som frykter ham.",
+        "Han gjorde storverk med sin sterke arm,",
+        "han spredte dem som gikk med hovmodstanker.",
+        "Han støtte herskere ned fra tronen og opphøyet de ringe.",
+        "Sultne mettet han med gode gaver,",
+        "rikfolk ble sendt tomhendt bort.",
+        "Han tok seg av Israel, sin tjener, for han kom ihu sin miskunn.",
+        "Slik han hadde lovet våre fedre:",
+        "Abraham og hans ætt til evig tid.",
+        "Ære være Faderen og Sønnen og den Hellige And.",
+        "Som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    "forbønner": "I den time da martyrenes Konge gav sitt legeme ved den siste nattverd og viet det til korset, la oss bære frem vår takk for ham og si:\nR.\nHerre, vi lovpriser deg.\n-\nHerre, vi lovpriser deg fordi du elsket oss inntil enden, du som er vår Frelser og martyriets forbilde og opphavsmann.\n-\nFordi du kaller til liv hver synder som angrer og gjør bot.\n-\nFordi du betrodde Kirken ditt blod, den nye og evige pakts blod, utgydt til syndenes forlatelse, så den stadig på nytt kan bære det frem for Gud.\n-\nFor hver en dag vi får nåde til å leve i troens utholdenhet.\n-\nFordi du i dag har gitt mange brødre og søstre del i din død.",
+    "bønn": "Allmektige, evige Gud, du er kongenes krone og martyrenes seier. Vi vet at din salige martyr, Olav, taler vår sak for ditt åsyn. Din storhet lovpriser vi i hans død, og vi ber deg: Gi oss livets krone, som du har lovet dem som elsker deg. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
   }
 }

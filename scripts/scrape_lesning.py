@@ -102,9 +102,44 @@ def is_responsory_p(tag) -> bool:
     return "color:red" in style.replace(" ", "") and "Responsorium" in tag.get_text()
 
 
+def is_responsory_header(tag) -> bool:
+    """
+    True for either the classic <p style="color:red;">…Responsorium…</p> form
+    (Office of Readings) or the <font color="red|#fd1601">…Responsorium…</font>
+    form used for Laudes/Middagsbønn/Vesper.
+    """
+    if is_responsory_p(tag):
+        return True
+    if isinstance(tag, Tag) and tag.name == "font":
+        color = tag.get("color", "").lower().strip()
+        return color in ("red", "#fd1601") and "Responsorium" in tag.get_text()
+    return False
+
+
+def is_strong_header(tag) -> bool:
+    """
+    True for <font color="red|#fd1601"><strong>…</strong></font> — the newer
+    section-header markup used for Responsorium/Magnificat/Benedictus/Bønn/
+    Fader vår/Avslutning in the other-hours pages. Kept separate from
+    is_red_bold_header (which requires <b>) because that one also has to
+    reject psalm sub-markers like <font color="red"><strong>II</strong></font>
+    inside parse_psalms — callers outside the psalm-walking loop can safely
+    treat both <b> and <strong> reds as section boundaries.
+    """
+    if not isinstance(tag, Tag) or tag.name != "font":
+        return False
+    color = tag.get("color", "").lower().strip()
+    return color in ("red", "#fd1601") and bool(tag.find("strong"))
+
+
+def is_section_header(tag) -> bool:
+    """Any section-header boundary: the <b> or <strong> red/#fd1601 markup."""
+    return is_red_bold_header(tag) or is_strong_header(tag)
+
+
 def header_text(tag) -> str:
     """Return the bold text of a red section header."""
-    b = tag.find("b")
+    b = tag.find("b") or tag.find("strong")
     return b.get_text(strip=True) if b else ""
 
 
@@ -143,7 +178,7 @@ def collect_text_until_next_section(start_tag) -> str:
     """
     lines = []
     for sib in start_tag.next_siblings:
-        if is_red_bold_header(sib) or is_responsory_p(sib):
+        if is_section_header(sib) or is_responsory_p(sib):
             break
         txt = node_text(sib).strip()
         if txt:
@@ -346,7 +381,7 @@ def parse_reading(header_tag: Tag) -> dict:
     # Collect reading text: siblings after header until next responsory or section
     text_parts = []
     for sib in header_tag.next_siblings:
-        if is_responsory_p(sib) or is_red_bold_header(sib):
+        if is_responsory_header(sib) or is_section_header(sib):
             break
         if isinstance(sib, Tag):
             if sib.name in ("br",):
@@ -381,7 +416,7 @@ def parse_responsory(resp_p: Tag) -> dict:
     r_text = ""
 
     for sib in resp_p.next_siblings:
-        if is_red_bold_header(sib) or is_responsory_p(sib):
+        if is_section_header(sib) or is_responsory_header(sib):
             break
         # Stop at a red antiphon marker (e.g. "Ant. til Benedictus" after the
         # responsory of Laudes/Vesper)
@@ -539,17 +574,38 @@ def find_hour_container(soup: BeautifulSoup, patterns: list[str]) -> Tag | None:
     Find the <div id=…> whose text *starts* with one of the hour-name patterns
     and actually contains liturgical content (nav menus are rejected).
     Matching only the first characters keeps page-wide wrapper divs (whose text
-    starts with the first hour on the page) from matching every hour. If several
-    divs match (nested wrappers), the smallest one wins.
+    starts with the first hour on the page) from matching every hour.
+
+    The page also nests every hour's own container inside a couple of
+    page-wide wrapper divs (id="mymain", "printingstuff", …) whose text starts
+    with the nav bar ("LG Laudes Ters Sekst Non Vesper Compl. …") — that nav
+    mention alone can satisfy a pattern even when the hour has no section of
+    its own on the page (e.g. Laudes on a solemnity that only has Ters/Sekst/
+    Non/Vesper). Such a wrapper is recognizable because it contains *other*
+    div ids that independently hold substantial content (i.e. more than one
+    hour's worth) — reject those aggregate wrappers in favor of a real,
+    single-hour div, if one matched.
     """
+    all_content_divs = [d for d in soup.find_all("div", id=True) if container_has_content(d)]
+
     candidates = []
-    for div in soup.find_all("div", id=True):
+    for div in all_content_divs:
         head = div.get_text(" ", strip=True)[:150].upper()
-        if any(re.search(p, head) for p in patterns) and container_has_content(div):
+        if any(re.search(p, head) for p in patterns):
             candidates.append(div)
     if not candidates:
         return None
-    return min(candidates, key=lambda d: len(d.get_text()))
+
+    def nested_content_divs(div):
+        return [d for d in all_content_divs if d is not div and d in div.descendants]
+
+    leaf_candidates = [d for d in candidates if not nested_content_divs(d)]
+    if not leaf_candidates:
+        # Every candidate is an aggregate wrapper nesting other hours' real
+        # containers — there's no dedicated container for this hour on the
+        # page (e.g. Laudes isn't published separately for some feasts).
+        return None
+    return min(leaf_candidates, key=lambda d: len(d.get_text()))
 
 
 def find_hour_link(soup: BeautifulSoup, patterns: list[str]) -> str | None:
@@ -568,45 +624,69 @@ def find_hour_link(soup: BeautifulSoup, patterns: list[str]) -> str | None:
     return None
 
 
+def _is_bare_ant_marker(tag) -> bool:
+    """<font color="red">Ant.</font> — the canticle's own antiphon marker
+    (unlike the numbered psalm markers "Ant. 1", "Ant. 2", …)."""
+    if not isinstance(tag, Tag) or tag.name != "font":
+        return False
+    return tag.get("color", "").lower().strip() == "red" and \
+        bool(re.match(r"^Ant\.?$", tag.get_text(strip=True)))
+
+
 def parse_canticum(container: Tag, name: str) -> dict | None:
     """
-    Parse the Gospel canticle (Benedictus / Magnificat): its antiphon and text.
-    The antiphon marker is a red font tag mentioning the canticle name.
+    Parse the Gospel canticle (Benedictus / Magnificat). Real layout:
+      <font color="red">Ant.</font> antiphon text <br/><br/>
+      <font color="red|#fd1601"><b|strong>Magnificat …</strong></font>
+      … canticle verses ("*" separators, <p> lines) …
+      <font color="red">Ant.</font>  (closing repetition)
+    The antiphon marker and the canticle header are separate tags, so this
+    first locates the header (by name), then looks back for the nearest
+    bare "Ant." marker to pull the antiphon text.
     """
-    ant_tag = container.find(
-        lambda t: isinstance(t, Tag) and t.name == "font"
-        and t.get("color", "").lower() == "red"
-        and name.lower() in t.get_text().lower()
-        and "ant" in t.get_text().lower()
+    header = container.find(
+        lambda t: is_section_header(t) and name.lower() in t.get_text().lower()
     )
-    if not ant_tag:
+    if not header:
         return None
 
     antifon = ""
+    for sib in header.previous_siblings:
+        if _is_bare_ant_marker(sib):
+            for after in sib.next_siblings:
+                if after is header:
+                    break
+                if isinstance(after, NavigableString):
+                    txt = str(after).strip()
+                    if txt:
+                        antifon = txt
+                        break
+                elif isinstance(after, Tag) and after.name != "br":
+                    break
+            break
+        if is_section_header(sib):
+            break
+
     tekst_lines = []
-    for sib in ant_tag.next_siblings:
-        if is_red_bold_header(sib):
+    for sib in header.next_siblings:
+        if _is_bare_ant_marker(sib) or is_section_header(sib):
             break
         if isinstance(sib, Tag) and sib.name == "font" and \
-                sib.get("color", "").lower() == "red":
-            # Closing repetition of the same antiphon marker → done
-            if name.lower() in sib.get_text().lower():
-                break
+                sib.get_text(strip=True) in ("*", "+"):
             continue
         txt = clean_text(node_text(sib)) if not isinstance(sib, NavigableString) \
             else clean_text(str(sib))
         if txt:
-            if not antifon:
-                antifon = txt
-            else:
-                tekst_lines.append(txt)
+            tekst_lines.append(txt)
+
     return {"antifon": antifon, "tekst": tekst_lines}
 
 
 def parse_section(container: Tag, header_substr: str) -> str:
-    """Collect the text of a red-bold-headed section (Forbønner, Bønn, …)."""
+    """Collect the text of a section header (Forbønner, Bønn, …) — either the
+    <b> or the newer <strong> red/#fd1601 markup."""
     header = container.find(
-        lambda t: is_red_bold_header(t) and header_substr in header_text(t)
+        lambda t: is_section_header(t) and header_substr in header_text(t)
     )
     return collect_text_until_next_section(header) if header else ""
 
@@ -633,7 +713,7 @@ def parse_hour(container: Tag, canticum: str | None) -> dict:
     if lesning_header:
         result["lesning"] = parse_reading(lesning_header)
 
-    resp_tags = container.find_all(is_responsory_p)
+    resp_tags = container.find_all(is_responsory_header)
     if resp_tags:
         result["responsorium"] = parse_responsory(resp_tags[0])
 
