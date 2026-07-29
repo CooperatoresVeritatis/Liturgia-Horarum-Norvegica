@@ -204,6 +204,97 @@ async function loadLesning(dateStr) {
   }
 }
 
+async function loadVesper(dateStr) {
+  const section = document.getElementById("vesperas");
+
+  try {
+    const response = await fetch(`ordo/${dateStr}.json`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    const vesper = data.vesper;
+    if (!vesper) throw new Error("no vesper data");
+
+    let html = `
+      <h3>Innledning</h3>
+      <p><span class="response">℣</span> Gud, kom meg til hjelp.<br>
+         <span class="response">℟</span> Herre, vær snar til frelse.</p>
+      <p><span class="response">℣</span> Ære være Faderen og Sønnen og den Hellige Ånd,<br>
+         <span class="response">℟</span> som det var i opphavet, så nå og alltid og i all evighet. Amen. (Halleluja)</p>`;
+
+    if (vesper.hymne) {
+      html += `<h3>Hymne</h3><p>${vesper.hymne.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    if (vesper.salmer && vesper.salmer.length) {
+      html += `<h3>Salmer</h3>`;
+      vesper.salmer.forEach(salme => {
+        html += `<p class="response">${salme.referanse}</p>`;
+        html += `<p><em class="response">Ant.</em> ${salme.antifon}</p>`;
+        html += `<p>${salme.tekst.join('<br>')}</p>`;
+        html += `<p><em class="response">Ant.</em> ${salme.antifon}</p><hr>`;
+      });
+    }
+
+    if (vesper.lesning) {
+      html += `<h3>Kort lesning</h3>`;
+      html += `<p class="response">${vesper.lesning.referanse}</p>`;
+      html += `<p>${vesper.lesning.tekst.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    if (vesper.responsorium) {
+      html += `<h3>Responsorium</h3>`;
+      html += `<p><span class="response">℟</span> ${vesper.responsorium.r}<br>
+               <span class="response">℣</span> ${vesper.responsorium.v}<br>
+               <span class="response">℟</span> ${vesper.responsorium.r}</p>`;
+    }
+
+    if (vesper.canticum) {
+      html += `<h3>Magnificat</h3>`;
+      html += `<p><em class="response">Ant.</em> ${vesper.canticum.antifon}</p>`;
+      if (vesper.canticum.tekst && vesper.canticum.tekst.length) {
+        html += `<p>${vesper.canticum.tekst.join('<br>')}</p>`;
+      }
+      html += `<p><em class="response">Ant.</em> ${vesper.canticum.antifon}</p>`;
+    }
+
+    if (vesper.forbønner) {
+      html += `<h3>Forbønner</h3><p>${vesper.forbønner.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    html += `
+      <h3>Fader vår</h3>
+      <p>Fader vår, du som er i himmelen!<br>
+      Helliget vorde ditt navn.<br>
+      Komme ditt rike.<br>
+      Skje din vilje, som i himmelen så og på jorden.<br>
+      Gi oss i dag vårt daglige brød.<br>
+      Og forlat oss vår skyld,<br>
+      som vi og forlater våre skyldnere.<br>
+      Og led oss ikke inn i fristelse,<br>
+      men fri oss fra det onde. Amen.</p>`;
+
+    if (vesper.bønn) {
+      html += `<h3>Bønn</h3>`;
+      html += `<p><span class="response">℣</span> La oss be.</p>`;
+      html += `<p>${vesper.bønn.replace(/\n/g, '<br>')}</p>`;
+    }
+
+    html += `
+      <h3>Avslutning</h3>
+      <p><span class="response">℣</span> Herren velsigne oss, bevare oss fra alt ondt og føre oss til det evige liv.<br>
+         <span class="response">℟</span> Amen.</p>`;
+
+    section.innerHTML = html;
+  } catch (error) {
+    const today = new Date().toLocaleDateString('no-NO', { day: 'numeric', month: 'long' });
+    section.innerHTML = `
+      <p style="text-align:center; margin-top:2rem; color:#555;">
+        Vesper for ${today} er ikke tilgjengelig ennå.<br>
+        <span style="font-size:0.9rem;">Den hentes automatisk og vil snart være her.</span>
+      </p>`;
+  }
+}
+
 function showHour(hour) {
   const allSections = document.querySelectorAll('.hour-section');
   const allButtons = document.querySelectorAll('button[data-id]');
@@ -226,6 +317,8 @@ function showHour(hour) {
     loadCompletorium(day);
   } else if (hour === "lectionis") {
     loadLesning(today);
+  } else if (hour === "vesperas") {
+    loadVesper(today);
   }
 }
 
