@@ -39,18 +39,34 @@ OUTPUT_DIR = Path(__file__).parent.parent / "ordo"
 DEBUG_DIR = Path(__file__).parent.parent / "debug"
 
 # The other hours we try to locate on the oblates.se page, keyed by the name
-# used in the output JSON. Each hour is matched by regexes against the first
-# characters of a candidate <div id=…> container's text.
+# used in the output JSON.
+#
+# The page carries every hour at once, each in its own tab container, and the
+# nav bar switches between them client-side (all its links are href="#", so
+# there is nothing to follow). Every tab holds an inner "…mymain" div with the
+# text, mirroring the gl → cmymain pair the Office of Readings uses:
+#
+#   gl → cmymain    Lesningsgudstjenesten      ve → vmymain   Vesper
+#   la → llmymain   Laudes                     co → kmymain   Kompletorium
+#   te/se/no → tmymain/smymain/nmymain         Ters, Sekst, Non
+#
+# div_ids lists the inner container first, then the outer tab as a fallback;
+# `patterns` is the last resort, matched against a candidate div's leading text
+# should the site ever rename its ids.
 HOUR_DEFS = {
     "laudes": {
+        "div_ids": ["llmymain", "la"],
         "patterns": [r"\bLAUDES\b", r"\bMORGENB[ØO]NN\b"],
         "canticum": "Benedictus",
     },
     "middagsbønn": {
+        # Ters, Sekst and Non are all published; take whichever comes first.
+        "div_ids": ["tmymain", "te", "smymain", "se", "nmymain", "no"],
         "patterns": [r"\bMIDDAGSB[ØO]NN\b", r"\bTERS\b", r"\bSEKST\b", r"\bNON\b"],
         "canticum": None,
     },
     "vesper": {
+        "div_ids": ["vmymain", "ve"],
         "patterns": [r"\bVESPER\b", r"\bKVELDSB[ØO]NN\b", r"\bAFTENB[ØO]NN\b"],
         "canticum": "Magnificat",
     },
@@ -369,8 +385,8 @@ def parse_reading(header_tag: Tag) -> dict:
             if t:
                 inner_lines.append(t)
         elif isinstance(child, Tag):
-            if child.name == "b":
-                continue  # skip the "Første lesning" / "Annen lesning" label
+            if child.name in ("b", "strong"):
+                continue  # skip the "Første lesning" / "Kort lesning" label
             t = child.get_text(strip=True)
             if t:
                 inner_lines.append(t)
@@ -451,7 +467,7 @@ def parse_responsory(resp_p: Tag) -> dict:
 def parse_hymne(container: Tag) -> str:
     """Parse the hymn of an hour from its red-bold 'Hymne' header."""
     hymne_header = container.find(
-        lambda t: is_red_bold_header(t) and header_text(t) == "Hymne"
+        lambda t: is_section_header(t) and header_text(t) == "Hymne"
     )
     if not hymne_header:
         return ""
@@ -562,19 +578,31 @@ def parse_oblates(soup: BeautifulSoup) -> dict:
 def container_has_content(div: Tag) -> bool:
     """
     True if a div holds real liturgical content rather than a navigation menu
-    that merely mentions the hour names: it must contain at least one red-bold
+    that merely mentions the hour names: it must contain at least one red
     section header (Hymne, Bønn, …) and a substantial amount of text.
+
+    The header test accepts both the <b> and the <strong> markup: Laudes and
+    the little hours head their sections with <font color="#FD1601"><strong>
+    only, so requiring <b> hid those containers entirely.
     """
-    return div.find(is_red_bold_header) is not None and \
+    return div.find(is_section_header) is not None and \
         len(div.get_text(strip=True)) > 500
 
 
-def find_hour_container(soup: BeautifulSoup, patterns: list[str]) -> Tag | None:
+def find_hour_container(soup: BeautifulSoup, patterns: list[str],
+                        div_ids: list[str] = ()) -> Tag | None:
     """
-    Find the <div id=…> whose text *starts* with one of the hour-name patterns
-    and actually contains liturgical content (nav menus are rejected).
-    Matching only the first characters keeps page-wide wrapper divs (whose text
-    starts with the first hour on the page) from matching every hour.
+    Find the container div holding one hour's text.
+
+    The hour's own container id is tried first — those ids are the page's
+    stable structure, and unlike the text heuristic below they work for hours
+    whose text does not open with the hour's name. The heuristic then serves as
+    a fallback if the site ever renames its containers.
+
+    Heuristic: find the <div id=…> whose text *starts* with one of the
+    hour-name patterns and actually contains liturgical content (nav menus are
+    rejected). Matching only the first characters keeps page-wide wrapper divs
+    (whose text starts with the first hour on the page) from matching every hour.
 
     The page also nests every hour's own container inside a couple of
     page-wide wrapper divs (id="mymain", "printingstuff", …) whose text starts
@@ -586,6 +614,11 @@ def find_hour_container(soup: BeautifulSoup, patterns: list[str]) -> Tag | None:
     hour's worth) — reject those aggregate wrappers in favor of a real,
     single-hour div, if one matched.
     """
+    for div_id in div_ids:
+        div = soup.find("div", id=div_id)
+        if div is not None and container_has_content(div):
+            return div
+
     all_content_divs = [d for d in soup.find_all("div", id=True) if container_has_content(d)]
 
     candidates = []
@@ -708,7 +741,7 @@ def parse_hour(container: Tag, canticum: str | None) -> dict:
     }
 
     lesning_header = container.find(
-        lambda t: is_red_bold_header(t) and "lesning" in header_text(t).lower()
+        lambda t: is_section_header(t) and "lesning" in header_text(t).lower()
     )
     if lesning_header:
         result["lesning"] = parse_reading(lesning_header)
@@ -751,7 +784,8 @@ def scrape_other_hours(session: requests.Session, soup: BeautifulSoup) -> dict:
 
     for key, hour_def in HOUR_DEFS.items():
         try:
-            container = find_hour_container(soup, hour_def["patterns"])
+            container = find_hour_container(soup, hour_def["patterns"],
+                                            hour_def.get("div_ids", ()))
             if container is None:
                 # Hour might live on its own page — follow a matching link once.
                 link = find_hour_link(soup, hour_def["patterns"])
@@ -765,7 +799,8 @@ def scrape_other_hours(session: requests.Session, soup: BeautifulSoup) -> dict:
                     if cmymain is not None and container_has_content(cmymain):
                         container = cmymain
                     else:
-                        container = find_hour_container(sub_soup, hour_def["patterns"])
+                        container = find_hour_container(sub_soup, hour_def["patterns"],
+                                                        hour_def.get("div_ids", ()))
             if container is None:
                 log.warning(f"{key}: no content container found — skipping")
                 log_structure_once()
