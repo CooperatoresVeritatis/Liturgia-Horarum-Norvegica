@@ -160,6 +160,14 @@
       ],
       "file": "days/fest-bonaventura-biskop-och-kyrkolarare.json"
     },
+    "fest-ignatius-av-loyola-prast": {
+      "type": "fest",
+      "feast": "Ignatius av Loyola präst",
+      "dates": [
+        "2026-07-31"
+      ],
+      "file": "days/fest-ignatius-av-loyola-prast.json"
+    },
     "fest-josef-arbetaren": {
       "type": "fest",
       "feast": "Josef arbetaren",
@@ -506,9 +514,9 @@
     }
   },
   "totals": {
-    "days_scraped": 58,
+    "days_scraped": 59,
     "ferial": 12,
-    "feasts": 27,
+    "feasts": 28,
     "unclassified": 17
   }
 }
