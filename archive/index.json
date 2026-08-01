@@ -152,6 +152,14 @@
       ],
       "file": "days/fest-7-fredag-i-pasketiden.json"
     },
+    "fest-alfonso-maria-de-liguori-biskop-och-kyrkolarare": {
+      "type": "fest",
+      "feast": "Alfonso Maria de Liguori biskop och kyrkolärare",
+      "dates": [
+        "2026-08-01"
+      ],
+      "file": "days/fest-alfonso-maria-de-liguori-biskop-och-kyrkolarare.json"
+    },
     "fest-bonaventura-biskop-och-kyrkolarare": {
       "type": "fest",
       "feast": "Bonaventura biskop och kyrkolärare",
@@ -514,9 +522,9 @@
     }
   },
   "totals": {
-    "days_scraped": 59,
+    "days_scraped": 60,
     "ferial": 12,
-    "feasts": 28,
+    "feasts": 29,
     "unclassified": 17
   }
 }
