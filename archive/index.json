@@ -268,7 +268,8 @@
       "type": "ferie",
       "feast": "tirsdag - uke II",
       "dates": [
-        "2026-07-07"
+        "2026-07-07",
+        "2026-08-04"
       ],
       "file": "days/uke-ii-tirsdag.json"
     },
@@ -538,7 +539,7 @@
     }
   },
   "totals": {
-    "days_scraped": 62,
+    "days_scraped": 63,
     "ferial": 13,
     "feasts": 29,
     "unclassified": 18
