@@ -490,6 +490,14 @@
         "2026-08-02"
       ],
       "file": "days/ukjent-2026-08-02.json"
+    },
+    "ukjent-2026-08-06": {
+      "type": "ukjent",
+      "feast": "",
+      "dates": [
+        "2026-08-06"
+      ],
+      "file": "days/ukjent-2026-08-06.json"
     }
   },
   "coverage": {
@@ -547,9 +555,9 @@
     }
   },
   "totals": {
-    "days_scraped": 64,
+    "days_scraped": 65,
     "ferial": 14,
     "feasts": 29,
-    "unclassified": 18
+    "unclassified": 19
   }
 }

@@ -1,0 +1,273 @@
+{
+  "date": "2026-08-06",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260806/readings.htm"
+  },
+  "hymne": "Sorlet har dött från väg och dammigt vimmel.\nOvanför oron och närmare din himmel,\ni rymder klara, är oss gott att vara\nmed dig allena.\nDu som dig dolde, klädd i stoft och pina,\nse, såsom ljuset dina kläder skina.\nOmkring din panna solens eldar stanna\nsåsom en krona.\nO att en gång få skåda det vi trodde,\nglans som i stoft och ringhet bland oss bodde,\nmakt över vågor, altaret i lågor,\nhimmelen öppen.\nHyddor vi ville här åt himlen bygga,\nfasthålla synen, ägande och trygga.\nEtt år nödvändigt nu och för beständigt:\nJesus allena.\nÅra ske Fadern som der i djupet neder,\nSonen som med oss i tåredalen beder,\nAnden som bådar dag då ögat skådar\nhimlen för evigt. Amen.",
+  "salmer": [
+    {
+      "referanse": "Psalm 84",
+      "antifon": "En dag i dina gårdar är bättre än tusen andra.",
+      "tekst": [
+        "Hur ljuvlig är inte din boning,",
+        "Herre Sebaot!",
+        "Min själ längtar och trängtar efter Herrens gårdar,",
+        "min själ och min kropp jublar mot levande Gud.",
+        "Ty sparven har funnit ett hus",
+        "och svalan ett bo åt sig,",
+        "där hon kan lägga sina ungar:",
+        "dina altaren, Herre Sebaot,",
+        "min konung och min Gud.",
+        "Saliga de som bor i ditt hus,",
+        "de lovar dig ständigt.",
+        "Saliga de människor som finner sin kraft i dig,",
+        "de som vill vandra till ditt hus.",
+        "När de går genom den torra dalen,",
+        "gör du den rik på källor,",
+        "och höstregnet höljer den med välsignelser.",
+        "Deras kraft växer till mer och mer,",
+        "så träder de fram inför Gud på Sion.",
+        "Herre Gud Sebaot, hör min bön,",
+        "lyssna, du Jakobs Gud.",
+        "Gud, se till vår sköld,",
+        "akta på din smordes ansikte.",
+        "Ty en dag i dina gårdar",
+        "är bättre än tusen andra,",
+        "jag vill hellre vakta dörren i min Guds hus",
+        "än vistas i de gudlösas hyddor.",
+        "Ty Herren Gud är sol och sköld,",
+        "Herren ger nåd och ära,",
+        "han vägrar inte dem något gott",
+        "som vandrar i oskuld.",
+        "Herre Sebaot,",
+        "salig är den människa som förtröstar på dig.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 97",
+      "antifon": "Ljus går upp för den rättfärdige och för de rättsinniga glädje.",
+      "tekst": [
+        "Herren er konge, fryd deg, du jord,",
+        "de talløse øyer juble.",
+        "Omkring ham er mulm og skyer, rettferd og rett er hans trones grunnvoll.",
+        "Ild farer frem for hans åsyn,",
+        "den fortærer hans fiender.",
+        "Hans lyn opplyser jordens riker. Jorden ser det og bever.",
+        "Fjellene smelter som voks for hans åsyn,",
+        "for hele jordens Herre.",
+        "Himlene kunngjør hans rettferd, folkeslagene skuer hans herlighet.",
+        "Skam over dem som dyrker bilder,",
+        "er stolte av sine guder,",
+        "tilbe Herren, alle guder.",
+        "Sion hører det og jubler, Judas døtre synger av fryd over dine dommer, Herre.",
+        "For du, Herre, er den høyeste over hele jorden,",
+        "høyt hevet over alle guder.",
+        "Herren elsker den som hater det onde, han vokter sine og frir dem ut.",
+        "Lys rinner opp for de rettferdige",
+        "og glede for de rene av hjertet.",
+        "Juble i Herren, alle rettferdige, lovsyng hans hellige navn.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige Ånd,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Psalm 99",
+      "antifon": "Upphöj Herren, vår Gud, och tillbed inför hans heliga berg.",
+      "tekst": [
+        "Herren är nu konung! Därför darrar folken.",
+        "Han tronar på keruberna! Därför skälver jorden.",
+        "Herren är stor i Sion,",
+        "upphöjd är han över alla folk.",
+        "Därför prisar man ditt stora och fruktansvärda namn.",
+        "Ty han är helig.",
+        "Konungen i sin makt älskar vad rätt är.",
+        "Ja, du håller rättvisa vid makt,",
+        "rätt och rättfärdighet övar du i Jakob.",
+        "Upphöj Herren, vår Gud, och tillbed vid hans fotapall.",
+        "Ty han är helig.",
+        "Mose och Aron var bland hans präster",
+        "och Samuel bland dem som åkallade hans namn;",
+        "de ropade till Herren, och han svarade.",
+        "Han talade till dem i molnstoden.",
+        "De höll hans vittnesbörd",
+        "och den lag som han gav dem.",
+        "Ja, Herre, vår Gud, du svarade dem,",
+        "du var mot dem en förlåtande Gud",
+        "och en hämnare över deras gärningar.",
+        "Upphöj Herren, vår Gud,",
+        "och tillbed inför hans heliga berg.",
+        "Ty Herren, vår Gud, är helig.",
+        "Ära vare Fadern och Sonen och den helige Ande,",
+        "nu och alltid och i evigheters evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "I molnstoden talade han till dem,",
+    "r": "och de höll hans vittnesbörd."
+  },
+  "lesning1": {
+    "referanse": "2 Kor 3,7-4,6",
+    "kilde": "Fra Paulus’ andre brev til korinterne. — Evangeliet om Kristi herlighet forkynnes",
+    "tekst": "Selv dødens tjeneste, som bygget på bokstaver hugget i sten, var omgitt av en slik herlighet at Israels barn ikke klarte å se på ansiktet til Moses. \nSå klart strålte det, enda glansen tok slutt. Hvor mye klarere stråler ikke da glansen fra Andens tjeneste? For hadde den tjeneste som fører til \nfordømmelse, en herlig glans, så må den tjeneste som fører til rettferdighet, stråle med en enda rikere glans. Ja, det som den gang strålte så klart, \nhar nå helt mistet sin glans. For nå stråler en herlighet som er så uendelig mye klarere. Men når det som tok slutt, strålte så herlig, hvor mye \nherligere er ikke da glansen av det som består?\nSiden vi har et slikt håp, går vi frem med stor frimodighet. Vi gjør ikke som Moses, som la et slør over ansiktet for at Israels barn ikke skulle se \nat glansen bleknet og tok slutt. Likevel ble deres sinn forherdet. For i dag er dette sløret blitt liggende når det leses fra den gamle pakt, og det \nblir ikke fjernet, for det er i Kristus det blir tatt bort. Ja, helt til i dag ligger sløret over deres hjerter hver gang det blir lest fra Moseloven. \nMen når noen vender om til Herren, blir sløret tatt bort. Herren, det er Anden, og hvor Herrens And er, der er frihet. Og vi, som uten slør for \nansiktet ser Herrens herlighet som i et speil, vi blir alle forvandlet til dette bildet, fra herlighet til herlighet, og dette skjer ved Herrens \nÅnd.\nDerfor mister vi ikke motet. For Gud har i sin barmhjertighet gitt oss denne tjenesten. Vi tar avstand fra alt som er skammelig og ikke tåler lyset, \nvi bruker ikke knep og forfalsker ikke Guds ord. Åpent legger vi sannheten frem, og for Guds ansikt stiller vi oss selv frem så alle mennesker kan \ndømme oss etter sin egen samvittighet. Er vårt evangelium skjult, så er det skjult for dem som går fortapt. For denne verdens gud har forblindet de \nvantros sinn, så de ikke ser lyset som stråler frem fra evangeliet om Kristi herlighet, han som er Guds bilde.\nVi forkynner ikke oss selv, men Jesus Kristus som Herre og oss som tjenere for dere — for Jesu skyld. For Gud, som sa: «Lys skal stråle frem fra \nmørket», han har også latt lyset skinne i våre hjerter, for at kunnskapen om Guds herlighet i Jesu Kristi åsyn skal lyse frem."
+  },
+  "responsorium1": {
+    "ref": "1 Joh 3,1.2",
+    "v": "Se hvor stor kjærlighet Faderen har vist oss. Vi vet at, når han åpenbarer seg, skal vi bli ham lik, for vi skal se ham slik han er.",
+    "r": "Vi får kalles Guds barn, ja, vi er det!"
+  },
+  "lesning2": {
+    "referanse": "Fra en preken av biskop Anastasius av Sinai på festen for Herrens forklarelse.",
+    "kilde": "Det er godt at vi er her",
+    "tekst": "Jesus åpenbarte dette mysteriet for sine disipler på fjellet Tabor. Mens han vandret blant dem, hadde han talt om Guds rike og om sin gjenkomst i \nherlighet. Men for at de som kanskje ikke var tilstrekkelig sikre på det han hadde forkynt om sitt rike, endelig skulle bli overbevist i sitt hjertes \ndyp og få tro på det fremtidige ut fra det nærværende, viste han på overnaturlig måte den guddommelige åpenbaring på fjellet Tabor, som et billedlig \nforvarsel om himmelriket. Det er som han bent frem ville si: «For at ingen i mellomtiden skal så tvil blant dere, sier jeg dere nå med én gang: \nDet er sannelig noen av dem som står her, som ikke skal smake døden før de har sett Menneskesønnen i sin Fars herlighet.»\nOg for å vise at Kristi allmakt er ett med hans vilje, tilføyer Evangelisten: Seks dager senere tok Jesus med seg Peter, Jakob og hans bror Johannes \nog førte dem opp på et høyt fell, hvor de var alene. Da ble han forvandlet for øynene på dem. Ansiktet hans skinte som solen, og klærne ble hvite \nsom sne. Og se, Moses og Elia viste seg for dem og talte med ham.\nDette er denne fests under, dette er for oss det frelsesbringende mysterium som nå er blitt fullbyrdet på berget. For samtidig er det både Kristi \ndød og denne Kristi fest som nå samler oss. For at vi skal trenge inn i disse tiutsigelige og hellige mysterier sammen med de utvalgte disipler som \nvar fylt av Guds And, la oss lytte til Guds hellige røst, som fra det høye, fra toppen av berget, innstendig kaller oss sammen.\nDit må vi skynde oss - våger jeg å si - likesom Jesus som her og i himlene er vår fører og forløper. Sammen med ham skal vi skinne for Andens blikk, \nfornyet så å si i vår sjels konturer og likedannet med hans bilde. Slik blir vi som han selv uopphørlig forvandlet og gjort delaktige i den \nguddommelige natur og forberedt på de himmelske goder.\nLa oss skynde oss dit, opprømte og glade, og la oss gå helt inn i skyen, bli som Moses og Elias, eller som Jakob og Johannes. Bli som Peter, \nhenrevet i den guddommelige visjon og åpenbaring, forvandlet av denne skjønne forklarelse, løftet ut av verden, revet bort fra jorden. Forlat det \nkjødelige, vend deg bort fra skapningen og vend om til Skaperen slik som Peter gjorde da han helt ute av seg selv talte til ham: Herre, det er godt \nat vi er her.\nSannelig, Peter, det er virkelig godt at vi er her sammen med Jesus og at vi forblir her i evighet. Hva er mer lykksalig, hva er mer opphøyet, hva \ner bedre enn å være med Gud, og bli likedannet ham og være i lyset? Visselig vil enhver av oss når han har Gud i seg og er forvandlet til hans \nguddommelige bilde, rope av glede: Det er godt at vi er her, hvor alt er lysende klart, hvor alt er glede og salighet og fryd, hvor alt i vårt hjerte \ner fredfylt og rolig og mildt, hvor vi skuer vår Gud (Kristus). Der tar han selv sin bolig med Faderen, og ved sin ankomst sier han: I dag er \nfrelsen kommet til dette hus. Hos Kristus er de evige goders skatter samlet i all sin fylde. Der vises førstegrøden og bildene av den evige fremtid \nsom i et speil."
+  },
+  "responsorium2": {
+    "ref": "Matt 17,2.3; jf. Luk 9,32.34",
+    "v": "Jesu ansikt strålte som solen; De så Moses og Elia tale med ham.",
+    "r": "disiplene så hans herlighet og ble grepet av frykt."
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Evige Gud, när Kristus trädde fram i förklaringens ljus, fick fäderna från det gamla förbundet vittna om hans hemlighet, \noch du betygade att vi i honom blivit dina äkta barn. \nGe oss en sann och bärande tro, så att vi lyssnar till din älskade Son och med honom får ärva det himmelska riket. \nGenom honom, Jesus Kristus, vår Herre och Gud, som dig, Fader, och den helige Ande, lever och råder i evigheters evigheter.",
+  "laudes": {
+    "hymne": "Med strålekrans om tinde\nforklaret Jesus stod,\ndet varmet oss her inne\nved dypest hjerterot.\nTi når han åpenbares\ni støvets egn på ny,\nskal vi med ham forklares,\nham møte høyt i sky.\nHan stod på Tabors høye,\nden Guds og Davids Sønn.\nSom solen var hans øye,\nsom lys hans kledning skjønn.\nÅ hør meg drott, du kjære,\nså talte Peter glad,\nHer er så godt å være,\nei mer vi skilles ad!\nSom venner i Guds bolig\nmed ham vi skifter ord\nom kors og død full rolig,\nom seng i sorten jord.\nVårt kors er uten jammer,\nvår død er uten brodd,\nvår grav et sovekammer,\nvår Herres liv vår lodd.\nHans Ånd er her til stede,\nhans ord er i vår munn,\nham selv vi ser med glede\nnu om en liten stund.\nTil Jesu Kristi ære\ndet tone høyt i sky:\nÅ her er godt å være\ni Herrens kirkely!",
+    "salmer": [
+      {
+        "referanse": "Salme 63",
+        "antifon": "Hans ansikt strålte som solen, og hans klær ble skinnende hvite.",
+        "tekst": [
+          "Gud, du min Gud, deg søker jeg,",
+          "min sjel tørster etter deg.",
+          "Mitt kjød lengter etter deg som den uttørrede jord etter regn.",
+          "Vis deg i din helligdom",
+          "så jeg kan se din makt og ære.",
+          "For din miskunn er bedre enn livet, min munn skal synge din pris.",
+          "Slik vil jeg love deg hele mitt liv,",
+          "løfte mine hender og prise ditt navn.",
+          "Min sjel mettes som av utsøkte retter når tungen jubler din pris.",
+          "Jeg kommer deg ihu på mitt leie,",
+          "tenker på deg hver nattevakt.",
+          "For du er min hjelp, jeg jubler i skyggen av dine vinger.",
+          "Min sjel henger ved deg,",
+          "din høyre holder meg fast.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "De tre menns sang (Dan 3,57-88.56)",
+        "antifon": "I dag, da Herren ble forklaret og Faderens røst vitnet om ham, kom Moses og Elia i herlighet og talte med ham om hans bortgang.",
+        "tekst": [
+          "Lov Herren, alt hans verk,",
+          "lovsyng og opphøy ham i evighet.",
+          "Lov Herren, alle hans engler. Lov Herren, dere himler.",
+          "Lov Herren, alt vann over himmelens hvelv.",
+          "Lov Herren, alle makter.",
+          "Lov Herren, sol og måne. Lov Herren, himmelens stjerner.",
+          "Lov Herren, alt regn og dugg.",
+          "Lov Herren, alle vinder.",
+          "Lov Herren, ild og varme. Lov Herren, kulde og hete.",
+          "Lov Herren, duggfall og snestorm.",
+          "Lov Herren, is og kulde.",
+          "Lov Herren, rim og sne. Lov Herren, netter og dager.",
+          "Lov Herren, lys og mørke.",
+          "Lov Herren, lyn og skyer.",
+          "Måtte jorden love Herren, lovsynge og opphøye ham i evighet.",
+          "Lov Herren, fjell og hauger.",
+          "Lov Herren, alle vekster på jorden.",
+          "Lov Herren, dere kilder. Lov Herren, hav og elver.",
+          "Lov Herren, store sjødyr og alt som det kryr av i vannet.",
+          "Lov Herren, alle himmelens fugler.",
+          "Lov Herren, alle slags villdyr og bufe. Lov Herren, alle menneskebarn.",
+          "Måtte Israel love Herren,",
+          "lovsynge og opphøye ham i evighet.",
+          "Lov Herren, dere Herrens prester. Lov Herren, dere Herrens tjenere.",
+          "Lov Herren, dere de rettferdiges ånd og sjel.",
+          "Lov Herren, dere hellige og ydmyke av hjertet.",
+          "Lov Herren, Ananja, Asarja og Misael, lovsyng og opphøy ham i evighet,",
+          "La oss love Faderen og Sønnen med den Hellige Ånd,",
+          "la oss lovsynge og opphøye ham i evighet,",
+          "Velsignet er du, Herre, på himmelens hvelv, verdig til å lovsynges, æres og opphøyes i evighet."
+        ]
+      },
+      {
+        "referanse": "Salme 149",
+        "antifon": "Loven ble gitt ved Moses, profetgaven kom med Elia. De viste seg i herlighet på fjellet og talte med Herren.",
+        "tekst": [
+          "Syng en ny sang for Herren.",
+          "Syng hans pris i de frommes forsamling.",
+          "Israel skal fryde seg i sin skaper, Sions barn juble for sin konge.",
+          "De skal love hans navn med dans,",
+          "synge for ham til pauke og sitar.",
+          "For Herren elsker sitt folk, kroner de saktmodige med seier.",
+          "Hans fromme skal juble med ære,",
+          "rope av fryd på sitt leie.",
+          "Med lovsang til Gud i sin munn og tveegget sverd i hånd.",
+          "For å fullbyrde hevn over folkene",
+          "og straffe folkeslag.",
+          "For å binde deres konger med lenker og legge i jern deres fyrster.",
+          "For å fullbyrde den dom som er skrevet,",
+          "til ære for alle hans fromme.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      }
+    ],
+    "lesning": {
+      "referanse": "Åp 21,10.23",
+      "kilde": "",
+      "tekst": "I ånden førte han meg opp på et høyt fjell og viste meg den hellige by, Jerusalem, som steg ned fra himmelen, fra Gud. Og byen trengte ikke \nå få sitt lys fra sol eller måne, for Guds herlighet lyser i den, og Lammet selv er dens lampe."
+    },
+    "responsorium": {
+      "ref": "",
+      "v": "Du kronet ham med herlighet og ære. Halleluja! Halleluja! Du satte ham til herre over dine henders verk. Ære være Faderen og Sønnen og den Hellige Ånd.",
+      "r": "Du kronet ham med herlighet og ære. Halleluja! Halleluja!"
+    },
+    "canticum": {
+      "antifon": "Da hørtes det ut fra skyen en røst som sa: Dette er min egen Sønn som jeg har kjær, han som har all min yndest. Lytt til ham! Halleluja!",
+      "tekst": [
+        "Velsignet være Herren, Israels Gud,",
+        "for han har sett til sitt folk og løst det ut.",
+        "Han har oppreist for oss en kraft til frelse i sin tjener Davids ætt;",
+        "slik han lovet fra fordum",
+        "gjennom sine hellige profeters munn:",
+        "Å frelse oss fra våre fiender og fra deres hånd som hater oss;",
+        "vise miskunn mot våre fedre når han minnes sin hellige pakt,",
+        "den ed han svor Abraham, vår far;",
+        "å gi oss å tjene ham uten frykt, fridd fra våre fienders hender,",
+        "i hellighet og rettferd for hans åsyn",
+        "alle våre dager.",
+        "Også du, barn, skal kalles profet for den Høyeste. Du skal gå forut for Herren og rydde hans veier,",
+        "for å gi hans folk kunnskap om frelsen",
+        "gjennom syndenes forlatelse,",
+        "ved vår Guds barmhjertighet og miskunn som vil la solrenning fra det høye gjeste oss,",
+        "for å åpenbare seg for dem som sitter i mørke og dødens skygge,",
+        "og styre våre skritt inn på fredens vei.",
+        "Ære være Faderen og Sønnen og den Hellige Ånd.",
+        "Som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    "forbønner": "La oss tillitsfullt vende oss i bønn til Gud, vår Herres og Frelsers Jesu Kristi Far, han som lot sin Sønn bli forklaret på fjellet for \ndisiplenes øyne, og si:\nR.\nLa oss se lyset, Herre, i ditt lys.\n-\nMildeste Fader, du som forklaret din elskede Sønn og selv gav deg til kjenne i en lysende sky, gi oss i tro å lytte til Kristi ord.\n-\nGud, du som metter dine utvalgte av overfloden i ditt hus og gir dem å drikke av dine gleders strøm, gi oss å finne livets kilde i Kristi legeme.\n-\nGud, du som bød lys skinne frem fra mørket, og som lot ditt lys stråle i våre hjerter for at vi skulle erkjenne din herlighet, gjenspeilet i Kristi Jesu ansikt, fremelsk i oss dragningen til din elskede Sønn.\n-\nGud, du som har kalt oss med et hellig kall ved den nåde som er blitt åpenbart ved vår Frelsers Jesu Kristi åpenbaring, før livet og udødeligheten frem i lyset ved Evangeliet, så alle mennesker kan se det.\n-\nKjærligste Far, du som elsket oss med så stor en kjærlighet at vi får kalles Guds barn og være det, gi at vi må bli Kristus lik, den dag han kommer til syne.",
+    "bønn": "Evige Gud, i din enbårne Sønns forklarelse stadfestet du, med fedrene som vitne, troens mysterier og forkynte det fullkomne barnekår. Gi oss, dine tjenere, å lytte til din elskede Sønns røst, så vi blir hans medarvinger, han som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+  },
+  "middagsbønn": {
+    "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
+    "salmer": [],
+    "lesning": null,
+    "responsorium": null,
+    "canticum": null,
+    "forbønner": "",
+    "bønn": "Evige Gud, i din enbårne Sønns forklarelse stadfestet du, med fedrene som vitne, troens mysterier og forkynte det fullkomne barnekår. Gi oss, dine tjenere, å lytte til din elskede Sønns røst, så vi blir hans medarvinger, han som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.\nLa oss prise Herren.\nGud være lovet!."
+  },
+  "vesper": null
+}
