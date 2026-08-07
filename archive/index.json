@@ -216,6 +216,14 @@
       ],
       "file": "days/fest-olav-konung-och-martyr-norges-skyddshelgon.json"
     },
+    "fest-sixtus-ii-pave-och-hans-foljeslagare-martyrer-cajetanus-prast": {
+      "type": "fest",
+      "feast": "Sixtus II påve och hans följeslagare martyrer, Cajetanus präst",
+      "dates": [
+        "2026-08-07"
+      ],
+      "file": "days/fest-sixtus-ii-pave-och-hans-foljeslagare-martyrer-cajetanus-prast.json"
+    },
     "fest-thorlak-biskop-islands-skyddspatron": {
       "type": "fest",
       "feast": "Thorlak biskop Islands skyddspatron",
@@ -555,9 +563,9 @@
     }
   },
   "totals": {
-    "days_scraped": 65,
+    "days_scraped": 66,
     "ferial": 14,
-    "feasts": 29,
+    "feasts": 30,
     "unclassified": 19
   }
 }
