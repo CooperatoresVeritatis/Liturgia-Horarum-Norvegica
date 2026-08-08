@@ -168,6 +168,14 @@
       ],
       "file": "days/fest-bonaventura-biskop-och-kyrkolarare.json"
     },
+    "fest-dominicus-prast": {
+      "type": "fest",
+      "feast": "Dominicus präst",
+      "dates": [
+        "2026-08-08"
+      ],
+      "file": "days/fest-dominicus-prast.json"
+    },
     "fest-ignatius-av-loyola-prast": {
       "type": "fest",
       "feast": "Ignatius av Loyola präst",
@@ -563,9 +571,9 @@
     }
   },
   "totals": {
-    "days_scraped": 66,
+    "days_scraped": 67,
     "ferial": 14,
-    "feasts": 30,
+    "feasts": 31,
     "unclassified": 19
   }
 }
