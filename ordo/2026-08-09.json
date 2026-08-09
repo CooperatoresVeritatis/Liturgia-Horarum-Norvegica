@@ -1,0 +1,406 @@
+{
+  "date": "2026-08-09",
+  "feast": "",
+  "feast_en": "Office of Readings",
+  "verified": false,
+  "mismatch_flag": false,
+  "sources": {
+    "no": "https://www.oblates.se/index.php?o=nbreviar",
+    "en": "https://universalis.com/europe.norway/20260809/readings.htm"
+  },
+  "hymne": "Den signede dag med fryd vi ser\nav havet til oss oppkomme;\nden lyse på himlen mer og mer\noss alle til lyst og fromme!\nDet kjennes på oss som lysets barn\nat natten hun er nu omme!\nDen signede stund, den midnattstid,\nvår Herre han lot seg føde,\nda klarnet det opp i østerlid\ntil deiligste morgenrøde,\nda lyset opprant, som jorden all\nskal lysne uti og gløde.\nOm levende ble hvert tre i skov,\nog var så hvert blad en tunge,\nde kunne dog ei Guds nådes lov\nmed verdelig røst utsjunge.\nTi evig nu skinner livets lys\nfor gamle og så for unge.\nSå takker vi Gud, vår Fader god,\nsom lerken i morgenrøde,\nfor dagen han oss opprinne lot,\nfor livet han gav av døde;\nden signede dag i Jesu navn\noss alle vårt liv forsøte!\nNu saktelig skrid, du høytidsdag,\nmed stråler i krans om tinde!\nHver time til Herrens velbehag\nsom bekker i eng henrinne,\ntil frydelig seg til sist de snor\nopp under de grønne linde!\nSom gull er den årle morgenstund,\nnår dagen oppstår av døde;\ndog kysser oss og med gull i munn\nden liflige aftenrøde,\nså tindre enn må det matte blikk,\nde bleknede kinner gløde.\nSå reiser vi til vårt fedreland,\nder ligger ei dag i dvale,\nder stander en borg så prud og grann\nmed gammen i gyldne sale,\nså frydelig der til evig tid\nmed venner i lys vi tale!",
+  "salmer": [
+    {
+      "referanse": "Salme 145",
+      "antifon": "Herre, jeg vil love deg hver eneste dag. Halleluja!",
+      "tekst": [
+        "Jeg vil opphøye deg, min Gud, min konge,",
+        "love ditt navn i all gvighet.",
+        "Fra dag til dag vil jeg prise deg, evig og alltid prise ditt navn.",
+        "Herren er stor og høylovet,",
+        "hans storhet kan ingen lodde.",
+        "Slekt etter slekt skal love ditt verk, forkynne din veldige gjerning.",
+        "Det skal tales om din herlighets strålende glans,",
+        "og jeg skal fortelle om dine under.",
+        "Det skal tales om dine veldige gjerninger, og jeg skal berette om dine storverk.",
+        "De feirer minnet om all din godhet",
+        "og jubler over din rettferd.",
+        "Nådig og barmhjertig er Herren, langmodig og rik på miskunn.",
+        "Herren er god mot alle,",
+        "hans miskunn favner hele hans verk.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 145",
+      "antifon": "Herre, ditt kongedømme står gjennom alle tider. Halleluja!",
+      "tekst": [
+        "All skapningen priser deg, Herre,",
+        "dine trofaste lover deg.",
+        "De forkynner ditt rikes ære, taler om din veldige makt.",
+        "Så menneskebarn skal se din storhet,",
+        "ditt rikes strålende prakt.",
+        "Ditt rike står gjennom alle tider, ditt herrevelde gjennom alle slekter.",
+        "Ære være Faderen og Sønnen",
+        "og den Hellige And,",
+        "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+      ]
+    },
+    {
+      "referanse": "Salme 145",
+      "antifon": "Rettferdig er Herren i all sin ferd og trofast i all sin gjerning. Halleluja!",
+      "tekst": [
+        "Herren er trofast i sine ord,",
+        "hellig i all sin gjerning.",
+        "Herren støtter dem som faller, han reiser dem som er knuget ned.",
+        "Alles øyne ser hen til deg,",
+        "og du gir alle føde i rette tid.",
+        "Du åpner din hånd, og metter alt som lever, med velsignelse.",
+        "Herren er rettvis i all sin vei,",
+        "trofast i all sin gjerning.",
+        "Herren er nær dem som roper, som ærlig kaller på ham.",
+        "Han oppfyller deres ønske som frykter ham,",
+        "han hører deres rop og frelser dem.",
+        "Herren verner alle som elsker ham, men de gudløse utrydder han.",
+        "Min munn skal forkynne Herrens pris,",
+        "alt levende signe hans hellige navn.",
+        "Ære være Faderen og Sønnen og den Hellige And,",
+        "som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    }
+  ],
+  "vers": {
+    "v": "Min sønn, akt på mine ord.",
+    "r": "Og vend ditt øre til min tale."
+  },
+  "lesning1": {
+    "referanse": "Hos 11,1-11",
+    "kilde": "Fra profeten Hoseas bok. — Guds miskunn er uforgjengelig",
+    "tekst": "Så sier Herren: Da Israel var ung, fikk jeg ham kjær, jeg kalte min sønn fra Egypt. Men jo mer jeg ropte på folket, dess mer gikk de bort fra meg. De \nofret til Baal-gudene, tente offerild for gudebilder, enda jeg lærte Efraim å gå og tok dem på armene mine; men de skjønte ikke at jeg leget dem. Jeg \ndrog dem med milde bånd, ja, med kjærlighetens tømmer. Jeg stelte med dem likesom bonden som løfter åket fra nakken; jeg bøyde meg ned og gav dem mat.\nDe skal ikke vende tilbake til Egypt, men Assur skal være deres konge, for de vil ikke vende om. Sverdet skal rase i deres byer, bryte bommene i stykker \nog ete om seg, fordi deres planer er onde. Mitt folk henger fast ved sitt frafall fra meg. De roper alle til Den Høye, men han reiser dem ikke opp. \nHvordan kan jeg oppgi deg, Efraim, og la deg fare, Israel? Hvordan kan jeg oppgi deg som Adma, gjøre med deg som med Sebo’im? Hjertet vender seg i meg, \nall min medlidenhet våkner. Jeg vil ikke følge min brennende vrede, vil ikke legge Efraim øde igjen. For jeg er Gud og ikke menneske, hellig midt iblant \ndere; jeg kommer ikke med harme.\nDe skal holde seg til Herren. Han skal brøle som en løve. Når han brøler, skal hans sønner komme skjelvende fra vest. Skjelvende skal de komme som en \nfugl fra Egypt, som en due fra Assur. Jeg vil la dem bo i sine hus, lyder ordet fra Herren."
+  },
+  "responsorium1": {
+    "ref": "Hos 11,8.9; Jer 31,3",
+    "v": "Hjertet vender seg i meg, all min medlidenhet våkner. Med evig kjærlighet har jeg elsket deg, derfor har jeg vist deg miskunn.",
+    "r": "Jeg vil ikke følge min brennende vrede, for jeg er Gud, og ikke et menneske."
+  },
+  "lesning2": {
+    "referanse": "Fra den hellige jomfru Katarina av Sienas Dialog om Guds forsyn",
+    "kilde": "Med kjærlighetens lenker",
+    "tekst": "Å min milde Herre, vend nådig dine barmhjertige øyne til folket her, og til din Kirkes mystiske legeme. For ditt hellige navn vil stråle med en langt \nstørre herlighet om du skåner en så stor mengde av dine skapninger, enn bare elendige meg som så ofte har fornærmet din majestet. Hvordan kunne gleden \nover å nyte live være en kilde til trøst for meg, hvis ditt folk var døde og borte? Eller når jeg ser den brud som du har så kjær, innhyllet i et \nsyndemørke som skyldes mine og andre av dine skapningers svik?\nDerfor ønsker jeg og ber om denne ene nåde, at den ufattelige kjærlighet som drev deg til å skape mennesket i ditt bilde og din likhet, må gjøre dette. \nSi meg: hva eller hvem var årsaken til at du ga mennesket så stor verdighet? Utvilsomt utelukkende din ufattelige kjærlighet der du så din skapning i \ndeg selv, og ble «henrevet». Men jeg ser klart at på grunn av syndeskyld mistet skapningen, helt med rette, den verdighet som du hadde gitt den.\nMen oppflammet av den samme kjærlighet ville du nådig forsone menneskeslekten med deg selv, derfor gav du oss din enbårne Sønns Ord. Han var i sannhet \nen megler og mellommann mellom oss og deg, og som vår rettferdighet bar han selv straffen for all vår urettferdighet og misgjerning, og dette ut fra \nden lydighet som du, Far, påla ham da du besluttet at han skulle påta seg vår menneskenatur. A ufattelige avgrunn av kjærlighet! Hvem har et hjerte \nså forherdet at det kan forbli uberørt, og ikke må briste ved tanken på at en så stor opphøyethet steg til noe så lavt og elendig som vår \nmenneskenatur?\nVi er ditt bilde og du er vårt, på grunn av den forening som du utvirket i mennesket, da du tilslørte din evige Guddom bak den elendige skodden, den \nfordervede substansen av Adams kjød. Hvordan gikk dette til? Din uutsigelige kjærlighet er det eneste svar. Så gjennom denne uutsigelige kjærlighet \nber jeg ydmykt av alle mine sjelskrefter din majestet at du nådig må forbarme deg over dine elendige skapninger."
+  },
+  "responsorium2": {
+    "ref": "Sal 101(50),1-2",
+    "v": "Om miskunn og rett vil jeg synge, synge for deg, min Gud. Med skyldfritt hjerte vil jeg ferdes i mitt hus.",
+    "r": "Jeg vil gå frem på rettferdighets vei, når vil du komme meg imøte?"
+  },
+  "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+  "bønn": "Allmektige, evige Gud, vi våger å kalle deg Far. Fyll våre hjerter med din Sønns ånd, så vi lever som dine barn og får gå inn til den arv du har lovet oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
+  "laudes": {
+    "hymne": "Til himlene rekker din miskunnhet, Gud,\ndin trofasthet når dine skyer;\ndin rettferds hånd over bergene ut\ner strakt over daler og byer.\nSom himlenes favn er din kjærlighet, Gud,\nsom havenes dyp dine dommer.\nTil frelsen fører du sjelene ut,\nog skapningens sukk ihukommer.\nHvor dyrebar er dog din miskunnhet, Gud,\nhvor menneskebarnene bygge.\nI mulm er kjærlighetsvingen bredt ut,\nvi skjuler oss under dens skygge.\nDu kveger i ørknen den tørstende sjel,\ndu berger den bevende due.\nHos deg er livets, det evige vell,\nog lys i ditt lys skal vi skue.",
+    "salmer": [
+      {
+        "referanse": "Salme 93",
+        "antifon": "Underfull er Herren i det høye. Halleluja!",
+        "tekst": [
+          "Herren er konge, kledd i høyhet.",
+          "Herren har iført seg styrke.",
+          "Jorden er grunnfestet, den rokkes ikke.",
+          "Din trone står fast fra opphavet av,",
+          "fra evighet er du.",
+          "Elvebruset stiger, Herre, elvene hever sin røst.",
+          "Flodens strømmer stiger,",
+          "vannenes veldige drønn.",
+          "Men herligere enn den veldige vannflom, herligere enn havets brenning er Herrens herlighet i det høye.",
+          "Ditt vitnesbyrd er sannhet, Herre,",
+          "hellighet skal pryde ditt hus, gjennom lange tider.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "De tre menns sang (Dan 3,57-88.56)",
+        "antifon": "Velsignet er du, Herre, og opphøyet i evighet. Halleluja!",
+        "tekst": [
+          "Lov Herren, alt hans verk,",
+          "lovsyng og opphøy ham i evighet.",
+          "Lov Herren, alle hans engler. Lov Herren, dere himler.",
+          "Lov Herren, alt vann over himmelens hvelv.",
+          "Lov Herren, alle makter.",
+          "Lov Herren, sol og måne. Lov Herren, himmelens stjerner.",
+          "Lov Herren, alt regn og dugg.",
+          "Lov Herren, alle vinder.",
+          "Lov Herren, ild og varme. Lov Herren, kulde og hete.",
+          "Lov Herren, duggfall og snestorm.",
+          "Lov Herren, is og kulde.",
+          "Lov Herren, rim og sne. Lov Herren, netter og dager.",
+          "Lov Herren, lys og mørke.",
+          "Lov Herren, lyn og skyer.",
+          "Måtte jorden love Herren, lovsynge og opphøye ham i evighet.",
+          "Lov Herren, fjell og hauger.",
+          "Lov Herren, alle vekster på jorden.",
+          "Lov Herren, dere kilder. Lov Herren, hav og elver.",
+          "Lov Herren, store sjødyr og alt som det kryr av i vannet.",
+          "Lov Herren, alle himmelens fugler.",
+          "Lov Herren, alle slags villdyr og bufe. Lov Herren, alle menneskebarn.",
+          "Måtte Israel love Herren,",
+          "lovsynge og opphøye ham i evighet.",
+          "Lov Herren, dere Herrens prester. Lov Herren, dere Herrens tjenere.",
+          "Lov Herren, dere de rettferdiges ånd og sjel.",
+          "Lov Herren, dere hellige og ydmyke av hjertet.",
+          "Lov Herren, Ananja, Asarja og Misael, lovsyng og opphøy ham i evighet,",
+          "La oss love Faderen og Sønnen med den Hellige Ånd,",
+          "la oss lovsynge og opphøye ham i evighet,",
+          "Velsignet er du, Herre, på himmelens hvelv, verdig til å lovsynges, æres og opphøyes i evighet."
+        ]
+      },
+      {
+        "referanse": "Salme 148",
+        "antifon": "Lov Herren fra himmelen. Halleluja!",
+        "tekst": [
+          "Lov Herren fra himmelen,",
+          "lov ham i det høye.",
+          "Lov ham, allejians engler, lov ham, alle hans hærer.",
+          "Lov Herren, sol og måne,",
+          "lov ham, hver lysende stjerne.",
+          "Lov ham, himlenes himler, og du vann over himmelens hvelv.",
+          "De skal prise Herrens navn,",
+          "for han bød og de ble til.",
+          "Han gav dem en plass for evig, en lov som ikke rokkes.",
+          "Lov Herren fra jorden,",
+          "dere havets dyr og store dyp,",
+          "ild og hagl, sne og tåke, du stormvind som setter hans ord i verk,",
+          "fjell og alle hauger,",
+          "frukttrær og alle sedertrær,",
+          "ville dyr og all slags fe, dyr som kryper og fugler som flyr,",
+          "dere jordens konger og alle folk,",
+          "fyrster og jordens høvdinger,",
+          "unge menn og jomfruer, alle sammen, barn og gamle,",
+          "alle skal love Herrens navn,",
+          "for hans navn alene er opphøyet.",
+          "Hans herlighet omspenner jord og himmel.",
+          "Ny kraft og styrke gir han sitt folk,",
+          "til stolthet for alle hans venner,",
+          "for Israel - det folk som står ham nær.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige Ånd,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      }
+    ],
+    "lesning": {
+      "referanse": "Esek 37,12b14",
+      "kilde": "",
+      "tekst": "Så sier Herren Gud: Se, mitt folk, jeg åpner gravene\nderes og lar dere stige opp av dem. Så fører jeg dere til Israels land. Dere skal sanne at jeg er Herren, når jeg åpner gravene deres, \nmitt folk, og lar dere stige opp av dem. Jeg gir dere min Ånd så dere blir levende, og lar dere bo i deres eget land. Da skal dere sanne at jeg, \nHerren, har talt og setter det i verk, lyder ordet fra Herren."
+    },
+    "responsorium": {
+      "ref": "",
+      "v": "Kristus, den levende Guds Sønn, miskunn deg over oss. Du som sitter ved Faderens høyre. Ære være Faderen og Sønnen og den Hellige Ånd.",
+      "r": "Kristus, den levende Guds Sønn, miskunn deg over oss."
+    },
+    "canticum": {
+      "antifon": "Jesus talte til de redselslagne disiplene: Fatt mot, det er meg! Vær ikke redde.",
+      "tekst": [
+        "Velsignet være Herren, Israels Gud,",
+        "for han har sett til sitt folk og løst det ut.",
+        "Han har oppreist for oss en kraft til frelse i sin tjener Davids ætt;",
+        "slik han lovet fra fordum",
+        "gjennom sine hellige profeters munn:",
+        "Å frelse oss fra våre fiender og fra deres hånd som hater oss;",
+        "vise miskunn mot våre fedre når han minnes sin hellige pakt,",
+        "den ed han svor Abraham, vår far;",
+        "å gi oss å tjene ham uten frykt, fridd fra våre fienders hender,",
+        "i hellighet og rettferd for hans åsyn",
+        "alle våre dager.",
+        "Også du, barn, skal kalles profet for den Høyeste. Du skal gå forut for Herren og rydde hans veier,",
+        "for å gi hans folk kunnskap om frelsen",
+        "gjennom syndenes forlatelse,",
+        "ved vår Guds barmhjertighet og miskunn som vil la solrenning fra det høye gjeste oss,",
+        "for å åpenbare seg for dem som sitter i mørke og dødens skygge,",
+        "og styre våre skritt inn på fredens vei.",
+        "Ære være Faderen og Sønnen og den Hellige Ånd.",
+        "Som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    "forbønner": "La oss rette vår inderlige bønn til Gud, han som sendte den Hellige Ånd for å skinne i alle menneskers hjerter, og si:\nR.\nLys for ditt folk, Herre.\n-\nLovet være du, Gud, du som er vårt lys, du som lot oss få nå frem til denne nye dag, din herlighet til lov og ære.\n-\nDu som lot lyset flomme ut over verden da din Sønn stod opp fra de døde, la dette lys skinne for alle mennesker gjennom din Kirke.\n-\nDu som opplyste din enbårne Sønns disipler ved din Ånd, send Ånden inn i din Kirke så den kan tjene deg i troskap.\n-\nDu som er lys for folkeslagene, kom ihu dem som fremdeles sitter i mørke. Åpne deres hjerter og gi dem å erkjenne at du er den ene og sanne Gud.",
+    "bønn": "Allmektige, evige Gud, vi våger å kalle deg Far. Fyll våre hjerter med din Sønns ånd, så vi lever som dine barn og får gå inn til den arv du har lovet oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+  },
+  "middagsbønn": {
+    "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
+    "salmer": [
+      {
+        "referanse": "Salme 118",
+        "antifon": "I min trengsel ropte jeg til Herren, og han svarte meg. Halleluja!",
+        "tekst": [
+          "Lovpris Herren for han er god,",
+          "evig er hans kjærlighet.",
+          "Israels hus forkynne det, evig er hans kjærlighet.",
+          "Arons hus forkynne det,",
+          "evig er hans kjærlighet.",
+          "De som frykter Herren, forkynne det, evig er hans kjærlighet.",
+          "I min trengsel ropte jeg til Herren.",
+          "Han svarte og førte meg ut på åpent land.",
+          "Herren er med meg, jeg frykter ikke. Hva kan et menneske gjøre meg?",
+          "Er Herren mm hjelper,",
+          "kan jeg se mine fiender i øynene uten frykt.",
+          "Bedre å ta sin tilflukt til Herren enn å sette sin lit til mennesker.",
+          "Bedre å ta sin tilflukt til Herren",
+          "enn å stole på jordens mektige.",
+          "Ære være Faderen og Sønnen og den Hellige Ånd,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 118",
+        "antifon": "Herrens høyre hånd reiser meg opp. Halleluja!",
+        "tekst": [
+          "Lukk rettferdighetens porter opp for meg.",
+          "Jeg vil gå inn og prise Herren.",
+          "Dette er Herrens port. Her går de rettferdige inn.",
+          "Jeg takker deg, for du hørte min bønn,",
+          "du ble meg til frelse.",
+          "Stenen bygningsmennene vraket, er blitt til hjørnesten.",
+          "Dette er Herrens verk.",
+          "Det er underfullt i våre øyne.",
+          "Dette er dagen som Herren har gjort, en dag til fryd og til glede.",
+          "Å Herre, frels oss da!",
+          "A Herre, la oss seire!",
+          "Velsignet være han som kommer i Herrens navn! Vi velsigner dere fra Herrens hus.",
+          "Herren er Gud, han skjenker oss lys,",
+          "gå i samlet flokk med palmegrener til hans alter.",
+          "Du er min Gud, jeg vil prise deg, min Gud, jeg vil opphøye deg.",
+          "Jeg takker deg, for du hørte min bønn,",
+          "du ble meg til frelse.",
+          "Lovpris Herren, for han er god, evig er hans kjærlighet.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige Ånd,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen.",
+          "Ant. 3",
+          "Herren er Gud, han skjenker oss lys. Halleluja!",
+          "Kort lesningRom 8,15-16",
+          "Det er ikke den gamle slaveånd dere har fått igjen, slik at frykten fremdeles skulle herske; nei, den ånd dere har fått gir dere rang som barn, den får oss til å rope: Abba! Far! Ånden selv forener seg med vår egen ånd for å bevitne at vi er Guds barn.",
+          "Hos deg, Herre, er livets kilde.",
+          "I ditt lys ser vi lyset.",
+          "Bønn",
+          "Allmektige, evige Gud, vi våger å kalle deg Far. Fyll våre hjerter med din Sønns ånd, så vi lever som dine barn og får gå inn til den arv du har lovet oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
+          "La oss prise Herren.",
+          "Gud være lovet!."
+        ]
+      }
+    ],
+    "lesning": null,
+    "responsorium": null,
+    "canticum": null,
+    "forbønner": "",
+    "bønn": "Allmektige, evige Gud, vi våger å kalle deg Far. Fyll våre hjerter med din Sønns ånd, så vi lever som dine barn og får gå inn til den arv du har lovet oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.\nLa oss prise Herren.\nGud være lovet!."
+  },
+  "vesper": {
+    "hymne": "Lucis Creator optime\nStore Skapar av heimsens ljos!\nDagar strøymer som elv mot os,\nog i upphavet steig vår jord\nherleg fram på ditt skaparord.\nMorgon bjart let du fylgja kveld.\nDagen kalla du ljosens tjeld.\nSpreid det myrkret som trugar no,\nhøyr vår bøn, sjå vår tåreflod!\nLat kje sjeli i myrkheims band\nstengjast ute frå ljosets land,\nog på ævlege tankar tom\ninkje sjå av din herlegdom.\nInst i himlen me bankar på,\nlivsens ljos skal hjå Gud me få.\nHjelp oss leggja all vondskap av,\ndu som sjeli sitt ynde gav!\nGode Fader på gåvor rik,\ndyre Sonen som er deg lik,\nHeilag Ande, vår Trøystar blid,\nvera lova i allan tid!",
+    "salmer": [
+      {
+        "referanse": "Salme 110 (1-5.7)",
+        "antifon": "Herren sa til min Herre: Sett deg ved min høyre hånd. Halleluja!",
+        "tekst": [
+          "Herren sa til min Herre:",
+          "Sett deg ved min høyre hånd.",
+          "Til jeg får lagt dine fiender til skammel for dine føtter.",
+          "Ditt veides kongestav skal Herren utstrekke fra Sion,",
+          "du skal herske blant dine fiender.",
+          "Kongsmakten er din på din veides dag, i dine helliges herlige lysglans.",
+          "Før morgenstjernen",
+          "har jeg født deg av mitt skjød.",
+          "Herren har svoret, og han angrer det ikke: Du er prest på Melkisedeks vis til evig tid.",
+          "Herren ved din høyre hånd",
+          "knuser konger på sin vredes dag.",
+          "Han drikker av bekken på veien, derfor løfter han høyt sitt hode.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 111",
+        "antifon": "Store er alle Guds verker, verdige til ettertanke for alle som elsker dem. Halleluja!",
+        "tekst": [
+          "Jeg vil prise Herren av hele mitt hjerte",
+          "i de rettferdiges råd og forsamling.",
+          "Store er alle Guds verk, vel gransket av alle som elsker dem.",
+          "Høyhet og herlighet er hans gjerning,",
+          "og hans rettferd står til evig tid.",
+          "Han har reist sine under et varig minne. Herren er nådig og barmhjertig.",
+          "Han gir føde til dem som frykter ham;",
+          "han minnes sin pakt til evig tid.",
+          "Han har kunngjort sine gjerningers kraft for sitt folk, da han gav dem hedningefolkenes arv.",
+          "Hans henders gjerning er rett og troskap,",
+          "pålitelige er alle hans bud.",
+          "De står fast for evig, de er gitt i rettvishet og sannhet.",
+          "Forløsning sendte han sitt folk,",
+          "han har fastsatt sin pakt til evig tid,",
+          "hans navn er hellig og vekker frykt.",
+          "Å frykte Herren er veien til visdom, klok er hver som følger den. Hans pris skal lyde til evig tid.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "CanticumJohannes Åpenbaring (19,l-2.5b.6b-8a)",
+        "antifon": "Herren, vår Gud, Allherskeren, har inntatt sitt kongevelde. Halleluja!",
+        "tekst": [
+          "Halleluja, Halleluja!",
+          "Frelsen, æren og makten tilhører vår Gud, Halleluja,",
+          "for sanne og rettferdige er hans dommer.",
+          "Halleluja, Halleluja! Pris vår Gud, alle hans tjenere, Halleluja, alle som frykter ham, små og store.",
+          "Halleluja, Halleluja!",
+          "For Herren, vår Gud, Allherskeren,",
+          "har inntatt sitt kongevelde, Halleluja!",
+          "La oss glede oss og juble og gi ham æren,",
+          "Halleluja, Halleluja, tor tiden er kommet for Lammets bryllup, Halleluja, og bruden har gjort seg rede og fått en drakt av snehvitt lin.",
+          "Halleluja, Halleluja!",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen. Halleluja, Halleluja!"
+        ]
+      }
+    ],
+    "lesning": {
+      "referanse": "l Pet 1,3-5",
+      "kilde": "",
+      "tekst": "Lovet være Gud, vår Herres Jesus Kristi Far, som i sin store miskunn har gjenfødt oss til et levende håp ved Jesu Kristi oppstandelse fra de \ndøde til en uforgjengelig arv, som aldri plettes til og aldri svinner bort. Og den forvares for dere i himlene, for ved troen er dere \nbeskyttet av Guds kraft inntil frelsen kommer; den er alt rede til å tre frem i dagen i de siste tider."
+    },
+    "responsorium": {
+      "ref": "",
+      "v": "Velsignet er du, Herre, på himmelens hvelv. Verdig til å lovsynges, æres og opphøyes i evighet. Ære være Faderen og Sønnen og den Hellige Ånd.",
+      "r": "Velsignet er du, Herre, på himmelens hvelv."
+    },
+    "canticum": {
+      "antifon": "Herre, si at jeg skal komme ut til deg på vannet.\nJesus rakte ut hånden, grep fatt i Peter og sa til ham: Så lite tro du har, hvorfor tvilte du?",
+      "tekst": [
+        "Min sjel opphøyer Herren,",
+        "min ånd fryder seg i Gud, min frelser,",
+        "han som har sett til sin ringe tjenerinne. For se, fra nå av skal alle slekter prise meg salig.",
+        "Store ting har han gjort mot meg, han den mektige.",
+        "Hellig er hans navn.",
+        "Hans miskunn varer fra slekt til slekt mot dem som frykter ham.",
+        "Han gjorde storverk med sin sterke arm,",
+        "han spredte dem som gikk med hovmodstanker.",
+        "Han støtte herskere ned fra tronen og opphøyet de ringe.",
+        "Sultne mettet han med gode gaver,",
+        "rikfolk ble sendt tomhendt bort.",
+        "Han tok seg av Israel, sin tjener, for han kom ihu sin miskunn.",
+        "Slik han hadde lovet våre fedre:",
+        "Abraham og hans ætt til evig tid.",
+        "Ære være Faderen og Sønnen og den Hellige And.",
+        "Som det var i opphavet, så nå og alltid",
+        "og i all evighet. Amen."
+      ]
+    },
+    "forbønner": "La oss, glade til sinns, påkalle Gud, han som i opphavet skapte verden, gjenskapte den ved Sønnens forløsningsverk, \nog som daglig fornyer den ved sin kjærlighet, og si:\nR.\nLa oss få kjenne din kjærlighet, Herre.\n-\nVi takker deg, Gud, du som åpenbarer din makt i skaperverket og ditt forsyn i verdens gang.\n-\nFri oss fra grunnløs frykt og fortvilelse ved din Sønn, han som forkynte fred og vant seier på korset.\n-\nGi at alle som elsker rettferdighet, uten baktanke må samarbeide om å bygge verden i sann fred.\n-\nVær de undertrykte nær, befri de fangne, trøst dem som sørger, gi mat til dem som sulter, styrk de svake, la korset seire i dem alle.\n-\nDu som på underfullt vis oppreiste din Sønn i herlighet etter død og grav, la de avdøde få komme inn til livet hos ham.",
+    "bønn": "Allmektige, evige Gud, vi våger å kalle deg Far. Fyll våre hjerter med din Sønns ånd, så vi lever som dine barn og får gå inn til den arv du har lovet oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+  }
+}
