@@ -1,0 +1,441 @@
+{
+  "key": "ukjent-2026-08-10",
+  "type": "ukjent",
+  "feast": "",
+  "dates": [
+    "2026-08-10"
+  ],
+  "content": {
+    "date": "2026-08-10",
+    "feast": "",
+    "feast_en": "Office of Readings",
+    "verified": false,
+    "mismatch_flag": false,
+    "sources": {
+      "no": "https://www.oblates.se/index.php?o=nbreviar",
+      "en": "https://universalis.com/europe.norway/20260810/readings.htm"
+    },
+    "hymne": "Martyrers Konung, segrare,\nsom kröner trons bekännare\noch leder till ditt rike dem\nsom före allt har sökt din fred.\nO gode Herre, tag emot\nvårt hjärtas sång och bönerop;\nvi prisar dig, o Helige,\noch beder om förlåtelse.\nVem segrat i martyrerna\nom icke du, Guds Offerlamm?\nSå lyft oss med din Andes kraft\nur sorg och nöd och syndafall.\nDin är, o Gud, all helighet,\no Fader, Son och Hjälpare.\nLåt oss med din martyr få del\ni evighetens härlighet. Amen.",
+    "salmer": [
+      {
+        "referanse": "Salme 2",
+        "antifon": "Ni skall bli hatade av alla för mitt namns skull. Men den som håller ut till slutet skall bli räddad. (PT Halleluja.)",
+        "tekst": [
+          "Hvorfor er folkene i opprør,",
+          "hvorfor grunner de på det som fåfengt er?",
+          "Jordens konger reiser seg, fyrstene samles til råd mot Herren og mot hans salvede:",
+          "\"La oss sprenge deres lenker",
+          "og kaste repene av oss.\"",
+          "Han som troner i himmelen, ler, Herren spotter dem.",
+          "Så taler han til dem i vrede,",
+          "forferder dem ved sin harme:",
+          "\"Det er jeg som har innsatt min konge på Sion, mitt hellige fjell.\" Jeg kunngjør det Herren har fastsatt.",
+          "Han sa til meg:",
+          "„Du er min Sønn, jeg har født deg i dag.",
+          "Be meg, og jeg vil gi deg hedningefolkene i arv og den vide jord i eie.",
+          "Med jernstav skal du knuse dem,",
+          "slå dem i stykker som pottemakerens kar.“",
+          "Og nå, dere konger, vær kloke, vær advart, dere herskere på jorden!",
+          "Tjen Herren med ærefrykt, juble med beven;",
+          "kyss jorden for hans fotter,",
+          "så ikke hans vrede skal blusse opp, og dere gå til grunne på veien.",
+          "Med et slag kan hans vrede tennes.",
+          "Salig den som tar sin tilflukt til ham.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Psalm 11",
+        "antifon": "Våra lidanden i denna tid betyder ingenting mot den härlighet som skall uppenbaras och bli vår. (PT Halleluja.)",
+        "tekst": [
+          "Jag har tagit min tillflykt till Herren.",
+          "Hur kan ni då säga till mig:",
+          "\"Fly som en fågel upp i bergen,",
+          "ty de gudlösa spänner bågen,",
+          "de har lagt sin pil på strängen,",
+          "för att i mörkret skjuta på de trogna.",
+          "När grundvalarna rivs upp,",
+          "vad kan då den rättfärdige göra?\"",
+          "Herren är i sitt heliga tempel,",
+          "Herrens tron är i himlen.",
+          "Hans ögon skådar ned på världen,",
+          "hans blickar prövar alla människor.",
+          "Herren prövar den rättfärdige",
+          "men hatar den gudlöse och den som älskar våld.",
+          "Han skall låta eld och svavel regna över de gudlösa,",
+          "glödande vind blir dem given.",
+          "Ty Herren är rättfärdig, rättfärdigheten älskar han,",
+          "de trogna skall skåda hans ansikte.",
+          "Ära vare Fadern och Sonen och den helige Ande,",
+          "nu och alltid och i evigheters evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Psalm 17",
+        "antifon": "Som guld i smältugnen prövade han sina utvalda, och som en brännoffergåva tog han emot dem. (PT Halleluja.)",
+        "tekst": [
+          "Hör, o Herre, en rättfärdig sak,",
+          "ge akt på mitt rop, lyssna till min bön.",
+          "Den kommer inte från falska läppar.",
+          "Jag ber dig, Herre: Ge mig min rätt,",
+          "dina ögon ser vad som är rätt och sånt.",
+          "Du prövar mitt hjärta,",
+          "du utforskar det om natten,",
+          "du rannsakar mig men finner ingen orätt,",
+          "inga onda tankar går ut ur min mun.",
+          "Efter dina läppars ord vill jag handla,",
+          "vad människor än må göra.",
+          "På dina budords stigar går mina steg,",
+          "mina fötter håller sig stadigt på dina vägar.",
+          "Jag åkallar dig, ty du, Gud, skall svara mig.",
+          "Vänd ditt öra till mig, hör mina ord.",
+          "Bevisa din underbara nåd,",
+          "och befria mig från fienden,",
+          "du som räddar dem",
+          "som tar sin tillflykt till din högra hand.",
+          "Bevara mig som en ögonsten,",
+          "skydda mig i dina vingars skugga",
+          "för de gudlösa, som vill förgöra mig,",
+          "för mina dödsfiender, som omger mig.",
+          "De förhärdar sitt hjärta,",
+          "de tar stolta ord i sin mun.",
+          "De är runt omkring mig, var jag än går,",
+          "de spejar efter hur de kan slå mig till marken,",
+          "som lejonet som längtar efter rov,",
+          "det unga lejonet som ligger i försåt.",
+          "Stå upp, Herre, träd emot den gudlöse, slå ner honom,",
+          "rädda mig från honom med ditt svärd.",
+          "Rädda mig med din hand, Herre,",
+          "från dessa människor,",
+          "från denna världens människor,",
+          "som har allting redan i detta livet",
+          "och vilkas buk du fyller med dina gåvor,",
+          "som har söner i mängd",
+          "och lämnar sitt överflöd åt sina barn.",
+          "I rättfärdighet skall jag skåda ditt ansikte,",
+          "när jag vaknar, vill jag mätta mig av din åsyn.",
+          "Ära vare Fadern och Sonen och den helige Ande,",
+          "nu och alltid och i evigheters evighet. Amen."
+        ]
+      }
+    ],
+    "vers": {
+      "v": "Nöd och trångmål har träffat mig",
+      "r": "men dina bud är min lust."
+    },
+    "lesning1": {
+      "referanse": "Apg 6,1-6; 8,1.4-8",
+      "kilde": "Fra Apostlenes gjerninger. — Syv diakoner velges av apostlene",
+      "tekst": "På denne tiden, da tallet på disipler stadig steg, kom de gresktalende jødene med klager mot de hebraisktalende fordi deres egne enker ble tilsidesatt \nved den daglige utdelingen. De tolv kalte da sammen alle disiplene og sa: «Det ville være galt om vi forsømte Guds ord for å gjøre tjeneste ved bordene. \nVelg nå ut blant dere, brødre, sju menn som har godt ord på seg og er fylt av Ånd og visdom; dem vil vi sette til denne oppgaven. Så skal vi vie oss \ntil bønnen og Ordets tjeneste.» Dette forslaget ble tatt godt imot av hele forsamlingen. Og de valgte Stefanus, en mann fylt av tro og Hellig Ånd, og \nFilip, Prokoros, Nikanor, Timon, Parmenas og Nikolaus, en proselytt fra Antiokia. Disse ble ført frem for apostlene, som ba og la hendene på dem.\nDen dagen brøt det løs en kraftig forfølgelse mot menigheten i Jerusalem. Alle unntatt apostlene ble spredt omkring i Judea og Samaria.\nDe som var spredt omkring, dro rundt og forkynte Ordet. Filip kom ned til hovedstaden i Samaria, og der forkynte han Kristus. Og alle som en fulgte \noppmerksomt med når de hørte Filip tale og så de tegnene han gjorde. For mange hadde urene ånder som for ut av dem med høye skrik, og mange lamme og \nhalte ble helbredet. Det ble stor glede der i byen."
+    },
+    "responsorium1": {
+      "ref": "Matt 10,32; Joh 12,26",
+      "v": "Enhver som bekjenner meg overfor menneskene, sier Herren, Dersom noen vil tjene meg, må han følge meg, og der jeg er, skal da også min tjener være.",
+      "r": "ham skal også jeg kjennes ved overfor min Far i himlene."
+    },
+    "lesning2": {
+      "referanse": "Fra en preken av den hellige biskop Augustin.",
+      "kilde": "Han delte ut Kristi hellige blod",
+      "tekst": "I dag legger Kirken i Roma oss på sinne at det er den salige Laurentius’ triumfdag, da han tråkket den rasende verden under fot og vraket dens \ntillokkelser. På begge måter beseiret han altså djevelen som forfulgte ham. Som dere jo ofte har hørt, var det i kirken i Rom han virket som diakon. \nDer delte han ut Kristi hellige blod, der utgjøt han for Kristi navn sitt eget blod. Den hellige apostel Johannes fremstilte Herrens nattverds \nmysterium så klart for oss da han sa: Slik Kristus har gitt sitt liv for oss, slik skal vi også gi våre liv for våre brødre. Mine brødre, dette \nforsto den hellige Laurentius. Han forsto det, og han viste det i handling. Det han mottok ved alterbordet, var han rede til å gi videre. Han elsket \nKristus i sitt liv, og etterlignet ham i sin død.\nAltså skal også vi, mine brødre, etterligne ham, dersom vi virkelig elsker. For vi kan ikke bære noen bedre frukt av vår kjærlighet enn å følge Hans \neksempel. For Kristus led for oss og etterlot oss et eksempel for at vi skal følge i hans spor. Av disse ord ser det ut som apostelen Peter forstod at \nKristus led bare for dem som følger i hans spor, og at Kristi lidelse ikke gagner andre enn dem som følger i hans spor. De hellige martyrer fulgte ham \nså langt at de utgjøt sitt blod, så langt at de led som han. Martyrene fulgte ham, men ikke bare de. For broen ble ikke revet da de hadde gått over \nden, og kilden tørket ikke inn etter at de hadde drukket.\nDenne Herrens hage, mine brødre, har sannelig ikke bare martyrenes roser. Den har også jomfruers liljer, ektefellers eføy og enkers holer. Altså, \nhøytelskede, ingen stand skal tvile på at den er kalt, for Kristus led for alle. Det er sant det som er skrevet om ham, at han vil at alle mennesker \nskal bli frelst og lære sannheten å kjenne.\nLa oss derfor være klar over hvordan en kristen kan følge Kristus uten å utgyte sitt blod og uten å risikere martyrdøden. Apostelen Paulus sier om \nHerren Kristus: Skjønt han var i Guds skikkelse, så han det ikke som rov å være Gud lik. For en høyhet! Men han ga avkall på sitt eget, tok på seg \ntjeners skikkelse, ble mennesker lik, og fremsto som menneske. For en ydmykhet!\nKristus ydmyket seg: Her har du, kjære kristen, noe du skal holde fast på. Kristus ble lydig. Hvorfor er du hovmodig? Kristus steg så opp til himmelen \netter at Han hadde fullført et liv i ydmykhet og overvunnet døden. La oss følge Ham! La oss lytte til Apostelen når han sier: Er dere da oppstandne \nmed Kristus, så søk det som er der oppe hvor Kristus sitter ved Guds høyre hånd (Kol 3,1)."
+    },
+    "responsorium2": {
+      "ref": "Sal 18(17),3",
+      "v": "Den salige Laurentius ropte og sa: Min Gud dyrker jeg, og ham alene tjener jeg, Min Gud er min hjelper, jeg håper på ham.",
+      "r": "Derfor frykter jeg ikke dine pinsler."
+    },
+    "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+    "bønn": "Barmhjertige Gud, du tente din kjærlighet i den salige Laurentius, så han ble et lys for ditt folk ved sin trofaste tjeneste og sin ærerike martyrdød. Hjelp oss å elske det han elsket, og øve barmhjertighet, slik han viste oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
+    "laudes": {
+      "hymne": "A, kor heilag er vår høgtid,\nmartyrdomens minnedag,\ndå i vyrdnad me lyt prise\ndei som vann dei store slag.\nKlårt for augo strålar teikni,\nmartyrdygder grant seg tér,\nall den venleik som dei åtte\nfrå sin skapar no me ser.\nAll sin hug og tru og hjarta\ntil sin Gud dei yvergav;\naldri yvervunne gjekk dei\ngjenom pinslor til si grav.\nFengsla, slegne, pinte vart dei,\nfyrr dei gjenom trengsla vann,\neld og sverd i kjøtet herja,\nmartyrdauden mange fann.\nMen når soleis gjenom pinslor\ndeira lekam under gjekk,\nvann dei sæleløn i Himlen,\nKristi ljuve trøyst dei fekk.\nDei som ikkje verdi ansa,\nmen hev stridt so hard ein strid,\nverde var med Himlens englar\nvera saman allan tid.\nDe som ervingar med Kristus\ner til Himmerikes løn,\ndykk me bed for Gud å bera\nfram vår hjartans trong i bøn,\nat me etter yverferdi\ntil eit anna liv fær rom\nmiliom Herrens sæle vener,\nfegnast i hans herlegdom.",
+      "salmer": [
+        {
+          "referanse": "Salme 63",
+          "antifon": "Min sjel henger ved deg, for mitt legeme ble brent til aske for deg, min Gud.",
+          "tekst": [
+            "Gud, du min Gud, deg søker jeg,",
+            "min sjel tørster etter deg.",
+            "Mitt kjød lengter etter deg som den uttørrede jord etter regn.",
+            "Vis deg i din helligdom",
+            "så jeg kan se din makt og ære.",
+            "For din miskunn er bedre enn livet, min munn skal synge din pris.",
+            "Slik vil jeg love deg hele mitt liv,",
+            "løfte mine hender og prise ditt navn.",
+            "Min sjel mettes som av utsøkte retter når tungen jubler din pris.",
+            "Jeg kommer deg ihu på mitt leie,",
+            "tenker på deg hver nattevakt.",
+            "For du er min hjelp, jeg jubler i skyggen av dine vinger.",
+            "Min sjel henger ved deg,",
+            "din høyre holder meg fast.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "De tre menns sang (Dan 3,57-88.56)",
+          "antifon": "Herren sendte sin engel for å fri meg fra ilden, og heten plaget meg ikke.",
+          "tekst": [
+            "Lov Herren, alt hans verk,",
+            "lovsyng og opphøy ham i evighet.",
+            "Lov Herren, alle hans engler. Lov Herren, dere himler.",
+            "Lov Herren, alt vann over himmelens hvelv.",
+            "Lov Herren, alle makter.",
+            "Lov Herren, sol og måne. Lov Herren, himmelens stjerner.",
+            "Lov Herren, alt regn og dugg.",
+            "Lov Herren, alle vinder.",
+            "Lov Herren, ild og varme. Lov Herren, kulde og hete.",
+            "Lov Herren, duggfall og snestorm.",
+            "Lov Herren, is og kulde.",
+            "Lov Herren, rim og sne. Lov Herren, netter og dager.",
+            "Lov Herren, lys og mørke.",
+            "Lov Herren, lyn og skyer.",
+            "Måtte jorden love Herren, lovsynge og opphøye ham i evighet.",
+            "Lov Herren, fjell og hauger.",
+            "Lov Herren, alle vekster på jorden.",
+            "Lov Herren, dere kilder. Lov Herren, hav og elver.",
+            "Lov Herren, store sjødyr og alt som det kryr av i vannet.",
+            "Lov Herren, alle himmelens fugler.",
+            "Lov Herren, alle slags villdyr og bufe. Lov Herren, alle menneskebarn.",
+            "Måtte Israel love Herren,",
+            "lovsynge og opphøye ham i evighet.",
+            "Lov Herren, dere Herrens prester. Lov Herren, dere Herrens tjenere.",
+            "Lov Herren, dere de rettferdiges ånd og sjel.",
+            "Lov Herren, dere hellige og ydmyke av hjertet.",
+            "Lov Herren, Ananja, Asarja og Misael, lovsyng og opphøy ham i evighet,",
+            "La oss love Faderen og Sønnen med den Hellige Ånd,",
+            "la oss lovsynge og opphøye ham i evighet,",
+            "Velsignet er du, Herre, på himmelens hvelv, verdig til å lovsynges, æres og opphøyes i evighet."
+          ]
+        },
+        {
+          "referanse": "Salme 149",
+          "antifon": "Den hellige Laurentius bad og sa: Jeg takker deg, Herre, fordi du har funnet meg verdig til å tre inn gjennom dine porter.\"",
+          "tekst": [
+            "Syng en ny sang for Herren.",
+            "Syng hans pris i de frommes forsamling.",
+            "Israel skal fryde seg i sin skaper, Sions barn juble for sin konge.",
+            "De skal love hans navn med dans,",
+            "synge for ham til pauke og sitar.",
+            "For Herren elsker sitt folk, kroner de saktmodige med seier.",
+            "Hans fromme skal juble med ære,",
+            "rope av fryd på sitt leie.",
+            "Med lovsang til Gud i sin munn og tveegget sverd i hånd.",
+            "For å fullbyrde hevn over folkene",
+            "og straffe folkeslag.",
+            "For å binde deres konger med lenker og legge i jern deres fyrster.",
+            "For å fullbyrde den dom som er skrevet,",
+            "til ære for alle hans fromme.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
+          ]
+        }
+      ],
+      "lesning": {
+        "referanse": "2 Kor 1,3-5",
+        "kilde": "",
+        "tekst": "Lovet være Gud, vår Herres Jesu Kristi Far, - en Far så inderlig barmhjertig, en Gud som alltid står oss bi! I all vår trengsel gir han oss \nmot og styrke, slik at vi, takket være den trøst vi selv får fra Gud, også skal kunne stå andre bi i deres nød. For som Kristi lidelser \nkommer inn over oss i rikt mål, likeså rikelig får vi hjelp og trøst gjennom Kristus."
+      },
+      "responsorium": {
+        "ref": "",
+        "v": "Herren er min styrke, og min lovsang. Han ble meg til frelse. Ære være Faderen og Sønnen og den Hellige Ånd.",
+        "r": "Herren er min styrke, og min lovsang."
+      },
+      "canticum": {
+        "antifon": "Frykt ikke, min sønn, for jeg er med deg. Selv om du går gjennom ild, skal flammene ikke skade deg, og lukten av brent skal ikke omgi deg.",
+        "tekst": [
+          "Velsignet være Herren, Israels Gud,",
+          "for han har sett til sitt folk og løst det ut.",
+          "Han har oppreist for oss en kraft til frelse i sin tjener Davids ætt;",
+          "slik han lovet fra fordum",
+          "gjennom sine hellige profeters munn:",
+          "Å frelse oss fra våre fiender og fra deres hånd som hater oss;",
+          "vise miskunn mot våre fedre når han minnes sin hellige pakt,",
+          "den ed han svor Abraham, vår far;",
+          "å gi oss å tjene ham uten frykt, fridd fra våre fienders hender,",
+          "i hellighet og rettferd for hans åsyn",
+          "alle våre dager.",
+          "Også du, barn, skal kalles profet for den Høyeste. Du skal gå forut for Herren og rydde hans veier,",
+          "for å gi hans folk kunnskap om frelsen",
+          "gjennom syndenes forlatelse,",
+          "ved vår Guds barmhjertighet og miskunn som vil la solrenning fra det høye gjeste oss,",
+          "for å åpenbare seg for dem som sitter i mørke og dødens skygge,",
+          "og styre våre skritt inn på fredens vei.",
+          "Ære være Faderen og Sønnen og den Hellige Ånd.",
+          "Som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      "forbønner": "La oss feire vår Frelser, det sanndru vitne, for martyrenes skyld, de som gikk i døden for Guds Ord, og si:\nR.\nDu har løskjøpt oss til Gud ved ditt blod.\n-\nVed dine martyrer som frivillig gikk i døden for å vitne om troen, gi oss, Herre, sann åndelig frihet.\n-\nVed dine martyrer som ofret liv og blod, gi oss, Herre, standhaftighet og redelighet i troen.\n-\nVed dine martyrer som tok opp sitt kors og fulgte etter deg, gi oss, Herre, mot og kraft til å bære de prøvelser som livet byr på.\n-\nVed dine martyrer som har tvettet sine kjortler i Lammets blod, gi oss, Herre, nåde til å stå imot kjødets fristelser og verdens forlokkelser.",
+      "bønn": "Barmhjertige Gud, du tente din kjærlighet i den salige Laurentius, så han ble et lys for ditt folk ved sin trofaste tjeneste og sin ærerike martyrdød. Hjelp oss å elske det han elsket, og øve barmhjertighet, slik han viste oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+    },
+    "middagsbønn": {
+      "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
+      "salmer": [
+        {
+          "referanse": "Salme 119 (89-96 XII Lamed)",
+          "antifon": "Herren gav dem en hård kamp att utkämpa, han lät dem vinna seger genom visheten, som är mäktigare än allt.",
+          "tekst": [
+            "Herre, ditt ord er evig,",
+            "det står fast i himmelen.",
+            "Din troskap varer fra slekt til slekt, du har grunnfestet jorden og den står fast.",
+            "Etter din dom består alt til i dag,",
+            "for alle ting tjener deg.",
+            "Hadde ikke din lov vært min glede, var jeg omkommet i min elendighet.",
+            "Aldri i evighet vil jeg glemme dm lov,",
+            "for ved den har du holdt meg i live.",
+            "Din er jeg, frels meg, for jeg søker dine bud.",
+            "De gudløse ligger på lur for å ta meg av dage,",
+            "men jeg akter på dine bud.",
+            "For all fullkommenhet så jeg en grense, men uten ende er dine bud.",
+            "Ære være Faderen og Sønnen",
+            "og den Hellige Ånd,",
+            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "Salme 119 (89-96 XII Lamed)",
+          "antifon": "Herren har krönt dem med rättfärdighetens krona, han har gett dem ärans heliga namn.",
+          "tekst": [
+            "Men jeg håper uten å vakle.",
+            "Stadig på ny vil jeg prise deg.",
+            "Min munn skal forkynne dm pris, hele dagen din frelse.",
+            "Du, Herre, gir meg ny kraft,",
+            "for å forkynne din rettferd og den alene.",
+            "Gud, du har lært meg fra mine unge år, om dine underverk har jeg sunget til denne dag.",
+            "Forlat meg ikke i min alderdom når årene tynger,",
+            "så vil jeg tale om din makt for kommende slekter.",
+            "Til himmelen når din rettferd, Herre, hvem er som du?",
+            "Trengsler og ulykker lot du meg se,",
+            "du gir meg livet igjen, trekker meg opp fra dypet.",
+            "Du styrker meg i min høye alder, du kommer til mgg med trøst.",
+            "Med min harpe vil jeg prise deg for din troskap,",
+            "for deg, du Israels hellige, spille på sitar.",
+            "Jeg jubler av fryd når jeg spiller for deg, du skjenket meg livet da du løste meg ut.",
+            "Min tunge forkynner din rettferd hele dagen.",
+            "De som søker min ulykke, skal stå til skamme.",
+            "Ære være Faderen og Sønnen og den Hellige Ånd,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen.",
+            "Ant. 3",
+            "De går ut gråtande och bär sitt utsäde.",
+            "Kort lesning",
+            "Bønn",
+            "Helige Fader, med glödande kärlek tjänade den helige Laurentius din Son i trohet intill döden, och därför har du ärat honom. Lär oss att älska det han älskade och att handla som han lärde. Genom Jesus Kristus, vår Herre.",
+            "La oss prise Herren.",
+            "Gud være lovet!."
+          ]
+        }
+      ],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": "Helige Fader, med glödande kärlek tjänade den helige Laurentius din Son i trohet intill döden, och därför har du ärat honom. Lär oss att älska det han älskade och att handla som han lärde. Genom Jesus Kristus, vår Herre.\nLa oss prise Herren.\nGud være lovet!."
+    },
+    "vesper": {
+      "hymne": "",
+      "salmer": [
+        {
+          "referanse": "Salme 123",
+          "antifon": "Laurentius trådte frem som martyr, og bekjente Herren Jesu Kristi navn.",
+          "tekst": [
+            "Til deg løfter jeg mine øyne,",
+            "du som troner i himmelen.",
+            "Som tjenerens øyne følger sin herres hånd, som tjenestepiken følger sin frues hånd,",
+            "slik følger våre øyne Herren, vår Gud,",
+            "inntil han er oss nådig.",
+            "Miskunn deg, Herre, miskunn deg over oss, for vi er rikelig mettet med hån.",
+            "Vår sjel er mettet til overflod",
+            "med hån fra de rike og spott fra de hovmodige.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "Salme 124",
+          "antifon": "Den salige Laurentius ropte og sa: Jeg jubler av glede over å være funnet verdig til å bli ofret for Kristi skyld.",
+          "tekst": [
+            "Hadde Herren ikke vært med oss, så skal Israel si,",
+            "hadde Herren ikke vært med oss,",
+            "da mennesker reiste seg mot oss, levende hadde de slukt oss;",
+            "da deres vrede flammet opp mot oss,",
+            "da hadde vannet veltet frem",
+            "og flommen revet oss bort;",
+            "en rivende strøm hadde overskyllet oss, veldige vannmasser dekket oss.",
+            "Lovet være Herren,",
+            "han gav oss ikke til rov for deres tenner.",
+            "Vår sjel er som en fugl, fridd fra fangerens snare.",
+            "Snaren er sønderrevet,",
+            "og vi er sluppet fri.",
+            "Vår hjelp er i Herrens navn, han som skapte himmel og jord.",
+            "Ære være Faderen og Sønnen",
+            "og den Hellige And,",
+            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "CanticumEfeserbrevet (1,3-10)",
+          "antifon": "Jeg takker deg, Herre Jesus Kristus, fordi du har funnet meg verdig til å tre inn gjennom dine porter.",
+          "tekst": [
+            "Velsignet være Gud,",
+            "vår Herres Jesu Kristi Gud og Far,",
+            "han som har velsignet oss med all åndelig velsignelse i himmelen, i Kristus.",
+            "For i ham har han utvalgt oss",
+            "før verdens grunnvoll ble lagt,",
+            "til å være hellige og ulastelige for hans åsyn, i kjærlighet.",
+            "atter sin egen frie vilje har han forutbestemt oss",
+            "til å bli hans sønner ved Jesus Kristus,",
+            "sin nådes herlighet til lov og pris, den nåde han rikelig har skjenket oss gjennom sin elskede.",
+            "I ham er vi frikjøpt, gjennom hans blod,",
+            "i ham er våre synder tilgitt, etter hans rike nåde,",
+            "den nåde han har latt flyte ned over oss, i strømmer av visdom og innsikt.",
+            "Slik har han gitt sin viljes mysterium til kjenne for oss,",
+            "etter den frie beslutning han selv på forhånd hadde fattet,",
+            "om å fullføre sin frelsesplan i tidenes fylde: A sammenfatte alt i Kristus, alt i himlene og alt på jorden.",
+            "Ære være Faderen og Sønnen",
+            "og den Hellige And,",
+            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+          ]
+        }
+      ],
+      "lesning": {
+        "referanse": "1 Pet 4,13-14",
+        "kilde": "",
+        "tekst": "Gled dere bare, i samme mål som dere får del i Kristi lidelser, for da skal dere også kunne motta ham med jubel, den dag han trer frem i sin \nherlighet. Og blir dere forhånet for Kristi skyld, så regn dere for lykkelige, for da hviler hans herlighet, ja, Guds egen And, over dere."
+      },
+      "responsorium": {
+        "ref": "",
+        "v": "Gud, du har satt oss på prøve, men du førte oss ut til overflod. Du lutret oss slik man renser sølv. Ære være Faderen og Sønnen og den Hellige Ånd.",
+        "r": "Gud, du har satt oss på prøve, men du førte oss ut til overflod."
+      },
+      "canticum": {
+        "antifon": "Den salige Laurentius sa: Min natt er uten mørke, ja alt skinner klart i lyset.",
+        "tekst": [
+          "Min sjel opphøyer Herren,",
+          "min ånd fryder seg i Gud, min frelser,",
+          "han som har sett til sin ringe tjenerinne. For se, fra nå av skal alle slekter prise meg salig.",
+          "Store ting har han gjort mot meg, han den mektige.",
+          "Hellig er hans navn.",
+          "Hans miskunn varer fra slekt til slekt mot dem som frykter ham.",
+          "Han gjorde storverk med sin sterke arm,",
+          "han spredte dem som gikk med hovmodstanker.",
+          "Han støtte herskere ned fra tronen og opphøyet de ringe.",
+          "Sultne mettet han med gode gaver,",
+          "rikfolk ble sendt tomhendt bort.",
+          "Han tok seg av Israel, sin tjener, for han kom ihu sin miskunn.",
+          "Slik han hadde lovet våre fedre:",
+          "Abraham og hans ætt til evig tid.",
+          "Ære være Faderen og Sønnen og den Hellige And.",
+          "Som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      "forbønner": "I den time da martyrenes Konge gav sitt legeme ved den siste nattverd og viet det til korset, la oss bære frem vår takk for ham og si:\nR.\nHerre, vi lovpriser deg.\n-\nHerre, vi lovpriser deg fordi du elsket oss inntil enden, du som er vår Frelser og martyriets forbilde og opphavsmann.\n-\nFordi du kaller til liv hver synder som angrer og gjør bot.\n-\nFordi du betrodde Kirken ditt blod, den nye og evige pakts blod, utgydt til syndenes forlatelse, så den stadig på nytt kan bære det frem for Gud.\n-\nFor hver en dag vi får nåde til å leve i troens utholdenhet.\n-\nFordi du i dag har gitt mange brødre og søstre del i din død.",
+      "bønn": "Barmhjertige Gud, du tente din kjærlighet i den salige Laurentius, så han ble et lys for ditt folk ved sin trofaste tjeneste og sin ærerike martyrdød. Hjelp oss å elske det han elsket, og øve barmhjertighet, slik han viste oss. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+    }
+  }
+}
