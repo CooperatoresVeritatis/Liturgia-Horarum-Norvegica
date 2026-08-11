@@ -168,6 +168,14 @@
       ],
       "file": "days/fest-bonaventura-biskop-och-kyrkolarare.json"
     },
+    "fest-clara-jungfru": {
+      "type": "fest",
+      "feast": "Clara jungfru",
+      "dates": [
+        "2026-08-11"
+      ],
+      "file": "days/fest-clara-jungfru.json"
+    },
     "fest-dominicus-prast": {
       "type": "fest",
       "feast": "Dominicus präst",
@@ -587,9 +595,9 @@
     }
   },
   "totals": {
-    "days_scraped": 69,
+    "days_scraped": 70,
     "ferial": 14,
-    "feasts": 31,
+    "feasts": 32,
     "unclassified": 21
   }
 }
