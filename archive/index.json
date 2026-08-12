@@ -329,6 +329,14 @@
       ],
       "file": "days/uke-iii-mandag.json"
     },
+    "uke-iii-onsdag": {
+      "type": "ferie",
+      "feast": "onsdag - uke III",
+      "dates": [
+        "2026-08-12"
+      ],
+      "file": "days/uke-iii-onsdag.json"
+    },
     "uke-iii-tirsdag": {
       "type": "ferie",
       "feast": "tirsdag - uke III",
@@ -571,12 +579,12 @@
       "collected": [
         "mandag",
         "tirsdag",
+        "onsdag",
         "torsdag",
         "fredag",
         "lørdag"
       ],
       "missing": [
-        "onsdag",
         "søndag"
       ]
     },
@@ -595,8 +603,8 @@
     }
   },
   "totals": {
-    "days_scraped": 70,
-    "ferial": 14,
+    "days_scraped": 71,
+    "ferial": 15,
     "feasts": 32,
     "unclassified": 21
   }
