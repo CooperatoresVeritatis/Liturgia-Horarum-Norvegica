@@ -350,7 +350,8 @@
       "type": "ferie",
       "feast": "torsdag - uke III",
       "dates": [
-        "2026-07-16"
+        "2026-07-16",
+        "2026-08-13"
       ],
       "file": "days/uke-iii-torsdag.json"
     },
@@ -603,7 +604,7 @@
     }
   },
   "totals": {
-    "days_scraped": 71,
+    "days_scraped": 72,
     "ferial": 15,
     "feasts": 32,
     "unclassified": 21
