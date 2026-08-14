@@ -224,6 +224,14 @@
       ],
       "file": "days/fest-marta.json"
     },
+    "fest-maximilian-maria-kolbe-prast-och-martyr": {
+      "type": "fest",
+      "feast": "Maximilian Maria Kolbe präst och martyr",
+      "dates": [
+        "2026-08-14"
+      ],
+      "file": "days/fest-maximilian-maria-kolbe-prast-och-martyr.json"
+    },
     "fest-olav-konung-och-martyr-norges-skyddshelgon": {
       "type": "fest",
       "feast": "Olav konung och martyr Norges skyddshelgon",
@@ -604,9 +612,9 @@
     }
   },
   "totals": {
-    "days_scraped": 72,
+    "days_scraped": 73,
     "ferial": 15,
-    "feasts": 32,
+    "feasts": 33,
     "unclassified": 21
   }
 }
