@@ -1,0 +1,254 @@
+{
+  "key": "ukjent-2026-08-15",
+  "type": "ukjent",
+  "feast": "",
+  "dates": [
+    "2026-08-15"
+  ],
+  "content": {
+    "date": "2026-08-15",
+    "feast": "",
+    "feast_en": "Office of Readings",
+    "verified": false,
+    "mismatch_flag": false,
+    "sources": {
+      "no": "https://www.oblates.se/index.php?o=nbreviar",
+      "en": "https://universalis.com/europe.norway/20260815/readings.htm"
+    },
+    "hymne": "Maria, o Guds Moder, Salighetens Krona,\nstrålande som solen, som i himlen tronar.\nSkapelsens hjärta, alla mänskors Broder,\nbärande vår smärta, födde du till Jorden.\nMaria, Herrens Moder, Nådelärans Pärla,\nFrälsad du benådar dem som nåd begära.\nNäst den du burit ädlaste klenoden,\nälskad främst av Jesus, fruktad av Herodes.\nMaria, Livets Moder, Ordets bärarinna,\nÄnglasynen trogen blev du segrarinna.\nÄnglarnas Drottning, Jordens trogna blomma,\nbed för oss i döden, lys oss i det tomma! Amen.",
+    "salmer": [
+      {
+        "referanse": "Salme 24",
+        "antifon": "Stå upp, du Jungfru och Drottning, träd in i den himmelske Konungens upphöjda boning.",
+        "tekst": [
+          "Herrens er jorden og alt den bærer,",
+          "jorderik og alle som bor der.",
+          "Han festet den over havet, den står fast over vannene.",
+          "„Hvem kan stige opp på Herrens fjell?",
+          "Hvem kan stå i hans helligdom?\"",
+          "„Den som har rent hjerte og skyldfrie hender, som ikke farer med svik og ikke sverger falsk.",
+          "Han mottar velsignelse fra Herren,",
+          "rettferdighet fra Gud, sin frelser.\"",
+          "„Dette er den ætt som søker Herren, Jakob som søker ditt åsyn.\"",
+          "„Porter, løft deres buer, spring opp, evige dører,",
+          "for herlighetens Konge kommer.\"",
+          "„Hvem er den herlighetens Konge?\" „Herren, den veldige, sterk i strid.\"",
+          "„Porter, løft deres buer, spring opp, evige dører,",
+          "for herlighetens Konge kommer.\"",
+          "„Hvem er den herlighetens Konge?\" „Herren, den Høyeste, han er herlighetens Konge.\"",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 46",
+        "antifon": "Gud har utvalt henne och gjort henne till sin, han har låtit henne bo i sitt heliga tabernakel.",
+        "tekst": [
+          "Gud er oss et mektig vern,",
+          "en hjelper som alltid er rede.",
+          "Derfor frykter vi ikke om jorden ryster, om fjellene bever i havets dyp,",
+          "om bølgene bruser og fråder av skum,",
+          "om fjellene skjelver i opprørt hav.",
+          "Herren, hærskarenes Gud, er med oss, Jakobs Gud er vår faste borg.",
+          "En elv med sine grener fryder Herrens stad,",
+          "helliger den Høyestes bolig.",
+          "Gud er i dens midte, den kan ikke rokkes. Herren kommer den til hjelp ved morgengry.",
+          "Folkeslag kommer i kok, riker vakler.",
+          "Han hever sin røst og jorden revner.",
+          "Herren, hærskarenes Gud, er med oss. Jakobs Gud er vår faste borg.",
+          "Kom og se hva Herren har gjort,",
+          "han som fyller jorden med age.",
+          "Han gjør slutt på krig over hele jorden. Buer har han brutt, spyd har han knekket og kastet skjold på ilden.",
+          "Hold opp! Dere må innse at jeg er Gud,",
+          "opphøyet over folkene, høyt over hele jorden.\"",
+          "Herren, hærskarenes Gud, er med oss, Jakobs Gud er vår faste borg.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 87",
+        "antifon": "Härliga ting har sagts om dig, jungfru Maria.",
+        "tekst": [
+          "Den by han har grunnlagt på det hellige fjell,",
+          "har Herren kjær.",
+          "Det er Sions porter han har kjær fremfor alle Jakobs boliger.",
+          "Herlige ting er blitt sagt om deg,",
+          "du Guds egen by.",
+          "Rahab og Babylon regner jeg blant dem som kjenner meg.",
+          "Noen er født i Filisterland,",
+          "i Tyrus eller Nubia,",
+          "men om Sion skal det hete: Her er alle født. Den Høyeste har det i sitt vern.",
+          "Herren fører inn i manntall folk og fyrster",
+          "som her er født.",
+          "Alle hører de hjemme i deg.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      }
+    ],
+    "vers": {
+      "v": "Salig är du, jungfru Maria, du som trodde.",
+      "r": "Allt han sagt dig har blivit uppfyllt."
+    },
+    "lesning1": {
+      "referanse": "Ef 1,16—2,10",
+      "kilde": "Fra Paulus’ brev til efeserne. — Gud gav oss sete i himlene med og i Kristus Jesus",
+      "tekst": "Brødre, jeg holder ikke opp med å takke Gud for dere når jeg husker på dere i mine bønner. Jeg ber om at vår Herre Jesu Kristi Gud, herlighetens Far, \nmå la dere få en And som gir visdom og åpenbaring, så dere lærer Gud å kjenne. Må han gi dere lys til hjertets øyne, så dere får innsikt i det håp han \nhar kalt dere til, hvor rik og herlig hans arv er for de hellige og hvor overveldende hans kraft er hos oss som tror. Med denne veldige makt og styrke \nreiste han Kristus opp fra de døde og satte ham ved sin høyre hånd i himmelen, over alle makter og åndskrefter, over alt velde og herredømme og over \nalle navn som nevnes kan, ikke bare i denne tid, men også i den kommende. Alt la han under hans fotter, og ham, hodet over alle ting, ga han til \nKirken, som er Kristi legeme, fylt av ham som fyller alt i alle.\nDere var en gang døde på grunn av misgjerningene og syndene deres. Dere levde i dem på den nåværende verdens vis og lot dere lede av herskeren i \nhimmelrommet, den ånd som nå er virksom i de ulydige. Ja, vi levde alle en gang som de. Vi fulgte kjødets lyster og lot oss lede av det og av våre \negne tanker. Vi var av naturen vredens barn, vi som de andre. Men Gud er rik på miskunn. Fordi han elsket oss med så stor en kjærlighet, gjorde han \noss levende med Kristus, vi som var døde på grunn av våre misgjerninger. Av nåde er dere frelst. I Kristus Jesus har han reist oss opp fra døden \nsammen med ham og satt oss i himmelen med ham. Slik ville han i de kommende tider vise hvor overstrømmende rik han er på nåde, og hvor god han er \nmot oss i Kristus Jesus.\nFor av nåde er dere frelst, ved tro. Det er ikke deres eget verk, men Guds gave. Det hviler ikke på gjerninger, for at ingen skal kunne rose seg selv. \nFor vi er hans verk, skapt i Kristus Jesus til gode gjerninger, som Gud på forhånd har lagt ferdige for at vi skulle vandre i dem."
+    },
+    "responsorium1": {
+      "ref": "",
+      "v": "A hvor fager og vakker er Jomfru Maria, som dro fra denne verden til Kristus. Englene gleder seg, erkeenglene jubler over Jomfru Maria.",
+      "r": "I de helliges kor stråler hun som solen av himmelsk kraft."
+    },
+    "lesning2": {
+      "referanse": "Fra pave Pius XIIs apostoliske konstitusjon Munificentissimus Deus.",
+      "kilde": "Ditt legeme er hellig og opphøyet",
+      "tekst": "Når de hellige fedre og kirkelærere holdt festen for Guds Mors opptagelse i himmelen, prekte de og talte for menigheten om hennes opptagelse som et \nfaktum som alt var vel kjent og akseptert av de troende. De forklarte opptagelsen mer utførlig og underbygget dens mening og realitet med dypere \nargumenter. Fremfor alt gjorde de dette ganske klart: Denne festen minner ikke bare om at den salige Jomfru Marias døde legeme ikke var utsatt for \nforråtnelse, men at hun på samme måte som sin enbårne Sønn Jesus Kristus ble brakt i triumf til himmelens herlighet.\nDen hellige Johannes av Damaskus var mer enn andre en forkynner av denne overleverte sannhet. Han sammenlignet den nådige Guds Mors legemlige \nopptagelse i himmelen med hennes andre nådegaver og privilegier og kunngjorde dette med stor veltalenhet: «Det var riktig at hun som hadde bevart sin \njomfrudom ukrenket da hun fødte, også bevarte sin kropp fra forråtnelsen etter sin død. Det var riktig at hun som hadde båret Skaperen som barn i sitt \nskjød, skulle få opphold i de guddommelige boliger.\nDet var riktig at bruden som Faderen hadde ektet, skulle bo i himmelens brudekammer. Det var riktig at hun som hadde sett sin Sønn på korset og da i \nsitt hjerte hadde kjent smertens sverd som hun hadde unnsluppet da hun fødte Ham, skulle få skue ham ved sin Fars side. Det var riktig at Guds Mor \nskulle få eie det som tilhører hennes Sønn, og hedres av all skapningen som Guds mor og tjenerinne.»\nDen hellige Germanus av Konstantinopel mente at når Guds Mor Jomfru Marias legeme var ufordervet og ble hevet til himmelen, var det ikke bare i samsvar \nmed hennes verdighet som Guds Mor, men også i samsvar med den spesielle hellighet ved hennes jomfruelige kropp: «Du viser deg, som Skriften sier, i \nskjønnhet. Også din jomfruelige kropp er fullt og helt hellig, fullt og helt ren, fullt og helt Guds bolig. Av dette følger derfor at det er utelukket \nat dette legeme så blir til støv. Riktig nok er det et menneskelig legeme, men det er likevel det samme legeme som nå lever ufordervet der oppe. Det \ner i sannhet et herlighetsfylt legeme som uskadd lever og deltar i det fullkomne liv.»\nEn annen meget tidlig forfatter hevder følgende: «Siden hun da som den herlighetsfylte Mor får liv av Kristus, vår Gud og Frelser, han som skjenker \nliv og udødelighet, så tok han hennes ufordervede legeme opp til seg i all evighet, han som vekket henne av graven slik han selv alene vet.»\nAlle kirkefedrenes argumenter og overveielser støttes til syvende og sist av Den hellige skrift. For de løfter frem for våre øyne Guds hellige Mor \ninderlig forenet med sin guddommelige Sønn; hun deler alltid skjebne med ham.\nFremfor alt er det verd å legge merke til at kirkefedrene alt fra det andre århundre fremhever Jomfru Maria som den nye Eva, underlagt den nye Adam, \nmen likevel inderlig forenet med ham i kampen mot dødsrikets fiende, som det blir forutsagt i proto-evangeliet. Den kampen skal lede til den endelige \nseier over synden og døden, de to som alltid nevnes sammen i Paulus’ brev. Som Kristi ærerike oppstandelse var en vesentlig del av og selve triumfen \ni denne seier, slik måtte også den kampen den salige Jomfru førte sammen med Sønnen, avsluttes med forherligelsen av hennes jomfruelige legeme. For \nsom Paulus sier: Når dette forgjengelige er kledd i uforgjengelighet og dette dødelige er kledd i udødelighet, da oppfylles det som står skrevet: \nDøden er oppslukt i seier.\nDerfor er den ærverdige Guds Mor forutbestemt og på mystisk vis forenet med Jesus Kristus i én og samme bestemmelse fra evighet til evighet. Hun er \nuplettet i sin unnfangelse. Hun er urørt jomfru i sin verdighet som Guds mor. Hun er den guddommelige Forløsers storsinnede medarbeider, han som \nseiret over synden og dens følger.\nEndelig vant hun så å si sine privilegiers siste krone da hun ble forskånet for gravens forråtnelse og, som sin Sønn etter at han beseiret døden, \nmed legeme og sjel ble hevet til himmelens herlighet, hvor hun stråler som Dronning ved sin Sønns høyre hånd, den udødelige evighetens Konge."
+    },
+    "responsorium2": {
+      "ref": "",
+      "v": "Se, den herlige dag er her da Jomfruen Guds Mor steg opp til himlene. Vi alle lovpriser henne og sier: Lykksalig er du, hellige Jomfru Maria, og verdig all pris; for av deg er runnet rettferds sol, Kristus, vår Gud.",
+      "r": "Velsignet er du blant kvinnene og velsignet er ditt livs frukt."
+    },
+    "teDeum": "Deg. Gud, lover vi.\n*\nDeg, Herre, bekjenner vi.\nDeg evige Fader, ærer all jorden.\n*\nDeg lover alle engler.\nDeg bekjenner himlene og alle makter.\n*\nDeg ærer kjerubim og serafim,\nog med uopphørlig røst de roper:\n*\nHellig! Hellig! Hellig! Herre Gud Sebaot!\nFulle er himlene og jorden\n*\nav din herlighet og velde.\nDeg priser apostlenes mektige kor.\n*\nDeg lover profetenes ærverdige skare.\nDeg opphøyer martyrenes hvitkledte hær.\n*\nDeg bekjenner over all jorden den hellige Kirke,\nFader, umåtelig i velde,\n*\nog din høylovede sanne og enbårne Sønn,\nog Trøsteren,\n*\nden Hellige Ånd.\nDu er herlighetens konge, Kriste.\n*\nDu er Faderens evige Sønn.\nDu er blitt menneske for å utfri mennesket\n*\nog du skydde ikke jomfruens skjød.\nDu har overvunnet dødens brodd\n*\nog opplatt himlenes rike for de troende.\nDu troner ved Guds høyre hånd, i Faderens herlighet.\n*\nSom vår dommer tror vi du skal komme.\nDeg ber vi derfor: Hjelp dine tjenere,\n*\nsom du har gjenløst med ditt dyre blod.\nTell dem blant dine hellige i den evige herlighet.\n*\nFrels ditt folk, o Herre, og velsign din arvelodd.\nLed dem og opphøy dem til evig tid.\n*\nDag for dag velsigner vi deg,\n\nog vi lover ditt navn i evighet\n*\nog i evigheters evighet.\n[Verdiges, Herre, i denne dag\n*\nå bevare oss uten synd.\nMiskunne deg over oss, Herre,\n*\nmiskunne deg over oss.\nDin miskunn hvile over oss, Herre,\n*\nvi som håper på deg.\nTil deg, Herre, har jeg satt min lit,\n*\nla meg ikke bli til skamme i evighet.]",
+    "bønn": "Allsmäktige, evige Gud, till himlens härlighet har du upphöjt din Sons moder, den alltid rena jungfrun Maria, med kropp och själ. \nLär oss att lyfta blicken upp till denna härlighet, och låt oss en gång dela den med henne. \nGenom din Son Jesus Kristus, vår Herre och Gud, som dig, Fader, och den helige Ande, lever och råder i evigheters evigheter.",
+    "laudes": {
+      "hymne": "Maria var en møy så ren.\nKyrie eleison.\nMaria trådte på torn og sten\nder hun vandret trett imot Betlehem.\nJesus og Maria.\nHva var Marias smerte og trang?\nKyrie eleison.\nHva fylte smerten med himmelsk sang?\nDet var verdens Frelser hun bar i fang.\nJesus og Maria.\nEn engel til Maria kom.\nKyrie eleison.\nHun tvilte ei i sin tro så from\npå Herrens bud i helligdom.\nJesus og Maria.\nDa tornen ble en lilje blid.\nKyrie eleison.\nOg Marias vandring en himmelsti\nmed Jesusbarnet til frelse rik.\nJesus og Maria.",
+      "salmer": [
+        {
+          "referanse": "Salme 63",
+          "antifon": "Velsignet er du, Maria. Av deg kom verdens Frelser. Nå fryder du deg for Herrens åsyn.",
+          "tekst": [
+            "Gud, du min Gud, deg søker jeg,",
+            "min sjel tørster etter deg.",
+            "Mitt kjød lengter etter deg som den uttørrede jord etter regn.",
+            "Vis deg i din helligdom",
+            "så jeg kan se din makt og ære.",
+            "For din miskunn er bedre enn livet, min munn skal synge din pris.",
+            "Slik vil jeg love deg hele mitt liv,",
+            "løfte mine hender og prise ditt navn.",
+            "Min sjel mettes som av utsøkte retter når tungen jubler din pris.",
+            "Jeg kommer deg ihu på mitt leie,",
+            "tenker på deg hver nattevakt.",
+            "For du er min hjelp, jeg jubler i skyggen av dine vinger.",
+            "Min sjel henger ved deg,",
+            "din høyre holder meg fast.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "De tre menns sang (Dan 3,57-88.56)",
+          "antifon": "Jomfru Maria er løftet opp over englenes kor, måtte alle troende glede seg og prise Herren.",
+          "tekst": [
+            "Lov Herren, alt hans verk,",
+            "lovsyng og opphøy ham i evighet.",
+            "Lov Herren, alle hans engler. Lov Herren, dere himler.",
+            "Lov Herren, alt vann over himmelens hvelv.",
+            "Lov Herren, alle makter.",
+            "Lov Herren, sol og måne. Lov Herren, himmelens stjerner.",
+            "Lov Herren, alt regn og dugg.",
+            "Lov Herren, alle vinder.",
+            "Lov Herren, ild og varme. Lov Herren, kulde og hete.",
+            "Lov Herren, duggfall og snestorm.",
+            "Lov Herren, is og kulde.",
+            "Lov Herren, rim og sne. Lov Herren, netter og dager.",
+            "Lov Herren, lys og mørke.",
+            "Lov Herren, lyn og skyer.",
+            "Måtte jorden love Herren, lovsynge og opphøye ham i evighet.",
+            "Lov Herren, fjell og hauger.",
+            "Lov Herren, alle vekster på jorden.",
+            "Lov Herren, dere kilder. Lov Herren, hav og elver.",
+            "Lov Herren, store sjødyr og alt som det kryr av i vannet.",
+            "Lov Herren, alle himmelens fugler.",
+            "Lov Herren, alle slags villdyr og bufe. Lov Herren, alle menneskebarn.",
+            "Måtte Israel love Herren,",
+            "lovsynge og opphøye ham i evighet.",
+            "Lov Herren, dere Herrens prester. Lov Herren, dere Herrens tjenere.",
+            "Lov Herren, dere de rettferdiges ånd og sjel.",
+            "Lov Herren, dere hellige og ydmyke av hjertet.",
+            "Lov Herren, Ananja, Asarja og Misael, lovsyng og opphøy ham i evighet,",
+            "La oss love Faderen og Sønnen med den Hellige Ånd,",
+            "la oss lovsynge og opphøye ham i evighet,",
+            "Velsignet er du, Herre, på himmelens hvelv, verdig til å lovsynges, æres og opphøyes i evighet."
+          ]
+        },
+        {
+          "referanse": "Salme 149",
+          "antifon": "Så høyt har Herren opphøyet ditt navn at din pris vil aldri forstumme i menneskers munn.",
+          "tekst": [
+            "Syng en ny sang for Herren.",
+            "Syng hans pris i de frommes forsamling.",
+            "Israel skal fryde seg i sin skaper, Sions barn juble for sin konge.",
+            "De skal love hans navn med dans,",
+            "synge for ham til pauke og sitar.",
+            "For Herren elsker sitt folk, kroner de saktmodige med seier.",
+            "Hans fromme skal juble med ære,",
+            "rope av fryd på sitt leie.",
+            "Med lovsang til Gud i sin munn og tveegget sverd i hånd.",
+            "For å fullbyrde hevn over folkene",
+            "og straffe folkeslag.",
+            "For å binde deres konger med lenker og legge i jern deres fyrster.",
+            "For å fullbyrde den dom som er skrevet,",
+            "til ære for alle hans fromme.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
+          ]
+        }
+      ],
+      "lesning": {
+        "referanse": "Jf. Jes 61,10",
+        "kilde": "",
+        "tekst": "Jeg vil glede og fryde meg i Herren, min sjel skal juble i min Gud. For han har kledd meg i frelsens drakt og svøpt meg i rettferdighets kappe, \nlik en brudgom som pryder sitt hode, lik en brud som pynter seg med sine smykker."
+      },
+      "responsorium": {
+        "ref": "",
+        "v": "I dag ble Jomfru Maria løftet opp til himmelen. Hun skal dele Kristi seier for evig. Ære være Faderen og Sønnen og den Hellige And.",
+        "r": "I dag ble Jomfru Maria løftet opp til himmelen."
+      },
+      "canticum": {
+        "antifon": "Se Jerusalems datter, se hennes skjønnhet, hun som steg opp til himmelen lik solen ved daggry.",
+        "tekst": [
+          "Velsignet være Herren, Israels Gud,",
+          "for han har sett til sitt folk og løst det ut.",
+          "Han har oppreist for oss en kraft til frelse i sin tjener Davids ætt;",
+          "slik han lovet fra fordum",
+          "gjennom sine hellige profeters munn:",
+          "Å frelse oss fra våre fiender og fra deres hånd som hater oss;",
+          "vise miskunn mot våre fedre når han minnes sin hellige pakt,",
+          "den ed han svor Abraham, vår far;",
+          "å gi oss å tjene ham uten frykt, fridd fra våre fienders hender,",
+          "i hellighet og rettferd for hans åsyn",
+          "alle våre dager.",
+          "Også du, barn, skal kalles profet for den Høyeste. Du skal gå forut for Herren og rydde hans veier,",
+          "for å gi hans folk kunnskap om frelsen",
+          "gjennom syndenes forlatelse,",
+          "ved vår Guds barmhjertighet og miskunn som vil la solrenning fra det høye gjeste oss,",
+          "for å åpenbare seg for dem som sitter i mørke og dødens skygge,",
+          "og styre våre skritt inn på fredens vei.",
+          "Ære være Faderen og Sønnen og den Hellige Ånd.",
+          "Som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      "forbønner": "La oss vende oss i bønn til vår Frelser, han som lot seg føde av Jomfru Maria, og si:\nR.\nMåtte din mor gå i forbønn for oss.\n-\nDu rettferds sol, forut for deg kom den rene Jomfru som det klare morgengry. Gi oss alltid å vandre i lyset fra ditt komme.\n-\nDu evige Ord, du som valgte deg Maria som den uforgjengelige paktsark for ditt nærvær, fri oss fra syndens forgjengelighet.\n-\nDu vår Frelser, du som hadde din Mor stående hos deg ved korsets fot, gi oss på hennes forbønn å finne glede i å dele dine lidelser.\n-\nMilde Jesus, du som gav Johannes Maria til mor da du hang på korset, gi oss å leve slik at også vi kan regnes som hennes barn.",
+      "bønn": "Allmektige, evige Gud, du har tatt den alltid rene Jomfru Maria, din Sønns mor, med sjel og legeme opp til himmelens herlighet. Vi ser hen til dette håpets og trøstens tegn og ber at du må lede oss på den vei som fører til dm herlighet. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+    },
+    "middagsbønn": {
+      "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
+      "salmer": [],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": "Allmektige, evige Gud, du har tatt den alltid rene Jomfru Maria, din Sønns mor, med sjel og legeme opp til himmelens herlighet. Vi ser hen til dette håpets og trøstens tegn og ber at du må lede oss på den vei som fører til dm herlighet. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.\nLa oss prise Herren.\nGud være lovet!."
+    },
+    "vesper": null
+  }
+}
