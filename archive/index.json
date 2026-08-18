@@ -388,6 +388,14 @@
       ],
       "file": "days/uke-iv-mandag.json"
     },
+    "uke-iv-tirsdag": {
+      "type": "ferie",
+      "feast": "tirsdag - uke IV",
+      "dates": [
+        "2026-08-18"
+      ],
+      "file": "days/uke-iv-tirsdag.json"
+    },
     "uke-iv-torsdag": {
       "type": "ferie",
       "feast": "torsdag - uke IV",
@@ -624,20 +632,20 @@
     "uke-IV": {
       "collected": [
         "mandag",
+        "tirsdag",
         "torsdag",
         "fredag",
         "lørdag"
       ],
       "missing": [
-        "tirsdag",
         "onsdag",
         "søndag"
       ]
     }
   },
   "totals": {
-    "days_scraped": 76,
-    "ferial": 16,
+    "days_scraped": 77,
+    "ferial": 17,
     "feasts": 33,
     "unclassified": 23
   }
