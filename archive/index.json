@@ -160,6 +160,14 @@
       ],
       "file": "days/fest-alfonso-maria-de-liguori-biskop-och-kyrkolarare.json"
     },
+    "fest-bernhard-av-clairvaux-abbot-och-kyrkolarare": {
+      "type": "fest",
+      "feast": "Bernhard av Clairvaux abbot och kyrkolärare",
+      "dates": [
+        "2026-08-20"
+      ],
+      "file": "days/fest-bernhard-av-clairvaux-abbot-och-kyrkolarare.json"
+    },
     "fest-bonaventura-biskop-och-kyrkolarare": {
       "type": "fest",
       "feast": "Bonaventura biskop och kyrkolärare",
@@ -652,9 +660,9 @@
     }
   },
   "totals": {
-    "days_scraped": 78,
+    "days_scraped": 79,
     "ferial": 18,
-    "feasts": 33,
+    "feasts": 34,
     "unclassified": 23
   }
 }
