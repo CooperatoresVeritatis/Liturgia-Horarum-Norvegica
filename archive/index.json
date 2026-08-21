@@ -248,6 +248,14 @@
       ],
       "file": "days/fest-olav-konung-och-martyr-norges-skyddshelgon.json"
     },
+    "fest-pius-x-pave": {
+      "type": "fest",
+      "feast": "Pius X påve",
+      "dates": [
+        "2026-08-21"
+      ],
+      "file": "days/fest-pius-x-pave.json"
+    },
     "fest-sixtus-ii-pave-och-hans-foljeslagare-martyrer-cajetanus-prast": {
       "type": "fest",
       "feast": "Sixtus II påve och hans följeslagare martyrer, Cajetanus präst",
@@ -660,9 +668,9 @@
     }
   },
   "totals": {
-    "days_scraped": 79,
+    "days_scraped": 80,
     "ferial": 18,
-    "feasts": 34,
+    "feasts": 35,
     "unclassified": 23
   }
 }
