@@ -208,6 +208,14 @@
       ],
       "file": "days/fest-josef-arbetaren.json"
     },
+    "fest-jungfru-maria-drottningen": {
+      "type": "fest",
+      "feast": "Jungfru Maria Drottningen",
+      "dates": [
+        "2026-08-22"
+      ],
+      "file": "days/fest-jungfru-maria-drottningen.json"
+    },
     "fest-jungfru-maria-kyrkans-moder": {
       "type": "fest",
       "feast": "Jungfru Maria, kyrkans moder",
@@ -668,9 +676,9 @@
     }
   },
   "totals": {
-    "days_scraped": 80,
+    "days_scraped": 81,
     "ferial": 18,
-    "feasts": 35,
+    "feasts": 36,
     "unclassified": 23
   }
 }

@@ -1,0 +1,297 @@
+{
+  "key": "fest-jungfru-maria-drottningen",
+  "type": "fest",
+  "feast": "Jungfru Maria Drottningen",
+  "dates": [
+    "2026-08-22"
+  ],
+  "content": {
+    "date": "2026-08-22",
+    "feast": "Jungfru Maria Drottningen",
+    "feast_en": "Office of Readings",
+    "verified": false,
+    "mismatch_flag": false,
+    "sources": {
+      "no": "https://www.oblates.se/index.php?o=nbreviar",
+      "en": "https://universalis.com/europe.norway/20260822/readings.htm"
+    },
+    "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
+    "salmer": [
+      {
+        "referanse": "Salme 50",
+        "antifon": "Herren kaller på himmelen og på jorden for han vil dømme sit folk.",
+        "tekst": [
+          "Herren, Gud over guder, taler,",
+          "han kaller på jorden fra øst til vest.",
+          "Gud stråler frem fra Sion, skjønnhetens krone.",
+          "Vår Gud kommer, han tier ikke.",
+          "Foran ham går en fortærende ild,",
+          "omkring ham raser sterke stormer.",
+          "Han kaller på himmelen og på jorden; for han vil dømme sitt folk:",
+          "„Kom sammen hos meg, mine fromme,",
+          "dere som med offer har sluttet pakt med meg.“",
+          "Himmelen forkynner hans rettferd, for det er Gud som dømmer.",
+          "Ære være Faderen og Sønnen",
+          "og den Hellige And,",
+          "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 50",
+        "antifon": "Kall på meg på nødens dag, så vil jeg utfri deg.",
+        "tekst": [
+          "Hør, mitt folk, for jeg vil tale,",
+          "Israel, jeg vil vitne mot deg. Jeg er Herren din Gud.",
+          "Jeg refser deg ikke for dine offergaver, dine brennoffer har jeg stadig for øye.",
+          "Men jeg trenger ikke okser fra din buskap,",
+          "eller bukker fra din kve.",
+          "For mine er alle dyr i skogen, og villdyrene på de tusen fjell.",
+          "Jeg kjenner alle himmelens fugler",
+          "og krypet på marken tilhører meg.",
+          "Var jeg sulten, sa jeg deg det ikke, for min er jorden og alt den rommer.",
+          "Tror du jeg eter kjøtt av okser",
+          "og drikker blod av bukker?",
+          "Bær ditt takkoffer frem for Gud, hold dine løfter til den Høyeste!",
+          "Kall på meg på nødens dag,",
+          "så vil jeg utfri deg, og du skal prise meg.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      {
+        "referanse": "Salme 50",
+        "antifon": "Den som bringer takkoffer, gir meg ære.",
+        "tekst": [
+          "Men til den ugudelige sier Gud.",
+          "Hva har du med å forkynne mine bud",
+          "og ta min pakt i din munn?",
+          "Du som ikke vil vhe av tukt, og kaster mine ord bak din rygg.",
+          "Ser du en tyv, slår du følge med ham,",
+          "og med horkarler holder du lag.",
+          "Din munn spytter ut ondskap, din tunge spinner svik.",
+          "Du sitter og snakker mot din bror,",
+          "om din mors sønn taler du ondt.",
+          "Slikt har du gjort - og jeg skulle tie? Mener du jeg er som deg?",
+          "Nei, jeg vil refse deg,",
+          "og holde det frem for deg.",
+          "Gi akt på dette, dere som glemmer Gud! Ellers skal jeg la dere sønderrive, og det er ingen som berger.",
+          "Den som bringer takkoffer, gir meg ære,",
+          "den rettferdige skal se min frelse.",
+          "Ære være Faderen og Sønnen og den Hellige And,",
+          "som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      }
+    ],
+    "vers": {
+      "v": "Uten opphør går vi i forbønn for dere.",
+      "r": "For at dere må fylles med kunnskap om Guds vilje."
+    },
+    "lesning1": {
+      "referanse": "Jes 37,21-35",
+      "kilde": "Fra profeten Jesajas bok. — Jesajas spådom om kongen av Assyria",
+      "tekst": "Jesaja, sønn av Amos, sendte dette bud til Hiskia: Så sier Herren, Israels Gud: Jeg har hørt den bønnen du bad til meg om Sankerib, kongen av \nAssyria. Og dette er det ordet som Herren taler mot ham: Hun håner deg og spotter deg, jomfruen, Sions datter; hun rister på hodet etter deg, den \nunge piken Jerusalem. Hvem er det du krenker og vanærer? Hvem tar du til orde imot? Du løfter dine øyne høyt mot Israels Hellige. Du lot dine \ntjenere spotte Herren og sa: «Med mine mange vogner drog jeg opp til de høye fjell, langt inn på Libanon. Der hugget jeg ned høyvokste sedertrær \nog de fineste sypresser. Jeg nådde til den høyeste topp, der skogen står som en have. Jeg har gravet etter vann og drukket av fremmede kilder. Med \nmine fotsåler tørket jeg ut alle elver i Egypt.» Har du ikke hørt om dette? Jeg planla det for lenge siden; jeg laget det slik i eldgammel tid, og \nnå har jeg satt det i verk. Så kunne du ødelegge festningsbyer og gjøre dem til ruinhauger. De som bodde der, stod med kraftløse hender, fylt av \nskrekk og skam. De lignet vekstene på marken, det friske grønnsvær og gresset på tak, som svies av før det vokser til. Om du sitter eller står, om \ndu kommer eller går, så har jeg kjennskap til det. Når du raser mot meg, vet jeg om det. Men fordi du raser mot meg, og jeg har hørt hvor sorgløs \ndu er, setter jeg ring i din nese og legger bissel i din munn. Så fører jeg deg tilbake den veien du er kommet.\nDette skal du ha til tegn: I år må dere spise det som gror av spillkorn, og neste år korn som har sådd seg selv. Men tredje året kan dere så og \nhøste, plante vingårder og spise frukten. Den rest av Juda som blir berget, skal igjen skyte dype røtter, og grenene skal bære frukt. For fra \nJerusalem kommer en rest, fra fjellet Sion en flokk som er berget. Dette skal Herren, Allhærs Gud gjøre i sin brennende iver. Ja, så sier Herren \nom assyrerkongen: Han skal ikke komme inn i denne byen og ikke skyte en pil dit inn. Han skal ikke gå imot den med skjold og ikke kaste opp en voll \nimot den. Den veien han kom, skal han vende tilbake; i denne byen skal han ikke komme inn, lyder ordet fra Herren. Jeg vil verne byen og berge den \nfor min egen og for min tjener Davids skyld."
+    },
+    "responsorium1": {
+      "ref": "Jes 52,9-10",
+      "v": "Herren trøster sitt folk og løser ut Jerusalem. Herren viser sin hellige arm for alle folkeslags øyne.",
+      "r": "Hele den vide jord får se frelsen fra vår Gud."
+    },
+    "lesning2": {
+      "referanse": "Fra den hellige biskop Amadeus av Lausannes prekener.",
+      "kilde": "Verdens og fredens dronning",
+      "tekst": "Tenk over hvor riktig det er at Marias underbare navn ble kjent i hele verden allerede før hun ble tatt opp til himmelen. Hennes ry nådde ut overalt, \nallerede før hennes høyhet ble løftet opp over himlene! Slik skulle det være: Til sin Sønns ære skulle den jomfruelige mor først herske på jorden \nfor så å motta himmelen. Hennes ry måtte først utbre seg her nede, for så i hellighetens fylde kunne finne adgang til de overjordiske riker. Slik \nhun her ble ført fra høyde til høyde, slik ble hun også der ved Herrens And ført fra herlighet til herlighet.\nAllerede mens hun var her på jorden fikk hun smake førstegrøden av det kommende rike, idet hun snart hevet seg mot Gud med ubeskrivelig opphøyethet, \nsnart imøtekom hun sine medmennesker med den aller største kjærlighet. På den ene side fikk hun besøk av engler, på den annen side tilba hun Gud \nved å tjene mennesker. Gabriel bisto henne med englene. Johannes, den kyske, gledet seg over at Jomfrumoren ble betrodd ham ved Korset, og tok seg \nav henne med apostlene. Englene gledet seg over henne som dronning, apostlene som sin herskerinne, og begge parter tjente henne med from \nhengivenhet.\nHun holder til i dydenes høyeste himmel og et hav av guddommelige nådegaver strømmer ut av henne, og hun selv øser over det troende og tørstende \nfolk et vell av nåde, den nåde som hun overgår alle med. For hun bragte helse til kroppen og helbredelse til sjelen, mektig som hun er til å \noppvekke fra døden både kropp og sjel. Hvem har noen gang gått syk eller bedrøvet bort fra henne eller uvitende om de himmelske mysterier? Hvem \ngikk ikke glad og fornøyet hjem fordi han hadde oppnådd fra Herrens mor Maria det han ønsket?\nBruden, mor til den enbårne Brudgom, er så rik på goder. Hun er mild og kjærlig, som en kilde i livets have og en brønn av det rinnende og \nlivgivende vann som brusende strømmer fra Libanon, fra Sions berg like til det når alle folkene omkring; elver av fred og bekker av nåde, alle \nkommer de fra himmelen. Ja, da jomfruenes Jomfru ble ført opp til himmelen av Gud og av sin Sønn, kongenes Konge, til jubel fra englene, mens \nerkeenglene gledet seg og himmelen lovpriste, da ble den oppfylt, den profetien som salmisten sier til Herren: Ved din høyre side står en dronning \ni gullvirket kledning, i fargerik drakt."
+    },
+    "responsorium2": {
+      "ref": "Jf Åp 12,1; jf. Sal 45(44),10",
+      "v": "Et stort tegn viste seg på himmelen: en kvinne, kledd i solen, med månen under sine føtter, Ved din høyre side står en dronning i gullvirket kledning.",
+      "r": "og med en krans av tolv stjerner om sitt hode."
+    },
+    "teDeum": null,
+    "bønn": "Miskunnsrike Gud, du som gjorde din Sønns mor til vår mor og dronning, gi at vi på hennes forbønn når frem til dine barns herlighet i himlenes rike. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
+    "laudes": {
+      "hymne": "Maria var en møy så ren.\nKyrie eleison.\nMaria trådte på torn og sten\nder hun vandret trett imot Betlehem.\nJesus og Maria.\nHva var Marias smerte og trang?\nKyrie eleison.\nHva fylte smerten med himmelsk sang?\nDet var verdens Frelser hun bar i fang.\nJesus og Maria.\nEn engel til Maria kom.\nKyrie eleison.\nHun tvilte ei i sin tro så from\npå Herrens bud i helligdom.\nJesus og Maria.\nDa tornen ble en lilje blid.\nKyrie eleison.\nOg Marias vandring en himmelsti\nmed Jesusbarnet til frelse rik.\nJesus og Maria.",
+      "salmer": [
+        {
+          "referanse": "Salme 92",
+          "antifon": "Velsignet er du, Maria. Av deg kom verdens Frelser. Nå fryder du deg for Herrens åsyn. Gå i forbønn for oss hos din Sønn.",
+          "tekst": [
+            "Det er godt å prise Herren,",
+            "lovsynge ditt navn, du Høyeste,",
+            "forkynne din nåde ved morgengry, din trofasthet natten igjennom,",
+            "til tistrenget lyre og sitar,",
+            "til dempet klang av harpe.",
+            "Herre, med ditt verk har du frydet meg, jeg jubler over dine henders gjerning.",
+            "Herre, stort er ditt verk,",
+            "hvor dype dine tanker.",
+            "Den uforstandige vet ikke dette, dåren fatter det ikke.",
+            "Om de gudløse spirer som markens gress,",
+            "om alle udådsmenn blomstrer,",
+            "så skal de rykkes opp for alltid, men du skal trone for evig.",
+            "Se, Herre, dine fiender går til grunne,",
+            "alle udådsmenn skal spredes.",
+            "Herre, du gir meg kraft som en okse, kveger meg med den friskeste olje.",
+            "Mine øyne har sett fienden ligge på lur,",
+            "mine ører har hørt fienden reise seg mot meg.",
+            "Den rettferdige skal blomstre som palmen, vokse som en seder på Libanon.",
+            "De er plantet i Herrens hus.",
+            "I hans forgård skal de blomstre.",
+            "Selv grånende bærer de frukt, gir ikke tegn til å visne.",
+            "De forkynner at Herren er rettvis,",
+            "han er min klippe, han svikter ikke.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "Esekiel (36,24-28)",
+          "antifon": "Du er Jerusalems ære, du er Israels glede, du er til heder for vårt folk.",
+          "tekst": [
+            "Fra folkeslagene vil jeg hente dere,",
+            "samle dere fra alle land,",
+            "hjem til deres eget land vil jeg føre dere.",
+            "Jeg vil stenke rent vann på dere, og dere skal bli rene, jeg skal tvette dere rene for avguders urenhet.",
+            "Et nytt hjerte vil jeg gi dere,",
+            "og en ny ånd vil jeg gi inne i dere.",
+            "Jeg vil ta hjertet av sten ut av deres kropp, og gi dere et hjerte av kjøtt.",
+            "Jeg lar dere få min Ånd inne i dere,",
+            "så dere kan ferdes etter mine lover,",
+            "holde mine bud og handle etter dem.",
+            "Da skal dere få bo i det land jeg gav deres fedre. Dere skal være mitt folk, og jeg skal være deres Gud.",
+            "Ære være Faderen og Sønnen",
+            "og den Hellige Ånd,",
+            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "Salme 8",
+          "antifon": "Salig er du, Jomfru Maria. Du ble funnet verdig til å bære Kristus, vår Frelser.",
+          "tekst": [
+            "Herre, vår Herre, herlig er ditt navn",
+            "over den vide jord.",
+            "Høyt over himmelen er din herlighet, barn og spebarn lovsynger den.",
+            "Din herlighets bolig står som en festning",
+            "for å slå dine fiender til jorden.",
+            "Når jeg ser din himmel, dine henders verk, månen og stjernene som du har dannet,",
+            "hva er da et menneske at du tenker på ham,",
+            "et menneskebarn at du sørger for det?",
+            "Lite ringere enn englene gjorde du ham, kronet ham med herlighet og ære.",
+            "Du satte ham til herre over dine henders verk,",
+            "alt la du under hans føtter:",
+            "Småfe og okser i samlet flokk, villdyr i skog og mark,",
+            "himmelens fugler og fisk i hav,",
+            "alt som ferdes på havets stier.",
+            "Herre, vår Herre, herlig er ditt navn over den vide jord.",
+            "Ære være Faderen og Sønnen",
+            "og den Hellige Ånd,",
+            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+          ]
+        }
+      ],
+      "lesning": {
+        "referanse": "Jes61,10",
+        "kilde": "",
+        "tekst": "Jeg vil glede og fryde meg i Herren, min sjel skal juble i min Gud. For han har kledd meg i frelsens drakt og svøpt meg i rettferdighets kappe, \nlik en brud som pynter seg med sine smykker."
+      },
+      "responsorium": {
+        "ref": "",
+        "v": "Gud valgte henne ut, den utvalgte blant kvinner. Han lar henne bo i sitt telt. Ære være Faderen og Sønnen og den Hellige And.",
+        "r": "Gud valgte henne ut, den utvalgte blant kvinner."
+      },
+      "canticum": {
+        "antifon": "A, Maria, verdens dronning, evig jomfru, du fødte Kristus Herren, all skapningens Frelser.",
+        "tekst": [
+          "Velsignet være Herren, Israels Gud,",
+          "for han har sett til sitt folk og løst det ut.",
+          "Han har oppreist for oss en kraft til frelse i sin tjener Davids ætt;",
+          "slik han lovet fra fordum",
+          "gjennom sine hellige profeters munn:",
+          "Å frelse oss fra våre fiender og fra deres hånd som hater oss;",
+          "vise miskunn mot våre fedre når han minnes sin hellige pakt,",
+          "den ed han svor Abraham, vår far;",
+          "å gi oss å tjene ham uten frykt, fridd fra våre fienders hender,",
+          "i hellighet og rettferd for hans åsyn",
+          "alle våre dager.",
+          "Også du, barn, skal kalles profet for den Høyeste. Du skal gå forut for Herren og rydde hans veier,",
+          "for å gi hans folk kunnskap om frelsen",
+          "gjennom syndenes forlatelse,",
+          "ved vår Guds barmhjertighet og miskunn som vil la solrenning fra det høye gjeste oss,",
+          "for å åpenbare seg for dem som sitter i mørke og dødens skygge,",
+          "og styre våre skritt inn på fredens vei.",
+          "Ære være Faderen og Sønnen og den Hellige Ånd.",
+          "Som det var i opphavet, så nå og alltid",
+          "og i all evighet. Amen."
+        ]
+      },
+      "forbønner": "La oss vende oss i bønn til vår Frelser, han som lot seg føde av Jomfru Maria, og si:\nR.\nMåtte din mor gå i forbønn for oss.\n-\nDu rettferds sol, forut for deg kom den rene Jomfru som det klare morgengry. Gi oss alltid å vandre i lyset fra ditt komme.\n-\nDu evige Ord, du som valgte deg Maria som den uforgjengelige paktsark for ditt nærvær, fri oss fra syndens forgjengelighet.\n-\nDu vår Frelser, du som hadde din Mor stående hos deg ved korsets fot, gi oss på hennes forbønn å finne glede i å dele dine lidelser.\n-\nMilde Jesus, du som gav Johannes Maria til mor da du hang på korset, gi oss å leve slik at også vi kan regnes som hennes barn.",
+      "bønn": "Miskunnsrike Gud, du som gjorde din Sønns mor til vår mor og dronning, gi at vi på hennes forbønn når frem til dine barns herlighet i himlenes rike. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+    },
+    "middagsbønn": {
+      "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
+      "salmer": [
+        {
+          "referanse": "Salme 119 (169-176 XXII Tau)",
+          "antifon": "Din hånd komme meg til hjelp, for det er dine bud jeg har valgt.",
+          "tekst": [
+            "Mitt rop nå frem til deg, Herre,",
+            "gi meg innsikt etter ditt ord.",
+            "Min bønn tre frem for ditt åsyn, frels meg etter ditt ord.",
+            "Mine lepper strømme over av lovsang,",
+            "for du lærer meg dine bud.",
+            "Min tunge lovprise ditt ord, for alle dine bud er rettferdige.",
+            "Din hånd komme meg til hjelp,",
+            "for det er dine bud jeg har valgt.",
+            "Jeg lengter etter din frelse, Herre, din lov er min lyst og glede.",
+            "La meg leve for å lovsynge deg,",
+            "dine dommer være min hjelp.",
+            "Jeg har gått meg vill som det fortapte får, kom da og hent din tjener, for jeg har ikke glemt dine bud.",
+            "Ære være Faderen og Sønnen",
+            "og den Hellige Ånd,",
+            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+          ]
+        },
+        {
+          "referanse": "Salme 119 (169-176 XXII Tau)",
+          "antifon": "Din trone, Gud, står fast for evig.",
+          "tekst": [
+            "Hør, min datter, gi akt og bøy ditt øre,",
+            "glem ditt folk og dine fedres hus.",
+            "Da vil kongen finne behag i din skjønnhet. Han er din Herre, fall ned for hans fot.",
+            "Tyrus datter skal søke din yndest med gaver,",
+            "de rikeste i folket med gull og edle stener.",
+            "I all sin prakt føres kongedatteren inn, kledd i gullvirket kledning.",
+            "Hun føres frem for kongen",
+            "i fargerik drakt.",
+            "Hun blir fulgt av unge piker, av sine venninner.",
+            "Under jubel og glede",
+            "ledes de inn i kongens slott.",
+            "I dine fedres sted skal sønner komme. Du skal sette dem til fyrster over hele jorden.",
+            "Måtte jeg forkynne ditt navn, fra slekt til slekt,",
+            "så folkene kan prise ditt navn til evig tid.",
+            "Ære være Faderen og Sønnen og den Hellige Ånd,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen.",
+            "Ant. 3",
+            "Jeg så det nye Jerusalem smykket som en brud for sin brudgom.",
+            "Kort lesningDan 6,27b-28a",
+            "Var Gud er den levende Gud, han blir til evig tid. Hans rike går ikke til grunne, hans velde tar aldri slutt. Han frelser og utfrir, han gjør tegn og under i himmelen og på jorden.",
+            "Hold opp! Dere må innse at jeg er Gud,",
+            "Opphøyet over folkene, høyt over hele jorden.",
+            "Bønn",
+            "Herre, vår Gud, allmektige Fader, utøs i oss den Hellige Ånds lys, vi som tjener din majestet, slik at vi, skjermet mot alle fienders angrep, alltid kan finne vår glede i å lovprise deg. Ved Kristus, vår Herre.",
+            "La oss prise Herren.",
+            "Gud være lovet!."
+          ]
+        }
+      ],
+      "lesning": null,
+      "responsorium": null,
+      "canticum": null,
+      "forbønner": "",
+      "bønn": "Herre, vår Gud, allmektige Fader, utøs i oss den Hellige Ånds lys, vi som tjener din majestet, slik at vi, skjermet mot alle fienders angrep, alltid kan finne vår glede i å lovprise deg. Ved Kristus, vår Herre.\nLa oss prise Herren.\nGud være lovet!."
+    },
+    "vesper": null
+  }
+}
