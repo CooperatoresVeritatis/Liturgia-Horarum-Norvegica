@@ -248,6 +248,14 @@
       ],
       "file": "days/fest-maximilian-maria-kolbe-prast-och-martyr.json"
     },
+    "fest-monika-augustins-mor": {
+      "type": "fest",
+      "feast": "Monika Augustins mor",
+      "dates": [
+        "2026-08-27"
+      ],
+      "file": "days/fest-monika-augustins-mor.json"
+    },
     "fest-olav-konung-och-martyr-norges-skyddshelgon": {
       "type": "fest",
       "feast": "Olav konung och martyr Norges skyddshelgon",
@@ -701,9 +709,9 @@
     }
   },
   "totals": {
-    "days_scraped": 85,
+    "days_scraped": 86,
     "ferial": 19,
-    "feasts": 36,
+    "feasts": 37,
     "unclassified": 25
   }
 }
