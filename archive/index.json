@@ -160,6 +160,14 @@
       ],
       "file": "days/fest-alfonso-maria-de-liguori-biskop-och-kyrkolarare.json"
     },
+    "fest-augustin-biskop-og-kirkelaerer": {
+      "type": "fest",
+      "feast": "Augustin biskop og kirkelærer",
+      "dates": [
+        "2026-08-28"
+      ],
+      "file": "days/fest-augustin-biskop-og-kirkelaerer.json"
+    },
     "fest-bernhard-av-clairvaux-abbot-och-kyrkolarare": {
       "type": "fest",
       "feast": "Bernhard av Clairvaux abbot och kyrkolärare",
@@ -709,9 +717,9 @@
     }
   },
   "totals": {
-    "days_scraped": 86,
+    "days_scraped": 87,
     "ferial": 19,
-    "feasts": 37,
+    "feasts": 38,
     "unclassified": 25
   }
 }
