@@ -192,6 +192,14 @@
       ],
       "file": "days/fest-clara-jungfru.json"
     },
+    "fest-den-hellige-johannes-doperens-martyrdod": {
+      "type": "fest",
+      "feast": "Den hellige Johannes døperens martyrdød",
+      "dates": [
+        "2026-08-29"
+      ],
+      "file": "days/fest-den-hellige-johannes-doperens-martyrdod.json"
+    },
     "fest-dominicus-prast": {
       "type": "fest",
       "feast": "Dominicus präst",
@@ -717,9 +725,9 @@
     }
   },
   "totals": {
-    "days_scraped": 87,
+    "days_scraped": 88,
     "ferial": 19,
-    "feasts": 38,
+    "feasts": 39,
     "unclassified": 25
   }
 }
