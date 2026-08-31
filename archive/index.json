@@ -349,7 +349,8 @@
       "type": "ferie",
       "feast": "mandag - uke II",
       "dates": [
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-31"
       ],
       "file": "days/uke-ii-mandag.json"
     },
@@ -733,7 +734,7 @@
     }
   },
   "totals": {
-    "days_scraped": 89,
+    "days_scraped": 90,
     "ferial": 19,
     "feasts": 39,
     "unclassified": 26
