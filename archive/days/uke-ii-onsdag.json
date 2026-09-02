@@ -3,17 +3,18 @@
   "type": "ferie",
   "feast": "onsdag - uke II",
   "dates": [
-    "2026-08-05"
+    "2026-08-05",
+    "2026-09-02"
   ],
   "content": {
-    "date": "2026-08-05",
+    "date": "2026-09-02",
     "feast": "onsdag - uke II",
     "feast_en": "Office of Readings",
     "verified": false,
     "mismatch_flag": false,
     "sources": {
       "no": "https://www.oblates.se/index.php?o=nbreviar",
-      "en": "https://universalis.com/europe.norway/20260805/readings.htm"
+      "en": "https://universalis.com/europe.norway/20260902/readings.htm"
     },
     "hymne": "Himlene, Herre, forteller din ære,\nMesteren prises av hvelvingen blå.\nSolen og månen og stjernenes hære\nsier oss grant hva din makt kan formå.\nEi er det ord eller tale som lyder,\nover all jorden dog når deres røst.\nFolkeferd alle det vitnesbyrd tyder,\ngjenklang det har i hvert menneskebryst.\nSolen går frem som en brudgom i smykke,\nløper sin bane med kraft som en helt,\nvekker av jorden til livsgledens lykke\nskapningen all under himmelens telt.\nDag etter dag om din miskunnhet melder,\nsom våre dager, så styrke vi fikk.\nNatthimlens blinkende øyne forteller:\nEi sover du om til hvile vi gikk.\nHerre, ditt ord er vårt lys fra det høye,\nrent og fullkomment og evig som du,\nåpner for sannhet og livet vårt øye,\nomvender sjelen, gir visdom i hu.\nÅ, at jeg aldri fra det måtte vanke!\nGlem hva jeg syndet og lær meg ditt bud!\nÅ, at jeg kunne i tale og tanke\ntekkes deg, Herre, min klippe, min Gud!",
     "salmer": [
@@ -95,27 +96,27 @@
       "r": "Jeg venter og håper på Herren."
     },
     "lesning1": {
-      "referanse": "Am 9,1-15",
-      "kilde": "Fra profeten Amos’ bok. — Frelse for de rettferdige",
-      "tekst": "Jeg så Herren stå ved alteret. Han sa: Slå til søylehodene så dørtersklene skjelver, og knus dem så de faller i hodet på dem alle! Resten vil jeg \ndrepe med sverd. Ingen av dem skal kunne flykte, ingen av dem skal slippe unna. Om de bryter seg inn i dødsriket, skal min hånd hente dem der, og \nfarer de opp til himmelen, skal jeg styrte dem ned derfra. Om de gjemmer seg på Karmels topp, skal jeg lete dem opp og hente dem ned, og skjuler \nde seg på havets bunn for at jeg ikke skal se dem, byr jeg slangen å bite dem der. Om fienden fører dem i fangenskap, skal jeg by sverdet å drepe \ndem der. Jeg vil rette øynene mot dem til ulykke og ikke til lykke.\nHerren, Allhærs Gud, rører jorden så den skjelver, og alle som bor der, sørger, ja, hele jorden stiger som Nilen og synker som elven i Egypt. Han \nsom har bygget sin høysal i himmelen og reist sin hvelving over jorden, han som kaller på vannet i havet og øser det ut over jorden - Herren er \nhans navn.\nEr dere, israelitter, mer for meg enn Nubias sønner? lyder ordet fra Herren. Jeg førte Israel opp fra Egypt, men også filisterne fra Kaftor og \narameerne fra Kir.\nSe, Herren Gud har blikket vendt mot det syndige riket: Nå vil jeg utrydde folket av landet. Likevel vil jeg ikke helt gjøre ende på Jakobs ætt \nblant alle folkeslagene, som når en rister korn i såld, og ikke en sten faller til jorden. For sverdet skal de dø, alle synderne i mitt folk, de \nsom sier: «Ulykken når oss ikke, den kommer aldri over oss.»\nDen dagen reiser jeg opp igjen Davids falne hytte. Jeg murer igjen dens revner og reiser det som ligger i grus; jeg bygger den som i gamle dager. \nSå kan de ta resten av Edom i eie og alle de andre folkeslag som er nevnt med mitt navn, lyder ordet fra Herren, som fullfører dette.\nSe, dager skal komme, sier Herren, da de begynner å pløye før skurden er slutt og tråkker druer til kornet skal såes. Druesaften skal dryppe fra \nfjell og flyte i alle bakker. Da vil jeg vende lagnaden for Israel, mitt folk. Byer som er revet ned, skal de bygge opp og bo i; de skal plante \nvingårder og selv få drikke vinen, stelle til haver og selv spise frukten. Jeg planter dem atter i egen jord, de skal ikke mer rykkes opp av sitt \nland som jeg har gitt dem, sier Herren din Gud."
+      "referanse": "Jer 26,1-15",
+      "kilde": "Fra profeten Jeremias bok. — Jeremia er i dødsfare på grunn av sin spådom om templets fall",
+      "tekst": "I begynnelsen av regjeringstiden til Juda-kongen Jojakim, sønn av Josjia, kom dette ordet fra Herren: Så sier Herren: Still deg i forgården til \nHerrens hus og tal til alle byene i Juda som kommer for å tilbe i Herrens hus. Du skal si alle de ordene jeg befaler deg å si til dem, og ikke trekke \nfra et eneste ord! Kanskje de da ville høre og vende om fra sine onde veier. Da vil jeg angre det onde som jeg hadde tenkt å gjøre mot dem på grunn \nav de onde gjerningene deres. Du skal si til dem: Så sier Herren: Dersom dere ikke vil adlyde meg og følge den loven jeg har lagt frem for dere, og \nhøre på ordene til mine tjenere profetene som jeg har sendt til dere sent og tidlig, — enda dere ikke ville høre, - så skal jeg gjøre med dette huset \nsom med Sjilo, og denne byen skal jeg gjøre til en forbannelse for alle folkeslag på jorden.\nPrestene og profetene og hele folket hørte Jeremia si disse ordene i Herrens hus. Og da Jeremia hadde sagt til hele folket alt det Herren hadde befalt \nham å si, grep prestene og profetene og folket ham og sa: «Du skal dø! Hvorfor har du profetert i Herrens navn og sagt: Det skal gå med dette huset \nsom med Sjilo, og denne byen skal legges i ruiner så ingen kan bo her?»\nOg hele folket samlet seg omkring Jeremia i Herrens hus. Da lederne i Juda fikk høre om dette, kom de opp fra kongens slott til Herrens hus og satte \nseg ved inngangen til den nye porten. Prestene og profetene sa til lederne og til hele folket: «Denne mannen må få dødsdom, for han har profetert mot \nbyen vår, slik dere har hørt med egne ører.»\nMen Jeremia sa til alle lederne og til hele folket: « Herren har sendt meg for å profetere mot dette huset og denne byen med alle de ordene dere har \nhørt. Og nå, gjør veiene og gjerningene deres gode og adlyd Herren deres Gud! Da vil Herren angre det onde han har truet dere med. Men jeg, se, jeg \ner i deres hender. Gjør med meg slik det er rett og godt i deres øyne. Men det skal dere vite at hvis dere dreper meg, fører dere uskyldig blod både \nover dere selv og over denne byen og dem som bor her. For Herren har sannelig sendt meg til dere for å si alle disse ordene mens dere hørte på.»"
     },
     "responsorium1": {
-      "ref": "Apg 15,16-17.14",
-      "v": "For at menneskene skal søke Herren, alle folkeslag som navnet mitt er nevnt over, Gud har sørget for å skape seg et folk fra hedningene for sitt navn, slik det står skrevet.",
-      "r": "skal jeg vende tilbake og gjenreise Davids falne hytte, sier Herren."
+      "ref": "Jer 26,15a; Matt 27,24b",
+      "v": "Dere skal vite at hvis dere dreper meg, Pilatus vasket hendene mens mengden så på, og sa: «Jeg er uskyldig i denne mannens blod».",
+      "r": "fører dere uskyldig blod både over dere selv og over denne byen."
     },
     "lesning2": {
-      "referanse": "Fra det såkalte Barnabas’ brev.",
-      "kilde": "Lysets vei",
-      "tekst": "Dette er lysets vei: Den som ønsker å gå veien til bestemmelsesstedet, må vokte sine gjerninger. Slik er den kunnskap vi har mottatt for å vandre \npå den veien: Du skal elske ham som har skapt deg, frykte ham som dannet deg, prise ham som satte deg fri fra døden. Ha et enfoldig hjerte og vær \nrik i ånden. Omgås ikke med dem som vandrer på dødens vei. Avsky alt som ikke er Gud til behag. Du skal hate alt hykleri. Forlat ikke Herrens bud. \nOpphøy ikke deg selv, vær ydmyk i alt. Ikke gi deg selv æren. Legg ikke onde planer mot din neste. Ha ikke for høye tanker om deg selv.\nDu skal elske din neste mere enn deg selv. Du skal ikke drepe et barn ved abort eller avlive det når det er født. Du skal oppdra din sønn eller \ndatter med fast hånd og fra barnsben av lære dem gudfryktighet. Begjær ikke din nestes eiendom. Vær ikke grisk. Du skal ikke omgås dem som er høyt \npå strå, men ferdes blant de ydmyke og rettferdige.\nTa imot alt som skjer deg som noe godt; du vet at ingen ting hender uten Guds styrelse. Du skal ikke være upålitelig eller pratsom; for å tale \nmed to tunger er en dødens snare.\nDu skal dele alt med din neste og ikke si at noe er ditt eget. For hvis dere har sammen det uforgjengelige, hvor mye mer så det forgjengelige? \nIkke vær uvøren med tungen, for munnen er en dødens snare! Så mye du kan, hold din sjel kysk. Kom ikke med åpne hender når det gjelder å ta imot, \nmen med lukkede never når det gjelder å gi. Du skal elske som din øyensten enhver som forkynner Herrens ord for deg.\nTenk på dommedag natt og dag. Oppsøk de hellige hver dag, enten du strever med ordet og går ut for å forkynne og legger vinn på å frelse en sjel \nved ordet, eller soner dine synder ved dine henders arbeid.\nDu skal ikke nøle med å gi, eller murre når du gjør det; du vet hvem som lønner rikelig igjen. Bevar det du har mottatt, uten å legge noe til \neller trekke noe fra. Du skal fullt og helt hate det onde. Døm rettferdig. Skap ikke splittelse, men forson og før sammen de stridende. Du skal \nbekjenne dine synder. Gå ikke til bønnen med dårlig samvittighet. Dette er lysets vei."
+      "referanse": "Fra presten Origenes’ kommentar til Johannesevangeliet.",
+      "kilde": "Kristus talte om sitt legemes tempel",
+      "tekst": "Bryt ned dette tempel, og jeg skal gjenreise det på tre dager. Nå oppfatter jeg det slik at jøder i denne forbindelse står for de mennesker som elsker \nkjødet og det som kan sanses. Jødene er forarget over at Jesus har jaget ut av templet dem som ved det de drev på med, gjorde Faderens hus til en \nmarkedsplass, og de krever et tegn som viser at han har rett til å gjøre dette. Han er jo Guds Sønn, men det godtar de ikke. Men når Frelseren dernest \ntaler om sitt eget legeme, bruker han samme ord som om han talte om templet. For når de spør: «Hvilket tegn viser du på at du har rett til å gjøre \ndette?», svarer han: «Bryt ned dette templet, og på tre dager skal jeg gjenreise det.\nMen etter én tolkning står det for meg som om begge deler, både templet og Jesu legeme, er et bilde på Kirken. For Kirken er bygget av levende stener. \nDen er et åndelig hus til et hellig presteskap: Bygget på apostlenes og profetenes grunnvoll med Jesus Kristus som hovedhjørnesten er den i sannhet et \ntempel. Men det står også skrevet: Dere er Kristi legeme og hver for seg hans lemmer. Av dette følger at saktens kan templets stener synes å falle \naldeles fra hverandre - som det står skrevet i salme 21 - og alle Kristi lemmer splittes på grunn av de lumske farer som ligger i forfølgelser og \ntrengsler, og fordi noen kjemper mot templets enhet og forfølger den. Men likevel skal templet reises og legemet oppvekkes på den tredje dag, nemlig \netter den ondskapens dag som forestår, og etter den fullbyrdelsens dag som følger.\nFor en tredje dag i en ny himmel og en ny jord er nær, når disse ben, nemlig hele Israels hus, skal oppvekkes på Herrens store dag når døden er så \nfullstendig beseiret at Kristi oppstandelse som skjedde etter hans lidelse på korset, også omfatter det mysterium at hele Kristi legeme skal oppstå. \nFor Jesu jordiske legeme som var underlagt sansene, ble korsfestet og begravet og dernest gjenoppvekket. Slik er hele det Kristi legeme som består av \nde hellige, korsfestet og lever nå ikke lenger. For hver enkelt av dem roser seg i likhet med Paulus ikke av noe annet enn vår Herre Jesu Kristi kors. \nVed Kristus er han korsfestet for verden og verden korsfestet for ham.\nDerfor blir enhver ikke bare korsfestet med Kristus og for verden, men begraves også med Kristus. For vi er begravet med Kristus, sier Paulus, og \ntilføyer også - som om han allerede hadde en forsmak på oppstandelsen - Og med ham er vi oppstått."
     },
     "responsorium2": {
-      "ref": "Sal 119(118),101—102",
-      "v": "Jeg setter ikke min fot på ondskapens stier, Jeg viker ikke fra dine dommer, for du har opplyst meg.",
-      "r": "så jeg kan holde ditt ord."
+      "ref": "1 Kor 6,19-20; Lev 11,43.44",
+      "v": "Kroppen deres er et tempel for Den Hellige And, som bor i dere, og som er fra Gud. Dere tilhører ikke dere selv. Dere er kjøpt og prisen betalt. Gjør dere ikke urene: Dere skal være hellige, for jeg er hellig.",
+      "r": "Bruk da kroppen til Guds ære."
     },
     "teDeum": null,
-    "bønn": "Herre, vær oss nær, og skjenk din kjærlighet til dem som ber til deg, du, vår skaper og vårt forsyn. Forny oss i ditt vennskap og bevar oss i din godhet. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
+    "bønn": "Barmhjertige Gud, du fullkomne godhet og opphav til alt som er godt, rotfest kjærligheten til deg i våre hjerter. Styrk vår gudsfrykt, gi vekst til det gode i oss og vern med din kjærlige omsorg det du har latt vokse frem. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.",
     "laudes": {
       "hymne": "Lucis largitor splendide\nDu lysets giver som med prakt\nnu kleder alt i lysets drakt\nog gir oss dag å virke i\nnår nattens timer er forbi.\nVær du oss i all gjerning nær\nsom livet krever av oss her,\ngi oss å fly fra synd og ei\nforlate dine budords vei!\nFyll hjertet med din rene lyst,\nså seirer vi i kjødets dyst;\nvårt legem du bevare som\nen Helligåndens helligdom!\nBønnhør vår sjel som tror på deg,\nforsmå vårt hjertes offer ei,\nat morgenstundens lys og fred\nmå følge oss til sol går ned. Amen.",
       "salmer": [
@@ -258,7 +259,7 @@
         ]
       },
       "forbønner": "Velsignet være Gud, vår Frelser, han som lovet å være med sin Kirke alle dager inntil verdens ende. La oss takke ham og si:\nR.\nBLI HOS OSS, HERRE.\n-\nHerre, vær hos oss i dag, så din nådes sol aldri går ned for oss.\n-\nVi vigsler denne dagen som en offergave til deg og lover å holde oss borte fra alt som kan føre til noe ondt.\n-\nHerre, gi at lysets gave må opplyse denne dagen slik at vi kan være jordens salt og verdens lys.\n-\nMåtte din Hellige Ånds kjærlighet styre våre hjerter og vår munn, slik at vi alltid forblir i din rettferd og synger din pris.",
-      "bønn": "Herre, vi ber deg: Send inn i våre hjerter din klarhets lys, slik at vi alltid vandrer på dine budords vei, uten å gå oss vill. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+      "bønn": "Herre, vi ber deg: Send inn i våre hjerter din klarhets lys, slik at vi alltid vandrer på dine budords vei, uten å gå oss vill. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.\neller:\nAllsmäktige Gud, låt oss, som vördar Kristi törnekrona på jorden, i vårt eget kött\ntåligt lida det som ännu fattas i hans lidanden för hans kropp, som är kyrkan,\noch en gång krönas av honom med härlighet och ära i himlen. Genom honom, din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
     },
     "middagsbønn": {
       "hymne": "Hold oppe, Gud, hos oss ditt ord,\nla det få overmakt på jord\nmot dem som Krist din Sønn, vår sol,\nvil støte fra hans kongestol!\nLa sees, Herre Krist, ditt verk,\nat du er fremfor alle sterk,\nforsvar din arme kristenhet,\nditt navn til pris i evighet.\nGud Hellig And, du trøster sann,\ngi enig tro i alle land!\nBli hos oss i vår siste nød,\ngi oss i Gud en salig død!",
@@ -332,75 +333,98 @@
       "bønn": "Herre, hellige Far, du trofaste Gud, du som sendte Anden som var lovet, for å forene menneskene som synden hadde splittet, gi oss å fremme enhetens og fredens sak i denne verden. Ved Kristus, vår Herre.\nLa oss prise Herren.\nGud være lovet!."
     },
     "vesper": {
-      "hymne": "Med strålekrans om tinde\nforklaret Jesus stod,\ndet varmet oss her inne\nved dypest hjerterot.\nTi når han åpenbares\ni støvets egn på ny,\nskal vi med ham forklares,\nham møte høyt i sky.\nHan stod på Tabors høye,\nden Guds og Davids Sønn.\nSom solen var hans øye,\nsom lys hans kledning skjønn.\nÅ hør meg drott, du kjære,\nså talte Peter glad,\nHer er så godt å være,\nei mer vi skilles ad!\nSom venner i Guds bolig\nmed ham vi skifter ord\nom kors og død full rolig,\nom seng i sorten jord.\nVårt kors er uten jammer,\nvår død er uten brodd,\nvår grav et sovekammer,\nvår Herres liv vår lodd.\nHans Ånd er her til stede,\nhans ord er i vår munn,\nham selv vi ser med glede\nnu om en liten stund.\nTil Jesu Kristi ære\ndet tone høyt i sky:\nÅ her er godt å være\ni Herrens kirkely!",
+      "hymne": "Løft eders hender, enhver især,\nløft dem mot himlen, hvor Herren er,\nalle som tror at han hører.\nMennesket spår vel, men himlen rår,\nskjebnen her nede og skiftende kår,\nhimlen den høye, i dag som i går\nevige veier oss fører.\nLøft eders hender mot himlen og bed:\nHimlen må senke seg signende ned\nover vår jordiske væren.\nTent er hver tanke som stjerner er tent,\nevig har lyset i templene brent,\ntrangen til bønn er en lysgnist sendt\nute fra stjernesfæren.\nBønnen i verden har himlen til mål,\nbønnen er flammen fra lengslenes bål,\nhvor det bestandig brenner.\nLøft eders hender i lys og lønn.\nHuser ditt sinn den oppriktige bønn,\ner det et tempel for menneskets Sønn,\nbygget av løftede hender.",
       "salmer": [
         {
-          "referanse": "Salme 113",
-          "antifon": "Jesus tok med seg Peter, Jakob og hans bror Johannes opp på et høyt fjell. Der ble hans skikkelse forvandlet for deres øyne.",
+          "referanse": "Salme 62",
+          "antifon": "Hos deg, Herre, skal min sjel søke ly.",
           "tekst": [
-            "Alle Herrens tjenere,",
-            "lovpris Herrens navn.",
-            "Velsignet være Herrens navn, fra nå av og til evig tid.",
-            "Fra soloppgang til soleglad",
-            "høylovet Herrens navn.",
-            "Høyt over alle folk står han, Herrens ære er himmelhøy.",
-            "Hvem er som Herren, vår Gud,",
-            "i himmel og på jord?",
-            "Hvis trone i det høye står, som ser til dypest dyp,",
-            "som reiser arming opp av støv,",
-            "fra sølen fattig mann,",
-            "og benker ham ved fyrsters bord, blant stormenn i sitt folk.",
-            "Lar barnløs hustru shte glad",
-            "som mor for sønneflokk.",
+            "Min sjel finner hvile i Gud alene.",
+            "Min frelse kommer fra ham.",
+            "Han er min klippe, min frelse, mitt vern. Jeg skal aldri falle.",
+            "Hvor lenge skal dere gå løs på en mann",
+            "for å slå ham ned, som en hellende vegg,",
+            "en falleferdig mur?",
+            "Deres planer er løgn, deres fryd å forføre med smigrende ord.",
+            "De elsker løgn og velsigner med munnen,",
+            "men forbannelsen lever i deres hjerte.",
+            "Min sjel finner hvile i Gud alene. Mitt håp kommer fra ham.",
+            "Han er min klippe, min frelse, mitt vern.",
+            "Jeg skal aldri falle.",
+            "Gud er min frelse, min ære, mitt faste fjell, jeg søker tilflukt hos ham.",
+            "Folk, sett alltid din lit til Gud,",
+            "utøs ditt hjerte for ham, for han er vår tilflukt.",
+            "Småfolk er bare et pust, stormenn en løgn. På vektskålen vipper de opp, de er lettere enn luft.",
+            "Stol ikke på vold, løp ikke rundt for å røve.",
+            "La ikke voksende rikdom besnære ditt sinn.",
+            "Én ting sa Gud, to ting har jeg hørt: at makten tilhører Gud, han er trofast;",
+            "og at han belønner enhver",
+            "etter det han har gjort.",
             "Ære være Faderen og Sønnen og den Hellige And,",
             "som det var i opphavet, så nå og alltid",
             "og i all evighet. Amen."
           ]
         },
         {
-          "referanse": "Salme 117",
-          "antifon": "Moses og Elia viste seg for dem og talte med Jesus.",
+          "referanse": "Salme 67",
+          "antifon": "Lovsyng Herren, alle folk.",
           "tekst": [
-            "Lovsyng Herren, alle folk,",
-            "pris ham, alle folkeslag.",
-            "Stor er hans miskunn mot oss. Herrens troskap varer evig.",
-            "Ære være Faderen og Sønnen",
-            "og den Hellige Ånd,",
-            "som det var i opphavet, så nå og alltid og i all evighet. Amen."
+            "Gud være oss nådig og velsigne oss,",
+            "han la sitt åsyn lyse over oss.",
+            "Dine veier skal kjennes på jorden, din frelse blant folkeslag.",
+            "Måtte folkene takke deg, Gud,",
+            "alle folkeslag love deg.",
+            "Måtte folkene juble og synge, for du dømmer jorden med rettferd.",
+            "Du dømmer folkene med rettsinn,",
+            "du styrer alle jordens folk.",
+            "Måtte folkene takke deg, Gud, alle folkeslag love deg.",
+            "Landet har gitt sin grøde,",
+            "Gud, vår Gud, har velsignet oss.",
+            "Gud velsigne oss, all jorden frykte ham.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
           ]
         },
         {
-          "referanse": "CanticumJohannes Åpenbaring (19,l-2.5b.6b-8a)",
-          "antifon": "Herre, det er godt at vi er her, hvis du vil, kan vi sette opp tre telt: ett for deg, ett for Moses og ett for Elia.",
+          "referanse": "CanticumKolosserbrevet (1,12-20)",
+          "antifon": "Alt ble skapt ved ham og alt består i ham.",
           "tekst": [
-            "Halleluja, Halleluja!",
-            "Frelsen, æren og makten tilhører vår Gud, Halleluja,",
-            "for sanne og rettferdige er hans dommer.",
-            "Halleluja, Halleluja! Pris vår Gud, alle hans tjenere, Halleluja, alle som frykter ham, små og store.",
-            "Halleluja, Halleluja!",
-            "For Herren, vår Gud, Allherskeren,",
-            "har inntatt sitt kongevelde, Halleluja!",
-            "La oss glede oss og juble og gi ham æren,",
-            "Halleluja, Halleluja, tor tiden er kommet for Lammets bryllup, Halleluja, og bruden har gjort seg rede og fått en drakt av snehvitt lin.",
-            "Halleluja, Halleluja!",
-            "Ære være Faderen og Sønnen",
-            "og den Hellige And,",
-            "som det var i opphavet, så nå og alltid og i all evighet. Amen. Halleluja, Halleluja!"
+            "Takk Faderen med glede,",
+            "han som gjorde oss skikket til de helliges arv i lyset.",
+            "Han har revet oss ut av mørkets makt og ført oss over i sin elskede Sønns rike.",
+            "I ham er vi frikjøpt",
+            "og har fått tilgivelse for våre synder.",
+            "Han er den usynlige Guds bilde, all skapningens førstefødte.",
+            "For i ham ble alt skapt i himlene og på jorden,",
+            "det synlige og det usynlige.",
+            "Det være seg troner eller herredømmer, makter eller myndigheter, alt ble skapt ved ham og for ham.",
+            "Han er før alt,",
+            "og alt består i ham.",
+            "Han er hode for legemet, for Kirken. Han er opphavet, den førstefødte av de døde,",
+            "så at han i ett og alt",
+            "skulle være den fremste.",
+            "For i ham har Gud villet la hele fylden bo og ved ham forsone alt med seg,",
+            "ja, alt på jorden og i himlene,",
+            "da han stiftet fred ved blodet fra hans kors.",
+            "Ære være Faderen og Sønnen og den Hellige And,",
+            "som det var i opphavet, så nå og alltid",
+            "og i all evighet. Amen."
           ]
         }
       ],
       "lesning": {
-        "referanse": "Fil 3,20-21",
+        "referanse": "l Pet 5,5b-7",
         "kilde": "",
-        "tekst": "Vi har vårt fedreland i himlene, og derfra venter vi vår Frelser, Herren Jesus Kristus. Han skal forvandle vårt arme jordiske legeme så det \nblir likt hans eget herlighetsfylte, ved den kraft som gjør ham til herre over alt som er."
+        "tekst": "Dere skal overfor hverandre være kledd i den drakt som heter ydmykhet! For Gud står den hovmodige imot, men de ydmyke gir han nåde. \nBøy dere derfor dypt under Guds mektige hånd, så han kan opphøye dere når tiden er inne. Og legg deres bekymringer på ham, for han har \nomsorg for dere."
       },
       "responsorium": {
         "ref": "",
-        "v": "Prydet i høyhet og storhet trådte du frem for Herren. Halleluja! Halleluja! For han har kledd deg i heder og herlighet. Ære være Faderen og Sønnen og den Hellige Ånd.",
-        "r": "Prydet i høyhet og storhet trådte du frem for Herren. Halleluja! Halleluja!"
+        "v": "Vokt oss, Herre, som din øyensten. Skjul oss i skyggen av dine vinger. Ære være Faderen og Sønnen og den Hellige Ånd.",
+        "r": "Vokt oss, Herre, som din øyensten."
       },
       "canticum": {
-        "antifon": "Kristus Jesus, som är utstrålningen av Faderns härlighet och en avbild av hans väsen, som bär upp allt med kraften i sitt ord och har renat oss från synden, han har i dag trätt fram i härlighet på det höga berget.",
+        "antifon": "Herre, gjør storverk med din sterke arm, spre de hovmodige og opphøy de ringe.",
         "tekst": [
           "Min sjel opphøyer Herren,",
           "min ånd fryder seg i Gud, min frelser,",
@@ -421,8 +445,8 @@
           "og i all evighet. Amen."
         ]
       },
-      "forbønner": "På fjellet ble vår Frelser på vidunderlig vis forvandlet for disiplenes øyne. La oss tillitsfullt vende oss i bønn til ham og si:\nR.\nDu vår Gud, vært vårt lys i mørket.\n-\nKristus, du som ved din forklarelse åpenbarte oppstandelsen for disiplene før du gikk din lidelse i møte, vi ber deg for din hellige Kirke som arbeider midt i verdens elendighet. La dens strev forvandles til glede ved din seier over døden.\n-\nKristus, du som tok med deg Peter, Jakob og Johannes og førte dem avsides opp på et høyt fjell, vi ber deg for vår pave N. og for alle biskopene. Måtte de tjene ditt folk i håpet om oppstandelsen.\n-\nKristus, du som på fjellet lot ditt ansikt stråle over Moses og Elia, vi ber for jødene, det folk du først gjorde til ditt. La dem nå frem til forløsningens fylde.\n-\nKristus, du som opplyste all jorden da Skaperens herlighet gikk opp over deg, vi ber deg for alle mennesker av god vilje. Måtte de vandre i ditt lys.\n-\nKristus, du som skal forvandle vårt fornedrelseslegeme til ditt herlighetslegeme, vi ber deg for våre avdøde brødre og søstre. La dem få gå inn til din herlighet.",
-      "bønn": "Evige Gud, i din enbårne Sønns forklarelse stadfestet du, med fedrene som vitne, troens mysterier og forkynte det fullkomne barnekår. Gi oss, dine tjenere, å lytte til din elskede Sønns røst, så vi blir hans medarvinger, han som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet."
+      "forbønner": "Kjære brødre/søstre. La oss juble og lovsynge vår Gud, han som finner sin største glede i å gjøre vel mot sitt folk. La oss be til ham og si:\nR.\nHERRE, GI OSS DIN NÅDE OG FRED.\n-\nEvige Gud, for deg er tusen år som dagen i går. Gi oss å huske at livet er som blomsten som gror og blomstrer en morgen, men innen aftenen er den vissen og tørr.\n-\nGi ditt folk manna så det ikke sulter, gi det levende vann så det ikke tørster.\n-\nGi dine troende å søke det som er der oppe og ha sinnet vendt mot det, slik at både arbeid og fritid forløper til din ære.\n-\nGi oss godt og tjenlig vær slik at jorden kan bære frukt.\n- (eller:\nFri oss fra alt som kan skade oss, skjenk våre hjem (vårt kloster) din rike velsignelse.)\n-\nLa de avdøde få skue ditt åsyn, og gi også oss del i dette salige syn.",
+      "bønn": "Gud, ditt navn er hellig og din miskunn minnes fra slekt til slekt. Bønnhør ditt folk som ber til deg, og gi oss alltid å forkynne din storhet. Ved vår Herre Jesus Kristus, din Sønn, som lever og råder med deg i den Hellige Ånds enhet, Gud fra evighet til evighet.\neller:\nAllsmäktige Gud, låt oss, som vördar Kristi törnekrona på jorden, i vårt eget kött\ntåligt lida det som ännu fattas i hans lidanden för hans kropp, som är kyrkan,\noch en gång krönas av honom med härlighet och ära i himlen. Genom honom, din Son Jesus Kristus, vår Herre och Gud, som med dig, Fader, och den helige Ande, lever och råder i evigheters evigheter."
     }
   }
 }

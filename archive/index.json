@@ -358,7 +358,8 @@
       "type": "ferie",
       "feast": "onsdag - uke II",
       "dates": [
-        "2026-08-05"
+        "2026-08-05",
+        "2026-09-02"
       ],
       "file": "days/uke-ii-onsdag.json"
     },
@@ -735,7 +736,7 @@
     }
   },
   "totals": {
-    "days_scraped": 91,
+    "days_scraped": 92,
     "ferial": 19,
     "feasts": 39,
     "unclassified": 26
