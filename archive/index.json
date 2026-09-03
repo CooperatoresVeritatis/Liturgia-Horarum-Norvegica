@@ -208,6 +208,14 @@
       ],
       "file": "days/fest-dominicus-prast.json"
     },
+    "fest-gregor-den-store-pave-og-kirkelaerer": {
+      "type": "fest",
+      "feast": "Gregor den store pave og kirkelærer",
+      "dates": [
+        "2026-09-03"
+      ],
+      "file": "days/fest-gregor-den-store-pave-og-kirkelaerer.json"
+    },
     "fest-ignatius-av-loyola-prast": {
       "type": "fest",
       "feast": "Ignatius av Loyola präst",
@@ -736,9 +744,9 @@
     }
   },
   "totals": {
-    "days_scraped": 92,
+    "days_scraped": 93,
     "ferial": 19,
-    "feasts": 39,
+    "feasts": 40,
     "unclassified": 26
   }
 }
